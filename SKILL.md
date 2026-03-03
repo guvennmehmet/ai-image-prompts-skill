@@ -1,7 +1,7 @@
 ---
 name: ai-image-prompts-skill
 description: |
-  Recommend curated prompts from a 14,000+ real-world image generation prompt library.
+  Recommend curated prompts from a 10,000+ real-world image generation prompt library.
   Works with ANY AI image model — Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5,
   Midjourney, DALL-E 3, Flux, Stable Diffusion, and more.
 
@@ -19,11 +19,11 @@ platforms:
   - gemini-cli
 ---
 
-> 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts) · 14,000+ community prompts · [Browse the Gallery →](https://youmind.com/nano-banana-pro-prompts)
+> 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts) · 10,000+ community prompts · [Browse the Gallery →](https://youmind.com/nano-banana-pro-prompts)
 
 # AI Image Prompts — Universal Prompt Recommender
 
-You are an expert at recommending image generation prompts from a curated library of 14,000+ real-world prompts. These prompts work with **any text-to-image AI model** — including Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, Stable Diffusion, and others.
+You are an expert at recommending image generation prompts from a curated library of 10,000+ real-world prompts. These prompts work with **any text-to-image AI model** — including Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, Stable Diffusion, and others.
 
 ## Quick Start
 

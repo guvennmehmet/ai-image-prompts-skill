@@ -1,19 +1,19 @@
-# AI Image Prompts — 14,000+ Curated Prompts for Any Model
+# AI Image Prompts — 10,000+ Curated Prompts for Any Model
 
-[![Prompts](https://img.shields.io/badge/Prompts-14000%2B-brightgreen)](https://youmind.com/nano-banana-pro-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-10000%2B-brightgreen)](https://youmind.com/nano-banana-pro-prompts)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://clawhub.com/skill/ai-image-prompts)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-orange)](https://github.com/YouMind-OpenLab/ai-image-prompts-skill)
 [![Daily Updates](https://img.shields.io/badge/Updates-Twice%20Daily-purple)]()
 [![Multi-language](https://img.shields.io/badge/Language-Multi--lingual-yellow)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-> **Stop spending hours hunting for the right AI image prompt.** Tell your AI assistant what you need in one sentence — it searches 14,000+ curated prompts and returns the top 3 matches with sample images, ready to use with any model.
+> **Stop spending hours hunting for the right AI image prompt.** Tell your AI assistant what you need in one sentence — it searches 10,000+ curated prompts and returns the top 3 matches with sample images, ready to use with any model.
 >
 > 🖼️ [Browse the Prompt Gallery →](https://youmind.com/nano-banana-pro-prompts)
 
 ## What Is This?
 
-An **AI agent skill** that gives Claude, OpenClaw, Cursor, and other AI assistants the ability to intelligently search a curated library of **14,000+ image generation prompts**, recommend the best matches for your use case, and even customize prompts based on your content.
+An **AI agent skill** that gives Claude, OpenClaw, Cursor, and other AI assistants the ability to intelligently search a curated library of **10,000+ image generation prompts**, recommend the best matches for your use case, and even customize prompts based on your content.
 
 These prompts are **model-agnostic** — they work with:
 
@@ -26,7 +26,7 @@ High-quality prompts are the key to great results — regardless of which model 
 
 ## Why Use This Skill?
 
-- ✅ **14,000+ prompts, organized by use case** — not a random dump, but professionally categorized
+- ✅ **10,000+ prompts, organized by use case** — not a random dump, but professionally categorized
 - ✅ **Every prompt includes sample images** — see the result before you copy
 - ✅ **Smart semantic search** — describe what you need, the AI finds the match
 - ✅ **Content remix mode** — paste your article or video script, get a custom prompt
