@@ -98,17 +98,17 @@ Then use the `slug` and `title` fields to match user intent to the right file.
 
 | File | Category | Count |
 |------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1154 |
-| `social-media-post.json` | Social Media Post | 6911 |
+| `profile-avatar.json` | Profile / Avatar | 1158 |
+| `social-media-post.json` | Social Media Post | 6945 |
 | `infographic-edu-visual.json` | Infographic / Edu Visual | 482 |
-| `youtube-thumbnail.json` | YouTube Thumbnail | 181 |
-| `comic-storyboard.json` | Comic / Storyboard | 307 |
-| `product-marketing.json` | Product Marketing | 4061 |
-| `ecommerce-main-image.json` | E-commerce Main Image | 436 |
-| `game-asset.json` | Game Asset | 424 |
-| `poster-flyer.json` | Poster / Flyer | 528 |
-| `app-web-design.json` | App / Web Design | 174 |
-| `others.json` | Uncategorized | 977 |
+| `youtube-thumbnail.json` | YouTube Thumbnail | 182 |
+| `comic-storyboard.json` | Comic / Storyboard | 309 |
+| `product-marketing.json` | Product Marketing | 4075 |
+| `ecommerce-main-image.json` | E-commerce Main Image | 437 |
+| `game-asset.json` | Game Asset | 427 |
+| `poster-flyer.json` | Poster / Flyer | 529 |
+| `app-web-design.json` | App / Web Design | 175 |
+| `others.json` | Uncategorized | 978 |
 
 <!-- REFERENCES_END -->
 
