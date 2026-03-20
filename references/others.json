@@ -13,6 +13,37 @@
     "needReferenceImages": true
   },
   {
+    "id": 12532,
+    "content": "Dynaman Great Explosion\n\nImage style\nWhat is Dynamite?\n\nIt felt like that...\n\nDynaman interpreted as Dynamite lol",
+    "title": "Generate Dynaman Great Explosion",
+    "description": "A prompt for Nano Banana Pro based on the concept of 'Dynaman Great Explosion,' noting that the AI interpreted 'Dynamite' from the prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989014384_06ychm_HDxJu7oaoAA4SGM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12511,
+    "content": "\"Brutalist concrete museum interior, single sunbeam through skylight, sharp geometric shadows, monochromatic + one {argument name=\"accent color\" default=\"red\"} accent sculpture, {argument name=\"architectural style\" default=\"Tadao Ando\"} inspired\"",
+    "title": "Brutalist Concrete Museum Interior",
+    "description": "A prompt for Nano Banana 2 to generate an image of a Brutalist concrete museum interior, emphasizing sharp geometric shadows created by a single sunbeam through a skylight. The scene includes a monochromatic palette accented by one red sculpture, inspired by the architectural style of Tadao Ando.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989002465_w5rdrq_HDwpHqGWYAAIaYz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12535,
+    "content": "\"A man who loves disaster. At no point would he want to make the effort to feel better, even though all he would need to do is increase his antidepressant dose or do yoga\"",
+    "title": "Comparison Prompt for Midjourney V8 and Nano Banana 2",
+    "description": "A comparison between Midjourney V8 and Google Nano Banana 2 using a French prompt describing a man who embraces disaster and avoids effort to feel better.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989016023_ae0q1l_HDwc3mcXUAAwW95.jpg",
+      "https://cms-assets.youmind.com/media/1773989016099_b9qg2n_HDwc3lTXoAA6WoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12482,
     "content": "Jolivet (Composer)\nPachinko for Two Pianos\nThe pianists are\nJolivet and Jolivet's\nDoppelgänger",
     "title": "Image generation for Jolivet's 'Pachinko for Two Pianos'",

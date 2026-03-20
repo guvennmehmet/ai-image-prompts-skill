@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 12505,
+    "content": "A cinematic magazine-style portrait of a handsome man in side profile, wearing a {argument name=\"hat color\" default=\"brown\"} felt fedora hat and a {argument name=\"suit color\" default=\"cream-colored\"} suit jacket. He has short dark hair, light skin, and a well-groomed beard. The lighting is soft and directional, highlighting the contours of his face with subtle shadows for a dramatic, high-fashion look. The background is minimal and light gray, creating a clean studio aesthetic.\nAt the top of the image, large bold serif text reads “OLD MONEY.” At the bottom, small editorial-style credits read: “Starring Eliza Banks, Liam O’Connell | Directed by Jonathan Reed | Cinematography by Sarah Vance.”\nStyle: luxury editorial, timeless elegance, old-money aesthetic, sharp focus, high resolution, neutral tones, minimal composition.",
+    "title": "Old Money Aesthetic Cinematic Portrait",
+    "description": "A prompt for Nano Banana 2 to generate a cinematic, magazine-style portrait of a handsome man in a fedora and cream suit, featuring 'OLD MONEY' text overlay and editorial credits, emphasizing soft, directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773988999220_6iwhkl_HDwCoPJbsAAYqiB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12480,
     "content": "A poster for Dune, the main subject is all the protagonists (without mentioning detailed personnel), the background is the desert, and the style is Moebius (Mobis Style)",
     "title": "Dune Poster in Moebius Style (Multi-Model Test)",

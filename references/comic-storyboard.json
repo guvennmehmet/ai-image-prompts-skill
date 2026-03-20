@@ -1,5 +1,15 @@
 [
   {
+    "id": 12517,
+    "content": "A cinematic portrait of a serious man use image for face reference looking at himself in a mirror, moody atmosphere, soft natural window light coming from the side, dust particles visible in the air, warm wooden interior background, shallow depth of field, sharp focus on the reflection while the back of the man is slightly blurred, emotional and introspective expression, realistic skin texture, short dark hair, light stubble, wearing a casual black jacket over a nike white t-shirt, dramatic lighting, high detail, 50mm lens, photorealistic, film still style. Add Ghibli art effects to this image.",
+    "title": "Cinematic Portrait Reflection with Ghibli Effect",
+    "description": "A detailed text prompt for Nano Banana Pro requesting a cinematic portrait of a serious man looking at his reflection in a mirror, emphasizing moody atmosphere, soft natural light, shallow depth of field, and then applying a Ghibli art style effect to the final image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989005508_a9z53m_HDyiD23aIAEMGE9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12484,
     "content": "Anime prompt for \"{argument name=\"title\" default=\"Sharon, the Out-of-Control Girl!\"}\" (『ハチャメチャ暴走娘シャロン！』)",
     "title": "Static Image Generation from Anime Prompt",

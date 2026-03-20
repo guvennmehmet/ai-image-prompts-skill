@@ -1,5 +1,41 @@
 [
   {
+    "id": 12493,
+    "content": "A luxury skincare product still life, centered composition. A small matte green glass jar labeled “{argument name=\"product name\" default=\"NEEDLY Cicachid relief cream\"}” with a clean white lid sits in the middle on a soft beige background. Surrounding the jar are multiple transparent glass spheres of varying sizes, filled with water, air bubbles, and small green botanical leaves suspended inside.\nThe spheres create magnified distortions of the leaves and reflections. Soft natural sunlight shines from the upper left, casting warm highlights and elongated soft shadows across the surface. The lighting is bright, airy, and slightly golden, creating a premium, organic skincare aesthetic.\nThe arrangement is artistic and minimal, with overlapping circular forms and subtle reflections. The color palette is neutral beige, soft greens, and warm highlights. The surface is clean and matte, enhancing the glossy transparency of the glass spheres.\nMacro photography style, shallow depth of field, high detail, editorial beauty campaign, ultra-realistic, 4K quality.",
+    "title": "Luxury Skincare Still Life Prompt for Nano Banana Pro",
+    "description": "A detailed prompt for generating a high-end, ultra-realistic still life image of a luxury skincare product (NEEDLY Cicachid relief cream) using Nano Banana Pro, emphasizing soft natural lighting, glass spheres, and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773988992404_txqku7_HDyjWnLbIAAC42u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12509,
+    "content": "minimal studio shot on pure white background, real {argument name=\"food name\" default=\"Food Name\"} emerging from a paper packaging, the visible part outside the packaging is fully photorealistic, the continuation of the same food is drawn as a clean black line illustration printed directly on the surface of the packaging, perfectly aligned with the real food shape, the illustration stays strictly on the packaging material, not floating, not extending into the background, seamless transition between real and printed illustration, modern minimal branding, top-down composition, soft shadows.",
+    "title": "Minimalist Food Illustration and Photorealism Blend",
+    "description": "A prompt for generating a minimal studio shot featuring real food seamlessly transitioning into a clean black line illustration, printed directly onto paper packaging. This creates a modern minimal branding aesthetic with a top-down composition and soft shadows, ideal for product visualization or conceptual art using Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989000441_ef5wm6_HDyE_U_a8AA5UTu.jpg",
+      "https://cms-assets.youmind.com/media/1773989000499_1uhwua_HDyE_HEbkAAyEey.jpg",
+      "https://cms-assets.youmind.com/media/1773989000648_r5ywi3_HDyE_U_aUAAws2n.jpg",
+      "https://cms-assets.youmind.com/media/1773989001028_a0b3vp_HDyE_X0bgAEO7AX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12521,
+    "content": "High-energy product shot of a vibrant berry smoothie in a glass jar labeled “{argument name=\"label\" default=\"Power Berry\"},” exploding with dynamic splash, surrounded by floating raspberries, blueberries, and blackberries mid-air, thick creamy liquid bursting upward, dramatic neon lighting with purple and red tones, glossy reflections and droplets, dark cinematic background with subtle bokeh, modern fitness/lifestyle vibe with a blurred smartphone in background, ultra-detailed textures, commercial beverage advertisement style, 8K",
+    "title": "High-Energy Smoothie Product Shot",
+    "description": "A prompt for Nano Banana Pro to generate a commercial-style, high-energy product shot of a 'Power Berry' smoothie. It specifies dynamic action (exploding splash), floating ingredients, dramatic neon lighting, and a modern fitness/lifestyle aesthetic with a blurred background element.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773989006869_3s5jb0_HDw1OCNacAAbqhq.jpg",
+      "https://cms-assets.youmind.com/media/1773989007046_4kuuh3_HDw1OC5bIAAvIo6.jpg",
+      "https://cms-assets.youmind.com/media/1773989007023_nquoq1_HDw1iP3b0AA9grP.jpg",
+      "https://cms-assets.youmind.com/media/1773989007877_cz3l3e_HDw1ODYakAAVsxr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12442,
     "content": "Prompt 1:\n\nMinimalist luxury product photography of a collagen supplement jar placed on a soft pastel peach background, cylindrical pedestal base, surrounded by fresh pineapple and sliced grapefruit, a small glass cup with golden liquid in front, warm sunlight casting soft palm leaf shadows, clean aesthetic, high-end skincare branding, soft diffused lighting, realistic textures, subtle reflections, shallow depth of field, editorial style, 4k, ultra-detailed.\n\nPrompt 2:\nPremium skincare product shot of a white collagen cream jar with metallic lid on a round pedestal, tropical fruits (pineapple and grapefruit slices) arranged around, a glass cup filled with amber liquid, peach monochrome background with palm shadow overlay, soft warm lighting, minimal composition, luxury beauty advertisement style, smooth gradients, high realism, sharp focus, studio lighting, 4k resolution.",
     "title": "Minimalist Luxury Product Photography Prompts",
