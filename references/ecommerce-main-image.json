@@ -1,5 +1,54 @@
 [
   {
+    "id": 12546,
+    "content": "Ultra-realistic commercial product photography of a “{argument name=\"perfume name\" default=\"Mystic Eau De Parfum\"}” perfume bottle filled with translucent violet liquid, the round glass bottle centered and placed on a soft pastel surface with the metallic cap set beside it, surrounded by a minimal architectural setup of smooth lavender and white geometric arches and stepped platforms, delicate purple lilac flowers arranged around and above the scene adding a natural botanical touch, a subtle mist spray visible in the air near the bottle suggesting fragrance diffusion, monochromatic purple color palette with soft gradients in the background, clean studio environment with elegant symmetry, soft diffused lighting creating gentle shadows and smooth reflections on the glass surface, balanced composition with the product as the focal point and background elements slightly softened, high-end beauty advertising aesthetic emphasizing elegance and calm luxury, high detail, realistic textures, professional photography, high resolution, sharp focus.",
+    "title": "Commercial Perfume Photography Prompt for Nano Banana Pro",
+    "description": "A detailed prompt for Nano Banana Pro focusing on ultra-realistic commercial product photography of a perfume bottle. The prompt specifies the color palette (monochromatic purple), geometric architectural setup, soft diffused lighting, and a high-end beauty advertising aesthetic emphasizing elegance and luxury.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074509909_1y38mr_HD3tOGHacAAeZQr.jpg",
+      "https://cms-assets.youmind.com/media/1774074510203_uz8rwf_HD3tOExboAIyvsv.jpg",
+      "https://cms-assets.youmind.com/media/1774074510209_rdpxgx_HD3tN6VboAM1CKH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12598,
+    "content": "Please create a 3x3 grid of product promotion photos.\nPlease maintain the product, person, style, and mood.",
+    "title": "Nano Banana 2 Grid Photo Generation Prompt",
+    "description": "A prompt for Nano Banana 2 to generate a 3x3 grid of product promotion photos, maintaining the product, person, style, and mood across all nine images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074543601_2j5qej_HD23SUHboAAGtNg.jpg",
+      "https://cms-assets.youmind.com/media/1774074543937_mazs5z_HD232zcboAcPRDA.jpg",
+      "https://cms-assets.youmind.com/media/1774074544026_8iqkt9_HD231Q_boAACG1k.jpg",
+      "https://cms-assets.youmind.com/media/1774074544726_z4h4pg_HD234k9boAkUHla.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12582,
+    "content": "Prompt 1:\n\nA hyper-realistic product shot of a pink dessert-themed beverage can labeled “Creamy Shake Stout”, covered in glossy dripping strawberry cream. The can is surrounded by splashing pink milk, floating chocolate sandwich cookies, fresh strawberries, and whipped cream. Soft pastel pink background, studio lighting, high-speed splash photography, ultra-detailed textures, reflections on liquid surface, cinematic depth of field, 8K, commercial advertising style.\n\nPrompt 2:\n\nA premium product advertisement of a pink can labeled “Creamy Cheesecake Shake Stout”, topped with thick dripping strawberry glaze. Dynamic splash of pink milk around the base, with floating cookies, chocolate chunks, and fresh strawberries in mid-air. Minimal pastel pink background, soft diffused lighting, high detail, glossy reflections, macro lens effect, cinematic composition, ultra-realistic, 8K, luxury food photography style.",
+    "title": "Hyper-Realistic Beverage Product Shot Prompts for Nano Banana Pro",
+    "description": "Two separate prompts for Gemini Nano Banana Pro, both focused on generating hyper-realistic commercial product shots of a pink dessert-themed beverage can (Creamy Shake Stout). The prompts detail dynamic liquid splashes, floating ingredients, studio lighting, macro effects, and 8K resolution for advertising style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074534296_hpavwc_HD2BkiBb0AAgkYG.jpg",
+      "https://cms-assets.youmind.com/media/1774074534341_n8xhpz_HD2BkiWboAIFdB1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12544,
+    "content": "Use the uploaded product image as the reference. Recreate the same product in a low-key studio photography style. Low-key studio shot of the product placed on a solid surface. The product is physically resting on the surface, with a subtle contact shadow directly underneath. Single dramatic spotlight as the only light source. Dark matte background, seamless studio setup. Create strong contrast, rich blacks, and selective illumination focused on the product’s key features. Lighting is cinematic, revealing form, depth, and material through light and shadow. Mood: mysterious, premium, luxury product photography. Photorealistic result with natural grounding and realistic light falloff.",
+    "title": "Low-Key Product Photography Prompt for Gemini Nano Banana Pro",
+    "description": "A highly specific prompt for Gemini Nano Banana Pro, instructing it to recreate an uploaded product image in a low-key studio photography style. The prompt details cinematic lighting, strong contrast, rich blacks, and selective illumination to achieve a mysterious, premium, luxury aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074509349_9ltcxf_HD0IrLSbwAAIZs7.jpg",
+      "https://cms-assets.youmind.com/media/1774074509076_vvb8ch_HD0IrLlboAATFU3.jpg",
+      "https://cms-assets.youmind.com/media/1774074509341_3bz49i_HD0IrMWboAINJXq.jpg",
+      "https://cms-assets.youmind.com/media/1774074510227_r92cai_HD0IrN8aEAAzh21.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12493,
     "content": "A luxury skincare product still life, centered composition. A small matte green glass jar labeled “{argument name=\"product name\" default=\"NEEDLY Cicachid relief cream\"}” with a clean white lid sits in the middle on a soft beige background. Surrounding the jar are multiple transparent glass spheres of varying sizes, filled with water, air bubbles, and small green botanical leaves suspended inside.\nThe spheres create magnified distortions of the leaves and reflections. Soft natural sunlight shines from the upper left, casting warm highlights and elongated soft shadows across the surface. The lighting is bright, airy, and slightly golden, creating a premium, organic skincare aesthetic.\nThe arrangement is artistic and minimal, with overlapping circular forms and subtle reflections. The color palette is neutral beige, soft greens, and warm highlights. The surface is clean and matte, enhancing the glossy transparency of the glass spheres.\nMacro photography style, shallow depth of field, high detail, editorial beauty campaign, ultra-realistic, 4K quality.",
     "title": "Luxury Skincare Still Life Prompt for Nano Banana Pro",

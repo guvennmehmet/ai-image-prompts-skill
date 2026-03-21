@@ -20,6 +20,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 12539,
+    "content": "A cinematic, full-body shot of a battle-worn knight in detailed steel plate armor walking through a tall, golden grass field. The knight is draped in heavily tattered and shredded bright red robes that flow in the wind, with a longsword in hand and a secondary blade strapped to his back. A flock of black crows circles in the hazy, overcast sky above. Soft, diffused daylight creates a moody atmosphere with visible dust motes and particles. Shot on a Sony A7R IV with an 85mm f/1.4 lens, low angle, shallow depth of field focusing on the intricate textures of the weathered armor and frayed fabric. Hyper-realistic, 8k resolution, raw photo, gritty dark fantasy aesthetic, 9 : 16.",
+    "title": "Dark Fantasy Knight Wallpaper Generation with Nano Banana 2",
+    "description": "A detailed image generation prompt for Nano Banana 2, focusing on creating a hyper-realistic, 8k dark fantasy wallpaper featuring a battle-worn knight in detailed steel armor walking through a golden grass field. The prompt specifies cinematic camera settings, lighting, and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074505986_fhk134_HD2ro1RWAAAjS2Q.jpg",
+      "https://cms-assets.youmind.com/media/1774074505833_jn2lv5_HD2roznXMAAf5Ms.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12545,
+    "content": "Masterpiece-level political caricature illustration, hyper-expressive and satirical, with exaggerated anatomy focusing on facial features (nose, chin, forehead, eyebrows). Maintain likeness while pushing distortion artistically. Clean, confident ink lines combined with painterly color rendering. Rich, saturated colors with editorial contrast and subtle shading transitions. Dynamic facial expression conveying irony, humor, or critique. Background: minimal, abstract ink wash or neutral tone to simulate newspaper editorial layout. Lighting: cinematic soft light with subtle rim highlights to add depth. Rendering style: mix of hand-drawn ink illustration and polished digital painting. Professional editorial cartoon quality, suitable for high-end publications. 8K resolution, ultra-sharp, highly detailed, visually striking composition.",
+    "title": "Masterpiece Political Caricature Prompt for Nano Banana 2",
+    "description": "A highly detailed prompt for Nano Banana 2 on OpenArt, requesting a masterpiece-level political caricature illustration. The prompt specifies hyper-expressive, satirical exaggeration of facial features, a mix of clean ink lines and painterly color rendering, and an editorial cartoon quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074510623_ns84ig_HD2N7fnboAAjhuq.jpg",
+      "https://cms-assets.youmind.com/media/1774074510760_2q6om5_HD2N7fpacAAkA73.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12505,
     "content": "A cinematic magazine-style portrait of a handsome man in side profile, wearing a {argument name=\"hat color\" default=\"brown\"} felt fedora hat and a {argument name=\"suit color\" default=\"cream-colored\"} suit jacket. He has short dark hair, light skin, and a well-groomed beard. The lighting is soft and directional, highlighting the contours of his face with subtle shadows for a dramatic, high-fashion look. The background is minimal and light gray, creating a clean studio aesthetic.\nAt the top of the image, large bold serif text reads “OLD MONEY.” At the bottom, small editorial-style credits read: “Starring Eliza Banks, Liam O’Connell | Directed by Jonathan Reed | Cinematography by Sarah Vance.”\nStyle: luxury editorial, timeless elegance, old-money aesthetic, sharp focus, high resolution, neutral tones, minimal composition.",
     "title": "Old Money Aesthetic Cinematic Portrait",

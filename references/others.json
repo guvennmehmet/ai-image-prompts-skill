@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 12600,
+    "content": "Image from {argument name=\"subject\" default=\"subject\"}, cinematic close-up, strict side profile view, looking downward with a pensive expression. Wearing a dark, textured garment. High-contrast Chiaroscuro lighting, deep black void background with no environmental details. Monochromatic black and white color grading with crushed shadows and brilliant highlights. Harsh side light source casting a sharp rim-light on the profile while leaving the frontal plane in deep shadow. Heavy analog film grain and high micro-contrast on skin texture, focusing on the interplay of light and shadow on smooth skin surfaces.",
+    "title": "Cinematic Chiaroscuro Portrait Prompt",
+    "description": "A detailed image generation prompt designed for creating a high-contrast, monochromatic, cinematic close-up portrait. It specifies a strict side profile, downward gaze, dark textured clothing, and harsh Chiaroscuro lighting with a deep black background, focusing on analog film grain and micro-contrast on the skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074546700_txalkq_HDxlrwxb0AAN7vI.jpg",
+      "https://cms-assets.youmind.com/media/1774074547141_t0qmrx_HDxlrwNWwAAwcdS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12532,
     "content": "Dynaman Great Explosion\n\nImage style\nWhat is Dynamite?\n\nIt felt like that...\n\nDynaman interpreted as Dynamite lol",
     "title": "Generate Dynaman Great Explosion",

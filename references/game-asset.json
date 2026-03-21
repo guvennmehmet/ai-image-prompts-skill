@@ -1,5 +1,36 @@
 [
   {
+    "id": 12576,
+    "content": "a cat wearing roller skates, pop surreal kawaii illustration style, clean vector lines, bold flat colors, ultra cute and whimsical vibe, full-body character centered in frame, dynamic skating pose with one paw lifted, oversized expressive eyes and tiny mouth, pastel city street background with floating clouds and abstract candy-shaped buildings, soft ambient lighting with subtle gradients, high resolution vector art, crisp outline, smooth minimal shading, playful and dreamy atmosphere",
+    "title": "Pop Surreal Kawaii Cat on Roller Skates",
+    "description": "A prompt for nano-banana-pro to generate a whimsical, ultra-cute illustration of a cat wearing roller skates in a pop surreal kawaii style, featuring clean vector lines, bold flat colors, and a pastel city background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074530444_lxd58t_HD2LQ58W0AEYmyq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12539,
+    "content": "A cinematic, full-body shot of a battle-worn knight in detailed steel plate armor walking through a tall, golden grass field. The knight is draped in heavily tattered and shredded bright red robes that flow in the wind, with a longsword in hand and a secondary blade strapped to his back. A flock of black crows circles in the hazy, overcast sky above. Soft, diffused daylight creates a moody atmosphere with visible dust motes and particles. Shot on a Sony A7R IV with an 85mm f/1.4 lens, low angle, shallow depth of field focusing on the intricate textures of the weathered armor and frayed fabric. Hyper-realistic, 8k resolution, raw photo, gritty dark fantasy aesthetic, 9 : 16.",
+    "title": "Dark Fantasy Knight Wallpaper Generation with Nano Banana 2",
+    "description": "A detailed image generation prompt for Nano Banana 2, focusing on creating a hyper-realistic, 8k dark fantasy wallpaper featuring a battle-worn knight in detailed steel armor walking through a golden grass field. The prompt specifies cinematic camera settings, lighting, and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074505986_fhk134_HD2ro1RWAAAjS2Q.jpg",
+      "https://cms-assets.youmind.com/media/1774074505833_jn2lv5_HD2roznXMAAf5Ms.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12575,
+    "content": "A grid of twelve stylized cat faces, arranged in four rows and three columns, fills the frame. Each cat face is distinct, featuring a unique color palette and decorative elements. The cats have large, round eyes, small noses, and prominent whiskers. Some wear floral accessories, bows, or other playful adornments on their heads. The overall style is whimsical and childlike, with bold outlines and flat colors, reminiscent of children's book illustrations or stickers. The background is a plain white, making the colorful cat faces stand out.",
+    "title": "Stylized Grid of Whimsical Cat Faces",
+    "description": "A prompt for nano-banana-pro to generate a whimsical and childlike illustration of a grid containing twelve stylized cat faces, featuring bold outlines, flat colors, and playful accessories, reminiscent of children's book art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774074529542_02dz1v_HDy1NE2WQAAgNHY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12513,
     "content": "{\n  \"instruction\": \"Use the uploaded image strictly as a silhouette and pose reference.\",\n  \"transformation\": {\n    \"type\": \"handcrafted_stone_figurine\",\n    \"material\": \"multiple natural stones\",\n    \"rules\": [\n      \"Do NOT carve from a single stone\",\n      \"Construct using separate irregular rock pieces\"\n    ]\n  },\n  \"structure\": {\n    \"composition\": \"layered flat stones and uneven rock fragments\",\n    \"body_parts\": {\n      \"head\": \"individual stones\",\n      \"torso\": \"individual stones\",\n      \"arms\": \"individual stones\",\n      \"legs\": \"individual stones\",\n      \"tail\": \"individual stones\"\n    },\n    \"details\": \"visible gaps between stones\"\n  }\n}",
     "title": "Handcrafted Stone Figurine Transformation Prompt",
