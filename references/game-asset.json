@@ -1,5 +1,35 @@
 [
   {
+    "id": 12621,
+    "content": "A cinematic macro toy-photography scene of the uploaded reference character multiplied into dozens of miniature identical instances, each actively working on a giant open comic book that tells the story of the same character.\nLikeness Integrity (CRITICAL)\n\nAll miniature instances must preserve the exact identity of the reference character:\n\n• identical proportions\n\n• exact eye shape, spacing, stylization\n\n• same silhouette and material behavior\n\n• no added features, no face changes, no stylization drift\nThe comic book artwork must depict the exact same character design language, translated into printed comic style without altering anatomy or facial structure.\nScene Concept & Action\nThe giant comic book lies open like a construction site of narrative.\nMini characters are scattered across the pages, each performing a specific task:\n• some are drawing panels with tiny tools (pens, brushes, stylus-like tools)\n\n• some are painting color into panels\n\n• some are climbing panel borders like scaffolding\n\n• some are inspecting scenes, pointing, directing\n\n• some are physically interacting with the comic world ( lifting panels, stepping into frames)\nThe scene must feel like they are building their own story in real-time.\nPerspective & Composition (MANDATORY)\nCamera & Perspective (Corrected)\nLow-angle macro shot, camera positioned close to the comic page\nLens: 90–100mm macro (compression, NOT distortion)\n• Perspective compression must preserve consistent object scale\n\n• Foreground character appears larger only due to proximity to lens\n\n• No exaggerated wide-angle distortion\n\n• Spatial depth created through distance falloff + focus, not scaling\n\n• The open comic book stretches diagonally into depth\n\n• Panels form strong leading lines across the frame\n\n• Composition is intentionally off-balance, not centered\n\n• Some characters partially cropped by frame edges\nForeground includes blurred ink tools, paper edges, or panel borders creating depth layering\nDepth of Field (CRITICAL)\nExtremely shallow depth of field\n• Primary focal plane: one or two mini characters in the foreground actively working\n\n• Mid-ground characters slightly softer\n\n• Background characters and panels fall into creamy blur\nNo full-frame sharpness\nFocus must guide the viewer toward the “main worker” character\nLighting Doctrine\nHard directional cinematic light from top-left\n• sharp shadows cast across comic panels\n\n• subtle rim light separating characters from page\n\n• ink reflections create small specular highlights\n\n• shadows from panel edges create natural depth\nNo flat lighting\nEnvironment & Surface Detail\nMacro-level realism of the comic book:\n• visible paper fibers\n\n• ink texture and slight gloss\n\n• subtle imperfections in print\n\n• panel borders slightly raised or embossed\nTiny tools leave micro mar",
+    "title": "Cinematic Macro Toy-Photography of Mini Beasts",
+    "description": "A complex, multi-section prompt for generating a cinematic macro toy-photography scene. The concept involves dozens of miniature identical character instances working on a giant open comic book that tells their story. The prompt strictly enforces likeness integrity, specific camera perspective (low-angle macro, 90-100mm lens), shallow depth of field, and hard directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161440924_igvzbo_HD8hTgkaIAAP3Mq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12627,
+    "content": "a chicken in a T-Rex costume's on the way of homecoming in the style of an 8-bits #11",
+    "title": "Nano Banana Pro Prompt: 8-bit Chicken in T-Rex Costume",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3.1 image generator) to create an 8-bit style image of a chicken wearing a T-Rex costume on its way home.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161444356_j9reqr_HDluvD2bMAAC6B5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12622,
+    "content": "a sea iguana that is inspired by a LMGT3-class car",
+    "title": "LMGT3-Class Car Inspired Sea Iguana",
+    "description": "A prompt for Nano Banana Pro (Gemini 3.1 image generator) to create an image of a sea iguana inspired by an LMGT3-class race car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161441124_7hcp7r_HDlh96ebgAAHygE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12576,
     "content": "a cat wearing roller skates, pop surreal kawaii illustration style, clean vector lines, bold flat colors, ultra cute and whimsical vibe, full-body character centered in frame, dynamic skating pose with one paw lifted, oversized expressive eyes and tiny mouth, pastel city street background with floating clouds and abstract candy-shaped buildings, soft ambient lighting with subtle gradients, high resolution vector art, crisp outline, smooth minimal shading, playful and dreamy atmosphere",
     "title": "Pop Surreal Kawaii Cat on Roller Skates",

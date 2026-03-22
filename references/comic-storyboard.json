@@ -1,5 +1,45 @@
 [
   {
+    "id": 12628,
+    "content": "4-panel comic\n\nTitle\n\"Bach in Heaven, Business on Earth\"\n​or\n\"The Light and Shadow of the Critical Edition (Urtext)\"",
+    "title": "Nano Banana Pro 4-Panel Comic Prompt: Bach in Heaven",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a 4-panel comic titled 'Bach in Heaven, Business on Earth' or 'The Light and Shadow of the Urtext'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161444478_wq8m1w_HD9uRS0bUAEILdq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12621,
+    "content": "A cinematic macro toy-photography scene of the uploaded reference character multiplied into dozens of miniature identical instances, each actively working on a giant open comic book that tells the story of the same character.\nLikeness Integrity (CRITICAL)\n\nAll miniature instances must preserve the exact identity of the reference character:\n\n• identical proportions\n\n• exact eye shape, spacing, stylization\n\n• same silhouette and material behavior\n\n• no added features, no face changes, no stylization drift\nThe comic book artwork must depict the exact same character design language, translated into printed comic style without altering anatomy or facial structure.\nScene Concept & Action\nThe giant comic book lies open like a construction site of narrative.\nMini characters are scattered across the pages, each performing a specific task:\n• some are drawing panels with tiny tools (pens, brushes, stylus-like tools)\n\n• some are painting color into panels\n\n• some are climbing panel borders like scaffolding\n\n• some are inspecting scenes, pointing, directing\n\n• some are physically interacting with the comic world ( lifting panels, stepping into frames)\nThe scene must feel like they are building their own story in real-time.\nPerspective & Composition (MANDATORY)\nCamera & Perspective (Corrected)\nLow-angle macro shot, camera positioned close to the comic page\nLens: 90–100mm macro (compression, NOT distortion)\n• Perspective compression must preserve consistent object scale\n\n• Foreground character appears larger only due to proximity to lens\n\n• No exaggerated wide-angle distortion\n\n• Spatial depth created through distance falloff + focus, not scaling\n\n• The open comic book stretches diagonally into depth\n\n• Panels form strong leading lines across the frame\n\n• Composition is intentionally off-balance, not centered\n\n• Some characters partially cropped by frame edges\nForeground includes blurred ink tools, paper edges, or panel borders creating depth layering\nDepth of Field (CRITICAL)\nExtremely shallow depth of field\n• Primary focal plane: one or two mini characters in the foreground actively working\n\n• Mid-ground characters slightly softer\n\n• Background characters and panels fall into creamy blur\nNo full-frame sharpness\nFocus must guide the viewer toward the “main worker” character\nLighting Doctrine\nHard directional cinematic light from top-left\n• sharp shadows cast across comic panels\n\n• subtle rim light separating characters from page\n\n• ink reflections create small specular highlights\n\n• shadows from panel edges create natural depth\nNo flat lighting\nEnvironment & Surface Detail\nMacro-level realism of the comic book:\n• visible paper fibers\n\n• ink texture and slight gloss\n\n• subtle imperfections in print\n\n• panel borders slightly raised or embossed\nTiny tools leave micro mar",
+    "title": "Cinematic Macro Toy-Photography of Mini Beasts",
+    "description": "A complex, multi-section prompt for generating a cinematic macro toy-photography scene. The concept involves dozens of miniature identical character instances working on a giant open comic book that tells their story. The prompt strictly enforces likeness integrity, specific camera perspective (low-angle macro, 90-100mm lens), shallow depth of field, and hard directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161440924_igvzbo_HD8hTgkaIAAP3Mq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12624,
+    "content": "4-panel manga\nTitle\n\nAnonymous and Mask\n\nDescription:\n Inside a moving car. The smartphone of the man in the back seat (center of the image) rings. The display shows 'Unknown Number'...",
+    "title": "4-Panel Manga: Anonymous and Mask",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a 4-panel manga titled 'Anonymous and Mask.' The description specifies a scene inside a moving car where a man in the back seat receives a call from an 'Unknown Number' on his smartphone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161442662_b90gww_HD6ni-ubMAAz381.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12629,
+    "content": "4-panel manga\nTitle\nThe Truth Beyond the Avatar\nMan (Center): \"Hold on, I got a call from the store. Maybe they're confirming my shift.\"\nFriend A (Left): \"Oh, what is it?\"\nFriend B (Right): \"Hope they didn't find out about your fake job, did they?\"",
+    "title": "4-Panel Manga Dialogue Prompt",
+    "description": "A prompt for generating a 4-panel manga titled 'The Truth Beyond the Avatar' with specific dialogue for three characters, generated using Nano Banana Pro (Gemini 3 Pro Image).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161444911_d7s13t_HD6l-taaIAA-SIB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12517,
     "content": "A cinematic portrait of a serious man use image for face reference looking at himself in a mirror, moody atmosphere, soft natural window light coming from the side, dust particles visible in the air, warm wooden interior background, shallow depth of field, sharp focus on the reflection while the back of the man is slightly blurred, emotional and introspective expression, realistic skin texture, short dark hair, light stubble, wearing a casual black jacket over a nike white t-shirt, dramatic lighting, high detail, 50mm lens, photorealistic, film still style. Add Ghibli art effects to this image.",
     "title": "Cinematic Portrait Reflection with Ghibli Effect",

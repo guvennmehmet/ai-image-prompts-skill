@@ -20,6 +20,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 12612,
+    "content": "Create a [2:3] poster where the center is torn diagonally, revealing two contrasting eras of Kyoto. On the top-left torn layer, show Kyoto in the 1920s with sepia-toned streets, vintage rickshaws, and traditional machiya townhouses. On the bottom-right exposed layer, show a futuristic Kyoto in the year 2080, with hovering transit pods, holographic cherry blossom advertisements, and sleek vertical gardens integrated into cyber-shinto towers.  The torn paper edges are crisp and textured, curling slightly to cast shadows. The word “KYOTO” spans across both eras in bold typography, transitioning from retro woodblock-style lettering on the left to sleek sci-fi neon kanji on the right. Soft studio light, high-resolution print-ready render, clean off-white border.",
+    "title": "Torn Poster of Contrasting Kyoto Eras",
+    "description": "A prompt for Nano Banana Pro to create a poster image with a diagonally torn center, revealing two contrasting eras of Kyoto: the sepia-toned 1920s on the top-left, and a futuristic 2080 cyber-shinto city on the bottom-right. The prompt details the typography transition and required resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161434561_ttwkvh_HDuuSZmWwAAiNGW.jpg",
+      "https://cms-assets.youmind.com/media/1774161434364_o9bg4q_HDuwxmUbIAA5LjE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12630,
+    "content": "A soaring futuristic skyscraper tower dominating an urban skyline, its facade composed of vast seamless panels of glass and polished steel reflecting the city below. The tower tapers elegantly toward the sky with clean geometric lines and minimal ornamentation. Surrounding buildings recede in the distance, emphasizing the tower's monumental scale. The scene is viewed from a slight low angle, capturing the full height of the structure against an open sky. Reflections of city lights ripple across the glass surface in long vertical streaks., in a minimal style, viewed from a low-angle, blue-hour lighting, at blue-hour, featuring cool-tones, glass-blue, with glass, mirror-like glass reflections effects. A breathtaking futuristic cityscape at night, towering skyscrapers with glowing neon lights and holographic displays stretching into the sky, flying vehicles weaving between buildings, the camera performs a slow sweeping panoramic rotation revealing the full scale of the city, moving gracefully from left to right across the skyline, city lights reflecting off wet streets below, volumetric fog drifting between buildings, cinematic wide shot with dramatic depth and scale, vibrant blues and purples dominate the color palette",
+    "title": "Futuristic Skyscraper Image Prompt (Nano Banana 2)",
+    "description": "An image generation prompt specifically for Nano Banana 2, describing a soaring futuristic skyscraper made of glass and polished steel, viewed from a low angle against the blue-hour sky. The prompt emphasizes clean geometric lines, monumental scale, and cool-toned reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161445949_aaihzk_HD70s-PbMAAMY3l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12626,
+    "content": "the classic Anime nerd Otaku in the style of a bill currency",
+    "title": "Classic Anime Nerd Otaku in the Style of Currency",
+    "description": "A prompt for Nano Banana Pro (Gemini 3.1 image generator) to create an image of a classic 2000s-era anime nerd (Otaku) rendered in the style of a bill or currency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161443338_k1q7ov_HDljlWObsAA4C3B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12602,
+    "content": "A beautiful young woman wearing a pastel embroidered salwar kameez with a matching dupatta draped gracefully over her head, soft natural makeup, standing in a warmly lit room decorated with glowing fairy lights, golden crescent moon and hanging lanterns, subtle Arabic calligraphy in the background, soft bokeh lighting, shallow depth of field, cinematic portrait, ultra realistic, 85mm lens, warm tones, Eid Mubarak text in elegant gold typography",
+    "title": "Eid Mubarak Portrait",
+    "description": "A prompt for generating an ultra-realistic cinematic portrait of a beautiful young woman wearing a pastel embroidered salwar kameez, standing in a warmly lit room decorated for Eid with fairy lights, a golden crescent moon, and hanging lanterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774161427806_m1hevt_HD5ntkrboAE4sks.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12539,
     "content": "A cinematic, full-body shot of a battle-worn knight in detailed steel plate armor walking through a tall, golden grass field. The knight is draped in heavily tattered and shredded bright red robes that flow in the wind, with a longsword in hand and a secondary blade strapped to his back. A flock of black crows circles in the hazy, overcast sky above. Soft, diffused daylight creates a moody atmosphere with visible dust motes and particles. Shot on a Sony A7R IV with an 85mm f/1.4 lens, low angle, shallow depth of field focusing on the intricate textures of the weathered armor and frayed fabric. Hyper-realistic, 8k resolution, raw photo, gritty dark fantasy aesthetic, 9 : 16.",
     "title": "Dark Fantasy Knight Wallpaper Generation with Nano Banana 2",
