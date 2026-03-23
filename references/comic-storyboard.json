@@ -1,5 +1,68 @@
 [
   {
+    "id": 12675,
+    "content": "4-panel manga\n \nTitle\n2026 Solo Camping Declaration of Independence\n\nBiking (comedian duo) Mimura, who is that?\n\nIt's not garbled text, it's a pseudonym! Just kidding\n\nGovernment AI Gennai starts up and a future forecast",
+    "title": "Four-Panel Manga: 2026 Solo Camping Declaration of Independence",
+    "description": "A prompt for generating a four-panel manga titled '2026 Solo Camping Declaration of Independence' using Nano Banana Pro (Gemini 3 Pro Image). The scenario involves a reference to a comedian and a prediction about a government AI system.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248324376_zntvf3_HECdkLpa0AA6nCS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12677,
+    "content": "4-panel manga\n \nTitle\nThe Darkness of SNS\n\nWas it impression zombies?\n\nIt's different from that\nImpression boosting service?\n\nI don't understand the point of the free version group\n\n(Laugh)...\n\n↓\nBreakdown Part 1",
+    "title": "Four-Panel Manga: The Darkness of SNS (Part 2)",
+    "description": "A prompt for generating a four-panel manga titled 'The Darkness of SNS' using Nano Banana Pro (Gemini 3 Pro Image). The theme is about 'impression zombies' or impression boosting services, questioning the point of using the free version.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248325743_u49fut_HEBSX4ea4AAUueG.jpg",
+      "https://cms-assets.youmind.com/media/1774248325811_jwqqac_HEBSX6facAAaP92.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12674,
+    "content": "4-panel manga\n \nTitle\nThe Darkness of SNS\n\nApparently, there's a service where you can buy YouTube views\n\nNot to brag,\n\nBut my playlist\n\nHas 0 content! (Laugh)\n\n↓\nBreakdown Part 1",
+    "title": "Four-Panel Manga: The Darkness of SNS (Part 1)",
+    "description": "A prompt for generating a four-panel manga titled 'The Darkness of SNS' using Nano Banana Pro (Gemini 3 Pro Image). The theme is about services that sell YouTube views, contrasting with the user's zero-content playlist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248324263_gmc7ch_HEBSHUaaMAAiBbb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12650,
+    "content": "Anime cinematic style, Makoto Shinkai inspired, soft blue hour lighting, narrow European cobblestone alley, warm shop lights, dreamy atmosphere, shallow depth of field, soft bloom, lens flare, highly detailed, consistent character: young boy with messy light brown hair, navy coat, scarf, white fluffy spirit cat with faint glow",
+    "title": "Makoto Shinkai Inspired Anime Cinematic Scene",
+    "description": "A prompt for Google Nano Banana Pro to generate an anime-style cinematic image inspired by Makoto Shinkai. The scene features a young boy and a fluffy spirit cat in a narrow European cobblestone alley during blue hour, emphasizing warm shop lights, soft bloom, and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248309891_ltvw6u_HEA86DGasAA7us3.jpg",
+      "https://cms-assets.youmind.com/media/1774248309929_0wnuc8_HEA86FLaoAAg4Og.jpg",
+      "https://cms-assets.youmind.com/media/1774248309965_bql7ts_HEA86AXaYAAnEsa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12673,
+    "content": "4-panel manga\n \nTitle\nLabyrinth of Objection\n\nBuying YouTube views\n\nGetting caught by the director\n\nI don't know since I haven't experienced it\n\nIt seems like a very mechanical interaction...",
+    "title": "Four-Panel Manga: Labyrinth of Objection",
+    "description": "A prompt for generating a four-panel manga titled 'Labyrinth of Objection' using Nano Banana Pro (Gemini 3 Pro Image). The theme is about purchasing YouTube views and the mechanical nature of the interactions involved.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248324355_lskj5m_HEAG6Kma8AAiW8y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12671,
+    "content": "4-panel manga\n \nTitle\nCountdown to Disappearance\n\nApparently, there's a service where you can buy YouTube views\n\nNot to brag,\n\nBut my playlist\n\nHas 0 content! (Laugh)",
+    "title": "Four-Panel Manga: Countdown to Disappearance",
+    "description": "A prompt for generating a four-panel manga titled 'Countdown to Disappearance' using Nano Banana Pro (Gemini 3 Pro Image). The theme revolves around the concept of purchasing views for YouTube videos, contrasting it with the user's own zero-content playlist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248322525_9zdffe_HEAGXV4b0AApaiI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12628,
     "content": "4-panel comic\n\nTitle\n\"Bach in Heaven, Business on Earth\"\n​or\n\"The Light and Shadow of the Critical Edition (Urtext)\"",
     "title": "Nano Banana Pro 4-Panel Comic Prompt: Bach in Heaven",

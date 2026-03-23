@@ -1,5 +1,31 @@
 [
   {
+    "id": 12641,
+    "content": "A cartoonish ({argument name=\"animal name\" default=\"Animal Name\"}) in pixelated image format",
+    "title": "Pixelated Cartoon Animal Image",
+    "description": "A simple template prompt for Nano Banana 2 to generate a pixelated image of a cartoon animal, allowing the user to specify the animal name.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248304087_ep0gnw_HEBelWzbgAAHj9M.jpg",
+      "https://cms-assets.youmind.com/media/1774248304022_kdsh8g_HEBelWvaUAADeKy.jpg",
+      "https://cms-assets.youmind.com/media/1774248304096_krlw8f_HEBelWwbwAAR_CM.jpg",
+      "https://cms-assets.youmind.com/media/1774248305128_vi87d1_HEBelWwasAELUlw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12639,
+    "content": "use the character turnaround format from [img1] to create {argument name=\"character description\" default=\"[character name / image]\"} in the same style",
+    "title": "Ghibli-Inspired Character Turnaround",
+    "description": "A prompt for Nano Banana 2 requesting the generation of Ghibli-inspired anime characters using a character turnaround format based on a provided reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248302388_yswdlf_HEBTelTaYAAAp1j.jpg",
+      "https://cms-assets.youmind.com/media/1774248302420_ka4a8k_HEBTbrAXwAElna2.jpg",
+      "https://cms-assets.youmind.com/media/1774248302476_0vq0fv_HEBTdH7XMAA-WLQ.jpg",
+      "https://cms-assets.youmind.com/media/1774248303089_5pp284_HEBTf5TbMAABA60.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12621,
     "content": "A cinematic macro toy-photography scene of the uploaded reference character multiplied into dozens of miniature identical instances, each actively working on a giant open comic book that tells the story of the same character.\nLikeness Integrity (CRITICAL)\n\nAll miniature instances must preserve the exact identity of the reference character:\n\n• identical proportions\n\n• exact eye shape, spacing, stylization\n\n• same silhouette and material behavior\n\n• no added features, no face changes, no stylization drift\nThe comic book artwork must depict the exact same character design language, translated into printed comic style without altering anatomy or facial structure.\nScene Concept & Action\nThe giant comic book lies open like a construction site of narrative.\nMini characters are scattered across the pages, each performing a specific task:\n• some are drawing panels with tiny tools (pens, brushes, stylus-like tools)\n\n• some are painting color into panels\n\n• some are climbing panel borders like scaffolding\n\n• some are inspecting scenes, pointing, directing\n\n• some are physically interacting with the comic world ( lifting panels, stepping into frames)\nThe scene must feel like they are building their own story in real-time.\nPerspective & Composition (MANDATORY)\nCamera & Perspective (Corrected)\nLow-angle macro shot, camera positioned close to the comic page\nLens: 90–100mm macro (compression, NOT distortion)\n• Perspective compression must preserve consistent object scale\n\n• Foreground character appears larger only due to proximity to lens\n\n• No exaggerated wide-angle distortion\n\n• Spatial depth created through distance falloff + focus, not scaling\n\n• The open comic book stretches diagonally into depth\n\n• Panels form strong leading lines across the frame\n\n• Composition is intentionally off-balance, not centered\n\n• Some characters partially cropped by frame edges\nForeground includes blurred ink tools, paper edges, or panel borders creating depth layering\nDepth of Field (CRITICAL)\nExtremely shallow depth of field\n• Primary focal plane: one or two mini characters in the foreground actively working\n\n• Mid-ground characters slightly softer\n\n• Background characters and panels fall into creamy blur\nNo full-frame sharpness\nFocus must guide the viewer toward the “main worker” character\nLighting Doctrine\nHard directional cinematic light from top-left\n• sharp shadows cast across comic panels\n\n• subtle rim light separating characters from page\n\n• ink reflections create small specular highlights\n\n• shadows from panel edges create natural depth\nNo flat lighting\nEnvironment & Surface Detail\nMacro-level realism of the comic book:\n• visible paper fibers\n\n• ink texture and slight gloss\n\n• subtle imperfections in print\n\n• panel borders slightly raised or embossed\nTiny tools leave micro mar",
     "title": "Cinematic Macro Toy-Photography of Mini Beasts",

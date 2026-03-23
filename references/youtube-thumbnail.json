@@ -1,5 +1,16 @@
 [
   {
+    "id": 12655,
+    "content": "\"Image from subject, medium close-up, shot from outside through a reflective car window. The subject is ({argument name=\"subject position\" default=\"seated in the rear right passenger seat\"}), leaning back against the headrest, looking directly toward the camera through the glass. A hand is visible resting on the interior window frame. Wearing a light-colored crew-neck t-shirt and dark-tinted round sunglasses. The setting is a taxi interior at night. The background is a blurred urban landscape with bright bokeh from traffic and neon signs. Rain droplets and condensation are present on the glass surface. Cinematic teal-and-orange color palette. Vibrant red and green neon reflections are projected onto the subject and the window glass. High-contrast lighting with deep, crushed shadows and warm, hazy highlights. Dense 35mm film grain, heavy glass reflections, lens flares, and soft chromatic aberration at the edges. \"",
+    "title": "Cinematic Night Taxi Portrait with Teal and Orange Grading",
+    "description": "A detailed prompt for generating a cinematic portrait shot from outside a reflective car window at night. The subject is seated in the rear, looking directly at the camera, with rain and neon reflections on the glass, using a high-contrast teal-and-orange color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248313255_l6y14w_HEDWL3mXoAEbP_F.jpg",
+      "https://cms-assets.youmind.com/media/1774248313334_kgc3f7_HEDWL35boAA47qE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12564,
     "content": "Numerous 3D Spotify and Apple Music interface cards orbiting Drake at varying depths.\nMaterial: Translucent frosted glass (glassmorphism) with soft rounded edges and subtle glowing borders.\n Movement: Some cards are in the extreme foreground, partially obscuring Drake, while others drift into the distance behind him.\nVisual Accents: Dynamic motion blur on the edges of the cards to suggest a swirling, orbiting movement.\nLIGHTING & COMPOSITION\nLighting: Natural tones with enhanced professional photo quality. The soft glow from the interface cards subtly illuminates Drake’s face.\nFocus: Strong depth of field. The background and extreme foreground cards are artistically blurred, keeping the focus sharp on Drake and the closest player interfaces.\nComposition: A cinematic wide or medium shot that emphasizes the scale of the floating AR elements.\nAESTHETIC\nHigh-end editorial music photography, futuristic AR concept, clean and airy vibe. 8k resolution, sophisticated lighting, and realistic textures on the glass cards.",
     "title": "Drake with Orbiting Glass Music Interfaces",

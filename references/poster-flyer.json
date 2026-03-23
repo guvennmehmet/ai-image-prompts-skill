@@ -20,6 +20,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 12646,
+    "content": "Use the uploaded image as reference, A blend of high-end illustrative realism with delicate ink lines and soft watercolor strokes. Highly detailed depictions of faces with porcelain skin texture, delicate blush, and expressive sparkling eyes. Dynamic compositions of close-up portraits. Crisp white negative space backgrounds overlaid with architectural outlines, geometric construction grids, and technical drawing elements. Flowing strands of hair and fabric edges dissolve into abstract, transparent shards of color and paint splatters. A soft pastel palette (soft blues, warm yellows, pale pinks, light grays) with controlled saturation. An elegant balance between precise sketch lines and loose, atmospheric paint effects. A cinematic editorial illustration aesthetic with a modern fashion art feel, dreamy yet sharp, minimalist yet rich in detail. High-resolution, vertical portrait, 4k quality.",
+    "title": "Soft Watercolor Illustration Style Art Prompt for Gemini Nano Banana Pro 2.0",
+    "description": "A detailed prompt for Gemini Nano Banana Pro 2.0 to transform an uploaded image into a high-end illustrative realism portrait with soft watercolor strokes and delicate ink lines, featuring a soft pastel palette and a cinematic editorial aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248307424_ysir5t_HEC-VOQbcAAOq_T.jpg",
+      "https://cms-assets.youmind.com/media/1774248307548_hwdpbx_HEC-VP4aAAAwbWH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12672,
+    "content": "\"I need someone, anyone, to take care of my nose hair\" in the style of a propaganda poster",
+    "title": "Propaganda Poster Style: Nose Hair Horror",
+    "description": "A prompt used with Google Gemini 3.1's image generator, Nano Banana Pro, to create an image in the style of a propaganda poster about the need for nose hair care.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248322636_i4y8tl_HDlseMTbEAA069H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12612,
     "content": "Create a [2:3] poster where the center is torn diagonally, revealing two contrasting eras of Kyoto. On the top-left torn layer, show Kyoto in the 1920s with sepia-toned streets, vintage rickshaws, and traditional machiya townhouses. On the bottom-right exposed layer, show a futuristic Kyoto in the year 2080, with hovering transit pods, holographic cherry blossom advertisements, and sleek vertical gardens integrated into cyber-shinto towers.  The torn paper edges are crisp and textured, curling slightly to cast shadows. The word “KYOTO” spans across both eras in bold typography, transitioning from retro woodblock-style lettering on the left to sleek sci-fi neon kanji on the right. Soft studio light, high-resolution print-ready render, clean off-white border.",
     "title": "Torn Poster of Contrasting Kyoto Eras",

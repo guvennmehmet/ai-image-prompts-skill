@@ -1,5 +1,29 @@
 [
   {
+    "id": 12652,
+    "content": "High-end commercial skincare product photography of a hydrating gel cream jar with minimal clean label, placed on natural moss-covered tree branches, surrounded by delicate small flowers and leaves, fresh dewy water droplets on the jar, soft diffused lighting, bright minimal background (white/neutral), organic aesthetic, eco-luxury branding style, shallow depth of field, ultra-detailed textures (glass, moss, bark, petals), calm and refreshing mood, studio + nature hybrid setup, 8K.",
+    "title": "Eco-Luxury Skincare Product Photography",
+    "description": "A prompt for Nano Banana Pro to generate high-end commercial product photography of a hydrating gel cream jar. The setup is a studio/nature hybrid, featuring the jar on moss-covered tree branches, surrounded by delicate flowers, emphasizing fresh water droplets, soft diffused lighting, and an organic, eco-luxury aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248310819_hya8s3_HEBmHGUaAAACTmZ.jpg",
+      "https://cms-assets.youmind.com/media/1774248310818_c1700t_HEBmG-lagAA119u.jpg",
+      "https://cms-assets.youmind.com/media/1774248310896_53ouos_HEBmG7qacAAFWXJ.jpg",
+      "https://cms-assets.youmind.com/media/1774248311593_dhz7no_HEBmHL0aYAAJU7a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12633,
+    "content": "Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glass, placed in a serene natural setting with flowing water, green leaves, and soft sunlight rays, clean aesthetic inspired by The Body Shop, sustainability-focused branding, soft pastel tones, high-end product photography, calm and pure atmosphere”",
+    "title": "Eco-Friendly Skincare Product Photography",
+    "description": "A prompt for Gemini Nano Banana Pro to generate high-end product photography of a minimalist frosted glass skincare bottle in a serene natural setting, emphasizing a clean aesthetic, sustainability branding, soft pastel tones, and a calm, pure atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248298685_r8yenq_HD_XzJ-boAACphi.jpg",
+      "https://cms-assets.youmind.com/media/1774248298687_qn2aeb_HD_XzKAbYAAoOCF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12546,
     "content": "Ultra-realistic commercial product photography of a “{argument name=\"perfume name\" default=\"Mystic Eau De Parfum\"}” perfume bottle filled with translucent violet liquid, the round glass bottle centered and placed on a soft pastel surface with the metallic cap set beside it, surrounded by a minimal architectural setup of smooth lavender and white geometric arches and stepped platforms, delicate purple lilac flowers arranged around and above the scene adding a natural botanical touch, a subtle mist spray visible in the air near the bottle suggesting fragrance diffusion, monochromatic purple color palette with soft gradients in the background, clean studio environment with elegant symmetry, soft diffused lighting creating gentle shadows and smooth reflections on the glass surface, balanced composition with the product as the focal point and background elements slightly softened, high-end beauty advertising aesthetic emphasizing elegance and calm luxury, high detail, realistic textures, professional photography, high resolution, sharp focus.",
     "title": "Commercial Perfume Photography Prompt for Nano Banana Pro",

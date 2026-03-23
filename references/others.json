@@ -13,6 +13,39 @@
     "needReferenceImages": true
   },
   {
+    "id": 12670,
+    "content": "\"a Japanese suburb in the the 2000s atmosphere that like an old footage\"",
+    "title": "Japanese Suburb in 2000s Atmosphere (Part 2)",
+    "description": "A prompt used with Google Gemini 3.1's image generator, Nano Banana Pro, to create an image of a Japanese suburb with a nostalgic, old footage atmosphere from the 2000s.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248321720_5x9zz8_HDlzvsAbEAMOSc4.jpg",
+      "https://cms-assets.youmind.com/media/1774248321719_e5sm20_HDlzvq7aQAAmYJ6.jpg",
+      "https://cms-assets.youmind.com/media/1774248322036_qv6wtu_HDlzvrybEAEUBLz.jpg",
+      "https://cms-assets.youmind.com/media/1774248322629_j0wceo_HDlzvsCaAAAwXIg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12678,
+    "content": "a single-celled organism lifeform that is inspired by a kangaroo",
+    "title": "Kangaroo-Inspired Single-Celled Organism",
+    "description": "A prompt for the Nano Banana Pro image generator (Gemini 3.1) to create an image of a single-celled organism inspired by a kangaroo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248325956_krs5ty_HDlwqlIbEAQW-AY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12679,
+    "content": "a Jirai-kei fashion girl with an M18A1 (Claymore land mine) in the bamboo forest",
+    "title": "Jirai-kei Girl with Claymore in Bamboo Forest",
+    "description": "A prompt for the Nano Banana Pro image generator (Gemini 3) to create an image of a 'Jirai-kei' (landmine style) fashion girl holding an M18A1 Claymore landmine in a bamboo forest setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774248326489_an1idb_HDluTfRaMAA7iaW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12600,
     "content": "Image from {argument name=\"subject\" default=\"subject\"}, cinematic close-up, strict side profile view, looking downward with a pensive expression. Wearing a dark, textured garment. High-contrast Chiaroscuro lighting, deep black void background with no environmental details. Monochromatic black and white color grading with crushed shadows and brilliant highlights. Harsh side light source casting a sharp rim-light on the profile while leaving the frontal plane in deep shadow. Heavy analog film grain and high micro-contrast on skin texture, focusing on the interplay of light and shadow on smooth skin surfaces.",
     "title": "Cinematic Chiaroscuro Portrait Prompt",
