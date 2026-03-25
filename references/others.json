@@ -13,6 +13,48 @@
     "needReferenceImages": true
   },
   {
+    "id": 12713,
+    "content": "You are a world-class visual effects designer and photographic compositor specializing in glass, refraction, and atmospheric diffusion.\n\nYour task is to transform the uploaded image so that it appears behind a thick foggy frosted glass panel, while keeping only a very small selected region crystal clear.\n\nINPUT IMAGE:\n[UPLOAD IMAGE]\n\nINSTRUCTIONS:\n\n• Cover the entire image with a realistic frosted glass / fogged glass texture\n• The glass should create heavy diffusion, grainy micro-distortion, and refractive blur\n• The effect should resemble bathroom privacy glass or heavily steamed window glass\n\n• The distortion must include:\n\nmicro ripples\nrefractive glass warping\nlight scattering\nblurred shapes behind the glass\n\n• Only a very small area must remain perfectly clear\n\na narrow horizontal opening or small window\nsharp, fully visible detail inside that region\nthe rest of the image remains strongly diffused\n\n• The clear area should look like a wipe in the condensation or a cleaned patch on the glass\n\nGLASS EFFECT DETAILS:\n\n• high density frosted glass texture\n• strong diffusion and noise pattern\n• subtle depth refraction\n• irregular organic blur pattern\n• soft lighting scattering through the glass\n\nSTYLE:\n\n• hyper realistic optical glass simulation\n• photographic quality\n• cinematic lighting\n• modern editorial design aesthetic\n\nCOMPOSITION:\n\n• subject visible through glass\n• tiny clear window revealing key detail (eyes / face / object)\n• rest of the frame heavily frosted and distorted\n\nIMPORTANT:\n\nThe frosted glass must look physically real, not a simple blur filter.\nThe clear region must be sharp and untouched, creating strong contrast with the fogged glass surface.",
+    "title": "Frosted Glass Effect Prompt",
+    "description": "A detailed Nano Banana prompt designed to transform an uploaded image so that it appears behind a heavily frosted glass panel, with only a small, clear window revealing sharp detail. The prompt specifies the visual effects, composition, and style for hyper-realistic optical simulation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421472597_k6d365_HEMR_DsW4AAKh4G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12735,
+    "content": "The Great Hall of Hogwarts during a thunderstorm, the enchanted ceiling showing violent lightning striking directly overhead, thousands of floating candles flickering wildly, rain phasing through the magical ceiling and evaporating inches before touching the students, long tables stretching into foggy darkness, gothic architecture dripping with atmosphere",
+    "title": "Hogwarts Great Hall during a thunderstorm",
+    "description": "A descriptive prompt for generating a dramatic scene of the Hogwarts Great Hall during a thunderstorm. The prompt specifies the enchanted ceiling showing violent lightning, thousands of flickering floating candles, and rain evaporating just above the students, emphasizing the gothic architecture and foggy darkness. This prompt is listed for Nano Banana Pro, Midjourney v8, and Uni -1.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421483152_kkkv13_HEK0-eeaIAEbCKy.jpg",
+      "https://cms-assets.youmind.com/media/1774421483303_yro60e_HEK05nkaIAQrLn9.jpg",
+      "https://cms-assets.youmind.com/media/1774421483358_yqsar6_HEK0_V6aIAYP6Fg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12746,
+    "content": "“Ultra-cinematic, hyper-realistic depiction of Katyayani, the fierce warrior form of Durga created to defeat Mahishasura.\n\nShe appears as a powerful divine warrior woman with natural human skin texture, realistic lighting, visible pores, and authentic facial details—avoiding any plastic or artificial AI look.\n\nShe is seated majestically while riding a powerful lion, her posture confident and commanding. The lion moves forward with strength and intensity, muscles visible beneath detailed fur, symbolizing courage and dominance over evil forces.\n\nHer expression is calm yet fierce, reflecting both compassion and unstoppable divine power.\n\nShe has four arms:\n• One hand holding a radiant divine sword, symbolizing the destruction of evil\n• One hand holding a lotus flower, representing purity and spiritual wisdom\n• One hand raised in Abhaya Mudra, granting protection and fearlessness\n• One hand in Varada Mudra, blessing devotees with success and fulfillment\n\nShe wears a deep red warrior-style saree with golden accents, flowing dynamically in the wind. Her royal golden crown is elegant yet strong, emphasizing her divine warrior identity.\n\nA subtle indigo glow shines from her forehead, representing the Ajna chakra, symbolizing spiritual insight and divine awareness.\n\nBehind her radiates a powerful fiery red and golden aura, like sacred flames mixed with divine sunlight.\n\nThe background shows a dramatic mythological battlefield sky with swirling storm clouds and powerful sun rays breaking through, symbolizing the victory of divine power over darkness.\n\nWind moves her hair and garments while sparks of golden energy and dust particles float in the air, creating motion and intensity.\n\nCamera angle: low cinematic hero angle, looking upward at the goddess riding the lion to emphasize her divine authority and warrior strength.\n\nLighting: dramatic cinematic lighting with volumetric god rays, fiery highlights, and deep shadows.\n\nMood: fearless, protective, powerful warrior goddess energy.\n\nStyle: ultra-photorealistic mythological cinematic realism, HDR lighting, extremely detailed fabrics, metals, and lion fur, natural human skin tones, epic fantasy realism, vertical 9:16 composition”",
+    "title": "Ultra-Photorealistic Katyayani Warrior Goddess Prompt",
+    "description": "A highly detailed, narrative prompt for Gemini Nano Banana Pro to generate an ultra-cinematic, hyper-realistic depiction of the Hindu goddess Katyayani, emphasizing natural human skin texture, fierce yet calm expression, divine attributes (four arms, sword, lotus), and dramatic mythological battlefield lighting and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421488277_mrryqe_HEKWrbwbAAAI8-M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12743,
+    "content": "a meticulously composed still life of a cheeseburger, a tall glass of wine, and a heap of french fries, where the entire scene and every object is made out of vibrant, translucent colorful bubbles with even more intense glossy surfaces, clustered highlights and multi-layered holographic iridescent shine, set against a softly blurred yet visually rich dark baroque-inspired background with ornate swirling decor and subtle gilded patterns that make the glowing bubbles pop, dramatic studio lighting from the side to emphasize extreme reflections and refractions across every bubble, ultra high detail, hyper-polished surfaces, no legible text, logos, or signatures anywhere in the image",
+    "title": "Bubbly Cheeseburger Still Life Prompt",
+    "description": "A detailed prompt for generating a meticulously composed still life image of a cheeseburger, wine, and fries, where all objects are made of vibrant, translucent, colorful bubbles with intense glossy and iridescent shine, set against a dark baroque background. The image is generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421487030_io54bv_HEH0RwRWsAE2bh5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12670,
     "content": "\"a Japanese suburb in the the 2000s atmosphere that like an old footage\"",
     "title": "Japanese Suburb in 2000s Atmosphere (Part 2)",

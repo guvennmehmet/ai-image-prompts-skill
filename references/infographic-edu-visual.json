@@ -56,6 +56,54 @@
     "needReferenceImages": false
   },
   {
+    "id": 12711,
+    "content": "<instruction>\n \nInput A is a Complex Machine (e.g., {argument name=\"machine type\" default=\"A Space Shuttle\"}, A Grand Piano, A Clockwork Watch).\nDeconstruct into   3 Assembly Phases  :\n   Phase 1:  Raw chassis/frame.\n   Phase 2:  Internal gears/wires.\n   Phase 3:  Finished exterior.\n2. Container (The Geometric Unfold):\nGoal: \"Kinetic Blueprint\" Photography.\nThe Object: A series of Triangular Acrylic Wedges attached to a central hinge, opening like a blooming flower or a tool-kit.\nThe Layout: The wedges are partially unfolded across a drafting table surface.\n3. The Dioramas (The Exploded View):\nInternal Content: Each wedge holds a different \"Phase\" of the machine.\nVisual Link: Real copper wires or brass chains physically cross the gaps between the acrylic wedges, \"connecting\" the assembly line.\n4. Visual \nBackground: A cluttered workshop desk with blueprints and calipers.\nLighting: Hard side-lighting to cast shadows of the internal gears through the clear acrylic walls onto the table.\nOutput: ONE image, 16:9 Aspect Ratio, 3D Macro Render, \"Technical Art\" aesthetic.\n</instruction>",
+    "title": "Complex Machine Deconstruction Blueprint Prompt",
+    "description": "A complex, multi-stage Nano Banana prompt designed to generate a 'Kinetic Blueprint' photograph of a complex machine (like a Space Shuttle) being deconstructed into three assembly phases, displayed within partially unfolded triangular acrylic wedges on a drafting table, emphasizing technical art and macro rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421471177_gjb6i4_HECr6nuXwAADiZP.jpg",
+      "https://cms-assets.youmind.com/media/1774421471558_ss79wf_HECrRc7bgAAd4NX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12723,
+    "content": "CONCEPT:\nA futuristic architectural blueprint of the Burj Khalifa projected as a glowing hologram, actively constructing itself in mid-air through robotic precision and digital intelligence.\n\nSUBJECT:\nA semi-transparent holographic version of the Burj Khalifa floating above a sleek glass smart table. The lower portion appears as a glowing blue wireframe blueprint, while the upper portion transitions into a fully photorealistic skyscraper with reflective glass panels and metallic structure as it builds itself in real-time.\n\nENVIRONMENT:\nA high-tech architectural lab with a dark, minimal interior. The blueprint originates from a glossy black glass table embedded with touch controls, glowing UI panels, and soft neon edges. Subtle reflections of the hologram appear on the table surface. Background is clean, futuristic, and slightly blurred.\n\nSTRUCTURAL DETAILS:\nThe central spire rises as glowing gridlines before solidifying into steel and glass  \nTiered setbacks of the tower assemble through hovering robotic drones  \nGlass facade panels lock into place with precise alignment and reflections  \nLaser beams scan and map each level during construction  \nSmall AI drones orbit around the structure, actively building and welding components  \nMaterials transition from holographic light into real textures — polished glass, steel beams, and concrete core  \nFloating UI overlays show measurements, grids, and rotating architectural schematics\n\nVISUAL MECHANIC:\nThe blueprint exists in layered form — base is a glowing grid, mid-layer is a semi-transparent wireframe, and top layer is fully realistic. Certain sections flicker between hologram and solid material, emphasizing the transformation.\n\nLIGHTING:\nDark environment with strong neon blue and cyan holographic glow. Subtle rim lighting created by reflections from the hologram. Volumetric light beams and soft particles enhance depth.\n\nCAMERA & LENS:\nShot on a full-frame camera, 35mm lens. Slight low-angle perspective to emphasize scale and height. Sharp focus on the hologram core with slight background blur.\n\nCOMPOSITION:\nVertical 2:3 format. The Burj Khalifa hologram is centered, rising upward. UI elements orbit symmetrically around it. Clean negative space enhances the futuristic aesthetic.\n\nSTYLE & MOOD:\nFuturistic, cinematic, high-tech, and minimal. Feels like advanced AI-driven architecture and innovation. Clean, premium, and visually striking.\n\nDETAILS:\nUltra-sharp holographic lines, glowing particles, realistic glass reflections, smooth transitions between digital and physical materials, micro UI details, 8K resolution, HDR, cinematic color grading with blue/cyan tones and deep contrast.\n\nNEGATIVE PROMPT:\ncluttered environment, low detail, dull lighting, messy UI, cartoon style, distorted structure, blurry hologram, watermark",
+    "title": "Futuristic Holographic Burj Khalifa Blueprint",
+    "description": "A detailed prompt for generating a futuristic, cinematic image of the Burj Khalifa architectural blueprint projected as a glowing, actively constructing hologram above a high-tech glass table. The prompt specifies the transition from wireframe to photorealistic structure, lighting (neon blue/cyan), and environment (minimal architectural lab).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421477128_lcgq2f_HEMIVaQa0AAqry1.jpg",
+      "https://cms-assets.youmind.com/media/1774421477343_u93biq_HEMIVZgbEAAdKD0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12717,
+    "content": "[NATURAL OBJECT] dissected as if by a master naturalist who found it in the wild. Split and pinned open like a specimen, but lit as if Caravaggio worked for National Geographic.\nEvery internal structure glowing with its own material truth. Cross-section so sharp it feels violent. Interior so beautiful it feels sacred. The full object present, one half intact, one half opened to its core, every layer at the resolution of obsession.\nBackground: pure black velvet. The object floats in it like something precious and dangerous.\nLabels pressed close, handwritten-weight serif, never floating: \"[STRUCTURE]\" / \"[MATERIAL TRUTH]\" / \"[AGE OR SCALE]\"\n\"{argument name=\"object\" default=\"[OBJECT]\"} DISSECTED\" title in warm ivory caps, upper left. \"{argument name=\"line\" default=\"[One line that makes you lean closer]\"}\" italic beneath.\nMood: Audubon illustration meets Caravaggio meets the most beautiful science photograph ever taken. 4K, specimen lighting, extraordinary interior detail, nothing clinical, everything alive.",
+    "title": "The Naturalist Dissection Prompt",
+    "description": "A detailed Nano Banana 2 prompt for generating an image of a natural object (like a flower or insect) dissected and pinned open like a specimen, rendered with the lighting style of Caravaggio and the detail of National Geographic photography, emphasizing the contrast between the intact and opened halves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421474007_wzpn9i_HEL6SLdaIAkznX8.jpg",
+      "https://cms-assets.youmind.com/media/1774421474014_cf4yi1_HEL6KzTXAAAfEbE.jpg",
+      "https://cms-assets.youmind.com/media/1774421474033_s5hn4u_HEL6Z0ZaIAINvyW.jpg",
+      "https://cms-assets.youmind.com/media/1774421474599_wan05c_HEL6imnWoAA_yAJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12753,
+    "content": "Create a page from a textbook on \"{argument name=\"subject\" default=\"Biology\"}\" used in a school in a \"{argument name=\"worldview\" default=\"Fantasy World\"}\".\nThe content of the textbook must not be based on the real world, but must strictly adhere to the specified worldview. The content should be written in accurate Japanese, avoiding duplication of content and font corruption. The composition is a realistic photo of an open textbook taken directly from above, not an illustration.",
+    "title": "Template for generating a fictional textbook page",
+    "description": "A reusable template prompt for Nano Banana 2 designed to generate a page from a fictional textbook. The user can customize the world setting and subject, ensuring the content is accurate Japanese, avoids font corruption, and is presented as a realistic photo of an open textbook viewed from above.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421491601_6c2ara_HEKC5FTaIAYuBxE.jpg",
+      "https://cms-assets.youmind.com/media/1774421491654_nev5r1_HEKC5FEaIAMZ-5G.jpg",
+      "https://cms-assets.youmind.com/media/1774421491550_xqhs11_HEKC5FEaIAIVX3J.jpg",
+      "https://cms-assets.youmind.com/media/1774421492702_ghqkrd_HEKDFaLasAAFH6d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12685,
     "content": "A photorealistic studio shot. On a wooden table sits a solid red cube. Resting exactly on top of the red cube is a glowing yellow sphere. Directly to the left of the red cube is a green ceramic coffee mug. Directly behind the red cube is a tall, ornate silver candlestick. Behind all of these objects is a large, clear mirror reflecting the scene. In the mirror's reflection, the red cube, the yellow sphere, and the silver candlestick are perfectly reflected, but the green ceramic coffee mug is completely absent from the reflection. The space where the green mug should be in the mirror shows only the empty wooden table.",
     "title": "Object Reasoning Test Prompt for Nano Banana 2",

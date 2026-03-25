@@ -20,6 +20,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 12721,
+    "content": "Transform this movie poster into origami paper craft. Every compositional element, character pose, typography, color palette, and layout is preserved exactly as the original — only the texture and material has changed. Every surface, figure, sky, shadow, and background element is made from precisely folded paper. Sharp geometric creases, clean triangular folds, layered paper edges, visible fold lines across all surfaces including faces and clothing. Paper thickness visible at every edge. Lighting casts soft shadows that reveal the folded geometry underneath. Photorealistic studio render.”",
+    "title": "Origami Paper Craft Movie Poster Transformation",
+    "description": "A detailed prompt for transforming a movie poster into a photorealistic origami paper craft. The instruction emphasizes preserving all compositional elements, colors, and typography, while rendering every surface with precise folds, creases, and visible paper texture, set in a studio render.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774421476216_vq3ve9_HEM4jN4aIAIMJlD.jpg",
+      "https://cms-assets.youmind.com/media/1774421476254_ejzi6t_HEM4irKXoAAdySr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12702,
     "content": "Title\n\"The End of the Magic Ministry ~Aries' Hellfire~\"\n\nAries = Ram\n\nThe co-starring of\nWhat a day!\nand\nWhat a fire!\n\nis amazing...",
     "title": "Four-Panel Manga: The End of the Magic Ministry",
