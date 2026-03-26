@@ -20,6 +20,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 12765,
+    "content": "\"Image from subject, medium eye-level shot. Subject standing, looking directly forward, right arm extended with flat palm in a stopping gesture. Suspended metallic projectiles fill the foreground in mid-air. Wearing a high-collared black long coat and dark oval sunglasses. Background features dark, ornate walls with a classical mural and wood paneling. Heavy monochromatic green color wash. High-contrast directional lighting with deep shadows and specular highlights on the floating metal. Shallow depth of field, cinematic 35mm film grain. \"",
+    "title": "Cinematic Action Shot with Suspended Projectiles",
+    "description": "A detailed prompt (v.066) for Nano Banana to generate a cinematic, high-contrast image. It specifies a medium eye-level shot of a subject in a black long coat making a stopping gesture, with metallic projectiles suspended in the foreground and a dark, ornate background, rendered with a monochromatic green wash and 35mm film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508262941_dcj8oh_HEQW7JVXQAEOJRh.jpg",
+      "https://cms-assets.youmind.com/media/1774508262996_reu19u_HEQW7JbWQAAuqEo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12777,
+    "content": "Create DAY 2 as a confident night-time luxury moodboard with a darker, more powerful aesthetic. Maintain the clean minimal editorial structure with strong hierarchy and negative space. Use soft ivory or cool champagne neutral background (no warm gold tones). Same minimal structure as DAY 1 with elevated contrast and sharper visual presence. Title: DAY 2 in large bold modern high-fashion serif in chrome silver, mirror-like metallic finish, sharp and reflective with cool-toned metallic reflections, strong contrast, modern luxury feel. Quote: 'Own the night without asking.' in minimal refined script in soft silver. Strict rules: no gold tones, typography must be chrome silver, cool modern aesthetic only. Hero dress: black or deep metallic satin halter-neck or sleek slip evening dress, body-hugging, modern, slightly daring cut, luxury finish. Shoes: one pair of black or chrome metallic heels, sharp silhouette. Bag: one small luxury evening bag in black, chrome, or cool metallic tone. Jewelry: one bold minimal silver piece, such as cuff or statement earrings. Photo: luxury rooftop or city night dinner setting with skyline lights, elegant candles, cinematic night atmosphere. Cocktail: one espresso martini or dark-toned cocktail in a refined glass. Style shift from soft romantic beach to confident night city energy, mood bold, sharp, magnetic, modern, high-fashion. Visual language: modern fashion campaign, minimal, sharp, high contrast. Lighting feel: cool-toned highlights enhancing chrome reflections. Aspect ratio 4:5, render style luxury_editorial_collage_realism, sharpness ultra_crisp, color grade midnight_black_chrome_silver. Must have: DAY 2 chrome silver title, black or metallic dress, one pair of heels, one bag, one jewelry piece, one cocktail, one city night photo, minimal layout. Negative prompt: gold typography, warm tones, yellow dress, beach vibe, extra accessories, messy layout, low contrast, cheap styling, low detail. Also create a matching realistic fashion scene using the reference woman as the exact subject, keep her face, identity, and proportions consistent, transform into DAY 2 night luxury fashion setting, single realistic cinematic scene not collage. Environment: luxury rooftop or elegant city night setting with soft lights, modern atmosphere, mood confident, modern, magnetic, night luxury. All outfit, accessories, and styling must naturally match the reference woman's appearance, proportions, and aesthetic. Outfit: high-fashion evening outfit that suits the reference woman perfectly, modern, elegant, slightly bold, night-appropriate. Bag placed naturally on a table or next to her, never floating. Shoes worn by the woman, fully integrated with the outfit. Jewelry worn on the woman, subtle but luxury, not separate objects. Drink either in her hand or placed naturally on a table, luxury cocktail matching the night setting. No floating objects, no random scatter, realistic positions only, all objects must obey real-world placement and balance. Camera: medium or full-body fashion shot, editorial slightly cinematic, lens 50mm or 85mm, focus sharp on face and outfit. Lighting: night luxury lighting, soft highlights with subtle reflections, clean modern contrast. Must have: same reference woman, identity preserved, cohesive styling, realistic placement, no floating objects, night luxury mood, single scene no collage. Negative: collage, floating bag, floating shoes, floating jewelry, random objects, bad placement, different face, identity change, messy composition, low realism.",
+    "title": "Luxury Night Fashion Moodboard (Day 2)",
+    "description": "A highly detailed, structured prompt for generating a luxury fashion moodboard (Day 2) with a dark, confident, and high-contrast aesthetic. It specifies chrome silver typography, a black/metallic evening dress, and a city night setting, requiring image-to-image mode to match a reference layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508268556_t5q173_HERKLgYXIAAH-wY.jpg",
+      "https://cms-assets.youmind.com/media/1774508268558_c9jj5y_HERKLgXXkAApHiw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12760,
+    "content": "A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twist jump, light trails following her limbs. Background: prism-shifting gradient ({argument name=\"gradient color 1\" default=\"hot magenta\"} to {argument name=\"gradient color 2\" default=\"sapphire\"}) with refracted lens flares. The model wears iridescent Nike runner tights and a cropped tech hoodie in holographic white. Bold serif \"NIKE\" and motion-glitched \"LUMINA\" in layered text behind. High-energy, futuristic aesthetic with fashion gloss. --ar 3:4 --raw --stylize 750",
+    "title": "Dynamic Futuristic Nike Fashion Ad Prompt for Nano Banana Pro",
+    "description": "A prompt for Google Nano Banana Pro to generate a dynamic, futuristic fashion advertisement for Nike. It features a hyper-realistic model mid-twist jump with light trails, a prism-shifting gradient background (magenta to sapphire), holographic apparel, and motion-glitched text overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508259642_fmoenk_HEQwdN-boAEM0up.jpg",
+      "https://cms-assets.youmind.com/media/1774508259779_ntgt9p_HEQwdNZbYAAuc61.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12721,
     "content": "Transform this movie poster into origami paper craft. Every compositional element, character pose, typography, color palette, and layout is preserved exactly as the original — only the texture and material has changed. Every surface, figure, sky, shadow, and background element is made from precisely folded paper. Sharp geometric creases, clean triangular folds, layered paper edges, visible fold lines across all surfaces including faces and clothing. Paper thickness visible at every edge. Lighting casts soft shadows that reveal the folded geometry underneath. Photorealistic studio render.”",
     "title": "Origami Paper Craft Movie Poster Transformation",

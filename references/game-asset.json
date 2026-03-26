@@ -1,5 +1,15 @@
 [
   {
+    "id": 12779,
+    "content": "A cute 3D chibi-style cartoon sticker set featuring the same character in various emotions and poses (use the uploaded face as reference). Shiny, expressive eyes; soft round face; slightly oversized head; small body proportions. Wearing a leather jacket {argument name=\"jacket color\" default=\"Blue\"} over a white top. Each pose shows a different expression: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging, playing guitar. 3D render inspired by Pixar/Disney, smooth plastic-like texture, soft lighting, pastel beige background. Clean white sticker outline around each character, minimal aesthetic, highly detailed, ultra cute, emoji-like expressions, high resolution, studio quality.",
+    "title": "3D Chibi Sticker Set with Customizable Jacket Color",
+    "description": "A prompt for generating a set of 3D chibi-style cartoon stickers featuring the same character in various emotions and poses. It specifies a Pixar/Disney 3D render style, soft lighting, and a clean white sticker outline, requiring a reference image for the character's face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508270023_zi6nqo_HERCcxwa0AApvnL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12715,
     "content": "A high-quality 3D render of the designer toy from [Reference Image 1]. Requirement: The character must retain its exact original outfit . The Mask: Tightly fit a custom \"Bat Cowl\" ([Reference Image 2]) over the head.\n\nThe Cowl: Must match the exact color, material, and design, with size adjusted as needed to fit the reference character’s head.\nScaling: Tailored, bespoke fit with a shortened chin guard precisely following the character's jawline. Cowl size is adjusted to match the reference character exactly. The cowl fits seamlessly, with no gap between the head and the chin guard.\nEars: Only the sharp bat ears are visible; hide original ears, headwears, horn, accessories, hat, helmet entirely.\nThe Cutout: The cowl features a cutout area; through this opening, the underlying part of the reference character must be visible exactly as it is, with no additions, removals, or alterations.\nEyes: Use the exact glowing eye effect from the reference cowl image.\nConstraint: No nose or eyes should be rendered on the cowl or the character's face.\n8k, studio lighting, Background must match the reference character’s background exactly.\nLighting\nLighting should match the reference character’s original light behavior, and the cowl must follow and respond to the same lighting conditions.\nCharacter Likeness Integrity (CRITICAL)\n\nMaintain the exact eye shape, spacing, stylization, patterns, silhouette, and original color palette from the reference.\n\nDo not humanize.\n\nDo not alter anatomy.\n\nDo not modify facial structure.\n\nIdentity must remain instantly recognizable.\n\nIf the character wears a balaclava, mask, helmet, or covered face, don't invent facial anatomy.\nNo added nose.\n\nNo added mouth.\n\nNo visible skin where the reference does not show it.",
     "title": "Bat Cowl Protocol Character Prompt",

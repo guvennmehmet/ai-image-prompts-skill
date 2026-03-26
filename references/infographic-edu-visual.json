@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 12766,
+    "content": "Anchor: The word \"{argument name=\"word to construct\" default=\"Tesla\"}\" :: constructed entirely from printed circuit board traces, where each letterform is a functional-looking PCB layout — solder pads as terminals, vias as joints, trace paths forming the strokes ::4 Morphology: Technical PCB illustration. Letter strokes are traces of varying widths. Circular vias punctuate stroke junctions. Solder pad rectangles anchor stroke terminals. The letters read as living circuit diagrams. Monochrome technical vector ::3 Material Physics: Jet black trace lines on white substrate, exposed copper-pad circles with concentric detail rings, uniform stroke weight with deliberate corner chamfers (45°) ::3 Illumination: Flat technical illustration lighting, no depth, pure 2D schematic clarity ::2 Render Stack: Electronics schematic aesthetic, hardware documentation style, Gerber file visual output ::1 Negative: [Silhouette shapes, actual electronic components, chip illustrations, realistic PCB green color, perspective, photographic textures, solder reflections] ::-1",
+    "title": "PCB Word Art Schematic for 'Tesla'",
+    "description": "A technical prompt for Nano Banana Pro using weighted terms (::) to generate a 2D schematic illustration of the word 'Tesla' constructed entirely from printed circuit board (PCB) traces. It specifies monochrome coloring, technical vector style, and flat lighting, while using a negative prompt to exclude realistic textures or colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508262762_4ktyii_HEFZC2sXUAAg6AE.jpg",
+      "https://cms-assets.youmind.com/media/1774508262843_2dluf1_HEFZC4NbAAAu4kU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12711,
     "content": "<instruction>\n \nInput A is a Complex Machine (e.g., {argument name=\"machine type\" default=\"A Space Shuttle\"}, A Grand Piano, A Clockwork Watch).\nDeconstruct into   3 Assembly Phases  :\n   Phase 1:  Raw chassis/frame.\n   Phase 2:  Internal gears/wires.\n   Phase 3:  Finished exterior.\n2. Container (The Geometric Unfold):\nGoal: \"Kinetic Blueprint\" Photography.\nThe Object: A series of Triangular Acrylic Wedges attached to a central hinge, opening like a blooming flower or a tool-kit.\nThe Layout: The wedges are partially unfolded across a drafting table surface.\n3. The Dioramas (The Exploded View):\nInternal Content: Each wedge holds a different \"Phase\" of the machine.\nVisual Link: Real copper wires or brass chains physically cross the gaps between the acrylic wedges, \"connecting\" the assembly line.\n4. Visual \nBackground: A cluttered workshop desk with blueprints and calipers.\nLighting: Hard side-lighting to cast shadows of the internal gears through the clear acrylic walls onto the table.\nOutput: ONE image, 16:9 Aspect Ratio, 3D Macro Render, \"Technical Art\" aesthetic.\n</instruction>",
     "title": "Complex Machine Deconstruction Blueprint Prompt",

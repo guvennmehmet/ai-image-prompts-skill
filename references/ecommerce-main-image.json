@@ -1,5 +1,54 @@
 [
   {
+    "id": 12803,
+    "content": "Ultra-realistic high-end beverage product photography set in a premium studio environment with a seamless gradient background inspired by {argument name=\"fruit type\" default=\"FRUIT\"} tones, blending rich {argument name=\"color shade\" default=\"COLOR\"} shades with soft complementary hues. The atmosphere is clean, vibrant, and luxurious with a refined commercial aesthetic.\nThe surface is a glossy reflective liquid plane in matching {argument name=\"fruit type 2\" default=\"FRUIT\"}-inspired tones, featuring subtle ripples and smooth reflections, enhancing depth and realism.\nCenter frame features a chilled matte aluminum can with a smooth premium gradient finish inspired by [FRUIT] colors. The can is covered with ultra-fine condensation droplets, showcasing realistic cold texture and freshness while maintaining a polished luxury look.\nThe can design features large, elegant flowing script typography reading \"Nexora\" in a glossy gradient inspired by [FRUIT] tones, with subtle luminous highlights. Beneath it, minimal modern text enhances branding, along with a small circular seal in metallic finish.\nAbove the can, fresh [FRUIT] elements (whole, sliced, or stylized pieces) are captured mid-air in a dynamic yet controlled composition. A rich {argument name=\"liquid texture\" default=\"TEXTURE\"} liquid stream matching the fruit flows down into or around the can, creating a smooth, elegant crown splash with high-speed fluid detail.\nAdditional droplets and fruit particles are suspended in motion, enhancing realism and depth. The reflective surface below mirrors the product with soft distortions and cinematic detail.\nLighting is studio-grade and premium:\nsoft diffused lighting for clean highlights\nsubtle rim lighting to enhance edges\ngentle glow for a luxury finish\nCamera: macro lens, shallow depth of field, cinematic front angle with slight push-in composition. Background softly blurred while the product remains ultra-sharp.\nStyle: ultra-luxury commercial beverage ad, hyper-realistic textures, 8K HDR, cinematic lighting, premium branding, vibrant yet refined aesthetic.",
+    "title": "Ultra-realistic Beverage Product Photography Prompt",
+    "description": "A highly detailed prompt for Nano Banana Pro to generate ultra-realistic, high-end beverage product photography, focusing on a chilled matte aluminum can (Nexora) with condensation, dynamically suspended fruit elements, and a liquid stream, all set in a premium studio environment with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508281557_jkc2wb_HEREU5PaEAANZ76.jpg",
+      "https://cms-assets.youmind.com/media/1774508281472_eiq3wq_HEREU7FacAEvaWd.jpg",
+      "https://cms-assets.youmind.com/media/1774508281559_rf21vn_HEREU8-asAAwQT9.jpg",
+      "https://cms-assets.youmind.com/media/1774508282253_pjh354_HEREVBQaMAAye_n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12755,
+    "content": "High-end commercial product photography of a {argument name=\"product\" default=\"yogurt cup\"} labeled “{argument name=\"flavor\" default=\"Chergui Crème Cherry Yogurt\"}”, captured mid-air with the cup slightly tilted and the {argument name=\"lid detail\" default=\"foil lid partially peeled back\"} revealing creamy texture inside. The cup features a rich {argument name=\"packaging color\" default=\"deep purple packaging with cherry graphics and white typography\"} with subtle condensation droplets to enhance freshness. A dynamic (milk splash wave) wraps around both sides of the cup in a symmetrical flowing motion, creating a sense of energy and fluid movement. Multiple (fresh cherries with glossy skin and a few green leaves) are suspended in the air around the product, along with small floating milk droplets to enhance realism. Background is a smooth (solid purple gradient backdrop) matching the product color palette, creating a bold and premium visual identity.  Composition is a (centered front-facing angle with slight tilt) keeping the product as the hero while emphasizing motion. Lighting is soft studio lighting with bright highlights on the milk splash, gentle shadows beneath the cup, and glossy reflections enhancing the creamy texture. Fine details like liquid thickness, fruit shine, and packaging print are crisp and highly defined. Clean, vibrant, high-energy composition emphasizing creaminess, flavor, and freshness.",
+    "title": "High-End Commercial Yogurt Product Photography Prompt for Nano Banana Pro",
+    "description": "A highly detailed prompt for generating commercial product photography of a yogurt cup. It specifies the product name, packaging design, dynamic elements like a milk splash wave, surrounding elements (cherries), background gradient, composition, and lighting to achieve an ultra-realistic, high-energy, premium visual identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508256710_f0bf3n_HEQEUczbwAAxnwi.jpg",
+      "https://cms-assets.youmind.com/media/1774508256694_12hluf_HEQEUZlbYAA-dBQ.jpg",
+      "https://cms-assets.youmind.com/media/1774508256674_5kn1dn_HEQEUZsacAA6UcG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12776,
+    "content": "High-end commercial product photography of a ({argument name=\"product\" default=\"yogurt cup\"}) labeled “({argument name=\"label\" default=\"Chergui Crème Cherry Yogurt\"})”, captured mid-air with the cup slightly tilted and the ({argument name=\"lid condition\" default=\"foil lid partially peeled back\"}) revealing creamy texture inside. The cup features a rich ({argument name=\"packaging\" default=\"deep purple packaging with cherry graphics and white typography\"}) with subtle condensation droplets to enhance freshness.\nA dynamic (milk splash wave) wraps around both sides of the cup in a symmetrical flowing motion, creating a sense of energy and fluid movement. Multiple (fresh cherries with glossy skin and a few green leaves) are suspended in the air around the product, along with small floating milk droplets to enhance realism. Background is a smooth (solid purple gradient backdrop) matching the product color palette, creating a bold and premium visual identity.\n\nComposition is a (centered front-facing angle with slight tilt) keeping the product as the hero while emphasizing motion. Lighting is soft studio lighting with bright highlights on the milk splash, gentle shadows beneath the cup, and glossy reflections enhancing the creamy texture. Fine details like liquid thickness, fruit shine, and packaging print are crisp and highly defined. Clean, vibrant, high-energy composition emphasizing creaminess, flavor, and freshness.\n\nUltra-realistic, hyper-detailed textures, professional food advertising photography, high resolution, 8k.",
+    "title": "High-End Commercial Yogurt Product Photography",
+    "description": "A detailed prompt for generating high-end commercial product photography of a yogurt cup, captured mid-air with a dynamic milk splash wave. It specifies packaging details, surrounding elements (fresh cherries), lighting (soft studio), and composition (centered, front-facing angle) for a clean, vibrant, and ultra-realistic result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508268814_ku5fsz_HEPkVvbaIAAgif9.jpg",
+      "https://cms-assets.youmind.com/media/1774508268823_vf1oyr_HEPkV0SaMAAvxpK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12761,
+    "content": "High-end commercial beauty product photography of a {argument name=\"product\" default=\"lip oil bottle\"} labeled “{argument name=\"brand name\" default=\"Veloura Lippie Bestie Lip Oil\"}”, placed slightly off-center against a rich {argument name=\"background color\" default=\"deep berry red gradient background\"} with a glossy premium aesthetic. The bottle is made of (translucent glass in dark red tone) with realistic liquid texture visible inside and multiple glossy oil droplets running down the surface. The cap is open, with a (soft applicator wand) lifted above the bottle, holding a thick drop of (viscous lip oil) that is dripping downward mid-air, captured in a frozen motion moment. Surrounding the base are (fresh blackberries and a sliced blackberry) with rich juice texture and subtle wet shine, enhancing the flavor-inspired concept. Surface beneath is slightly reflective with a thin layer of liquid, creating soft reflections of the bottle and fruits. Composition is a (close-up front-facing product shot) with strong focus on the dripping applicator and bottle details. Lighting is controlled studio lighting with soft highlights, deep shadows, and glossy reflections to emphasize liquid textures and premium finish. Clean premium cosmetic advertising layout with negative space on the left side for text placement. Ultra-realistic, hyper-detailed textures, luxury skincare advertising style, high resolution, 8k.",
+    "title": "Commercial Lip Oil Product Photography Prompt for Nano Banana Pro",
+    "description": "A detailed prompt for Nano Banana Pro to generate high-end commercial beauty product photography of a lip oil bottle. It specifies the product details, packaging materials, dynamic elements (dripping applicator wand), surrounding props (blackberries), lighting, and composition to achieve a luxury cosmetic advertising style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774508259503_oji38k_HEO4bUxbwAA-Uy3.jpg",
+      "https://cms-assets.youmind.com/media/1774508259586_goaikz_HEO4bVfa0AAuzT1.jpg",
+      "https://cms-assets.youmind.com/media/1774508259780_9ew2tj_HEO4bUsa8AA3qfQ.jpg",
+      "https://cms-assets.youmind.com/media/1774508260412_5k64cq_HEO4bWHbkAAsG-K.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12726,
     "content": "{\n  \"prompt\": \"Ultra-realistic 8K macro product shot, pure white background. Giant transparent glass teacup with dramatic hot tea splash frozen mid-air. Tiny construction workers in yellow helmets climbing ladders on the rim, sweeping the saucer. Steam particles rising, rich amber liquid texture, dramatic studio lighting with high-contrast shadows and reflections\",\n  \"negative_prompt\": \"blurry, people faces, text\"\n}",
     "title": "Macro Product Shot of Teacup with Construction Workers",
