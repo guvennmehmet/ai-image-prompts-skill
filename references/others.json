@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 12850,
+    "content": "A seamless pattern of cute, cartoonish fancy goldfish with large bulging eyes on a cream-colored background. The goldfish are round and orange with large black eyes and delicate, wispy fins and tails. The pattern is dense, with fish scattered randomly across the frame, creating a playful and whimsical feel.",
+    "title": "Seamless Pattern of Cartoonish Fancy Goldfish",
+    "description": "A simple prompt for generating a seamless pattern suitable for textiles or wallpaper, featuring cute, cartoonish fancy goldfish with large eyes on a cream background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594339849_gj2lni_HEUzb-faUAABgli.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12713,
     "content": "You are a world-class visual effects designer and photographic compositor specializing in glass, refraction, and atmospheric diffusion.\n\nYour task is to transform the uploaded image so that it appears behind a thick foggy frosted glass panel, while keeping only a very small selected region crystal clear.\n\nINPUT IMAGE:\n[UPLOAD IMAGE]\n\nINSTRUCTIONS:\n\n• Cover the entire image with a realistic frosted glass / fogged glass texture\n• The glass should create heavy diffusion, grainy micro-distortion, and refractive blur\n• The effect should resemble bathroom privacy glass or heavily steamed window glass\n\n• The distortion must include:\n\nmicro ripples\nrefractive glass warping\nlight scattering\nblurred shapes behind the glass\n\n• Only a very small area must remain perfectly clear\n\na narrow horizontal opening or small window\nsharp, fully visible detail inside that region\nthe rest of the image remains strongly diffused\n\n• The clear area should look like a wipe in the condensation or a cleaned patch on the glass\n\nGLASS EFFECT DETAILS:\n\n• high density frosted glass texture\n• strong diffusion and noise pattern\n• subtle depth refraction\n• irregular organic blur pattern\n• soft lighting scattering through the glass\n\nSTYLE:\n\n• hyper realistic optical glass simulation\n• photographic quality\n• cinematic lighting\n• modern editorial design aesthetic\n\nCOMPOSITION:\n\n• subject visible through glass\n• tiny clear window revealing key detail (eyes / face / object)\n• rest of the frame heavily frosted and distorted\n\nIMPORTANT:\n\nThe frosted glass must look physically real, not a simple blur filter.\nThe clear region must be sharp and untouched, creating strong contrast with the fogged glass surface.",
     "title": "Frosted Glass Effect Prompt",

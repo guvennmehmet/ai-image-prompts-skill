@@ -1,5 +1,87 @@
 [
   {
+    "id": 12838,
+    "content": "Render_Target = \n( Open_Book_3D_Pop_Up_Diorama * 2.0 ) + \n( Inferred_3D_Environment_[COMIC_SERIES] * 1.5 ) + \n( 3D_Vinyl_Toy_[HEROES] + 3D_Vinyl_Toy_[VILLAINS] * 1.8 ) + \n( Translucent_Plastic_Energy_FX * 1.5 ) + \n( Floating_3D_Text_\"{argument name=\"sfx text\" default=\"SFX_TEXT\"}\" * 1.5 ) + \n( Floating_Yellow_Title_Box_\"{argument name=\"comic series\" default=\"COMIC_SERIES\"} | {argument name=\"year\" default=\"YEAR\"}\" * 1.2 ) + \n( Vintage_Flat_Comic_Book_On_Wooden_Desk * 1.0 ) - \n( 2D_Flat_Characters / 2.0 ) - \n( Human_Realism / 2.0 ) - \n( Life_Size_Scale )",
+    "title": "Weighted Prompt for 3D Pop-Up Comic Diorama",
+    "description": "A complex, weighted prompt structure for Nano Banana, designed to generate a 3D pop-up diorama aesthetic based on comic books, featuring vinyl toys, translucent energy effects, and floating text, while negatively weighting against 2D and human realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594333214_au1std_HELicgVaMAAdi5r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12860,
+    "content": "AI Image Generation 4-panel manga\n \nTitle\nDawn of Strike Avoidance\n\nKanto Bus Strike?\n\nStrike canceled by announcement at midnight...\n\nReturning to normal operation mode...",
+    "title": "Four-Panel Manga Generation: Dawn of Strike Avoidance",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'Dawn of Strike Avoidance,' about the Kanto Bus strike being called off at midnight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594345025_vgwknk_HEXJzD9bYAIaY_J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12842,
+    "content": "A cinematic shot of a young man in a red hoodie and jeans literally stepping out from the pages of a giant comic book. The comic book pages feature multiple panels of her own expressive face. High-action pose, glowing light coming from inside the book, messy room background, hyper-realistic, 8k resolution.",
+    "title": "Cinematic Comic Book Step-Out Scene",
+    "description": "A prompt for generating a hyper-realistic, 8k cinematic image of a character stepping out of a giant comic book, emphasizing action and dramatic lighting. This prompt was used with Gemini Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594334742_e8t344_HEV0pnSbkAEcu92.jpg",
+      "https://cms-assets.youmind.com/media/1774594334794_nnszjl_HEV0phmakAAz1Fo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12859,
+    "content": "AI Image Generation 4-panel manga\nTitle\nAI Black Ship Arrival\n\nBlack Ships of the Bakumatsu period = (Modern era)\n\nDeclaration of opening the country\n\nWhat is the subject...",
+    "title": "Four-Panel Manga Generation: AI Black Ship Arrival",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'AI Black Ship Arrival,' relating the modern AI era to the arrival of the Black Ships in the Bakumatsu period and the declaration of opening the country.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594345007_fxccb2_HEVix7CbYAM4e_6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12841,
+    "content": "Prompt:   `2x2 grid, do this for 4 Legendary Comic Artists (e.g. {argument name=\"artist names\" default=\"Jack Kirby, Stan Lee, Moebius\"})` <instructions>   input:   `Artist Name`   Anchor:   `A 3D diorama of the artist drawing at a drafting table, with a giant speech bubble with word inferred by AI, their famous superhero creations bursting out of the paper in 3D::3.5`   Morphology:   `Exaggerated comic proportions, thick black outlines on 3D objects, dynamic forced perspective::3`   Material Physics:   `Matte painted surfaces, visible Ben-Day dot textures on skin and clothes, flat primary colors::3`   Illumination:   `Flat graphic lighting, no realistic gradients, hard black shadows::1.5`   Render Stack:   `Pop-art installation photography, vibrant saturation, clean vector edges::1`   Negative:   `[Photorealism, muted colors, soft gradients, realistic skin textures, 3D clay]:: -1`",
+    "title": "Pop-Art Comic Artist Diorama Prompt for Nano Banana Pro",
+    "description": "A complex, weighted prompt for Nano Banana Pro and Nano Banana 2 to generate a 2x2 grid featuring 3D dioramas of legendary comic artists, rendered in a pop-art installation style with exaggerated comic proportions, Ben-Day dots, flat lighting, and strong negative weights against photorealism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594334451_u74xtl_HEIPbkuagAEiLyR.jpg",
+      "https://cms-assets.youmind.com/media/1774594334695_sjv9yl_HEIPcRzb0AA5OoZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12861,
+    "content": "AI Image Generation 4-panel manga\nTitle\n'Modern Black Ship AI Rhapsody (Pesante Scherzo)'\n\nPesante: Heavily\nScherzo: Humorously\n\nIf you ask AI, you don't even need to pay for utilization seminars? lol\n\nWhether you understand it is another matter.",
+    "title": "Four-Panel Manga Generation: Modern Black Ship AI Rhapsody",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'Modern Black Ship AI Rhapsody (Pesante Scherzo),' discussing the impact of AI.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594345054_x6yjfz_HETggwebYAIYQZT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12858,
+    "content": "AI Image Generation 4-panel manga\nTitle\nIf the bus stops tomorrow (March 27th)...\n\nReiwa Roman\n\nRoman = Madness\n\nThe Bicycle Rhapsody (Capriccio)\n\nBegins... and then...",
+    "title": "Four-Panel Manga Generation: If the Bus Stops Tomorrow",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'If the Bus Stops Tomorrow (March 27th)...' The theme is related to a bus strike and includes a reference to 'Reiwa Roman.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594343553_0gy84g_HETQyz1bYAQKbQo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12856,
+    "content": "AI Image Generation 4-panel manga\nTitle\nThe Day Our Bus Stops\n\n\"Hey! Kanto Bus is going on strike! The bus might not come on the 27th!\"\n\nReiwa Roman flavor\n\nShould we just say it has nothing to do with fiction? lol",
+    "title": "Four-Panel Manga Generation: The Day Our Bus Stops",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'The Day Our Bus Stops,' featuring dialogue about the Kanto Bus strike and a 'Reiwa Roman' flavor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594343569_oibay8_HETPqmFbYAEtT2T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12675,
     "content": "4-panel manga\n \nTitle\n2026 Solo Camping Declaration of Independence\n\nBiking (comedian duo) Mimura, who is that?\n\nIt's not garbled text, it's a pseudonym! Just kidding\n\nGovernment AI Gennai starts up and a future forecast",
     "title": "Four-Panel Manga: 2026 Solo Camping Declaration of Independence",

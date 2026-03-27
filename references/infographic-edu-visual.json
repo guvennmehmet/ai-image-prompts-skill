@@ -56,6 +56,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 12840,
+    "content": "<instructions>\n[Use the UNIVERSAL WRAPPER above exactly as-is.]\n\nIf input includes ingredients, pick 4 distinct countries with famous dishes that fit those ingredients (hidden gems welcome). Output one 2x2 grid: each panel shows an open book spread for that country.\n\nPer panel:\n- Left page: 2D vintage sepia sketches (timeline/illustrated recipe flow, minimal text).\n- Right page: 3D pop-up diorama of the finished steaming dish emerging from the page.\n- A tiny chef mini stands beside the dish.\n- All 4 books look like one cohesive atlas series.\n- Only readable text: engraved plate “Dish ({argument name=\"country name\" default=\"Country\"})”.\n\nStyle: Cinematic top-down lighting emphasizing 2D vs 3D depth, macro detail, cohesive atlas design, clean background, shallow DOF, no logos, no long text.\n</instructions>",
+    "title": "2x2 Grid Pop-Up Cookbook Diorama Prompt for Nano Banana",
+    "description": "A structured instruction set for Nano Banana to generate a 2x2 grid, where each panel represents an open book spread for a different country's dish, featuring 2D vintage sketches on the left page and a 3D pop-up diorama of the finished dish on the right, all styled as a cohesive atlas series.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594333696_3c0r8k_HEKnYm6bMAA3jf9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12812,
+    "content": "Dessert (AR shopping UI)\n\nPOV shot inside a modern supermarket aisle, hands holding a small gourmet dessert with cream and berries, futuristic augmented reality (AR) interface overlay showing calories, sugar, fats, freshness score, expiry date, and recipe suggestions, soft depth of field, cinematic lighting, ultra-realistic, 4K, tech-inspired UI, clean glassmorphism design\n\n⸻\n\n2. Apple (AR nutrition UI)\n\nFirst-person view in a grocery store holding a fresh red apple, augmented reality interface displaying calories, vitamin C, fiber, freshness bar, and recipe ideas, minimal futuristic UI panels floating around the object, bright supermarket lighting, shallow depth of field, hyper-realistic, modern tech aesthetic, 4K\n\n⸻\n\n3. Orange Soda Bottle (AR data UI)\n\nPOV shot of hands holding an orange soda bottle in a supermarket aisle, futuristic AR overlay showing calories, sugar content, caffeine level, freshness score, expiry date, and drink recipes, sleek holographic interface, glassmorphism UI, vibrant colors, cinematic lighting, ultra-detailed, photorealistic, 4K",
+    "title": "Augmented Reality UI Overlays on Food Items",
+    "description": "A set of three prompts for Gemini Nano Banana Pro to generate photorealistic POV shots of hands holding food items (dessert, apple, soda bottle) in a supermarket, overlaid with futuristic Augmented Reality (AR) user interfaces displaying nutritional and product data. The prompts specify lighting, depth of field, and UI design style (glassmorphism, tech-inspired).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594318134_6o2j64_HEUklRCbwAA9iI-.jpg",
+      "https://cms-assets.youmind.com/media/1774594318201_ep44op_HEUklQ8a0AA5Sl-.jpg",
+      "https://cms-assets.youmind.com/media/1774594318277_sb6yht_HEUklQzaIAA41v1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12766,
     "content": "Anchor: The word \"{argument name=\"word to construct\" default=\"Tesla\"}\" :: constructed entirely from printed circuit board traces, where each letterform is a functional-looking PCB layout — solder pads as terminals, vias as joints, trace paths forming the strokes ::4 Morphology: Technical PCB illustration. Letter strokes are traces of varying widths. Circular vias punctuate stroke junctions. Solder pad rectangles anchor stroke terminals. The letters read as living circuit diagrams. Monochrome technical vector ::3 Material Physics: Jet black trace lines on white substrate, exposed copper-pad circles with concentric detail rings, uniform stroke weight with deliberate corner chamfers (45°) ::3 Illumination: Flat technical illustration lighting, no depth, pure 2D schematic clarity ::2 Render Stack: Electronics schematic aesthetic, hardware documentation style, Gerber file visual output ::1 Negative: [Silhouette shapes, actual electronic components, chip illustrations, realistic PCB green color, perspective, photographic textures, solder reflections] ::-1",
     "title": "PCB Word Art Schematic for 'Tesla'",

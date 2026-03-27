@@ -1,5 +1,69 @@
 [
   {
+    "id": 12818,
+    "content": "A cinematic evolution sequence of the 3d toy character shown as multiple identical instances progressing from primitive to fully realized form across a single frame.\n🔒 LIKENESS INTEGRITY (ABSOLUTE PRIORITY)\n\nAll instances must preserve exactly:\n\n• proportions\n\n• eye shape, spacing, stylization\n\n• silhouette\n\n• material identity\nNo redesign. No added features. No anatomy change. Only pose progression is allowed.\n🧠 EVOLUTION STRUCTURE (MANDATORY)\n\nThe character appears repeated in a left-to-right progression of 6–8 stages:\n\n• earliest stage: crouched, compressed, almost animalistic or inactive\n\n• mid stages: gradual spine lift, awareness, balance emerging\n\n• final stage: fully upright, confident forward motion\nEach stage must feel like a natural transformation, not separate poses.\n\nMotion must read as a continuous evolution.\n🎥 CAMERA & PERSPECTIVE\n\nLow-angle cinematic shot, slightly below mid-body height of the final character\n\nShot with a 28–35mm lens to create subtle perspective compression and depth\n\nCamera positioned closer to the final evolved character, making it dominant in frame\n\nThe earliest forms recede into the background along a diagonal progression\n⚖️ COMPOSITION (CRITICAL)\n\nDiagonal layout from back-left (primitive) → front-right (evolved)\n\nForeground dominated by the final form, partially cropped for tension\n\nEarlier stages progressively smaller and more compressed into depth\n\nNo centered symmetry\n🎯 DEPTH OF FIELD (MANDATORY)\n\nPrimary focal plane locked on the most evolved character\n\nMid stages slightly softer\n\nEarliest stages fall into progressive blur\nNo full-frame sharpness\n💡 LIGHTING\n\nStrong directional light from the side or rear\n\nRim light increases progressively across evolution stages\n\nPrimitive forms sit more in shadow\n\nFinal form is clearly defined with sculptural light separation\n🌫 ATMOSPHERE\n\nSubtle haze or volumetric light to enhance depth layering\n\nLight falloff increases toward background\n\nOptional faint dust or particles to create dimensional space\n🎨 COLOR CONTROL\n\nPrimitive stages slightly desaturated and darker\n\nColor richness increases toward the final evolved form\n\nControlled contrast, no oversaturation\n🧱 SURFACE & MATERIAL\n\nMaintain exact original material identity\n\nEnhance micro-detail only on the focal character\n\nNo texture reinterpretation\n🔥 EMOTION\n\nInevitable transformation\n\nFrom instinct → awareness → dominance\n\nThe final character feels like the destination of a journey\n🚫 NEGATIVE CONSTRAINTS\n\nNo random poses\n\nNo redesign\n\nNo symmetry\n\nNo flat lighting\n\nNo full-body sharpness everywhere\n\nNo equal importance across all stages\nAspect Ratio: ar 16:9",
+    "title": "Cinematic 3D Toy Character Evolution Sequence Prompt",
+    "description": "A highly structured prompt for Gemini Nano Banana focusing on generating a cinematic 16:9 image showing the continuous evolution of a 3D toy character across 6-8 stages, emphasizing absolute likeness integrity, diagonal composition, low-angle perspective, and progressive lighting/depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594321217_2sn9rm_HEZWIrwXgAEA-3_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12838,
+    "content": "Render_Target = \n( Open_Book_3D_Pop_Up_Diorama * 2.0 ) + \n( Inferred_3D_Environment_[COMIC_SERIES] * 1.5 ) + \n( 3D_Vinyl_Toy_[HEROES] + 3D_Vinyl_Toy_[VILLAINS] * 1.8 ) + \n( Translucent_Plastic_Energy_FX * 1.5 ) + \n( Floating_3D_Text_\"{argument name=\"sfx text\" default=\"SFX_TEXT\"}\" * 1.5 ) + \n( Floating_Yellow_Title_Box_\"{argument name=\"comic series\" default=\"COMIC_SERIES\"} | {argument name=\"year\" default=\"YEAR\"}\" * 1.2 ) + \n( Vintage_Flat_Comic_Book_On_Wooden_Desk * 1.0 ) - \n( 2D_Flat_Characters / 2.0 ) - \n( Human_Realism / 2.0 ) - \n( Life_Size_Scale )",
+    "title": "Weighted Prompt for 3D Pop-Up Comic Diorama",
+    "description": "A complex, weighted prompt structure for Nano Banana, designed to generate a 3D pop-up diorama aesthetic based on comic books, featuring vinyl toys, translucent energy effects, and floating text, while negatively weighting against 2D and human realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594333214_au1std_HELicgVaMAAdi5r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12805,
+    "content": "create a cartoon character design sheet from this image\n\na man who performs confidence louder than he feels it. Chest forward, jaw up but something in the eyes gives him away. He's used to being watched, terrified of being seen",
+    "title": "Cartoon Character Design Sheet with Personality",
+    "description": "A prompt for creating a cartoon character design sheet based on an uploaded image, specifying a complex personality trait: a man who projects confidence but is inwardly insecure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594315147_6x5jt5_HEW3Hj_bYAAiv4k.jpg",
+      "https://cms-assets.youmind.com/media/1774594315090_n8pejz_HEW3GD1akAA4c0w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12837,
+    "content": "Convert to hyper-realistic 3D CGI collectible figurine render. Physically-based rendering, octane render quality. Preserve the original character design, pose, and outfit exactly. Transform all surfaces into real-world materials: fabric with visible weave and drape, metal with wear, scratches and oxidation, synthetic matte skin. Pure white studio background, clean seamless white backdrop, soft diffused lighting with subtle rim light. No cel shading, no toon rendering. High-end statue/collectible photography aesthetic. Ultra detailed, 8K. Fix and reconstruct all hands and fingers with correct anatomy: natural finger count, proper joint articulation, realistic proportions, no fused or melted digits. Remove all 2D artifacts, compression glitches, and Midjourney inconsistencies. Ensure full anatomical coherence across the entire figure: symmetrical features, clean silhouette, no floating elements, no distorted limbs, no duplicated body parts. Hyper-detailed hair simulation: individual strand rendering, realistic hair clumping, natural flow and gravity, visible scalp at roots, micro flyaways, SSS translucency on hair tips. Every surface pushed to maximum realism: pore-level skin texture, fabric fiber micro-detail, specular highlights on every material, depth in shadows",
+    "title": "Hyper-Realistic 3D CGI Collectible Figurine Prompt for Nano Banana 2",
+    "description": "A detailed prompt for Nano Banana 2 to convert an existing character concept into a hyper-realistic 3D CGI collectible figurine render, emphasizing physically-based rendering, material realism (fabric, metal, skin), anatomical correctness, and a clean studio aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594332114_zl9vzz_HEWyiftbYAEdOXn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12830,
+    "content": "ultra-detailed 3D tiny anime-style girl named Gugu, short fluffy hair, soft round cheeks, big sparkling eyes, wearing a pastel-colored oversized hoodie with little animal ears, tiny socks, small ribbon around neck, chibi-style proportions with round head, small body, expressive arms and legs, adorable and highly expressive, capable of cute gestures and exaggerated reactions, cinematic shallow depth of field, 8K UHD, soft warm sunlight, cozy pastel tones, whimsical playroom / nursery background, sequence of actions:\nFrame 1: sitting cross-legged on fluffy pastel rug, holding small stuffed bunny, shy expression\nFrame 2: standing slightly, tilting head, tiny hand raised in gentle wave, playful expression\nFrame 3: clapping tiny hands excitedly, eyes sparkling, happy squeak\nFrame 4: leaning forward, reaching toward small floating butterfly, cheeks rosy, curious\nFrame 5: jumping slightly, tiny feet off ground, arms raised in delight\nFrame 6: (optional placeholder for continuity)\nFrame 7: tilting head with one hand on cheek, playful and curious expression\nFrame 8: rolling slightly on rug, legs kicking gently, giggling with sparkling tears of laughter\nFrame 9: sitting back up, looking up with hopeful puppy-like eyes, floating sparkles\nFrame 10: giving a tiny wink and finger heart gesture, full adorable charm",
+    "title": "3D Tiny Anime Girl 'Gugu' Sequence",
+    "description": "A prompt for Google Gemini Nano Banana to generate a sequence of actions featuring an ultra-detailed 3D tiny anime-style girl named Gugu. The prompt specifies her appearance (chibi-style, oversized hoodie, soft features) and outlines a series of 10 frames/actions in a whimsical, cozy setting, emphasizing soft lighting and pastel tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594328867_46yj5s_HEWCzJoaUAAAfe2.jpg",
+      "https://cms-assets.youmind.com/media/1774594328966_g9p3ex_HEWCzC0bYAMCzIn.jpg",
+      "https://cms-assets.youmind.com/media/1774594329172_9da4f3_HEWCzHmbYAATiOG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12811,
+    "content": "{\n  \"prompt\": \"A high-quality 3D rendered character of a young, friendly barista with big expressive eyes and styled brown hair. He is wearing a green apron over a plaid flannel shirt. The setting is a cozy coffee shop with wooden counters, espresso machines, and shelves of coffee beans in the background. The image features soft studio lighting, a clay render texture with cute and appealing shape language, reminiscent of Pixar or Disney animation styles, in 4k resolution.\"\n}",
+    "title": "3D Rendered Barista Character in Pixar Style",
+    "description": "A JSON prompt for Nano Banana Pro on Gemini to create a high-quality 3D rendered character of a young, friendly barista. The prompt specifies clothing, setting (cozy coffee shop), lighting (soft studio), and style (clay render texture, Pixar/Disney animation style, 4k resolution).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594316844_30z4ul_HEUXLTlagAAdCou.jpg",
+      "https://cms-assets.youmind.com/media/1774594318283_1s0irn_HEUXLVZbcAAmza6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12779,
     "content": "A cute 3D chibi-style cartoon sticker set featuring the same character in various emotions and poses (use the uploaded face as reference). Shiny, expressive eyes; soft round face; slightly oversized head; small body proportions. Wearing a leather jacket {argument name=\"jacket color\" default=\"Blue\"} over a white top. Each pose shows a different expression: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging, playing guitar. 3D render inspired by Pixar/Disney, smooth plastic-like texture, soft lighting, pastel beige background. Clean white sticker outline around each character, minimal aesthetic, highly detailed, ultra cute, emoji-like expressions, high resolution, studio quality.",
     "title": "3D Chibi Sticker Set with Customizable Jacket Color",

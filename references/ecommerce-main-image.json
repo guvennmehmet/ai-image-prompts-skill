@@ -1,5 +1,54 @@
 [
   {
+    "id": 12844,
+    "content": "Low-angle fashion campaign photograph of a confident model holding a large {argument name=\"product name\" default=\"[product name]\"} very close to the camera, exaggerated perspective with the hand and product dominating the foreground, full-body pose visible in the background, wide stance, dynamic posture, clean pure white studio background, high-key lighting, sharp focus on product, slight depth of field on the model, bold colorful outfit with strong contrast tones, modern beauty advertising aesthetic, ultra-clean composition, commercial studio photography, glossy packaging detail visible, crisp shadows",
+    "title": "Low-Angle Fashion Campaign Photograph",
+    "description": "A prompt for generating a commercial fashion campaign photograph using Nano Banana Pro, focusing on an exaggerated low-angle perspective where a product dominates the foreground and the model is visible in the background against a clean white studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594335963_jh8shv_HEXM3nvbcAAaG73.jpg",
+      "https://cms-assets.youmind.com/media/1774594335972_qkvrba_HEXM3TxWIAA2zDW.jpg",
+      "https://cms-assets.youmind.com/media/1774594336199_jtgbqo_HEXM2_oW4AA3xrL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12828,
+    "content": "hyper-realistic product photography of a beautifully arranged merchandise table inside a dinosaur park gift shop, the entire display is themed around **{argument name=\"park name\" default=\"Jurassic World\"}**, every item prominently features the park name and logo, neatly displayed products include folded t-shirts, baseball caps, drinking glasses, ceramic mugs, plush mini dinosaur toys, keychains, posters, stickers and badges, all branded with consistent colorful **{argument name=\"park name 2\" default=\"Jurassic World\"}** design, vibrant and appealing arrangement, soft warm retail lighting with gentle highlights and shadows, ultra detailed fabric textures, glossy ceramic, plush fur and printed details, clean and inviting store atmosphere, masterpiece, sharp focus, 8k",
+    "title": "Dinosaur Park Gift Shop Merchandise Display",
+    "description": "A prompt template used with Nano Banana in Adobe Firefly to generate a hyper-realistic product photograph of a fully branded dinosaur park gift shop merchandise table. The prompt uses placeholders for the park name and emphasizes detailed textures, lighting, and arrangement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594326630_til8c0_HEWY2GbbYAIIf8Y.jpg",
+      "https://cms-assets.youmind.com/media/1774594326573_yx1m2s_HEWY2F2XIAAJx6u.jpg",
+      "https://cms-assets.youmind.com/media/1774594326655_wl4vd5_HEWY2GJbYAIbzmH.jpg",
+      "https://cms-assets.youmind.com/media/1774594327811_8cc5mx_HEWY-ntbkAAtdOr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12821,
+    "content": "High-end commercial product photography of a {argument name=\"product type\" default=\"yogurt cup\"} labeled “{argument name=\"product name\" default=\"Creamy Fruit Yogurt Blueberry Mix\"}”, captured mid-air with dynamic motion as the cup slightly tilts forward, surrounded by a dramatic {argument name=\"splash type\" default=\"milk splash explosion\"} forming a fluid crown around the base. The container features a clean (white and soft blue packaging design with blueberry illustrations) and subtle condensation droplets for a fresh chilled look.\nMultiple (fresh blueberries and a few stylized berries) are suspended in the air around the product, along with small floating droplets of milk to enhance motion and energy. Background is a smooth (soft purple-blue gradient backdrop) creating a playful yet premium dairy aesthetic. Composition is a (dynamic front-facing angle with slight tilt)\n\nemphasizing movement and impact while keeping the product as the focal point.\nLighting is soft studio lighting with bright highlights on the milk splash, gentle shadows under the cup, and glossy reflections on the surface, enhancing texture and realism. Fine details like milk droplets, fruit skin texture, and packaging print are highly visible. Clean, vibrant, high-energy composition emphasizing freshness, creaminess, and flavor.\n\nUltra-realistic, hyper-detailed textures, professional food advertising photography, high resolution, 8k.",
+    "title": "High-End Commercial Yogurt Product Photography Prompt",
+    "description": "A detailed prompt for Nano Banana Pro focusing on generating ultra-realistic commercial product photography of a yogurt cup, emphasizing dynamic motion, milk splash explosion effects, specific packaging design, and professional studio lighting against a gradient backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594322454_4ks7eb_HEWUWtpbYAIlxaL.jpg",
+      "https://cms-assets.youmind.com/media/1774594322536_2f5tqk_HEWUWuvb0AEgQU5.jpg",
+      "https://cms-assets.youmind.com/media/1774594323259_yoctih_HEWUW6lbYAUtQCO.jpg",
+      "https://cms-assets.youmind.com/media/1774594323801_i5xrm1_HEWUXEIbYAAb7hG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12846,
+    "content": "{\"header\":{\"resolution\":\"8K_UHD\",\"renderEngine\":\"Hyper-Realistic AI-Modified\",\"aspectRatio\":\"3:4\",\"postProcessing\":[\"extreme-micro-detail\",\"zero-noise\",\"clean-gradients\"]},\"sceneComposition\":{\"primarySubject\":{\"model\":\"Mountain Dew Aluminum Can\",\"transform\":{\"position\":\"Center\",\"tilt\":\"Slightly Backward\",\"lean\":\"Subtle Diagonal\"},\"surface\":{\"material\":\"Metallic Matte/Gloss Hybrid\",\"overlay\":\"Dense condensation droplets\",\"branding\":\"Logo fully sharp, legible, and centered\"}},\"fx_dynamics\":{\"liquidBurst\":{\"color\":\"Neon Green\",\"behavior\":\"Explosive upward/outward eruption\",\"source\":\"Behind can\",\"geometry\":\"Symmetrical crown-like burst\",\"particles\":\"Hundreds of frozen mid-air droplets\"}},\"assets\":[{\"type\":\"Ice Cubes\",\"properties\":[\"Transparent\",\"Sharp-edged\",\"Refractive\"],\"distribution\":\"Floating at varying Z-depths\"},{\"type\":\"Limes\",\"states\":[\"Wedges showing pulp texture\",\"Whole fruit with pebble-grain peel\"]}],\"lightingAndEnv\":{\"style\":\"Cinematic Studio / High-Contrast\",\"highlights\":\"Specular icy-white\",\"background\":{\"fill\":\"Deep Emerald Green Gradient\",\"bokeh\":\"Soft green glowing particles\",\"focus\":\"Shallow depth of field (Subject: Sharp, BG: Soft)\"}}}}",
+    "title": "High-Contrast Mountain Dew Can Product Shot",
+    "description": "A highly technical JSON prompt comparing GPT Image 1.5 and Nano Banana 2 outputs, designed to generate a hyper-realistic, 8K product shot of a Mountain Dew can with explosive liquid burst effects, detailed condensation, and cinematic high-contrast studio lighting against a deep emerald green background. This prompt is model-agnostic but was used for comparison with Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774594336615_2viiye_HEUPgOCbYAMJg-n.jpg",
+      "https://cms-assets.youmind.com/media/1774594336675_c9y929_HEUPgN0bYAA3HTI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12803,
     "content": "Ultra-realistic high-end beverage product photography set in a premium studio environment with a seamless gradient background inspired by {argument name=\"fruit type\" default=\"FRUIT\"} tones, blending rich {argument name=\"color shade\" default=\"COLOR\"} shades with soft complementary hues. The atmosphere is clean, vibrant, and luxurious with a refined commercial aesthetic.\nThe surface is a glossy reflective liquid plane in matching {argument name=\"fruit type 2\" default=\"FRUIT\"}-inspired tones, featuring subtle ripples and smooth reflections, enhancing depth and realism.\nCenter frame features a chilled matte aluminum can with a smooth premium gradient finish inspired by [FRUIT] colors. The can is covered with ultra-fine condensation droplets, showcasing realistic cold texture and freshness while maintaining a polished luxury look.\nThe can design features large, elegant flowing script typography reading \"Nexora\" in a glossy gradient inspired by [FRUIT] tones, with subtle luminous highlights. Beneath it, minimal modern text enhances branding, along with a small circular seal in metallic finish.\nAbove the can, fresh [FRUIT] elements (whole, sliced, or stylized pieces) are captured mid-air in a dynamic yet controlled composition. A rich {argument name=\"liquid texture\" default=\"TEXTURE\"} liquid stream matching the fruit flows down into or around the can, creating a smooth, elegant crown splash with high-speed fluid detail.\nAdditional droplets and fruit particles are suspended in motion, enhancing realism and depth. The reflective surface below mirrors the product with soft distortions and cinematic detail.\nLighting is studio-grade and premium:\nsoft diffused lighting for clean highlights\nsubtle rim lighting to enhance edges\ngentle glow for a luxury finish\nCamera: macro lens, shallow depth of field, cinematic front angle with slight push-in composition. Background softly blurred while the product remains ultra-sharp.\nStyle: ultra-luxury commercial beverage ad, hyper-realistic textures, 8K HDR, cinematic lighting, premium branding, vibrant yet refined aesthetic.",
     "title": "Ultra-realistic Beverage Product Photography Prompt",
