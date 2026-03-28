@@ -13,6 +13,31 @@
     "needReferenceImages": true
   },
   {
+    "id": 12878,
+    "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"{argument name=\"subject name\" default=\"Sadie Sink\"}\",\n      \"forensic_parameters\": \"1:1 craniofacial mapping, distinct auburn hair (#8B4513), #5D9B9B iris stroma texture, specialized dental occlusion pattern.\"\n    },\n    \"anatomy_geometry\": {\n      \"torso_volumetrics\": {\n        \"anterior_upper_torso\": {\n          \"volume_distribution\": \"Exaggerated volumetric mass in the anterior upper torso region, significant forward projection\",\n          \"surface_tension\": \"Defined anterior thoracic curvature geometry, high skin-tension simulation, pronounced midline depression topographic definition\"\n        },\n        \"posterior_pelvic\": {\n          \"curvature_geometry\": \"Pronounced hip curvature geometry (#0.68), significant volume-to-waist ratio definition\"\n        }\n      },\n      \"extremities\": {\n        \"proximal_femoral_exposure\": \"Significant femoral and gluteal-femoral boundary visibility due to truncated textile geometry limits\",\n        \"pedal_morphology\": \"Anatomically correct phalanges, high-resolution dermal ridges\",\n        \"ungual_pigmentation\": \"Total saturation of distal phalangeal plates with black pigment (#000000)\"\n      }\n    }\n  },\n  \"wardrobe_physics\": {\n    \"upper_layer\": {\n      \"material\": \"High-elasticity white ribbed cotton (#FFFFFF)\",\n      \"textile_physics\": \"Extreme fabric tension vectors due to hyper-volumetric mass wrapping, emphasized minimal geometric footprint across the midline, visible textile stretch limits\"\n    },\n    \"lower_layer\": {\n      \"material\": \"Minimalist black synthetic weave (#000000)\",\n      \"fit_geometry\": \"Ultra-truncated hemline, micro-inseam length defined by minimum surface area coverage, high-tension elastic structure terminating prior to the major pelvic joinery boundary\"\n    }\n  },\n  \"pose_action\": {\n    \"description\": \"Seated posture on a horizontal specular plane, symmetric pelvic tilt, ankles in adduction position.\",\n    \"manual_interaction\": \"Bilateral hand engagement with a metallic communication device, neutral facial affect.\"\n  },\n  \"scene\": {\n    \"surface_science\": {\n      \"substrate\": \"Polished industrial stainless steel surface\",\n      \"reflectivity\": \"High-fidelity ray-traced specular reflections of the subject's morphology and environment\",\n      \"reflection_integrity_rules\": \"1:1 parity between physical subject and mirrored projection on the metallic plane\"\n    },\n    \"background_elements\": [\n      \"Low-frequency focus on dressing room apparatus\",\n      \"Neutral-toned vertical drapes\",\n      \"Organized cosmetic canisters with realistic material shaders\"\n    ]\n  },\n  \"lighting\": {\n    \"architecture\": \"High-key cinematic studio illumination\",\n    \"focal_highlights\": \"Sharp specular glints on the metallic surface and iris coronas\",\n    \"shadow_mapping\": \"Soft ambient occlusion at skin-to-surface contact points\"\n  },\n  \"camera\": {\n    \"optics\": \"85mm focal length, f/1.8 aperture, 9:16 vertical aspect ratio\",",
+    "title": "Hyper-Detailed Anatomical Portrait of Sadie Sink in Minimalist Attire",
+    "description": "An extremely technical and detailed JSON prompt for Nano Banana Pro, focusing on generating an image of Sadie Sink. It includes forensic parameters for identity mapping, highly specific anatomical geometry (emphasizing exaggerated volume and curvature), detailed wardrobe physics (high-tension fabric), and a scene set on a highly reflective industrial stainless steel surface with cinematic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774679864422_8idgvw_HEav-I5akAABLZ_.jpg",
+      "https://cms-assets.youmind.com/media/1774679864437_ckrr69_HEav_-NWEAAadxe.jpg",
+      "https://cms-assets.youmind.com/media/1774679864466_kxcy6z_HEawBNoXMAAc6mh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12887,
+    "content": "Restore this old photo to 4K without\nchanging any details",
+    "title": "4K Photo Restoration Prompt",
+    "description": "A simple prompt instructing the model to restore an old uploaded photo to 4K resolution while strictly preserving all original details and authenticity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774679868767_omqdy7_HEZ-SJJXoAAJkNz.jpg",
+      "https://cms-assets.youmind.com/media/1774679868828_job38u_HEZ-SJIXEAAFhOz.jpg",
+      "https://cms-assets.youmind.com/media/1774679868772_f54vz8_HEZ-SJLWUAAj_E5.jpg",
+      "https://cms-assets.youmind.com/media/1774679869277_9w2so6_HEZ-SJkaMAAQ7Bj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12850,
     "content": "A seamless pattern of cute, cartoonish fancy goldfish with large bulging eyes on a cream-colored background. The goldfish are round and orange with large black eyes and delicate, wispy fins and tails. The pattern is dense, with fish scattered randomly across the frame, creating a playful and whimsical feel.",
     "title": "Seamless Pattern of Cartoonish Fancy Goldfish",

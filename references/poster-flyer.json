@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 12913,
+    "content": "{argument name=\"composer\" default=\"Khachaturian\"}\n{argument name=\"ballet\" default=\"Ballet Spartacus\"}\n{argument name=\"piece\" default=\"Adagio of Phrygia\"}\n\nSpecial Move\nFantasy series in the style of Final Fantasy",
+    "title": "Nano Banana Pro prompt for Khachaturian's Spartacus",
+    "description": "A prompt instructing Nano Banana Pro to generate an image related to Khachaturian's ballet 'Spartacus,' specifically the Adagio of Phrygia, using a 'Final Fantasy style' or 'Fantasy series' approach.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774679883929_zzfu10_HEaK9V2bIAAJOly.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12813,
     "content": "retro minimalist illustration of a balloon dog made from glossy pink and white swirl patterned balloons, centered on a solid cobalt blue background, simple flat design with clean lines, subtle shading and soft ambient lighting, high contrast color palette, poster-style composition",
     "title": "Retro Minimalist Balloon Dog Illustration",

@@ -1,5 +1,31 @@
 [
   {
+    "id": 12884,
+    "content": "A hyper-realistic product photo of a Kinder Joy surprise egg sitting on a wooden table. The egg packaging features a chibi/cartoon-style illustration of {argument name=\"character on packaging\" default=\"[image Uploaded]\"} posed against a graffiti brick wall background. Next to the egg sits a small detailed collectible figurine of {argument name=\"figurine character\" default=\"[image Uploaded]\"} in the same chibi art style shown on the packaging. Soft natural lighting, shallow depth of field, photorealistic quality.",
+    "title": "Hyper-realistic Product Photo of Kinder Joy Egg",
+    "description": "A prompt for generating a hyper-realistic product photo of a Kinder Joy surprise egg, featuring a specific cartoon character illustration on the packaging and a detailed collectible figurine next to it, using soft natural lighting and a shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774679866600_l8h7d5_HEZGMiGakAAZALs.jpg",
+      "https://cms-assets.youmind.com/media/1774679866580_0b6eb2_HEZGMdpa0AAx6pM.jpg",
+      "https://cms-assets.youmind.com/media/1774679866922_z9ewgp_HEZGMpUasAATEcR.jpg",
+      "https://cms-assets.youmind.com/media/1774679867343_gw25bg_HEZGMsfbgAEB5wV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12866,
+    "content": "Ultra-realistic commercial product photography of a blueberry yogurt cup floating mid-air, surrounded by a dynamic milk splash frozen in motion, fresh blueberries suspended around the product, creamy liquid forming elegant splash waves, soft purple gradient background, clean minimal aesthetic, glossy packaging with readable label, droplets and mist particles in the air, cinematic studio lighting, soft shadows, high-speed photography effect, ultra-detailed textures, advertising style, sharp focus, depth of field, 8K, photorealistic.",
+    "title": "Ultra-Realistic Product Photography of Yogurt",
+    "description": "A prompt for Nano Banana 2 to generate ultra-realistic commercial product photography of a blueberry yogurt cup floating mid-air, surrounded by a dynamic, frozen milk splash and fresh blueberries, emphasizing high-speed photography effects and cinematic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774679857793_dxcjki_HEYwhKYboAAkYFA.jpg",
+      "https://cms-assets.youmind.com/media/1774679857843_zts6ft_HEYwhE2bkAAbSTA.jpg",
+      "https://cms-assets.youmind.com/media/1774679858105_0xaguj_HEYwhGFbcAA1hLt.jpg",
+      "https://cms-assets.youmind.com/media/1774679858680_us4n90_HEYwhSMbQAAIAMj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12844,
     "content": "Low-angle fashion campaign photograph of a confident model holding a large {argument name=\"product name\" default=\"[product name]\"} very close to the camera, exaggerated perspective with the hand and product dominating the foreground, full-body pose visible in the background, wide stance, dynamic posture, clean pure white studio background, high-key lighting, sharp focus on product, slight depth of field on the model, bold colorful outfit with strong contrast tones, modern beauty advertising aesthetic, ultra-clean composition, commercial studio photography, glossy packaging detail visible, crisp shadows",
     "title": "Low-Angle Fashion Campaign Photograph",
