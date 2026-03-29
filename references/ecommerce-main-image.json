@@ -1,5 +1,15 @@
 [
   {
+    "id": 12917,
+    "content": "Image Prompt 1: Clearly separate all components with visible spacing. Move the lens forward and split it into several segments. Separate the camera body into three sections: upper section moves upward, left section moves left, right section moves right. Use elements present on the assembled camera, add electronic parts inside. No annotations.\n\nImage Prompt 2: Create a realistic high-end product visualization of a fully assembled M DSLR camera with detachable lens floating slightly in the air. The device has a premium matte black body with subtle metallic details and engraved M branding. Background is a softly blurred modern tech environment with depth of field and subtle motion blur, no people visible. Cinematic studio lighting with realistic reflections and premium product rendering. Around the camera appear five minimalist technical UI annotations with thin lines pointing to components. Each annotation sits inside a small semi-transparent glass UI panel with soft glow and subtle cyan edge lighting, improving readability. Clean modern sans-serif typography.\n\nAnnotations:\n\n24MP CMOS Sensor\n4K Video Recording\nInterchangeable Lens Mount\nFast Hybrid Autofocus\nOptical Image Stabilization",
+    "title": "Deconstructed and Assembled M DSLR Camera Visualization",
+    "description": "Two distinct image prompts for Nano Banana 2. The first generates a deconstructed view of a camera, and the second generates a high-end product visualization of an assembled camera floating in the air with technical UI annotations. The third prompt is a motion prompt for Kling AI, which is excluded.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766195170_7xt55w_HEe78o_aIAAEP89.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12884,
     "content": "A hyper-realistic product photo of a Kinder Joy surprise egg sitting on a wooden table. The egg packaging features a chibi/cartoon-style illustration of {argument name=\"character on packaging\" default=\"[image Uploaded]\"} posed against a graffiti brick wall background. Next to the egg sits a small detailed collectible figurine of {argument name=\"figurine character\" default=\"[image Uploaded]\"} in the same chibi art style shown on the packaging. Soft natural lighting, shallow depth of field, photorealistic quality.",
     "title": "Hyper-realistic Product Photo of Kinder Joy Egg",

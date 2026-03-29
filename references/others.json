@@ -13,6 +13,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 12919,
+    "content": "Intricate multi-layer paper cut silhouette of a crumbling ancient library floating above storm clouds, heavy handmade paper with visible fibers and rough cut edges casting subtle shadows between layers, muted indigo, sepia, and silver tones, soft backlighting creating depth, traditional folk art silhouette feel with surreal scale.",
+    "title": "Intricate Paper Cut Silhouette of a Library",
+    "description": "A detailed prompt for Nano Banana Pro describing an intricate, multi-layer paper cut silhouette of a crumbling ancient library floating above storm clouds, emphasizing texture, color palette, and folk art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766195260_qrc65p_HEgsSXPbEAAZBag.jpg",
+      "https://cms-assets.youmind.com/media/1774766195382_nlg4lk_HEgsSXRa4AAO69c.jpg",
+      "https://cms-assets.youmind.com/media/1774766195415_qrbbc3_HEgsSXXaEAEx-f0.jpg",
+      "https://cms-assets.youmind.com/media/1774766196416_2wderv_HEgsSXVbwAAkjMs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12940,
+    "content": "image of Neanderthals “based on expert knowledge of Neanderthal behavior”",
+    "title": "Neanderthal image generation based on expert knowledge",
+    "description": "A discussion about generating historically accurate images of Neanderthals using AI, specifically mentioning the need to include 'based on expert knowledge of Neanderthal behavior' in the prompt for the Nano Banana model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766209776_vjsui4_HEgjH5DXUAARklN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12878,
     "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"{argument name=\"subject name\" default=\"Sadie Sink\"}\",\n      \"forensic_parameters\": \"1:1 craniofacial mapping, distinct auburn hair (#8B4513), #5D9B9B iris stroma texture, specialized dental occlusion pattern.\"\n    },\n    \"anatomy_geometry\": {\n      \"torso_volumetrics\": {\n        \"anterior_upper_torso\": {\n          \"volume_distribution\": \"Exaggerated volumetric mass in the anterior upper torso region, significant forward projection\",\n          \"surface_tension\": \"Defined anterior thoracic curvature geometry, high skin-tension simulation, pronounced midline depression topographic definition\"\n        },\n        \"posterior_pelvic\": {\n          \"curvature_geometry\": \"Pronounced hip curvature geometry (#0.68), significant volume-to-waist ratio definition\"\n        }\n      },\n      \"extremities\": {\n        \"proximal_femoral_exposure\": \"Significant femoral and gluteal-femoral boundary visibility due to truncated textile geometry limits\",\n        \"pedal_morphology\": \"Anatomically correct phalanges, high-resolution dermal ridges\",\n        \"ungual_pigmentation\": \"Total saturation of distal phalangeal plates with black pigment (#000000)\"\n      }\n    }\n  },\n  \"wardrobe_physics\": {\n    \"upper_layer\": {\n      \"material\": \"High-elasticity white ribbed cotton (#FFFFFF)\",\n      \"textile_physics\": \"Extreme fabric tension vectors due to hyper-volumetric mass wrapping, emphasized minimal geometric footprint across the midline, visible textile stretch limits\"\n    },\n    \"lower_layer\": {\n      \"material\": \"Minimalist black synthetic weave (#000000)\",\n      \"fit_geometry\": \"Ultra-truncated hemline, micro-inseam length defined by minimum surface area coverage, high-tension elastic structure terminating prior to the major pelvic joinery boundary\"\n    }\n  },\n  \"pose_action\": {\n    \"description\": \"Seated posture on a horizontal specular plane, symmetric pelvic tilt, ankles in adduction position.\",\n    \"manual_interaction\": \"Bilateral hand engagement with a metallic communication device, neutral facial affect.\"\n  },\n  \"scene\": {\n    \"surface_science\": {\n      \"substrate\": \"Polished industrial stainless steel surface\",\n      \"reflectivity\": \"High-fidelity ray-traced specular reflections of the subject's morphology and environment\",\n      \"reflection_integrity_rules\": \"1:1 parity between physical subject and mirrored projection on the metallic plane\"\n    },\n    \"background_elements\": [\n      \"Low-frequency focus on dressing room apparatus\",\n      \"Neutral-toned vertical drapes\",\n      \"Organized cosmetic canisters with realistic material shaders\"\n    ]\n  },\n  \"lighting\": {\n    \"architecture\": \"High-key cinematic studio illumination\",\n    \"focal_highlights\": \"Sharp specular glints on the metallic surface and iris coronas\",\n    \"shadow_mapping\": \"Soft ambient occlusion at skin-to-surface contact points\"\n  },\n  \"camera\": {\n    \"optics\": \"85mm focal length, f/1.8 aperture, 9:16 vertical aspect ratio\",",
     "title": "Hyper-Detailed Anatomical Portrait of Sadie Sink in Minimalist Attire",

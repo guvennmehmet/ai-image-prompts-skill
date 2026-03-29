@@ -1,5 +1,16 @@
 [
   {
+    "id": 12936,
+    "content": "Full Armor Mecha Girl\nFAMG-002 Belthiera\n1/7 scale figure",
+    "title": "Full Armor Mecha Girl Figure Concept for Nano Banana Pro",
+    "description": "A concept prompt for generating an image of a 1/7 scale figure of a Full Armor Mecha Girl, FAMG-002 Belthiera, generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766207499_jq8o52_HEebgrBbkAAGpl0.jpg",
+      "https://cms-assets.youmind.com/media/1774766207501_k57swk_HEebhVoaQAAo6vP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12912,
     "content": "Create a 1/7 scale commercialized figurine of the person in the picture, in a realistic style, in a cozy artisan workshop environment. The figurine is placed on a wooden workbench. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to it is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.",
     "title": "Breaking Bad Collectible Figurine Prompt with Reference Image",

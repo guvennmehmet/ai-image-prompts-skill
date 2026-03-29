@@ -56,6 +56,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 12925,
+    "content": "Use the Uploaded photo as reference, Vintage engraving illustration style, highly detailed black ink linework, dense parallel hatching and cross-hatching, precise contour engraving lines, woodcut and etching influence, classical printmaking aesthetic, monochrome black and white palette, intricate line density variation to create depth and volume, curved line flow following form anatomy, stippling accents for soft shading, old master engraving technique, baroque illustration feel, antique scientific illustration style, ultra fine (line precision), high contrast with clean negative space, ornamental yet anatomical rendering, hand-engraved texture simulation, timeless classical art style, meticulous craftsmanship, no color, no gradients, purely line-based shading.",
+    "title": "Monochrome Engraving Portrait Style",
+    "description": "A detailed prompt for Gemini Nano Banana Pro 2.0 to generate a portrait in the style of a vintage engraving illustration, emphasizing black ink linework, cross-hatching, and classical printmaking aesthetics, based on an uploaded reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766201498_o4hur3_HEh58mObYAA2GPX.jpg",
+      "https://cms-assets.youmind.com/media/1774766201530_feqb35_HEh58mRaAAArGfU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12920,
+    "content": "( Deconstructed_Ingredients_{argument name=\"dish name\" default=\"[DISH_NAME]\"} * 1.5 ) + \n( Miniature_Plastic_Toy_Chef * 1.2 ) + \n( Floating_Frosted_Glass_AR_UI_Panels * 1.5 ) + \n( Flavor_Profile_Radar_Charts * 1.0 ) + \n( Slate_Serving_Board * 1.0 ) +\n( Blurred_Cookbook_Background_{argument name=\"dish name 2\" default=\"[DISH_NAME]\"} * 0.8 ) +\n( Pure_White_Studio_Void * 1.0 ) - \n( Human_Sized_Chef / 2.0 ) - \n( Messy_Plating / 2.0 )",
+    "title": "Deconstructed Ingredients Visualization",
+    "description": "A mathematical-style prompt for Nano Banana to visualize the deconstructed ingredients of a famous international dish, combining elements like miniature toy chefs, floating AR UI panels, and radar charts on a slate serving board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766197462_4smifr_HEYWiLEbYAA3lky.jpg",
+      "https://cms-assets.youmind.com/media/1774766197515_q4iibh_HEYWiKjXgAA90yj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12879,
     "content": "[NATURAL OBJECT] dissected as if by a master naturalist who found it in the wild. Split and pinned open like a specimen, but lit as if Caravaggio worked for National Geographic. Every internal structure glowing with its own material truth. Cross-section so sharp it feels violent. Interior so beautiful it feels sacred. The full object present, one half intact, one half opened to its core, every layer at the resolution of obsession. Background: pure black velvet. The object floats in it like something precious and dangerous. Labels pressed close, handwritten-weight serif, never floating: \"[STRUCTURE]\" / \"[MATERIAL TRUTH]\" / \"[AGE OR SCALE]\" \"[OBJECT] DISSECTED\" title in warm ivory caps, upper left. \"[One line that makes you lean closer]\" italic beneath. Mood: Audubon illustration meets Caravaggio meets the most beautiful science photograph ever taken. 4K, specimen lighting, extraordinary interior detail, nothing clinical, everything alive.",
     "title": "Caravaggio Meets National Geographic Dissection",

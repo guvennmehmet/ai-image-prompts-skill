@@ -10,6 +10,67 @@
     "needReferenceImages": false
   },
   {
+    "id": 12931,
+    "content": "A young, clean-cut Japanese woman in her 20s, close-up of the face, white background, straight long black to dark brown hair, with bangs.",
+    "title": "Japanese Woman Portrait Prompt for Nano Banana Pro",
+    "description": "A prompt designed to generate a close-up portrait of a clean-cut, young Japanese woman in her 20s, featuring straight long black to dark brown hair with bangs, against a white background, specifically for the Nano Banana Pro model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766204741_tvxna1_HEiUSVnaUAAcy4z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12930,
+    "content": "{\n  \"photo_type\": \"Amateur smartphone snapshot, casual indoor photo captured on an iPhone 16 Pro front camera with typical lens curvature.\",\n  \"subject\": {\n    \"age\": \"Young adult\",\n    \"body_type\": \"Curvy hourglass figure with soft athletic muscle tone\",\n    \"description\": \"A young adult female with a heart-shaped facial structure, fair and lightly freckled complexion, and long, wavy copper-red hair parted in the center.\",\n    \"ethnicity\": \"Caucasian\",\n    \"expression\": \"Playful winking expression with a slight, subtle smile\",\n    \"gender\": \"Female\",\n    \"mirror_rules\": \"Not a mirror selfie, direct amateur capture\",\n    \"pose_description\": \"Sitting comfortably on a white sectional sofa, leaning back slightly, one arm raised with fingers grazing her hair while the other hand rests casually on the cushion.\",\n    \"tattoos\": \"None\"\n  },\n  \"clothing\": {\n    \"bottom\": {\n      \"color\": \"Black and white\",\n      \"details\": \"High-cut leotard style revealing the hips, featuring a white webbing pattern over a matte black base.\",\n      \"fabric\": \"Spandex-polyester blend\",\n      \"type\": \"Integrated bodysuit bottom\"\n    },\n    \"fit_and_physics\": \"Compression creases visible at the waist and armpits; fabric stretching tightly over the chest and hips with visible seam tension.\",\n    \"outerwear\": {\n      \"color\": \"None\",\n      \"details\": \"None\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"shoes\": {\n      \"color\": \"None\",\n      \"details\": \"None\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"top\": {\n      \"color\": \"Black and white\",\n      \"details\": \"Long-sleeved bodysuit with a high neckline, featuring a large white stylized spider emblem on the chest and white web patterns on the sleeves.\",\n      \"fabric\": \"Matte performance fabric\",\n      \"type\": \"Spider-Man themed bodysuit\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Copper-red\",\n    \"interaction\": \"One hand is gently lifting a section of a pigtail, creating natural movement and flyaway strands.\",\n    \"style\": \"Long, wavy copper-red hair, parted in the center, styled into two high, voluminous loose pigtails.\"\n  },\n  \"face\": {\n    \"description\": \"Use the uploaded character reference image, keep all facial details 100% unchanged\",\n    \"eyebrows\": \"Thick, naturally feathered eyebrows\",\n    \"eyes\": \"Light blue almond-shaped eyes, one winking\",\n    \"lips\": \"Full, well-defined lips with a natural satin finish\",\n    \"makeup\": \"Minimal, natural-looking makeup enhancing the freckles\"\n  },\n  \"skin_texture\": \"Fair, lightly freckled complexion with visible natural pores and subtle skin variations.\",\n  \"biological_features\": {\n    \"eye_complexity\": \"Wetness on the tear duct and sharp corneal reflections from room lighting.\",\n    \"hair_strand_physics\": \"Fin",
+    "title": "Amateur Smartphone Snapshot Prompt for Nano Banana 2",
+    "description": "A detailed image generation prompt for Nano Banana 2, focusing on creating a casual, amateur-style smartphone photo of a young woman resembling Sadie Sink, wearing a Spider-Man themed bodysuit, with specific details on lighting, texture, and pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766204179_in7jva_HEfdpKkbIAA6eAS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12918,
+    "content": "{\n  \"style\": \"casual lifestyle photography, intimate candid, soft modern realism\",\n  \"subject\": \"young woman with long wavy blonde hair and glasses taking a selfie while lying in bed, wearing a yellow fitted bodysuit\",\n  \"pose\": \"reclined on pillows with one arm extended holding the camera, finger gently touching lips in a playful, relaxed gesture\",\n  \"environment\": \"cozy bedroom setting with patterned butterflies pillowcases, textured bedding, bedside table with lamp, one piece miniature, and small personal items\",\n  \"mood\": \"warm, relaxed, personal, slightly playful\",\n  \"lighting\": \"soft warm indoor lighting from bedside lamp combined with direct flash effect, creating gentle shadows and natural skin highlights\",\n  \"details\": \"freckled skin, subtle natural makeup, delicate necklace worh key, casual bedroom textures, soft fabric folds\",\n  \"camera\": \"close-up selfie perspective, slightly high angle, shallow depth of field\",\n  \"color_palette\": \"warm yellows, soft creams, natural skin tones, warm amber light\",\n  \"composition\": \"subject centered with diagonal arm line leading to face, intimate framing emphasizing facial expression and upper body\",\n  \"influences\": \"contemporary social media photography, natural lifestyle portraiture\",\n  \"quality\": \"high resolution, photorealistic, clean detail, subtle grain\"\n}",
+    "title": "Emma Watson Casual Lifestyle Photo",
+    "description": "A detailed JSON-formatted prompt for Nano Banana 2 to generate a photorealistic image of Emma Watson taking a selfie in a cozy bedroom setting, focusing on lighting, composition, and specific details like freckles and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766195333_rnziaz_HEfOtg5bAAAQytQ.jpg",
+      "https://cms-assets.youmind.com/media/1774766195379_6vdynj_HEfOuOHakAA-JIm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12934,
+    "content": "A young woman styled like a Korean model, close-up of the face, white background, straight long black to dark brown hair, with bangs.",
+    "title": "Korean Model Style Portrait Prompt for Nano Banana Pro",
+    "description": "A prompt for Nano Banana Pro to generate a close-up portrait of a young woman styled like a Korean model, featuring straight long black to dark brown hair with bangs, against a white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766206340_ffqmqo_HEfFt6mboAAetWA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12924,
+    "content": "{\n  \"meta\": {\n    \"camera\": \"iPhone 17 Pro\",\n    \"lens\": \"35mm\",\n    \"aspect_ratio\": \"4:5\",\n    \"style\": \"raw iphone indoor realism, natural HDR, soft grain\"\n  },\n  \"scene\": {\n    \"location\": \"bedroom mirror\",\n    \"time\": \"golden hour sunset leaking through window\",\n    \"atmosphere\": \"warm quiet room, soft shadows, intimate silence\"\n  },\n  \"lighting\": {\n    \"primary\": \"golden sunlight hitting from side\",\n    \"effect\": \"fabric slightly translucent, warm glow on skin, natural highlights\"\n  },\n  \"subject\": {\n    \"pose\": {\n      \"position\": \"standing in front of mirror\",\n      \"action\": \"mid-unbutton shirt moment\",\n      \"body\": \"one hand holding shirt open slightly, other holding phone\",\n      \"torso\": \"subtle forward lean\"\n    },\n    \"expression\": {\n      \"eyes\": \"locked into mirror\",\n      \"mouth\": \"barely parted\",\n      \"energy\": \"caught in a private moment\"\n    },\n    \"hair\": {\n      \"style\": \"soft messy natural fall\"\n    },\n    \"outfit\": {\n      \"top\": {\n        \"type\": \"oversized white button-up\",\n        \"state\": \"half unbuttoned\",\n        \"effect\": \"light passing through fabric, shape hinted not shown\"\n      },\n      \"bottom\": {\n        \"type\": \"minimal lounge shorts\",\n        \"color\": \"neutral\"\n      }\n    }\n  },\n  \"camera\": {\n    \"angle\": \"mirror selfie slight tilt\",\n    \"distance\": \"medium\",\n    \"imperfection\": \"tiny blur + fingerprint smudge on mirror\"\n  }\n}",
+    "title": "Golden Hour Mirror Selfie Realism",
+    "description": "A structured prompt for Nano Banana Pro to generate a raw, intimate mirror selfie taken during the golden hour, focusing on natural lighting, soft grain, and the candid moment of a person unbuttoning a shirt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766200526_msjsq1_HDnT4uXXcAEPOIQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12923,
+    "content": "using the attached reference photos as sources, preserve the same male face and hairstyles from the face reference and the same outfits from the clothing references. create a photorealistic black-and-white studio photoshoot collage arranged in a clean 2x2 grid with thin white spacing between frames. neutral gray seamless studio background, soft diffused fashion lighting with gentle shadows. frame 1: waist-up portrait, man in a plain rolled-sleeve t-shirt, one hand lightly touching the chin, direct intense gaze to camera, relaxed shoulders. frame 2: three-quarter standing pose in the same t-shirt, body angled slightly sideways, one hand near the mouth in a thoughtful gesture, casual stance. frame 3: mid-shot in a denim jacket, body turned partly away, one hand holding the jacket collar or shoulder, confident look toward camera. frame 4: tight portrait in the denim jacket, fingers resting near the lips and nose bridge, fashion editorial expression. natural skin texture, realistic fabric folds and denim texture, sharp hair detail. high-contrast monochrome conversion, cinematic fashion photography, 85mm lens look, f/2.8. no text, no watermark",
+    "title": "Black-and-White Fashion Collage with Face Preservation",
+    "description": "A detailed prompt for Google Gemini Nano Banana Pro to create a photorealistic black-and-white 2x2 collage of a male model, requiring the preservation of the face and outfits from attached reference images, focusing on high-contrast fashion photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774766199980_q1ulmj_HEeIvrzbAAIdt34.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12862,
     "content": "Stylized 3D cartoon a man \"image Uploaded\" in modern streetwear, full-body character, black aviator sunglasses, bright gold winter hat with white pom-pom, bright gold down jacket with thick white fur trim, bright gold sweatshirt under it, silver chain with snowflakes, baggy blue pants, white gloves, white sneakers, confident posture pointing with both hands (finger guns), clean soft studio lighting, smooth gradients, high detail, clear edges, winter blue background with fine snow particles, cute but cool atmosphere, Pixar-Disney-like 3D render, centered composition",
     "title": "Stylized 3D Cartoon Man in Streetwear",
