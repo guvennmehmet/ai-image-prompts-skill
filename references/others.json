@@ -13,6 +13,59 @@
     "needReferenceImages": true
   },
   {
+    "id": 12968,
+    "content": "Tactile embroidered tapestry fragment showing a lone wooden sailing ship navigating a sea of swirling nebulae, visible stitch textures and layered thread in deep navy, gold, and starlit silver, trailing mist like loose floss caught in wind, warm romantic twilight glow on the textile surface.",
+    "title": "Tactile Embroidered Tapestry of a Ship in Nebulae",
+    "description": "A descriptive prompt for Nano Banana Pro to generate an image of a tactile embroidered tapestry fragment. The tapestry depicts a wooden sailing ship navigating a sea of swirling nebulae, emphasizing visible stitch textures, layered thread, and a warm romantic twilight glow on the textile surface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853738361_lv4ys5_HElZimQWsAABWSr.jpg",
+      "https://cms-assets.youmind.com/media/1774853738425_heh8vc_HElZiisbQAAcF6S.jpg",
+      "https://cms-assets.youmind.com/media/1774853738956_lhofh8_HElZimwawAAnB0N.jpg",
+      "https://cms-assets.youmind.com/media/1774853739521_q5rud5_HElZimxbIAEp3-s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12969,
+    "content": "Whimsical miniature world depiction of a rain-soaked alley network in cyberpunk style.",
+    "title": "Whimsical Cyberpunk Alley Network",
+    "description": "A prompt for Nano Banana Pro to generate a whimsical miniature world depiction of a rain-soaked alley network in a cyberpunk style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853741111_3h1xja_HElWEL4bEAEqiNB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12992,
+    "content": "Chopin\n\nImage of Fantaisie-Impromptu, Op. 66\nLassen style\n\nAt that moment, people disappeared\n\nAnd dolphins and killer whales appeared?",
+    "title": "Chopin's Fantaisie-Impromptu in Lassen Style",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on Chopin's Fantaisie-Impromptu, Op. 66, but rendered in the style of Christian Riese Lassen, resulting in a scene featuring dolphins and killer whales instead of people.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853754094_liae34_HEkkxDUbMAAYaCb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12982,
+    "content": "an F-14D in the style of a Western religious painting",
+    "title": "F-14D in the Style of a Western Religious Painting",
+    "description": "A prompt used with Nano Banana Pro via Google Gemini 3.1 to generate an image of an F-14D fighter jet rendered in the style of a Western religious painting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853748799_n5z1sy_HEUdc8FbYAInPNq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12943,
+    "content": "A cinematic macro toy-photography scene of dozens of identical bean-sized instances of the uploaded reference character charging forward through a violent rainstorm in a partially broken military formation, led by a commanding figure riding a fantastic mount deeper in the frame. ar 16:9\n🧬 Likeness Integrity (CRITICAL)\nAll instances must preserve exactly:\n\n• proportions\n\n• eye shape, spacing, stylization\n\n• silhouette\n\n• material identity\nNo redesign. No added features. No facial changes.\n\nAll soldiers are identical instances of the same character.\n⚔️ Scene Concept & Motion Structure\nThe army transitions from formation into full charge:\n• front rows breaking into aggressive motion\n\n• mid rows reacting milliseconds later\n\n• deeper rows still partially aligned\nMotion spreads like a wave through the army\nEach unit runs with controlled variation:\n• different stride timing and body angles\n\n• no identical poses\n\n• all movement directed forward\nWeapons:\n• each unit carries an oversized medieval-style weapon\n\n• designs vary but follow a unified visual language\n\n• subtle controlled glow, never overpowering\n\n• must not obscure character identity\n🐉 Leader & Mount (COMMAND LAYER)\nA commanding leader appears deeper in the frame, elevated above the formation:\n• positioned off-center along a rule-of-thirds axis\n\n• partially silhouetted through rain and haze\n\n• clearly distinct from the soldiers through scale and placement\nMount Design Logic (CRITICAL):\n• derived from the character’s material and world language\n\n• no literal cloning or costume mimicry\n\n• subtle harmony in form, texture, and accents\nPose:\n• mount in forward surge, cutting through rain\n\n• leader stable and controlled, not exaggerated\n\n• presence communicates authority, not motion chaos\nThe leader has already moved.\n\nThe army is catching up.\n🪂 Foreground Hero (IMPACT ANCHOR)\nThe closest instance dominates the foreground:\n• captured mid-air in a dynamic jumping attack pose\n\n• limbs extended with directional force\n\n• weapon leading the motion\nThis figure acts as the visual entry point into the scene\n🎥 Camera & Perspective (PRESSURE SHOT)\nUltra-low ground-level camera, almost touching wet terrain\n\n18–24mm close-lens perspective\n• foreground character enlarged by proximity\n\n• army recedes diagonally into depth\n\n• leader visible in mid/deep plane\n\n• slight horizon tilt for instability\n\n• some units cropped at frame edges\nViewer feels inside the charge\n🔍 Depth of Field (MANDATORY)\nExtremely shallow depth of field\n• foreground hero = razor sharp\n\n• nearby units slightly softened\n\n• leader readable but partially diffused\n\n• distant army dissolves into rain and haze\nNo full-frame clarity\n💡 Lighting Doctrine (STORM LIGHT)\nHard directional back/side light cutting through rain\n• strong rim light outlining silhouettes\n\n• rain streaks illuminated as sharp lines\n\n• deep shadow poc",
+    "title": "Cinematic Macro Toy Photography of a Charging Army",
+    "description": "A highly detailed prompt for generating a cinematic macro toy-photography scene using Nano Banana, depicting dozens of identical bean-sized characters charging forward in a military formation through a violent rainstorm, led by a commanding figure on a fantastic mount. The prompt includes extensive constraints on likeness integrity, scene structure, motion dynamics, camera perspective, and lighting doctrine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853725485_pqfz33_HEjquznbgAIj3iJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12919,
     "content": "Intricate multi-layer paper cut silhouette of a crumbling ancient library floating above storm clouds, heavy handmade paper with visible fibers and rough cut edges casting subtle shadows between layers, muted indigo, sepia, and silver tones, soft backlighting creating depth, traditional folk art silhouette feel with surreal scale.",
     "title": "Intricate Paper Cut Silhouette of a Library",

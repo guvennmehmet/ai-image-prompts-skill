@@ -1,5 +1,15 @@
 [
   {
+    "id": 12991,
+    "content": "the Villain fairy performs the “you think because you say nothing You’re strong?”",
+    "title": "Villain Fairy Quote Generation",
+    "description": "A prompt used with Google Gemini3 image generator (Nano Banana Pro) to create an image of a villain fairy performing the quote, 'you think because you say nothing You’re strong?'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853754239_1d50hf_HEUcw0IbMAAUM6S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12939,
     "content": "a sloth, a tuna, an F-15E in the style of an Eastman Color filmed movie",
     "title": "Sloth, Tuna, and F-15E in Eastman Color Style",

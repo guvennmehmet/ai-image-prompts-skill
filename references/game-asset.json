@@ -1,5 +1,45 @@
 [
   {
+    "id": 12983,
+    "content": "a human VS. Yokai Haxtusyaku-sama in the style of an FPS game",
+    "title": "Human VS. Yokai Haxtusyaku-sama in FPS Game Style",
+    "description": "A prompt used with Nano Banana Pro via Google Gemini 3.1 to generate an image depicting a confrontation between a human and the Yokai Hachishaku-sama, rendered in the style of a First-Person Shooter (FPS) game.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853749294_qrc99d_HEUetnGbQAAIVwE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12991,
+    "content": "the Villain fairy performs the “you think because you say nothing You’re strong?”",
+    "title": "Villain Fairy Quote Generation",
+    "description": "A prompt used with Google Gemini3 image generator (Nano Banana Pro) to create an image of a villain fairy performing the quote, 'you think because you say nothing You’re strong?'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853754239_1d50hf_HEUcw0IbMAAUM6S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12973,
+    "content": "soft, round face\nfuller cheeks\nsmall chin\nslightly larger, expressive eyes (but still identity-consistent)\nno beard, no sharp jawline, no adult features\nExpression should be innocent, warm, and slightly playful, with a gentle smile and direct eye contact.\nBody proportions should be cute and childlike (small, slightly chubby body, slightly larger head).\n\nPose: relaxed standing with hands behind the back, with a subtle natural tilt in head and shoulders to avoid stiffness.\nHair should match the reference but appear soft, slightly voluminous, and naturally styled, not overly sharp or artificial.\nSkin should be soft and stylized, with subtle subsurface scattering (SSS) for a warm glow, matte finish (no plastic shine), and gentle natural blush on cheeks.\nThe character wears a half sleeves cotton sweater with a puzzle pattern, where:\n\ncolors are soft but lively and slightly vibrant\nnot oversaturated and not washed out\nThe fabric shows a realistic knit texture and soft folds\nLighting should be soft and cinematic:\n\nkey light from upper-left\ngentle fill light\nsubtle rim light on hair\nBackground should be a rich blue gradient, brighter behind the subject and darker toward the edges, with smooth depth (not flat).\nOutput should be:\n\n1:1 aspect ratio\nmid-length framing (head to waist)\nhigh-detail, clean 3D render\nfilm-quality finish (not toy-like, not overly realistic)",
+    "title": "3D Render of Childlike Character in Puzzle Sweater",
+    "description": "A detailed prompt for Google Nano Banana Pro to generate a high-detail, clean 3D render of a character with soft, childlike features (no adult features, no beard, fuller cheeks), wearing a puzzle-patterned sweater, emphasizing soft cinematic lighting and a rich blue gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853742219_k8jl77_HEjWkEDbkAAZOXA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12971,
+    "content": "Create a completely new ultra realistic Instagram vertical 4:5 image for Gemini 3 Pro Nano Banana of the same man with identical facial features inside the Angry Birds world during a dramatic escape moment. He jumps off a collapsing wooden platform as multiple TNT crates detonate behind him, red sparks and debris flying. Red is mid air flying beside him, Bomb is igniting, Chuck sprints ahead, Stella flutters above, and pigs are scattering everywhere in panic. Outfit: fitted white T-shirt, tactical brown cargo pants, and impact-ready white sneakers with red-yellow accents, all detailed and textured. Environment: broken glass, exploding stone blocks, rolling green hills blurred behind. Lighting: intense warm explosion glow from one side combined with cool sky light from the other, giving epic cinematic contrast. Feathers, dust, debris, and motion are ultra\n\ndetailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, with sharp focus on the man and Red.",
+    "title": "Ultra-Realistic Man in Angry Birds World",
+    "description": "A prompt for Google Nano Banana to create an ultra-realistic, vertical Instagram image of a man with identical facial features to a reference, dramatically escaping an explosion within the Angry Birds world, detailing the action, environment, and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853740918_35le08_HEjC1MyaMAAf-YD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12936,
     "content": "Full Armor Mecha Girl\nFAMG-002 Belthiera\n1/7 scale figure",
     "title": "Full Armor Mecha Girl Figure Concept for Nano Banana Pro",

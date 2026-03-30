@@ -10,6 +10,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 12976,
+    "content": "Proportions, skin tone, hairstyle, and all recognizable features. Do not alter or stylize the real face.\nComposition & Framing:\n\nFull-body vertical shot with a clean, centered layout. The real subject stands on the right, and the caricature stands on the left at approximately 50–60% of the real subject’s height. The real subject casually rests one elbow on the caricature’s oversized head, creating a natural, playful interaction.\nReal Subject (Photographic):\n\nUltra-realistic rendering with natural skin texture and fine detail. Expression is warm, relaxed, and confident.\nPose & Style (IMPORTANT):\n\nThe subject stands in a slightly cool, stylish posture — relaxed stance with subtle asymmetry (one leg slightly forward or weight shifted), shoulders loose, not stiff. The hand resting on the caricature should feel effortless and natural.\nClothing (Match Reference):\n\n{argument name=\"clothing\" default=\"Gray crewneck sweater (fine knit texture, ribbed cuffs/hem), classic blue jeans (straight fit), and clean white sneakers\"}. Keep textures realistic and clearly visible.\n3D Caricature (Stylized Version):\n\nPixar/Disney-inspired 3D style with exaggerated proportions — large expressive head and smaller body. The height should be noticeably shorter, around the real subject's waist level.\nFacial features must remain recognizable but enhanced — larger eyes, softer forms, slightly amplified smile.\nEmotion & Body Movement (IMPORTANT):\n\nExpression is more playful and animated than the real subject\n\nEyes brighter and more expressive, smile slightly exaggerated\nBody posture must NOT be stiff — use a natural, lively stance\n\nAdd subtle movement according to the real subject's personality\n\nPose should feel like a living, animated character, not a rigid figurine\nClothing:\n\nExact 1:1 stylized recreation of the real subject’s outfit with soft 3D textures.\nLighting & Environment:\n\nSoft, diffused studio lighting from the upper-left, creating smooth highlights and gentle shadows. Clean light-gray gradient seamless background(lighter in the inner areas).\nOutput Style:\n\nUltra-clean, cinematic, high-detail render with strong contrast between realistic human and stylized 3D character. Both subjects grounded with soft natural shadows.",
+    "title": "Ultra-Clean Realistic Human and Stylized 3D Caricature Composition Prompt",
+    "description": "A detailed prompt for Gemini Nano Banana 2 to generate an image featuring a real subject and a stylized 3D caricature of the same subject in a single frame, emphasizing strict identity preservation for the real subject and exaggerated Pixar/Disney style for the caricature, with specific composition and lighting requirements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853743905_2bin9v_HElVBfvbQAAz-YW.jpg",
+      "https://cms-assets.youmind.com/media/1774853744016_4rsnca_HElVBdja4AA9Jh4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12962,
+    "content": "Use the uploaded image as the primary subject reference. Transform the person into a stylized caricature with a slightly oversized head and a smaller body while preserving facial identity, expression, hairstyle, and key features.\nPlace the subject casually leaning against a vintage dark green classic car on a narrow cobblestone street with warm glowing street lamps on both sides. Maintain a relaxed, confident pose.\nOutfit should match or naturally enhance the original clothing from the uploaded image (adapt if needed to fit the scene). Keep textures realistic and well-detailed.\nStyle: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-detailed, soft shadows, warm tones, high resolution, vibrant but natural colors.",
+    "title": "3D Cartoon Caricature with Identity Preservation",
+    "description": "A prompt for Google Gemini Nano Banana Pro to transform an uploaded image into a stylized 3D cartoon caricature with an oversized head and smaller body, while strictly preserving the subject's facial identity and expression. The scene places the subject leaning against a vintage dark green classic car on a cobblestone street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853736664_vhtoo6_HEkK2GhaEAAfmeK.jpg",
+      "https://cms-assets.youmind.com/media/1774853736655_n5mxd6_HEkK2SeaYAAKWYl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12973,
+    "content": "soft, round face\nfuller cheeks\nsmall chin\nslightly larger, expressive eyes (but still identity-consistent)\nno beard, no sharp jawline, no adult features\nExpression should be innocent, warm, and slightly playful, with a gentle smile and direct eye contact.\nBody proportions should be cute and childlike (small, slightly chubby body, slightly larger head).\n\nPose: relaxed standing with hands behind the back, with a subtle natural tilt in head and shoulders to avoid stiffness.\nHair should match the reference but appear soft, slightly voluminous, and naturally styled, not overly sharp or artificial.\nSkin should be soft and stylized, with subtle subsurface scattering (SSS) for a warm glow, matte finish (no plastic shine), and gentle natural blush on cheeks.\nThe character wears a half sleeves cotton sweater with a puzzle pattern, where:\n\ncolors are soft but lively and slightly vibrant\nnot oversaturated and not washed out\nThe fabric shows a realistic knit texture and soft folds\nLighting should be soft and cinematic:\n\nkey light from upper-left\ngentle fill light\nsubtle rim light on hair\nBackground should be a rich blue gradient, brighter behind the subject and darker toward the edges, with smooth depth (not flat).\nOutput should be:\n\n1:1 aspect ratio\nmid-length framing (head to waist)\nhigh-detail, clean 3D render\nfilm-quality finish (not toy-like, not overly realistic)",
+    "title": "3D Render of Childlike Character in Puzzle Sweater",
+    "description": "A detailed prompt for Google Nano Banana Pro to generate a high-detail, clean 3D render of a character with soft, childlike features (no adult features, no beard, fuller cheeks), wearing a puzzle-patterned sweater, emphasizing soft cinematic lighting and a rich blue gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853742219_k8jl77_HEjWkEDbkAAZOXA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12985,
+    "content": "A 20-year-old young Japanese woman, cute, close-up of the face, white background, black to dark brown straight long hair, with bangs.",
+    "title": "Close-up of a Young Japanese Woman",
+    "description": "A prompt for Nano Banana Pro describing a close-up portrait of a cute 20-year-old Japanese woman with black to dark brown straight long hair and bangs, set against a white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853750607_pazszx_HEih37BaMAEetrF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12931,
     "content": "A young, clean-cut Japanese woman in her 20s, close-up of the face, white background, straight long black to dark brown hair, with bangs.",
     "title": "Japanese Woman Portrait Prompt for Nano Banana Pro",

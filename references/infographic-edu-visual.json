@@ -56,6 +56,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 12947,
+    "content": "Technical architectural blueprint of a Classic Smash Burger on deep navy drafting paper. Hyperrealistic food hero centered-left, dramatically lit from upper left, warm studio spotlight, cross-section view revealing every layer in precise stack order, lacy-edged patties visible in full photorealistic color, cheese mid-cascade, bun toasted golden, sauce pooling at base catching warm light. Blueprint linework in electric blue, precise measurement lines, stack height callouts, patty thickness cross-section, bun diameter diagram, sauce trajectory arc, grid overlay. Labels connected by thin glowing CAD elbow-joint lines, no crossovers: \"{argument name=\"label 1\" default=\"BRIOCHE BUN sesame-crowned, butter-toasted, 11cm diameter\"}\" \"{argument name=\"label 2\" default=\"SMASH PATTY ×2  80/20 chuck, 85g each, crust-temp 220°C\"}\"  \"{argument name=\"label 3\" default=\"AMERICAN CHEESE  single-fold melt, 2 slices, full cascade}\"  \"CARAMELIZED ONION  45min low-heat, moisture-reduced, dark\"  \"BREAD & BUTTER PICKLE  4mm slice, brine-bright, translucent\"  \"HOUSE SAUCE  thousand island base, 18g applied, amber\". Labels clustered right and top, white Helvetica Neue Light uppercase, thin italic descriptors below. Compass rose bottom-left, scale bar bottom-center, revision block top-right. Title block double-border bottom-right: \"DISH: THE SMASH // CLASSIFICATION: AMERICAN CLASSIC // BUILD SPEC: Engineered to be the last burger you ever need.\" 4K, tack sharp, electric blue linework glowing softly, warm golden burger tones popping against cool navy. Craveable.",
+    "title": "Technical Architectural Blueprint of a Smash Burger",
+    "description": "A highly specific prompt for Nano Banana Pro to generate a technical architectural blueprint of a classic smash burger on deep navy drafting paper. The prompt demands hyperrealistic food rendering with precise measurement lines, stack height callouts, and detailed labels connected by glowing CAD lines, showcasing the model's ability to handle complex text and technical fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853727476_vzwqfl_HEl-TT4XYAAoOW2.jpg",
+      "https://cms-assets.youmind.com/media/1774853727475_u638wj_HEl-Po3XAAAHgZr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12988,
+    "content": "How settlement and budget figures change their appearance through political magic.\n\nJust by rephrasing a deficit as an investment, behold the wonder.",
+    "title": "Four-Panel Manga: The Magic of Numbers",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'The Magic of Numbers,' illustrating how financial figures like deficits and budgets can be politically manipulated or reframed as investments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774853752508_6gtj87_HElV3IRaAAAWdPa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12925,
     "content": "Use the Uploaded photo as reference, Vintage engraving illustration style, highly detailed black ink linework, dense parallel hatching and cross-hatching, precise contour engraving lines, woodcut and etching influence, classical printmaking aesthetic, monochrome black and white palette, intricate line density variation to create depth and volume, curved line flow following form anatomy, stippling accents for soft shading, old master engraving technique, baroque illustration feel, antique scientific illustration style, ultra fine (line precision), high contrast with clean negative space, ornamental yet anatomical rendering, hand-engraved texture simulation, timeless classical art style, meticulous craftsmanship, no color, no gradients, purely line-based shading.",
     "title": "Monochrome Engraving Portrait Style",
