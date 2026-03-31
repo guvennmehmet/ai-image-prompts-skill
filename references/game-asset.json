@@ -1,5 +1,25 @@
 [
   {
+    "id": 13044,
+    "content": "the classic Japanese Bosozoku (F) in the style of a 3D model asset",
+    "title": "3D Model Asset Style: Classic Japanese Bosozoku (Female)",
+    "description": "A prompt used with Google Gemini 3.1 image generator (Nano Banana Pro) to create an image of a classic Japanese Bosozoku (female) in the style of a 3D model asset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774939645741_owj0eg_HEphgKkasAAnT0A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13041,
+    "content": "the classic Japanese Bosozoku ({argument name=\"gender\" default=\"M\"}) in the style of a 3D model asset",
+    "title": "Nano Banana Pro Image Generation of Classic Japanese Bosozoku as a 3D Model Asset",
+    "description": "A prompt used with Nano Banana Pro (Google Gemini 3.1 image generator) to create an image of a classic Japanese Bosozoku (male) rendered in the style of a 3D model asset. This is presented as an example of generating AI assets/materials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774939644637_prip0z_HEpWmKWbAAAXqd6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12983,
     "content": "a human VS. Yokai Haxtusyaku-sama in the style of an FPS game",
     "title": "Human VS. Yokai Haxtusyaku-sama in FPS Game Style",

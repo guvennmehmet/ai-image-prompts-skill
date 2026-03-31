@@ -56,6 +56,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 13031,
+    "content": "A 2x2 grid of 4 random famous cities turned into looping kinetic sculptures on museum plinths\n[Top Left: random real European city as a vertical kinetic skyline with moving trams and tiny lights]\n[Top Right: random real Asian megacity as a multi-layered kinetic light grid with sliding blocks]\n[Bottom Left: random real coastal city with rolling wave mechanisms and rotating landmarks]\n[Bottom Right: random real desert or inland city with lifting arms and spinning towers]\nPhotoreal miniature kinetic sculptures made of brass, glass, and polished wood, subtle motion implied by blurred rods and tracks, illuminated display plinths in a gallery setting, soft museum lighting, gentle reflections on the floor, 60mm perspective for elegant compression, shallow depth of field isolating each sculpture, warm white seamless backdrop, crisp focus on intricate mechanics.",
+    "title": "Cities as Kinetic Sculptures Grid",
+    "description": "A prompt for generating a 2x2 grid of four different famous cities transformed into unique, looping kinetic sculptures. It specifies the materials (brass, glass, polished wood), the mechanisms for each city type (vertical skyline, light grid, rolling waves, spinning towers), and the museum gallery setting and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774939640406_b4ds87_HEdzuqEacAAnZX-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13029,
+    "content": "<instruction> Input A is a famous dish (photo or dish name). Analyze the dish's ingredient taxonomy, preparation methodology, cultural preparation setting, and historical documentation style.\nOptional Input B is a style reference (3d mod designer toy luxury product packaging).  \nGoal: Three-panel folding display (12\" tall, 36\" wide when open) structured like a medieval altarpiece, with each panel revealing different aspects of the dish's story through museum-quality presentation.\nRules:\nLeft panel: 15-20 ingredients mounted as specimens in tiny bottles with handwritten Latin/scientific labels\nCenter panel: 3D pop-up kitchen diorama with cultural figure preparing dish, architectural elements from origin region\nRight panel: 6-8 precise preparation steps as 3d mod designer toy style\nCloses into protective case with magnetic closure and embossed exterior\nExterior: ornate typography with dish name in gold foil\nSmall drawer at base containing actual spice sample or \"secret ingredient\"\nColor palette drawn from traditional pottery/textiles of origin culture\nInclude tiny rolled \"scroll\" with full recipe in calligraphy\nOutput: ONE image, 16:9 showing triptych fully opened, shot straight-on, museum exhibition lighting </instruction>",
+    "title": "Medieval Altarpiece Display of Ghormeh Sabzi",
+    "description": "A complex, multi-panel prompt designed to visualize an international dish (Ghormeh Sabzi) as a medieval altarpiece. It details the structure of the three panels, requiring elements like ingredient specimens, a 3D pop-up diorama, and preparation steps rendered in a 3D designer toy style, all within a museum exhibition setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774939639285_clddgz_HEd1ZZRaAAAnsZB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12996,
+    "content": "Image 1 : High-quality professional product photography of a chilled {argument name=\"beverage brand\" default=\"Pepsi\"} can with condensation water droplets and a refreshing, icy look. The aluminum can appears crisp and glossy with realistic highlights, subtle reflections, and visible cold texture. Shot in a minimalist commercial beverage advertising style against a pure white background with soft natural shadows. Sharp focus, ultra-clean composition, modern aesthetic.\n\nImage 2 : Create a hyper-realistic vertical exploded infographic illustrating the ingredients of a Pepsi soft drink. At the top, clear carbonated water shown as sparkling liquid with fine rising bubbles. Below it, floating white sugar crystals with sharp crystalline texture. Beneath that, a rich amber-brown caramel color layer with glossy, syrup-like depth. Next, a subtle translucent layer representing phosphoric acid with a clean liquid look. Below it, abstract aromatic particles symbolizing natural flavors, light and minimal. Further down, small dark caffeine granules suspended mid-air. At the bottom, a chilled blue aluminum cola can standing upright with realistic condensation droplets and metallic reflections. Pure solid white background, soft studio lighting, subtle realistic shadows under each floating layer, ultra-sharp focus, DSLR macro photography look. Clean minimalist infographic labels with thin pointer lines for each ingredient. Premium beverage advertising aesthetic, modern, photorealistic.",
+    "title": "Hyper-Realistic Product Photography and Infographic Prompts for Pepsi",
+    "description": "Two image generation prompts: one for high-quality product photography of a chilled Pepsi can, and another for a hyper-realistic vertical exploded infographic illustrating the ingredients of the soft drink with detailed textures and minimalist styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774939622894_abmpx7_HEpcCEDbMAAA7YY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12947,
     "content": "Technical architectural blueprint of a Classic Smash Burger on deep navy drafting paper. Hyperrealistic food hero centered-left, dramatically lit from upper left, warm studio spotlight, cross-section view revealing every layer in precise stack order, lacy-edged patties visible in full photorealistic color, cheese mid-cascade, bun toasted golden, sauce pooling at base catching warm light. Blueprint linework in electric blue, precise measurement lines, stack height callouts, patty thickness cross-section, bun diameter diagram, sauce trajectory arc, grid overlay. Labels connected by thin glowing CAD elbow-joint lines, no crossovers: \"{argument name=\"label 1\" default=\"BRIOCHE BUN sesame-crowned, butter-toasted, 11cm diameter\"}\" \"{argument name=\"label 2\" default=\"SMASH PATTY ×2  80/20 chuck, 85g each, crust-temp 220°C\"}\"  \"{argument name=\"label 3\" default=\"AMERICAN CHEESE  single-fold melt, 2 slices, full cascade}\"  \"CARAMELIZED ONION  45min low-heat, moisture-reduced, dark\"  \"BREAD & BUTTER PICKLE  4mm slice, brine-bright, translucent\"  \"HOUSE SAUCE  thousand island base, 18g applied, amber\". Labels clustered right and top, white Helvetica Neue Light uppercase, thin italic descriptors below. Compass rose bottom-left, scale bar bottom-center, revision block top-right. Title block double-border bottom-right: \"DISH: THE SMASH // CLASSIFICATION: AMERICAN CLASSIC // BUILD SPEC: Engineered to be the last burger you ever need.\" 4K, tack sharp, electric blue linework glowing softly, warm golden burger tones popping against cool navy. Craveable.",
     "title": "Technical Architectural Blueprint of a Smash Burger",
