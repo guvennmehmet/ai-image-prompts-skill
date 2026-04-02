@@ -1,5 +1,42 @@
 [
   {
+    "id": 13108,
+    "content": "Ultra-realistic premium fragrance product shot of a perfume bottle ({argument name=\"fragrance name\" default=\"Forest Essence Elixir\"}), positioned at a (low macro angled shot) resting diagonally on lush (deep green moss surface in a forest setting), cylindrical design with a transparent glass center revealing green-tinted liquid, textured (matte black base) and brushed (metallic silver cap) with visible condensation droplets, surrounded by dense (forest foliage and pine branches) softly framing the scene, subtle (morning mist",
+    "title": "Ultra-realistic Fragrance Product Shot",
+    "description": "A prompt for generating an ultra-realistic, macro-angled product shot of a perfume bottle (Forest Essence Elixir) resting on deep green moss in a forest setting, focusing on condensation, material textures, and soft morning mist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112275436_y9z8hz_HE01ExdaQAAWg0_.jpg",
+      "https://cms-assets.youmind.com/media/1775112275430_9nl8v1_HE01Ex0bUAAfxV6.jpg",
+      "https://cms-assets.youmind.com/media/1775112275502_7odg4e_HE01E34boAAXFEf.jpg",
+      "https://cms-assets.youmind.com/media/1775112276447_fi3d03_HE01Exqa4AAF72m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13121,
+    "content": "Ultra-realistic premium fragrance product shot of a perfume bottle (Forest Essence Elixir), positioned at a (low macro angled shot) resting diagonally on lush (deep green moss surface in a forest setting), cylindrical design with a transparent glass center revealing green-tinted liquid, textured (matte black base) and brushed (metallic silver cap) with visible condensation droplets, surrounded by dense (forest foliage and pine branches) softly framing the scene, subtle (morning mist",
+    "title": "Ultra-Realistic Forest Essence Elixir Perfume Product Shot",
+    "description": "A detailed prompt for generating an ultra-realistic, low macro angled product shot of a perfume bottle named 'Forest Essence Elixir', resting on deep green moss, surrounded by forest foliage, emphasizing texture, condensation, and subtle morning mist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112282163_at75yk_HE0YJV1bUAAo5_E.jpg",
+      "https://cms-assets.youmind.com/media/1775112282236_yr0noc_HE0YJV4awAE4pp3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13102,
+    "content": "Ultra-realistic premium product shot of a body wash bottle (Incense Oud Body Wash), positioned at a (slightly tilted top-down angle) nestled within rugged (dark textured driftwood environment), translucent (amber glass bottle with black pump dispenser) glowing softly from within, warm internal light illuminating the liquid and enhancing depth, surrounded by swirling (soft white incense smoke) flowing naturally through the wooden crevices, rich organic textures on wood with deep shadows and highlights, dramatic (low-key warm lighting) creating a moody contrast between glowing amber tones and dark earthy surroundings, subtle reflections on the glass surface with condensation droplets for realism, background fully filled with layered wood forms and soft haze, cinematic depth with selective focus on the bottle and gentle blur on surrounding elements, luxurious aromatic atmosphere inspired by oud and incense, shot on (85mm lens, f/2.8), ultra-detailed textures and lighting, high-end fragrance/body care advertising aesthetic, 8k resolution, no text, no watermark",
+    "title": "Ultra-Realistic Product Shot of Incense Oud Body Wash",
+    "description": "A highly detailed prompt for Nano Banana Pro to generate an ultra-realistic, premium product shot of an Incense Oud Body Wash bottle. The composition features the amber glass bottle nestled in dark textured driftwood, illuminated by warm internal light, surrounded by swirling white incense smoke, creating a moody, low-key, high-end fragrance advertising aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112270944_moxkjm_HEzEd2-a4AAyOtS.jpg",
+      "https://cms-assets.youmind.com/media/1775112271054_fhuewm_HEzEd2hbEAAkReL.jpg",
+      "https://cms-assets.youmind.com/media/1775112271120_a0jy4z_HEzEd2rbkAA8YRj.jpg",
+      "https://cms-assets.youmind.com/media/1775112272560_fpm7t0_HEzEd3xbIAAsQ5Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13026,
     "content": "A hyper-realistic, cinematic macro photograph, vertical composition (9:16 aspect ratio). At the center of the frame is a single, large, perfect pineapple, standing upright with its full crown of vibrant green leaves, in a deep golden-yellow, viscous pool of pineapple juice. This central pineapple is very lightly and subtly dusted with fine pink powder (e.g., pitaya powder or pink confectioner's sugar), a minimal dusting especially around its leafy crown and textured skin, and is slick with intricate, visible condensation water droplets. Delicate, wispy white steam rises from the top and around the pineapple's leafy crown, creating a dramatic interaction with the dark, moody, textured background. The pineapple juice pool is set on a dark, textured slate surface. Around the pool, a natural, textured frame is created by scattered smaller, cut pineapple chunks and slices, delicate pink flowers, and additional scattered pink powder. All these elements surround the central pineapple. The lighting is dramatic and sidelit, precisely highlighting every single scale of the pineapple, leaf edge, water droplet, and the subtle, minimal trace of pink powder, and smoke tendril. The entire scene has a strong sense of depth and cinematic drama, tightly focused on the central pineapple.",
     "title": "Hyper-realistic Macro Photo of Pineapple in Juice",

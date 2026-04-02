@@ -13,6 +13,52 @@
     "needReferenceImages": true
   },
   {
+    "id": 13129,
+    "content": "{argument name=\"prop\" default=\"prop\"} hyper-realistic front view of an extremely intricate miniature diorama of a realistic turtle tank, featuring that prop as the central and most detailed decoration inside the aquarium, a tiny cute turtle swimming or resting nearby, crystal clear water with realistic bubbles and light caustics, highly detailed miniature glass tank with delicate edges, ultra intricate substrate, aquatic plants, rocks and decorations, soft natural lighting with gentle shadows and realistic reflections, masterpiece level of detail, photorealistic miniature style, collector diorama quality, sharp focus",
+    "title": "Hyper-Realistic Miniature Turtle Tank Diorama",
+    "description": "A reusable prompt template for generating a hyper-realistic, intricate miniature diorama of a turtle tank, where a specified object acts as the central decoration. This prompt is designed for Nano Banana 2 (used via Adobe Firefly) and emphasizes photorealistic miniature style, crystal clear water effects, and collector diorama quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112285543_zcq2nr_HE0yjAUbsAEBO61.jpg",
+      "https://cms-assets.youmind.com/media/1775112285611_0n8jgn_HE0yi_4XAAAUtE-.jpg",
+      "https://cms-assets.youmind.com/media/1775112285594_v8rrng_HE0yjASbEAAz74h.jpg",
+      "https://cms-assets.youmind.com/media/1775112286211_mrl9h0_HE0yi_8XEAAnXX1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13137,
+    "content": "Create a hyper-real miniature diorama inside a clear glass bottle on a wooden table. Place {argument name=\"character\" default=\"CHARACTER\"} seated in a plush armchair, relaxed posture, holding {argument name=\"accessory\" default=\"ACCESSORY\"} in their hands with natural grip and finger tension—no book or extra props. Keep scale tiny yet believable; show thick bottle lip, optical refraction, soft caustics on the table, micro-scratches, faint dust and smudges on the glass. Warm studio key light from the right, subtle bounce from the left; soft reflections on the bottle; gentle shadow beneath. Bottle floor: fine sand with small shells and a thin turquoise water rim, grains sharply resolved. On the upper-left of the glass, add a handwritten white marker note: “{argument name=\"glass text\" default=\"GLASS_TEXT\"}” with correct superscripts. Background: warm beige, softly blurred. Tilt-shift/macro look, 85mm aesthetic, f/1.8 depth of field; crisp textures (skin pores, hair flyaways, fabric weave, metal/plastic/glass of the accessory). Centered framing, vertical 3:4 ratio, HDR detail, subtle vignette, premium cinematic hyper-real miniature style.",
+    "title": "Hyper-real Miniature Diorama Pop Culture Prompt for Nano Banana 2",
+    "description": "A detailed, structured prompt designed for Nano Banana 2 to create a hyper-real miniature diorama inside a clear glass bottle, featuring a customizable character and accessory in a premium cinematic style. The prompt is highly detailed, including specific instructions for lighting, texture, composition, and technical camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112290800_sf1x4w_HE1EmCGbwAESB-H.jpg",
+      "https://cms-assets.youmind.com/media/1775112290978_ox62rb_HE1EmBjWoAAG7oC.jpg",
+      "https://cms-assets.youmind.com/media/1775112291005_7guvxn_HE1EmB1bMAAaYdN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13117,
+    "content": "A cinematic, close-up shot of a young woman lying down on a bed, resting her head on her arm with a somber, pensive expression. She has dark hair and is wearing a dusty pink ribbed turtleneck sweater. Her hand is visible in the foreground, adorned with a simple gold wedding band and a vintage gold watch paired with metallic bracelets. The lighting is soft and diffused, casting gentle shadows across her face and highlighting the texture of the grey patterned bedding. The overall mood is quiet, intimate, and melancholically beautiful.",
+    "title": "Cinematic Close-up of Pensive Woman",
+    "description": "A prompt for Gemini Nano Banana to generate a cinematic, close-up shot of a young woman lying on a bed with a somber expression, highlighting the details of her attire (pink ribbed turtleneck) and accessories (gold wedding band, vintage watch), under soft, diffused lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112280878_h97294_HE0M7TSaUAAZlux.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13122,
+    "content": "Cute paper-cut style illustration of a young couple taking a selfie outdoors, soft pastel color palette, layered 3D paper craft effect. The boy is holding a camera, smiling, wearing a grey sweater; the girl stands beside him making a peace sign, wearing a light grey top. Both have simple, rounded facial features with rosy cheeks and friendly expressions. Background shows stylized mountains, lake, green hills, and fluffy white clouds in a minimal, layered paper design. Soft lighting, smooth shadows, cozy and wholesome vibe, high detail, depth through stacked paper layers, whimsical and clean composition.",
+    "title": "Cute Paper-Cut Style Couple Selfie Illustration",
+    "description": "A prompt for Google Nano Banana Pro to generate a cute, paper-cut style illustration of a young couple taking a selfie outdoors, using a soft pastel color palette and layered 3D paper craft effects, emphasizing a cozy and wholesome vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112283222_thjsci_HEz8cI6bsAALDZR.jpg",
+      "https://cms-assets.youmind.com/media/1775112283301_5vngow_HEz8cI5bQAAC3Qd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13005,
     "content": "Create an 8K ultra‑photorealistic bust sculpture of {argument name=\"subject name\" default=\"gugu\"} crafted from glossy white porcelain, resting on a reflective marble floor. Surround her with flowing, organic wave‑like structures featuring intricate perforated holes. A strong, warm amber light glows from inside the hollow forms and subtly from her eyes. The background shows a softly blurred, luxurious classical interior with arched windows and gold moldings. Use cinematic lighting, high contrast, realistic reflections, fine porcelain texture, gallery‑quality detail. ar 2:3",
     "title": "Porcelain Gugu Sculpture with Amber Light",

@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 13133,
+    "content": "① Menu Style\nCreate a diagram of \"5 selected {argument name=\"side job skills\" default=\"skills to earn money with side jobs\"}\" in the style of a Japanese restaurant menu. Use vertical writing, brush strokes, and a Japanese paper-like background.\n\n② Prescription Style\nCreate a diagram of \"{argument name=\"AI usage\" default=\"correct way to use AI\"}\" in the style of a medical prescription. Include an Rx mark, white background, and medical blue color.\n\n③ Boarding Pass Style\nCreate a diagram of \"{argument name=\"departure point\" default=\"life without AI\"} → {argument name=\"destination\" default=\"life after AI utilization\"}\" in the style of an airline boarding pass. Include departure point, destination, and a barcode.\n\n④ Dashboard UI Style\nCreate a diagram comparing the performance of \"{argument name=\"comparison subjects\" default=\"ChatGPT vs Claude\"}\" in the style of a dark mode dashboard UI. Include KPI cards and graphs.\n\n⑤ Diagnosis Chart Style\nCreate a diagnosis chart for \"{argument name=\"AI tool\" default=\"AI tool\"}\" that suits you, in the style of a Yes/No branching flowchart. Include arrows and color-coded nodes.",
+    "title": "Diagram Style Prompts for Nano Banana 2",
+    "description": "A set of five style templates for generating stable, structured diagrams using Nano Banana 2. Users can replace the content within brackets to create different types of visual aids, such as menu-style lists, prescription forms, boarding passes, dashboard UIs, and diagnostic flowcharts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112288342_6nv3zt_HE2QnibbMAAf3cI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13047,
     "content": "Carefully study Figure 1, and redraw Figure 2 according to its requirements. Place Figure 2 and the redrawn version on the left and right sides of the same white background image, ensuring the logo is not visible.",
     "title": "Image Redrawing and Style Transfer Prompt",

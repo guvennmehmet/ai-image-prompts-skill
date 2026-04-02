@@ -1,5 +1,15 @@
 [
   {
+    "id": 13133,
+    "content": "① Menu Style\nCreate a diagram of \"5 selected {argument name=\"side job skills\" default=\"skills to earn money with side jobs\"}\" in the style of a Japanese restaurant menu. Use vertical writing, brush strokes, and a Japanese paper-like background.\n\n② Prescription Style\nCreate a diagram of \"{argument name=\"AI usage\" default=\"correct way to use AI\"}\" in the style of a medical prescription. Include an Rx mark, white background, and medical blue color.\n\n③ Boarding Pass Style\nCreate a diagram of \"{argument name=\"departure point\" default=\"life without AI\"} → {argument name=\"destination\" default=\"life after AI utilization\"}\" in the style of an airline boarding pass. Include departure point, destination, and a barcode.\n\n④ Dashboard UI Style\nCreate a diagram comparing the performance of \"{argument name=\"comparison subjects\" default=\"ChatGPT vs Claude\"}\" in the style of a dark mode dashboard UI. Include KPI cards and graphs.\n\n⑤ Diagnosis Chart Style\nCreate a diagnosis chart for \"{argument name=\"AI tool\" default=\"AI tool\"}\" that suits you, in the style of a Yes/No branching flowchart. Include arrows and color-coded nodes.",
+    "title": "Diagram Style Prompts for Nano Banana 2",
+    "description": "A set of five style templates for generating stable, structured diagrams using Nano Banana 2. Users can replace the content within brackets to create different types of visual aids, such as menu-style lists, prescription forms, boarding passes, dashboard UIs, and diagnostic flowcharts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775112288342_6nv3zt_HE2QnibbMAAf3cI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13091,
     "content": "format: \"self_intro_sheet\"\ntext:\n  title: \"Self-Introduction Sheet\"\n  fields:\n    名前: \"{argument name=\"name\" default=\"Your Name\"}\"\n    家族: \"{argument name=\"family\" default=\"Father, Mother, Younger Sister\"}\"\n    血液型: \"Type A\"\n    趣味: \"Cafe hopping, taking photos\"\n    性格: \"Cheerful, laughs often, works at my own pace\"\n    休日は: \"Going out with friends, searching for cute shops\"\n    好きな物: \"Pudding, strawberries, cute clothes, stylish cafes\"\n    好みのタイプ: \"Kind and considerate person\"\n    嫌いな物: \"Bitter things\"\n    一言メッセージ: \"I'd be happy if we could be friends\"\n\nfont:\n  title: \"Fluffy, thick rounded font\"\n  label: \"Gentle handwriting style\"\n  body: \"Pop, easy-to-read rounded font\"\n  color: \"Pink\"\n\nvibe:\n  overall: \"Yumekawa (dreamy cute), girly, gentle and sweet atmosphere\"\n  colors:\n    - \"Pink\"\n    - \"Lavender\"\n    - \"Baby Blue\"\n  decorations:\n    - \"Dog\"\n    - \"Bear\"\n    - \"Lion\"\n    - \"Cat\"",
     "title": "Self-Introduction Sheet Generation Prompt for Nano Banana Pro",
