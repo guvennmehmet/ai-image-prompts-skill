@@ -13,6 +13,46 @@
     "needReferenceImages": true
   },
   {
+    "id": 13176,
+    "content": "Create a perfectly composed landscape photograph where the left half is summer and the right half is winter — split right down the middle of the frame with a razor-sharp dividing line. The SAME landscape, the SAME moment, but two completely different seasons occupying the same space.\nLEFT HALF — SUMMER:\n- Lush green grass, full leafy trees, wildflowers blooming\n- Bright warm sunshine, blue sky with fluffy white clouds\n- A lake in the mid-ground with glittering warm reflections\n- Mountains in the background with green slopes\n- A person in summer clothes ({argument name=\"summer clothing\" default=\"sundress, sandals\"}) sitting on the grass reading\n- A dog playing, butterflies, everything alive and warm\n- Color palette: vibrant greens, warm yellows, bright blues\nRIGHT HALF — WINTER:\n- The SAME landscape but in deep winter — everything covered in pristine white snow\n- Same trees but bare and skeletal, branches heavy with ice\n- Same lake but frozen solid with frost patterns on the surface\n- Same mountains but with heavy snow coverage\n- The SAME person (same position) now in winter gear ({argument name=\"winter clothing\" default=\"parka, boots, scarf\"}) still sitting in the same spot reading the same book — but on snow\n- A different dog (or same dog in a tiny coat) playing in snow\n- Color palette: whites, cool blues, pale greys, silver\nTHE DIVIDING LINE:\n- The split is perfectly vertical through the center of the frame\n- At the dividing line: impossible things happen — a single tree has green leaves on the left and bare snowy branches on the right. The grass stops and snow begins at an exact line. The lake water is liquid on the left and frozen on the right with a visible ice edge.\n- This hard division is what makes it surreal — nature doesn't work this way\nCOMPOSITION: Wide landscape, 16:9 ratio. Camera at medium distance showing the full scene with both halves balanced. The person and key trees are positioned AT the dividing line to maximize the \"same but different\" effect.\nLIGHTING: LEFT has warm golden afternoon sun. RIGHT has cool blue-grey winter twilight light. At the dividing line, both lighting systems meet, creating a warm-to-cool color shift.\n8K, photorealistic landscape photography on both sides. The impossibility is ONLY in the seasonal split — everything else is perfectly natural.",
+    "title": "Surreal Seasonal Split Landscape",
+    "description": "A detailed prompt for the Nano Banana 2 model to generate a photorealistic landscape photograph split perfectly down the middle, with one half representing summer and the other winter, showcasing impossible transitions at the dividing line.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198520170_xyna2j_HE9gxn2aoAATZ1C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13158,
+    "content": "\"Ultra-realistic cinematic portrait of a rugged middle-aged man with a shaved head and short beard, intense blue eyes, facing slightly to the side, dark black background. His skin is covered in intricate tattoos and symbolic markings inspired by Norse/Viking runes and tribal patterns, extending across his face, neck, and shoulders. The skin has a cracked, weathered texture like dry paint or aged clay, with bold splashes of red, blue, and ochre pigments layered across the tattoos. Some symbols resemble runes and sun motifs. The lighting is dramatic and directional, highlighting skin texture, wrinkles, pores, and paint cracks in extreme detail. Highly detailed, hyperrealistic, 8K resolution, sharp focus, shallow depth of field, cinematic lighting, studio portrait, moody atmosphere, high contrast, photorealistic skin texture, gritty and intense expression.",
+    "title": "Ultra-Realistic Viking-Inspired Cracked Paint Portrait",
+    "description": "A Nano Banana prompt for generating an ultra-realistic cinematic portrait of a rugged middle-aged man. The prompt focuses heavily on extreme detail, specifying cracked, weathered skin texture, intricate Norse/Viking tattoos with layered paint, dramatic directional lighting, and a high-contrast, moody atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198512291_c79bso_HE5e_7HagAASvHE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13141,
+    "content": "Ultra-realistic cinematic portrait of a young man sitting at a wooden desk in a cozy art studio, smiling warmly at the camera, with a tiny miniature version of himself standing on the table in front of him, perfectly detailed like a small figurine, surrounded by paint brushes, sketches, and art tools, warm ambient lighting from a desk lamp, shallow depth of field, soft bokeh background, creative storytelling composition, scale contrast illusion, hyper-detailed textures, 50mm lens, photorealistic, 8K.",
+    "title": "Ultra-realistic Cinematic Portrait with Miniature Self",
+    "description": "A prompt for Nano Banana 2 to create an ultra-realistic cinematic portrait of a young man in an art studio, featuring a creative storytelling composition where a tiny miniature version of himself stands on the desk, emphasizing scale contrast and hyper-detailed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198504040_7r3cme_HE40koZbAAA9qkY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13151,
+    "content": "A hyper-realistic cinematic scene of a giant woman filmmaker carefully adjusting a miniature vintage film camera on a tripod, inside a professional studio setup. A tiny elegant woman in a flowing pastel blue dress stands beside the camera like a model on set. Surrounding them are detailed studio lights, softboxes, film reels, cables, and a clapperboard. The giant woman has soft natural makeup, blonde hair tied back, and an intense focused expression. Dramatic soft lighting, shallow depth of field, ultra-detailed textures, 8K, photorealistic, cinematic composition, studio photography, volumetric lighting.",
+    "title": "Giant Woman Filmmaker with Miniature Model",
+    "description": "A prompt for Nano Banana 2 to generate a hyper-realistic cinematic scene featuring a giant woman filmmaker adjusting a miniature vintage film camera on a tripod inside a professional studio. A tiny elegant woman stands beside the camera like a model, emphasizing the scale difference with dramatic soft lighting and ultra-detailed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198508714_ajcsa6_HE4f8NKbMAAbrI5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13129,
     "content": "{argument name=\"prop\" default=\"prop\"} hyper-realistic front view of an extremely intricate miniature diorama of a realistic turtle tank, featuring that prop as the central and most detailed decoration inside the aquarium, a tiny cute turtle swimming or resting nearby, crystal clear water with realistic bubbles and light caustics, highly detailed miniature glass tank with delicate edges, ultra intricate substrate, aquatic plants, rocks and decorations, soft natural lighting with gentle shadows and realistic reflections, masterpiece level of detail, photorealistic miniature style, collector diorama quality, sharp focus",
     "title": "Hyper-Realistic Miniature Turtle Tank Diorama",

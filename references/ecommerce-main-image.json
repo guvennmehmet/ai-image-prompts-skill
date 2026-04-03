@@ -1,5 +1,27 @@
 [
   {
+    "id": 13149,
+    "content": "\"High-end commercial product photography of a ({argument name=\"product type\" default=\"sandwich\"}) labeled “({argument name=\"product name\" default=\"Fresh Stack Club\"})”, floating mid-air in a layered ({argument name=\"view style\" default=\"exploded tilt view\"}), vibrant (multi-layer textures) with sauce dripping realistically. Surrounded by flying (lettuce, tomato, bread crumbs). Background features a cinematic (bright kitchen gradient) with soft sunlight rays and depth blur for a fresh, healthy ad look\"",
+    "title": "Exploded Tilt View Sandwich Product Photography",
+    "description": "A prompt for Nano Banana 2 to generate high-end commercial product photography of a sandwich in an 'exploded tilt view,' floating mid-air with realistic sauce dripping. The scene includes flying ingredients and a cinematic bright kitchen gradient background, emphasizing a fresh, healthy ad look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198508391_ljxugt_HE7mJ3ZXwAApDqb.jpg",
+      "https://cms-assets.youmind.com/media/1775198508386_phuxci_HE7mJ33bcAAyx-P.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13145,
+    "content": "Ultra-realistic cinematic product shot of a premium honey jar placed inside a shallow wooden hollow surrounded by tall wild wheat and tiny yellow meadow flowers, captured from an intimate low-angle macro perspective with slight cinematic depth, transparent glass jar filled with luminous deep golden honey, topped with a satin bronze metallic lid and a narrow cream seal strip crossing vertically over the cap, minimal luxury label reading “{argument name=\"brand name\" default=\"HUNSET\"}”, jar lightly touched by thin climbing ivy strands for a refined organic detail, one realistic honeybee hovering near the front glass surface while another rests on a wheat stem behind the jar, environment set in a quiet countryside field during late afternoon, warm sunlight filtering through wheat stalks from behind creating glowing translucency inside the honey and soft halo edges around the jar, foreground with blurred wheat tips and soft natural bokeh, distant background fading into creamy green and amber tones, shallow depth of field with extreme sharpness on jar textures, visible honey thickness, subtle glass reflections, detailed plant fibers and pollen particles in air, cinematic luxury advertising mood, shot on 90mm macro lens, f/2.2, ultra-detailed natural textures, premium organic brand campaign style, 8k resolution, no text, no watermark.",
+    "title": "Ultra-Realistic Cinematic Honey Product Shot",
+    "description": "A detailed prompt for Gemini Nano Banana 2 to generate an ultra-realistic cinematic product shot of a premium honey jar. The scene is a countryside field at late afternoon, focusing on macro details like the jar's texture, a hovering honeybee, and warm sunlight filtering through wheat stalks, creating a luxury advertising mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198506030_qphdj1_HE5zSc2bwAAOuUn.jpg",
+      "https://cms-assets.youmind.com/media/1775198506051_ftnien_HE5zSecaoAAcqT5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13108,
     "content": "Ultra-realistic premium fragrance product shot of a perfume bottle ({argument name=\"fragrance name\" default=\"Forest Essence Elixir\"}), positioned at a (low macro angled shot) resting diagonally on lush (deep green moss surface in a forest setting), cylindrical design with a transparent glass center revealing green-tinted liquid, textured (matte black base) and brushed (metallic silver cap) with visible condensation droplets, surrounded by dense (forest foliage and pine branches) softly framing the scene, subtle (morning mist",
     "title": "Ultra-realistic Fragrance Product Shot",

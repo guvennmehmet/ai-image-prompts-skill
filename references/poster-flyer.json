@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 13142,
+    "content": "A mystical tarot card featuring a photorealistic {argument name=\"celebrity name\" default=\"Sydney Sweeney\"} as 'The Star' Arcana. She is kneeling gracefully beside a bioluminescent, glowing pool, pouring shimmering celestial water infused with stardust from two ornate, filigreed silver amphorae. The artistic style is a breathtaking fusion of high-fashion photography and intricate Art Nouveau illustration, reminiscent of Alphonse Mucha. \n\nThe background features a grand, radiant eight-pointed star and swirling celestial patterns of constellations and cosmic nebulae. The card is framed by a heavy, embossed golden foil border with intricate floral and zodiac carvings. Text overlay: \"THE STAR\". \n\nShot on Hasselblad X2D, 85mm lens, f/2.8 for a sharp focus on her ethereal features with a soft, magical background. Lighting is a mix of soft volumetric moonlight, golden rim lighting, and a bioluminescent glow reflecting off her skin. Rich palette of midnight blue, burnished gold, and shimmering teal. --ar 2:3",
+    "title": "Sydney Sweeney as 'The Star' Tarot Card",
+    "description": "A prompt for Nano Banana 2 to generate a mystical tarot card featuring a photorealistic Sydney Sweeney as 'The Star' Arcana. The image combines high-fashion photography with Art Nouveau illustration, detailing the scene with bioluminescent water, celestial patterns, and an embossed golden foil border.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198504757_kqbk1q_HE7reSZXkAAWZW_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13170,
+    "content": "A stern-faced man (100% accurate facial features, hairstyle, and glasses as depicted in the attached image) stands silently at the entrance of a dimly lit alley. Only a faint beam of light illuminates half of his face and body, dividing them in two; the other half remains obscured in darkness. He wears a black shirt and a classic long black overcoat, the fabric almost invisible in the darkness. His hand, hanging down, grips a pistol. The alley disappears into the darkness behind him. The photograph is a medium-range black and white shot with a strong film noir style.\n\nNote: 1. His facial features must not be altered. 2. Hard lighting from above, but no visible light source. 3. The light should only illuminate the designated part of the man's body; the light should not affect the background's tone or brightness. 4. The composition must be perfectly centered.\n\n--ar 9:16",
+    "title": "Film Noir Cleaner Portrait Prompt for Nano Banana Pro",
+    "description": "A detailed image generation prompt for Nano Banana Pro to create a black and white, film noir-style medium shot of a stern-faced man, resembling a cleaner, standing at the entrance of a dimly lit alley with specific lighting and composition constraints. The prompt requires the generated character to accurately reference facial features, hairstyle, and glasses from an attached image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775198517612_3gowh3_HE7IrQNboAAYgG-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13052,
     "content": "Dramatic chiaroscuro oil-painting texture of a biomechanical skull embedded in crystal on a marble balcony, deep emerald and burnt umber tones with visible brushwork, ornate gold accents catching single dramatic light source, museum gallery depth and tactile surface quality.",
     "title": "Dramatic Chiaroscuro Oil Painting of Biomechanical Skull",
@@ -331,16 +351,6 @@
       "https://cms-assets.youmind.com/media/1773902676371_s3rz4x_HDp6t3tbEAIV6-b.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 12476,
-    "content": "A wide quote card featuring a famous saying, with a brown background. The quote is set in a light-gold serif font: \"{argument name=\"quote\" default=\"Stay Hungry, Stay Foolish\"}\" followed by smaller text: \"—{argument name=\"author\" default=\"Steve Jobs\"}\". There is a large, faint quotation mark in front of the text. The portrait of the person is on the left, the text is on the right, with the text occupying 2/3 of the frame and the person 1/3, and the person has a slight gradient transition effect.",
-    "title": "Nano Banana 2 Prompt Example",
-    "description": "The user mentions that Nano Banana 2's image quality is inferior to Nano Banana Pro, but shares an example prompt that yields 'god-like' results on Nano Banana 2. Since the prompt is explicitly shared and is for a Nano Banana model, it is extracted, although the user prefers the Pro version.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1773902678041_ceyjb0_HDoGvN0bEAAl7Ck.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 12412,
