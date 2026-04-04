@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-03T13:51:23.089Z",
-  "totalPrompts": 12260,
+  "updatedAt": "2026-04-04T01:17:47.103Z",
+  "totalPrompts": 12259,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -30,7 +30,7 @@
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
-      "count": 357
+      "count": 356
     },
     {
       "slug": "product-marketing",

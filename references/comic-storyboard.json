@@ -1460,19 +1460,6 @@
     "needReferenceImages": false
   },
   {
-    "id": 7366,
-    "content": "1. Extreme close-up\n2. Low-angle\n3. Ground level view\n4. Back-to-the-camera",
-    "title": "Nano Banana Pro Scene Shot Prompts",
-    "description": "A list of four specific camera angles or shot types used as prompts for generating scene images with Nano Banana Pro, including extreme close-up, low-angle, ground level, and back-to-the-camera views.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1769236042895_azikpa_G_W2i5SXkAAtiug.jpg",
-      "https://cms-assets.youmind.com/media/1769236042805_vpjoh4_G_W2i5fXwAA0_JA.jpg",
-      "https://cms-assets.youmind.com/media/1769236042904_58jiwd_G_W2i5rXgAAllWR.jpg",
-      "https://cms-assets.youmind.com/media/1769236044088_j7re22_G_W3_PkXYAABKXS.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 7316,
     "content": "Show the transitional process of this Transformer robot transforming into a tank in 6 (3 x 2) step-by-step process. Use same style without outlines",
     "title": "Transformer Robot to Tank Transition Prompt",
