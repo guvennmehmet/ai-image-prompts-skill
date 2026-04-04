@@ -10,6 +10,40 @@
     "needReferenceImages": false
   },
   {
+    "id": 13208,
+    "content": "Create an 8k high-detail stylized digital portrait illustration of a person with a slightly happy, gently uplifted expression, maintaining realistic facial structure and natural imperfections, captured at an eye-level camera angle with the subject looking directly into the camera.\nUse the uploaded image as the primary identity reference.\nFace Accuracy (Critical)\nMatch the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, grooming details, jawline, cheekbones, and forehead proportions.\nSubject & Expression:\nThe person has natural eyes with visible iris details. His face shows noticeable forehead lines. His expression feels subtly warm and introspective, with a faint, relaxed softness around the eyes and a very slight, natural hint of a smile — not exaggerated, just a mild uplift in mood while preserving realism.\nHair:\nNatural-length, natural colour hair, slightly naturally messy, with textured strands highlighted in lighter colour tones to add depth and volume.\nOutfit:\nHe wears a dark green and brown plaid (tartan) jacket with a loose, painterly pattern. Underneath is a muted beige/tan button-down shirt with a neatly tucked collar. The clothing should feel grounded, simple, and slightly worn.\nComposition & Framing (IMPORTANT):\nHead-and-shoulders portrait only (no full body)\nSubject perfectly centered in the frame\nShoulders must NOT touch the edges — maintain clean breathing space\nBottom of the artwork should fade into a soft, rough, painterly edge (subtle cut-out feel)\nNegative space below the portrait to draw focus upward to the face\nBackground:\nMinimal cream background. Behind the head, place a bold orange square with slightly rough, painterly edges to create contrast and a halo-like framing effect.\nLighting:\nSoft directional lighting from the upper left, creating gentle highlights on the forehead, nose bridge, and cheek, with subtle shadows on the opposite side to enhance facial structure and depth.\nStyle & Rendering:\nSemi-realistic illustration blending editorial portrait art and graphic novel style\nStrong sketch-like linework with expressive strokes\nVisible textured brushwork and painterly shading\nDry brush effects, especially around the shoulders, where the image softly dissolves\nNatural skin texture with varied tones (subtle reds, neutral hues, faint bluish undertones for stubble effect)\nNo beautification — preserve raw realism and imperfections\nQuality Tags:\nultra-detailed, 8k high resolution, sharp focus, textured brush strokes, cinematic portrait, centered composition, premium illustration style\nAspect ratio 4:5",
+    "title": "8K Stylized Digital Portrait with Identity Lock",
+    "description": "A highly detailed Nano Banana 2 prompt for creating an 8k stylized digital portrait illustration. The prompt mandates strict identity accuracy based on an uploaded image, specifying facial details, hair, outfit (plaid jacket), composition (head-and-shoulders, centered), lighting (soft directional), and a semi-realistic, painterly style with a bold orange background square.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775284643702_b9k37h_HE_KUWBWoAABmbP.jpg",
+      "https://cms-assets.youmind.com/media/1775284643842_binzj6_HE_KUcRaEAA1jpZ.jpg",
+      "https://cms-assets.youmind.com/media/1775284643977_et5fjy_HE_KUfrbcAAvyUj.jpg",
+      "https://cms-assets.youmind.com/media/1775284644901_zc1d90_HE_KUe4aUAAEK4R.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13198,
+    "content": "{\n  \"prompt\": \"Restore old photo into natural DSLR-quality portrait (Canon EOS R6 II level), high detail, accurate colors, sharp clarity, preserve exact facial features\",\n  \"quality\": \"high\",\n  \"style\": \"photorealistic\"\n}",
+    "title": "Old Photo Restoration to DSLR-Quality Portrait",
+    "description": "A structured prompt designed for restoring an old photograph into a natural, high-detail, DSLR-quality portrait, ensuring accurate colors, sharp clarity, and preservation of the exact facial features from the original image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775284637569_jrjsom_HE9Oo94awAAfF0n.jpg",
+      "https://cms-assets.youmind.com/media/1775284637690_vj2ozb_HE9Oo80b0AAyTID.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13199,
+    "content": "Ultra-realistic cinematic portrait of a young man with short styled hair, beard, and glasses, wearing a mustard yellow t-shirt, looking back over his shoulder toward the camera, black background, dramatic studio lighting with warm golden rim light outlining the face and shoulders, soft key light on the face, high contrast, sharp focus, shallow depth of field, detailed skin texture, editorial fashion photography style, 85mm lens, moody atmosphere, 8K, photorealistic.",
+    "title": "Ultra-realistic Cinematic Portrait with Dramatic Lighting",
+    "description": "A prompt for generating an ultra-realistic cinematic portrait of a young man looking back over his shoulder. The image features dramatic studio lighting with a warm golden rim light, high contrast, sharp focus, and an editorial fashion photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775284638252_rp02to_HE9FIJTa0AAVAP2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13163,
     "content": "Use the provided reference image for the subject’s identity, face, body proportions, hair, and overall likeness. Do not change the subject’s appearance.\n\nMirror selfie in a bright, modern minimalist bedroom. The subject is wearing a fitted lemon-yellow spaghetti strap tank top with a scoop neckline, paired with tight-fitting fuchsia-pink cotton mini shorts. Accessories include a delicate gold chain necklace with a small circular pendant, a thin gold chain bracelet on the left wrist, and a beaded tan-colored bracelet on the right wrist. She is holding an iPhone with a light blue case decorated with colorful stickers, including a fish and abstract shapes.\n\nThe bedroom features plain white matte walls and a low wooden platform bed with a textured beige/tan duvet and soft pink pillows. Above the bed is a large rectangular abstract canvas painting in deep indigo blue.\n\nThe floor is light grey carpet partially covered by a large ornate Persian-style rug in deep red with black and cream geometric patterns. Additional elements include white curtains on a window to the far left, a black hard-shell equipment case on the floor, a discarded pink garment and a dark grey shirt lying on the rug, and a white paneled interior door on the right side.\n\nLighting is natural daylight coming from a side window, creating soft shadows and bright, even illumination.\n\nMirror selfie, medium full-body shot, portrait orientation (4:5 aspect ratio). High-resolution, photorealistic lifestyle image with strong color contrast between vibrant clothing, deep-toned decor, and neutral white surroundings.",
     "title": "Mirror Selfie in Minimalist Bedroom with Vibrant Clothing",
