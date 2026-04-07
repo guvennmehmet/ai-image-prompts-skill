@@ -14,6 +14,6 @@ jobs:
     steps:
       - name: Trigger Sync via Curl
         run: |
-          curl -X POST https://us-central1-mio-app-94d38.cloudfunctions.net/syncPromptsFromGitHubV2 \
+          curl -X POST https://syncpromptsfromgithubv2-42xwheqpsq-uc.a.run.app \
           -H "Content-Type: application/json" \
           -d '{"data": {}}'
