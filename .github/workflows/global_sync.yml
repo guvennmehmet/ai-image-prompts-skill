@@ -1,0 +1,23 @@
+name: Global Prompt Sync
+
+on:
+  push:
+    paths:
+      - 'references/**'
+    branches:
+      - main
+  workflow_dispatch: 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Trigger Firebase Sync
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          npm install -g firebase-tools
+          firebase functions:call syncPromptsFromGitHubV2 --project ${{ secrets.FIREBASE_PROJECT_ID }} --token "$FIREBASE_TOKEN"
