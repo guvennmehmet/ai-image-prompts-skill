@@ -13,6 +13,27 @@
     "needReferenceImages": true
   },
   {
+    "id": 13310,
+    "content": "remove the drummer and the drum kit, leave everything else exactly as is.",
+    "title": "Image Editing Prompt for Nano Banana 2",
+    "description": "A simple image editing prompt used with Nano Banana 2 to remove a drummer and drum kit from an existing frame, leaving the rest of the image untouched.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631279711_ztt45r_HFTbvC_XoAArdCl.jpg",
+      "https://cms-assets.youmind.com/media/1775631279812_k640z2_HFTbwFpWAAAX37T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13315,
+    "content": "Keep the person and flower the exact same but change the background colour to midnight black/slight blue",
+    "title": "Image Adjustment Prompt for Nano Banana",
+    "description": "A simple image adjustment prompt used with Nano Banana to change the background color of an existing image while preserving the person and flower exactly as they are.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631283310_dwh8mc_HFSMUDRb0AA5iye.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13278,
     "content": "Yin and Yang, two koi fish, one white, one black, minimalist Japanese sumi-e ink painting, black ink on white background with Washi paper texture, big Japanese red Hanko stamp signature, zen style, centred composition, studio lighting",
     "title": "Yin and Yang Koi Fish Sumi-e Prompt",

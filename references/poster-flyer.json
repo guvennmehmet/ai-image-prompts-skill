@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 13314,
+    "content": "Dramatic perspective typography composition with the phrase '{argument name=\"phrase\" default=\"AI FUTURE\"}' in heavy, condensed grotesque sans-serif like Helvetica Black Condensed or Akzidenz-Grotesk. Text in bright acid yellow on matte charcoal gray background. Each letter is duplicated in multiple receding perspectives converging to a vanishing point, with repeated thin white outlines creating depth and motion illusion, isometric-inspired but warped, bold graphic design energy.",
+    "title": "Graphic Design Typography Prompt using Nano Banana 2",
+    "description": "A prompt for generating a bold graphic design composition featuring the phrase 'AI FUTURE' in heavy, condensed sans-serif typography with dramatic perspective, depth, and motion illusion, using acid yellow on a charcoal gray background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631283071_wdoe9v_HFUjQfYa8AQyAI1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13309,
+    "content": "Make a vintage move poster based on the following:\n\nA movie.\n\nA new fitness influencer family moves into a town full of obese people and discovers that they’re possessed with a demon that makes them crave sugar and hate health and wellness.\n\nGotta call it something like “{argument name=\"movie title\" default=\"Sugarphobic\"}”.",
+    "title": "Vintage Movie Poster Prompt using Gemini Nano Banana Pro",
+    "description": "A prompt designed to generate a vintage movie poster for a fictional film called 'Sugarphobic' about fitness influencers moving into a town of obese, demon-possessed people who crave sugar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631279828_vvcygh_HFQ3q_CWgAA3gQX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13260,
     "content": "Create an anime movie poster like a hero cut of this character. Touch tangle, long perspective into the background, low-angle view emphasizing the face. Use the character name as \"{argument name=\"character name\" default=\"Paramecium\"}\", the movie title as \"{argument name=\"movie title\" default=\"The Great Adventure of Paramecium-chan\"}\", and the subtitle as \"{argument name=\"subtitle\" default=\"The Secret of the Great Magic Kasseiodei\"}\".",
     "title": "Anime Movie Poster for a Paramecium Character",
