@@ -13,6 +13,48 @@
     "needReferenceImages": true
   },
   {
+    "id": 13310,
+    "content": "remove the drummer and the drum kit, leave everything else exactly as is.",
+    "title": "Image Editing Prompt for Nano Banana 2",
+    "description": "A simple image editing prompt used with Nano Banana 2 to remove a drummer and drum kit from an existing frame, leaving the rest of the image untouched.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631279711_ztt45r_HFTbvC_XoAArdCl.jpg",
+      "https://cms-assets.youmind.com/media/1775631279812_k640z2_HFTbwFpWAAAX37T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13315,
+    "content": "Keep the person and flower the exact same but change the background colour to midnight black/slight blue",
+    "title": "Image Adjustment Prompt for Nano Banana",
+    "description": "A simple image adjustment prompt used with Nano Banana to change the background color of an existing image while preserving the person and flower exactly as they are.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631283310_dwh8mc_HFSMUDRb0AA5iye.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13278,
+    "content": "Yin and Yang, two koi fish, one white, one black, minimalist Japanese sumi-e ink painting, black ink on white background with Washi paper texture, big Japanese red Hanko stamp signature, zen style, centred composition, studio lighting",
+    "title": "Yin and Yang Koi Fish Sumi-e Prompt",
+    "description": "A prompt for generating a minimalist Japanese Sumi-e ink painting of two koi fish (Yin and Yang) with Washi paper texture and a red Hanko stamp signature, using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775544736724_6l1wf4_HFO_D6bXkAAgKix.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13286,
+    "content": "\"A high-quality digital illustration of a handsome South Asian male character with a well-groomed beard and stylishly swept-back dark hair. He is wearing a traditional cream-colored kurta with an intricate white embroidered neckline and a blue floral patterned shawl draped over his shoulders. The art style is a blend of clean semi-realism and watercolor aesthetic. The background features a vintage study setting with aged parchment papers, floating feathers, ink splatters, and a wooden desk with a quill and lamp. Soft, warm lighting with a focus on fine facial details and a scholarly, artistic atmosphere.\"\n\n​Key Elements for Consistency:\n\n​Art Style: Semi-realistic digital painting with watercolor textures.\n\n​Color Palette: Cream, muted teal/blue, and earthy parchment tones.\n\n​Motifs: Calligraphy papers, feathers, and ink blots to maintain the \"writer/scholar\" vibe.",
+    "title": "South Asian Male Character Illustration Prompt for Gemini Nano Banana Pro",
+    "description": "A detailed prompt for generating a high-quality digital illustration of a handsome South Asian male character with specific aesthetic requirements, used to compare Google Gemini Nano Banana Pro and ChatGPT 1.5.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775544739074_ywc9av_HFODAqTbkAAEY0o.jpg",
+      "https://cms-assets.youmind.com/media/1775544739045_20lwh6_HFODAqPb0AABCKS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13277,
     "content": "explain how to best to use itself for generating shots of a character.",
     "title": "Nano Banana Pro Explains Itself",
