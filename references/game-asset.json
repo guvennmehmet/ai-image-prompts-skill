@@ -1,5 +1,38 @@
 [
   {
+    "id": 13372,
+    "content": "3d squishy kawaii letters from {argument name=\"letters\" default=\"A to Z\"}, {argument name=\"theme\" default=\"candyland\"} theme, glossy pastel colors, soft rounded shapes like marshmallows and gummies, each letter made of different sweets such as lollipops, jelly beans, cotton candy, and chocolate, arranged in alphabetical order on a {argument name=\"background\" default=\"plain blank white background\"}, soft studio lighting, high-resolution, ultra-cute and whimsical style",
+    "title": "3D Squishy Candy Alphabet",
+    "description": "A whimsical prompt for creating cute, candy-themed 3D letters from A to Z with soft textures and pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137526525_pcxhx1_HFusUUNW8AA8eKX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13379,
+    "content": "{argument name=\"subject\" default=\"[subject]\"} hyper-realistic close-up of a massive ancient tree trunk with an incredibly detailed Viking-style carving of that subject deeply engraved into the bark, intricate Norse knotwork borders, runes and symbolic Viking motifs surrounding the carving, hyper-detailed wood grain, deep chisel marks, {argument name=\"bark texture\" default=\"realistic bark texture with moss and natural cracks\"}, {argument name=\"lighting\" default=\"dramatic side lighting with strong rim light and deep shadows\"} that emphasize the carved depth and relief, misty Nordic forest atmosphere in the background, masterpiece, photorealistic, ultra detailed carving and wood textures",
+    "title": "Viking Tree Carvings",
+    "description": "A high-detail prompt for generating realistic wood carvings of specific subjects on ancient mossy tree trunks with Norse motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530796_urgy2f_HFt0cY8a0AAv_x4.jpg",
+      "https://cms-assets.youmind.com/media/1776137530997_41ojhs_HFt0cYmXcAAbkP0.jpg",
+      "https://cms-assets.youmind.com/media/1776137531024_8ti3ed_HFt0cYiWgAAUSKW.jpg",
+      "https://cms-assets.youmind.com/media/1776137531928_nq0daq_HFt0cWFWQAE2V-I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13363,
+    "content": "A close-up, vertical shot features a {argument name=\"monster description\" default=\"fluffy, blue monster\"} with {argument name=\"eyes\" default=\"wide, green eyes\"} and a large, open mouth revealing two small teeth. The monster is bursting through a {argument name=\"wall description\" default=\"cracked, lime-green wall\"}, with pieces of the wall scattered around its head and body. Playful, energetic, colorful, 3D cartoon style, high detail, cinematic lighting",
+    "title": "3D Fluffy Monster Bursting Through Wall",
+    "description": "A creative 3D cartoon style prompt for creating a playful, energetic monster bursting through a wall with cinematic lighting and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776135472511_zvoorr_HFlg4iiakAAdkxP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13356,
     "content": "{argument name=\"subject\" default=\"miniature clockwork machine\"} hyper-realistic miniature clockwork machine version of the subject, extremely intricate and highly detailed steampunk-style mechanical sculpture, thousands of tiny brass gears, springs, levers, cogs, pistons and delicate clockwork mechanisms visibly working, polished brass and copper components with realistic patina and wear, tiny glass tubes and glowing indicator lights, masterpiece of miniature engineering, displayed on a dark wooden base under dramatic focused lighting with soft highlights and deep shadows emphasizing the mechanical details, ultra detailed textures, photorealistic, collector quality",
     "title": "Steampunk Miniature Clockwork Machine",

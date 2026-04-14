@@ -1,5 +1,26 @@
 [
   {
+    "id": 13376,
+    "content": "A standing male figure, photographed from the waist up, whose entire right arm and shoulder is slowly unraveling into {argument name=\"thread colors\" default=\"thousands of red and black threads\"} like a sweater being pulled apart the threads float and drift upward into darkness above. His face is {argument name=\"expression\" default=\"stoic\"}, looking down at his dissolving hand with quiet acceptance. Background is a {argument name=\"background\" default=\"deep matte black\"}. Left side of body is perfectly normal, photorealistic skin. The contrast between the real and the unraveling is the entire story. Studio lighting, single soft key light from the left. Thread textures ultra-detailed, each strand individually visible. On one of the longer drifting threads near the bottom, visible only on close inspection. Vertical 9:13 format.",
+    "title": "Unraveling Figure Effect Comparison",
+    "description": "A surreal prompt for Nano Banana Pro and ChatGPT 1.5 that creates a photorealistic person whose arm is dissolving into thousands of colorful threads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137528977_nncr9t_HFsleOiXsAAUazT.jpg",
+      "https://cms-assets.youmind.com/media/1776137529045_i3et91_HFslec-aoAANN1e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13378,
+    "content": "An enormous canvas — taller than a building — stands in the middle of a {argument name=\"environment\" default=\"barren cracked desert\"} at golden hour. The painting on it is almost complete: a {argument name=\"painted scene\" default=\"hyperrealistic landscape of a lush green forest\"}. But at the edges of the painted forest, the paint is actively peeling away and the trees are crawling off the canvas into the real desert — painted trees becoming three-dimensional, roots cracking into the dry earth, leaves casting real shadows. A {argument name=\"observer\" default=\"tiny human figure\"} stands at the base of the canvas looking up, dwarfed by its scale, unsure whether to step into the painted world or pull the trees back. The boundary between painted and real is the most detailed part — half flat brushstroke, half living texture. On the wooden frame of the canvas, Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "The Painting That Refused To Be Finished",
+    "description": "A creative prompt for a surreal scene where a giant painted forest on a desert canvas begins to turn into a 3D living environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530258_cl6gg0_HFrplk_aQAADwv5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13353,
     "content": "A hyper-realistic side profile of a {argument name=\"subject\" default=\"man\"}, half-human half-cyborg. Left side of the face is deconstructed to show complex {argument name=\"armor color\" default=\"red\"} armor plates, gears, and wires. Sharp, melancholic gaze. Style: detailed digital painting mixed with {argument name=\"background style\" default=\"white background architectural sketches\"}.\n\nHigh-contrast lighting, 8k resolution, cinematic. ar 4:5",
     "title": "Hyper-realistic Cyborg Side Profile",

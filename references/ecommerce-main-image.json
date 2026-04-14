@@ -1,5 +1,15 @@
 [
   {
+    "id": 13369,
+    "content": "\"{argument name=\"subject\" default=\"Chronograph\"} with {argument name=\"strap\" default=\"leather strap\"}. Studio macro, overhead spotlight, escapement close-up. {argument name=\"background\" default=\"Dark matte background\"}. Shallow depth of field. Photorealistic.\"",
+    "title": "Luxury Chronograph Macro Design",
+    "description": "A high-end macro photography prompt for a luxury watch focusing on movement details and material textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13351,
     "content": "A {argument name=\\\"bottle color\\\" default=\\\"bright yellow-orange\\\"} bottle with a white pump stands on a matte podium, surrounded by thick creamy foam and {argument name=\\\"particles\\\" default=\\\"citrus zest particles\\\"}. The background is a gradient of sunny yellow with fresh bubble details. The label highlights organic citrus extracts and energizing freshness. {argument name=\\\"accents\\\" default=\\\"Lemon and orange slices\\\"} accentuate the vibrant appeal.",
     "title": "Citrus Product Photography",

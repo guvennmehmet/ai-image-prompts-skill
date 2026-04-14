@@ -10,6 +10,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 13365,
+    "content": "A formal studio portrait of a {argument name=\"subjects\" default=\"young Southeast Asian couple\"} wearing traditional Javanese-inspired attire. The man stands on the left, tall and composed, wearing a {argument name=\"male attire\" default=\"black high-collar beskap jacket with gold buttons, a decorative gold brooch, and a batik sarong with intricate brown patterns\"}. His hands are gently clasped in front of him. The woman sits gracefully on the right, wearing a {argument name=\"female attire\" default=\"black velvet kebaya-style top with a gold brooch, paired with a matching batik skirt\"}. She has elegant traditional hair styling adorned with gold floral hairpins. Her posture is poised, hands resting softly on her lap. Both subjects have calm, neutral expressions and are looking slightly toward the camera. The lighting is soft and studio-controlled, with gentle shadows and a dark neutral background. A subtle curtain drape appears on one side, and a light-colored bench is partially visible. Highly detailed, photorealistic, sharp focus, 85mm lens, shallow depth of field, cinematic lighting, ultra high resolution.",
+    "title": "Traditional Javanese Couple Studio Portrait",
+    "description": "A photorealistic prompt for a formal studio portrait of a young Southeast Asian couple wearing traditional Javanese-inspired black and gold attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137522282_sr6c9c_HFuUV37aMAAs_VK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13370,
+    "content": "{\n \"meta\": { \n\"aspect_ratio\": \"4:5\", \n\"quality\": \"ultra_photorealistic\", \n\"resolution\": \"4k\", \n\"camera\": \"iPhone 15 Pro front camera\", \n\"lens\": \"24mm wide\",\n \"style\": \"raw iPhone selfie realism, backseat candid, natural daylight, no studio polish, sharp social-media look\"\n },\n\"character_lock\": { \n\"face_identity\": [ \n\"same girl as reference image\", \n\"same face, same identity, same overall appearance\", \n\"NO identity drift\",\n \"NO face change\", \n\"NO face swap errors\"\n ], \n\"body_lock\": [ \n\"same body as reference image\",\n \"same upper-body proportions as reference image\", \"same torso proportions as reference image\",\n \"same adult head size as reference image\", \n\"realistic head-to-body ratio\",\n \"no oversized head\",\n \"no anatomy distortion\"\n ], \n\"hair\": [\n \"{argument name=\"hair style\" default=\"long soft brown hair with warm caramel highlights\"}\", \"slightly tousled\",\n \"smooth face-framing layers\"\n ] \n},\n\"scene\": {\n \"location\": \"car backseat during daytime\", \"environment\": [ \n\"black leather backseat\",\n \"car door and window visible\", \n\"road motion blur outside window\",\n \"casual passenger-seat candid feel\"\n ], \n\"atmosphere\": \"cute, casual, flirty, everyday passenger selfie\"\n },\n\"lighting\": {\n \"type\": \"natural daylight through car windows\", \"key_light\": \"soft daylight falling across face, chest, and lap\", \n\"fill_light\": \"ambient car interior light bounce\", \"effect\": \"clean skin detail, natural contrast, sharp focus without blur\", \n\"avoid\": [ \n\"studio lighting\",\n \"flash\", \n\"blurry background\",\n \"heavy editing\"\n ]\n },\n\"camera_perspective\": { \n\"pov\": \"we are her phone\",\n \"angle\": \"slightly high arm-extended selfie angle\", \"distance\": \"close-medium selfie framing\",\n \"framing\": \"head to upper thigh\",\n \"phone_visibility\": \"not visible\"\n },\n\"subject\": { \n\"gender\": \"female\", \n\"age\": \"21+ adult\", \n\"expression\": { \n\"eyes\": \"soft sultry gaze toward camera\", \n\"mouth\": \"slightly parted lips\", \n\"emotion\": \"cute, relaxed, confident\"\n }, \n\"pose\": {\n \"position\": \"leaning back in the car seat\", \n\"torso\": \"angled slightly toward camera\", \n\"legs\": \"extended naturally across the seat\",\n \"arm\": \"one arm extended holding phone for selfie, other arm relaxed by side\" \n}, \n\"outfit\": {\n \"top\": { \n\"type\": \"{argument name=\"top\" default=\"white graphic tank top\"}\",\n \"fit\": \"tight fitted top with low neckline, layered casual look\"\n },\n \"outerwear\": {\n \"type\": \"soft cream cardigan\",\n \"fit\": \"loose open-front knit\"\n },\n \"bottom\": { \n\"type\": \"{argument name=\"bottom\" default=\"dark denim shorts with leopard-print trim details\"}\", \n\"fit\": \"short casual fit\"\n },\n \"accessories\": [ \n\"wired earphones\",\n \"delicate silver necklace\" \n] \n} \n},\n\"image_quality\": {\n \"focus\": \"sharp on face, outfit, seat texture, and car interior details\", \n\"grain\": \"minimal natural iPhone grain\",\n \"sharpness\": \"clear and crisp but not overprocessed\",\n \"realism\": \"looks like a real iPhone selfie posted online\"\n },\n\"photography_rules\": { \n\"iphone_only_look\": true,\n \"organic_instagram_post\": true, \"no_blurry_background\": true, \"natural_daylight_realism\": true\n}\n}",
+    "title": "Realistic Car Backseat Selfie",
+    "description": "A very detailed JSON prompt for generating a realistic, candid iPhone selfie of a woman sitting in the backseat of a car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137524315_y7yi43_HFuMcjKWoAAOqqv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13381,
+    "content": "Close-up studio portrait of the subject from the uploaded reference image, preserving the exact facial structure, hairstyle, skin tone, and identity from the original photo. The subject is styled in a {argument name=\"outfit\" default=\"black turtleneck with a dark blazer\"}, with no eyewear, maintaining the same pose and direction of gaze as the reference image. Cinematic dual-color lighting setup: {argument name=\"lighting colors\" default=\"cool teal, cyan, and subtle purple neon key light\"} from one side, warm amber-orange fill light from the opposite side, and a subtle orange rim light outlining the shoulders, jawline, and hair, creating strong separation from the background, sharp highlights, smooth skin rendering, and deep controlled shadows. {argument name=\"background\" default=\"Dark navy to black gradient\"} background. Futuristic tech-style editorial portrait with premium studio photography aesthetics, high contrast, rich saturated colors, shallow depth of field, razor-sharp focus on facial details, dramatic cinematic mood, ultra-detailed, high resolution, 8k quality. Aspect ratio: 4:5.",
+    "title": "Cinematic Dual-Color Studio Portrait",
+    "description": "A highly professional portrait prompt for Nano Banana Pro that replicates facial structure from a reference image with cinematic teal and amber lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137532149_99dtby_HFtXcKpbwAEHZZq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13373,
+    "content": "A hyper-realistic 3D caricature of a person emerging out of a smartphone screen, based on the uploaded face image. The character has an exaggerated large head and small body, with highly detailed facial features, expressive eyes, and a cheerful smile. They are stepping out of the phone as if breaking the screen boundary, creating a dimensional effect. The person is wearing {argument name=\"attire\" default=\"smart-casual attire (button-up shirt, trousers, ID badge)\"}, holding a {argument name=\"object\" default=\"sleek laptop\"} in one hand and waving with the other. The smartphone is held in a human hand in the foreground, with realistic lighting and depth of field. Background is {argument name=\"background style\" default=\"minimal and softly blurred with subtle tech-themed text or abstract shapes\"}. Lighting is soft, studio-quality with sharp focus on the face and smooth shadows. Ultra-detailed skin texture, clean reflections on glasses (if applicable), and a polished, modern digital art style. Style tags: 3D caricature, hyper-realistic, cinematic lighting, shallow depth of field, ultra-detailed, vibrant, soft shadows, octane render, unreal engine, 8k",
+    "title": "3D Caricature from Uploaded Face",
+    "description": "A prompt for generating a hyper-realistic 3D caricature based on an uploaded portrait, featuring a person stepping out of a smartphone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137526874_mz5jo8_HFrgn9kbgAAoYmD.jpg",
+      "https://cms-assets.youmind.com/media/1776137526794_bk7tkl_HFrgnysbkAAKZAs.jpg",
+      "https://cms-assets.youmind.com/media/1776137526876_0zsawr_HFrgnzhaQAAyrRO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13361,
     "content": "Use 100% face above uploaded photo photorealistic portrait, bearded man in his {argument name=\"age\" default=\"late 28s or early 30s\"} sitting casually on the cold ground in front of a sleek {argument name=\"car\" default=\"silver Porsche 911 GT3\"} with large black rear wing and widebody kit, he is leaning back slightly against the car, wearing {argument name=\"outfit\" default=\"black Fear of God Essentials hoodie\"}, black loose pants, white Nike socks, white sneakers,dark sunglasses,with black hair,black beard, relaxed confident vibe, urban industrial background with dark gray metal building facade, overcast daylight, cold weather atmosphere, high detail, sharp focus, cinematic lighting, shot on iPhone 16 Pro or professional camera, natural colors, 8k",
     "title": "Urban Porsche 911 GT3 Portrait",
