@@ -10,6 +10,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 13361,
+    "content": "Use 100% face above uploaded photo photorealistic portrait, bearded man in his {argument name=\"age\" default=\"late 28s or early 30s\"} sitting casually on the cold ground in front of a sleek {argument name=\"car\" default=\"silver Porsche 911 GT3\"} with large black rear wing and widebody kit, he is leaning back slightly against the car, wearing {argument name=\"outfit\" default=\"black Fear of God Essentials hoodie\"}, black loose pants, white Nike socks, white sneakers,dark sunglasses,with black hair,black beard, relaxed confident vibe, urban industrial background with dark gray metal building facade, overcast daylight, cold weather atmosphere, high detail, sharp focus, cinematic lighting, shot on iPhone 16 Pro or professional camera, natural colors, 8k",
+    "title": "Urban Porsche 911 GT3 Portrait",
+    "description": "A photorealistic portrait prompt for Nano Banana featuring a bearded man in modern streetwear posing in front of a silver Porsche 911 GT3 in an industrial setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129411337_ol01yq_HFiE0uVW8AEld_g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13357,
+    "content": "Cinematic golden hour portrait. {argument name=\"subject\" default=\"Young woman standing on a hillside at magic hour\"}, facing camera with city skyline glowing amber and purple behind her. {argument name=\"outfit\" default=\"Flowing champagne silk midi dress\"} moving in natural breeze. Hair loose with wind movement. She's looking directly into camera — eyes soft and emotional, subtle overwhelmed smile. Sun is just below horizon behind her — warm orange-purple sky. Her face catches the last warm light perfectly. Shot on Sony Venice, 85mm anamorphic.\n\nCamera: 85mm anamorphic, slight low angle, golden hour backlight\nLighting: Magic hour natural backlight, warm orange on face, purple sky\nStyle: Cinematic emotional portrait, film grain, teal-orange color grade\nAspect ratio: 9:16\nAvoid: harsh direct sun, overexposed sky, stiff pose, commercial model energy",
+    "title": "Cinematic Golden Hour Portrait",
+    "description": "An emotional cinematic portrait prompt set during magic hour on a hillside, emphasizing wind movement, realistic lighting, and specific camera lens effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129408934_kfxu2n_HFiTDTmbUAA6unx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13362,
+    "content": "Hyper-realistic cinematic portrait of a {argument name=\"subject\" default=\"rugged man with intense, glowing sapphire blue eyes\"}, drenched in heavy rainfall. His face is weathered and covered in grit and water droplets, featuring a thick, unkempt beard and wet, matted hair clinging to his forehead. {argument name=\"lighting\" default=\"Dual-tone lighting: one side of his face is illuminated by a warm, flickering orange glow, while the other side is cast in cool, dark shadows\"}. Extreme close-up, 8k resolution, shot on {argument name=\"lens\" default=\"35mm lens\"}, moody atmosphere, hyper-detailed skin texture, dramatic chiaroscuro effect.",
+    "title": "Rugged Cinematic Rain Portrait",
+    "description": "A hyper-detailed cinematic portrait prompt of a man in heavy rainfall, featuring dramatic dual-tone fire and shadow lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129410908_8gep82_HFhLVombQAQY1X_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13324,
     "content": "Create a Portrait Master Object: Two passport-sized photo prints held side-by-side by a person's thumb and index finger.\n**Passport Photo Background:** Use a solid blue background (the standard official passport photo color for Indonesian marriage books for certain even/odd birth years).\n**Clothing:** Both subjects in the photo wear formal and neat white collared shirts.\n**Male Subject (Left Photo):** Make his face and hair 100% similar to the given reference.\nHe poses as if talking into a white paper cup, with a cheerful laughing expression.\n**Female Subject (Right Photo):** Make her face and hair 100% similar to the given reference.\nShe poses as if holding a white paper cup to her ear, listening. Her expression is funny with a wide smile and a slightly stuck-out tongue.\n**Interactive Prop:** There is a white string coming out from under the male's paper cup and connecting to the female's paper cup. Because the two photos are placed next to each other, this prop creates the illusion of a \"string phone\" connecting the two photos.",
     "title": "Portrait Master Object: String Phone Passport Photos",

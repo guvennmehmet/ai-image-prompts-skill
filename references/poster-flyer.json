@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 13358,
+    "content": "A high-contrast double exposure photograph. The primary silhouette is the {argument name=\"silhouette subject\" default=\"back of a man standing still\"}, facing away from the camera. Inside his silhouette, a secondary scene is revealed: {argument name=\"internal scene\" default=\"a narrow, war-torn city street at sunset\"}. The street is lined with crumbling, hollowed-out concrete apartment buildings and scattered rubble. A smaller, lone figure walks down the center of the cracked road toward a bright, glowing sun on the horizon. The {argument name=\"color palette\" default=\"color palette is dominated by warm ambers, burnt oranges, and deep shadows\"}, creating a somber yet hopeful atmosphere. Hyper-realistic textures, cinematic lighting, 8k resolution.",
+    "title": "Double Exposure Somber City Silhouette",
+    "description": "A somber double exposure photography prompt featuring a man's silhouette containing a war-torn city street at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129409064_ayp2s3_HFjJ2gKXIAIUI3L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13359,
+    "content": "A surreal portrait of a {argument name=\"subject\" default=\"young man with closed eyes\"}, centered composition, calm expression, dark hair slightly messy. The {argument name=\"left side effect\" default=\"left side of his face and body dissolves into splashing water with droplets frozen mid-air\"}, while the {argument name=\"right side effect\" default=\"right side transforms into vivid flames with glowing embers and fire particles\"}. Strong contrast between cool tones (water side) and warm tones (fire side). Dramatic lighting, cinematic style, hyper-realistic details, high resolution, soft neutral background, symmetrical composition, conceptual art representing duality (fire vs water, chaos vs calm). Ultra-detailed skin texture, sharp focus, 8K, professional poster design.",
+    "title": "Conceptual Fire and Water Portrait",
+    "description": "A surreal conceptual prompt representing duality, showing a man whose body dissolves into water on one side and transforms into fire on the other.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129409153_8sryf1_HFiEoPOWIAEBw9Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13325,
     "content": "A vibrant, colorful K-drama promotional poster featuring four young Korean actors in a cheerful, energetic group pose against a bright white and light blue gradient background with a clear blue sky at the top.\nIn the foreground, a young woman with long dark hair, wearing a white turtleneck top under a white sleeveless dress with red floral patterns, is smiling widely with her mouth open and pointing directly at the camera with her right index finger.\nBehind her and to the left, a woman with long reddish-brown hair in a purple blazer is smiling and pointing upward with her right index finger.\nIn the center back, a man with dark hair wearing a dark blue jacket over an orange shirt is smiling with his right fist raised in the air.\nOn the right, a man with short dark hair in a light blue knit sweater is smiling brightly and making a thumbs-up gesture with his right hand.\nThe overall composition is bright, fun, and youthful with clean studio lighting, high resolution, and a promotional poster style typical of Korean television dramas.",
     "title": "Vibrant K-drama Promotional Poster",

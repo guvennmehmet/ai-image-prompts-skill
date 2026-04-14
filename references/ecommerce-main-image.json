@@ -1,5 +1,35 @@
 [
   {
+    "id": 13351,
+    "content": "A {argument name=\\\"bottle color\\\" default=\\\"bright yellow-orange\\\"} bottle with a white pump stands on a matte podium, surrounded by thick creamy foam and {argument name=\\\"particles\\\" default=\\\"citrus zest particles\\\"}. The background is a gradient of sunny yellow with fresh bubble details. The label highlights organic citrus extracts and energizing freshness. {argument name=\\\"accents\\\" default=\\\"Lemon and orange slices\\\"} accentuate the vibrant appeal.",
+    "title": "Citrus Product Photography",
+    "description": "A vibrant product photography prompt for a skincare bottle featuring citrus elements, creamy foam, and sunny lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129403711_vljrt7_HFg0BlKbQAI8AdE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13360,
+    "content": "{argument name=\"product\" default=\"Ceramic mug\"}, side lit, {argument name=\"atmosphere\" default=\"steam rising\"}, {argument name=\"surface\" default=\"dark linen surface\"}, editorial macro, no text, photorealistic",
+    "title": "Editorial Macro Mug Design",
+    "description": "A clean, photorealistic product design prompt for a ceramic mug with macro photography details and rising steam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129410980_8ax8e0_HFgkTG-XcAA3SxH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13343,
+    "content": "A vibrant premium skincare product advertisement featuring a glossy pink pump bottle placed at the center inside a round pastel pink bowl filled with rich white foam bubbles. Surrounding the bottle are fresh juicy watermelon slices arranged symmetrically, with visible texture and seeds. The background is a clean split-color pastel gradient soft pink on one side and mint green on the other creating a fresh summer aesthetic. \n\nTransparent floating soap bubbles fill the air, reflecting light with subtle rainbow highlights. Soft studio lighting with high-key brightness, smooth shadows, and glossy reflections on the bottle surface. Ultra-realistic textures, detailed foam, fresh fruit moisture, commercial advertising style, cinematic composition, sharp focus, 8k resolution, depth of field, clean minimal setup, vibrant color grading.",
+    "title": "Skincare product advertisement with watermelon and bubbles",
+    "description": "A detailed prompt for generating a vibrant, ultra-realistic skincare product advertisement featuring a pink pump bottle, watermelon slices, and floating soap bubbles against a split pastel gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776096297756_qyb2nv_HFd3japa8AAyeGh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13335,
     "content": "Ultra-realistic 8K overhead product photograph in precise knolling composition, straight top-down 90-degree view of the object from the provided reference image completely taken apart into {argument name=\"number of components\" default=\"8 to 12\"} essential components, each piece arranged with exact spacing in a disciplined grid or balanced radial layout on a minimalist matte gray or natural wood tabletop, flawless alignment, zero overlap, no unrelated props, soft diffused multi-light setup with gentle controlled shadows, neutral true-to-life color, edge-to-edge sharpness, highly authentic material rendering including brushed metal, molded plastic, rubberized grips, exposed circuit boards, screws and small hardware, every component outlined with a thin white rectangular frame and paired with a concise English sans-serif label placed adjacent to the part without obscuring it, annotations crisp, readable, understated, technical editorial aesthetic, no watermark, no logo, no clutter",
     "title": "Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts",
