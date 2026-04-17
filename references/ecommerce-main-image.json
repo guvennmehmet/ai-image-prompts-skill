@@ -1,5 +1,15 @@
 [
   {
+    "id": 13390,
+    "content": "In mid-air, a {argument name=\"fruit\" default=\"dragon fruit\"} splits explosively, scattering vibrant magenta pulp and tiny black seeds, with a \"{argument name=\"brand\" default=\"Minute Maid Dragon Fruit Juice\"}\" bottle blasting out from the core. Styled as hyperrealistic product photography, Sony A7s clarity, sharp HD. Background is {argument name=\"background color\" default=\"neon pink-magenta\"}.",
+    "title": "Explosive Dragon Fruit Juice Photography",
+    "description": "A product photography prompt for an explosive dragon fruit juice scene, designed for high clarity and specific color aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409691017_11m437_HGCJ3GMaoAAjo-w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13369,
     "content": "\"{argument name=\"subject\" default=\"Chronograph\"} with {argument name=\"strap\" default=\"leather strap\"}. Studio macro, overhead spotlight, escapement close-up. {argument name=\"background\" default=\"Dark matte background\"}. Shallow depth of field. Photorealistic.\"",
     "title": "Luxury Chronograph Macro Design",

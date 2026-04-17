@@ -1,5 +1,15 @@
 [
   {
+    "id": 13389,
+    "content": "Cinematic motion shot inside a {argument name=\"location\" default=\"war tent\"} during a {argument name=\"weather\" default=\"sandstorm\"}. The older samurai is turning his body away from the Shogun, mid-motion, slightly blurred. His movement feels reactive, not controlled. In the background, another enemy guard is approaching from the front. The Shogun is now partially out of frame, no longer the focus. Dust and light beams fill the scene. Dynamic composition, motion blur, cinematic realism.",
+    "title": "Samurai War Tent Cinematic Shot",
+    "description": "A cinematic motion-focused prompt for a scene inside a samurai war tent during a sandstorm, designed for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409690960_eo99n7_HGBARLhXIAAZr-r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13376,
     "content": "A standing male figure, photographed from the waist up, whose entire right arm and shoulder is slowly unraveling into {argument name=\"thread colors\" default=\"thousands of red and black threads\"} like a sweater being pulled apart the threads float and drift upward into darkness above. His face is {argument name=\"expression\" default=\"stoic\"}, looking down at his dissolving hand with quiet acceptance. Background is a {argument name=\"background\" default=\"deep matte black\"}. Left side of body is perfectly normal, photorealistic skin. The contrast between the real and the unraveling is the entire story. Studio lighting, single soft key light from the left. Thread textures ultra-detailed, each strand individually visible. On one of the longer drifting threads near the bottom, visible only on close inspection. Vertical 9:13 format.",
     "title": "Unraveling Figure Effect Comparison",

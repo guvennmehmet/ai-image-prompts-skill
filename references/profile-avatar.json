@@ -10,6 +10,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 13388,
+    "content": "Close-up portrait of a {argument name=\"subject\" default=\"woman\"} sitting in a dark room, illuminated only by the soft blue glow of a television screen. Wearing a {argument name=\"clothing\" default=\"loose vintage knitted sweater\"} with subtle texture visible in highlights. {argument name=\"hair\" default=\"Dark hair\"} partially covering her face, eyes reflecting the light. Background completely black. Subtle digital noise and film grain, shallow depth of field, quiet late-night cinematic mood.",
+    "title": "Cinematic Late-Night Portrait",
+    "description": "A prompt for a quiet, cinematic portrait of a woman in a dark room lit by a television screen, featuring film grain and a shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409688199_c3hl4e_HGCh2lTaEAAaVa6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13392,
+    "content": "Surgically sculpted facial shadows, intense cheekbone highlights, fashion portrait of a {argument name=\"subject\" default=\"female model\"}, absolute restriction of light spill, razor-sharp shadow edges on the jawline, {argument name=\"background\" default=\"pitch-black background\"}, {argument name=\"lighting effect\" default=\"5-degree grid lighting effect\"}.",
+    "title": "High-Contrast Fashion Studio Portrait",
+    "description": "A focused fashion photography prompt designed for Nano Banana Pro. It specializes in high-contrast lighting, sharp facial shadows, and a clean, pitch-black background to achieve a professional studio look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409693287_le1nmi_HGArQnTasAAUVmz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13394,
+    "content": "Edit this young woman's photo into a high-quality editorial. A mirror selfie of a woman with {argument name=\"hair style\" default=\"Layered Wolf Cut or shoulder-length Hush Cut\"} that looks textured & a little messy, wispy bangs, makeup; Defined natural eyebrows. Soft, rosy-peachy blush prominently visible on the apples of the cheeks and bridge of the nose, giving a healthy glow. Clear, glossy pink finish on the lips. Natural looking, minimal base. Light mascara or tight-lining to define the eyes, wearing a {argument name=\"top\" default=\"dark grey oversized t-shirt with a complex graphic of a human silhouette\"} and dark trousers. She holds a black phone in a dark patterned case with her right hand. The background is a {argument name=\"background\" default=\"plain grey wall with a partial view of a grey couch\"}. The lighting is natural. The camera is a smartphone camera.Ultra HD resolution, high dynamic range, 2:3 aspect ratio. Do not alter face.",
+    "title": "Editorial Mirror Selfie Edit",
+    "description": "A prompt designed to edit an existing photo into a high-quality editorial mirror selfie with specific makeup and outfit details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409693894_ha17u2_HGBubXkb0AAZlWL.jpg",
+      "https://cms-assets.youmind.com/media/1776409693944_893aqb_HGBubZOa4AAv6gv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13384,
     "content": "Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name=\"character features\" default=\"dot eyes, blush cheeks\"}), {argument name=\"border style\" default=\"thick white sticker border\"} around subjects, {argument name=\"color palette\" default=\"gentle pastel colors\"}, soft even lighting, matte tactile art paper texture.",
     "title": "3D Paper-Cut Illustration Style",
