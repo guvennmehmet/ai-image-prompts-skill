@@ -1,5 +1,35 @@
 [
   {
+    "id": 13408,
+    "content": "elegant {argument name=\"ethnicity\" default=\"japanese woman\"} in her {argument name=\"age\" default=\"30s\"} who is cool and sophisitcated in a {argument name=\"style\" default=\"scifi punk\"} outfit on on white background. front view, side view, back view in a whiteoutfit with orange design lines",
+    "title": "Sci-Fi Punk Japanese Woman View",
+    "description": "A multi-view prompt for a woman in a sci-fi punk outfit, specifying a white color scheme with orange accents on a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131763_io2z3h_HGJIFtubsAAF8JV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13403,
+    "content": "photorealism, {argument name=\"grid layout\" default=\"2x2\"} grid of detailed {argument name=\"subject\" default=\"cockpit interior\"} views: wideangle inside, steering wheel, dashboard, view from the passenger seat towards the driver seat",
+    "title": "Cockpit Interior Grid View",
+    "description": "A prompt for generating a realistic 2x2 grid showing various angles of a detailed vehicle cockpit interior, including steering wheel and dashboard views.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495129550_2c2f9r_HGJH-QIbUAAdSEd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13407,
+    "content": "photorealism, {argument name=\"subject\" default=\"car sheet\"}, four-view, side view, top view, backside view, front view  \n- car has {argument name=\"wheels\" default=\"4\"} wheels  \n- car is a {argument name=\"car type\" default=\"double seater sports car\"}  \n- back wheels are same with as the car",
+    "title": "Multi-View Car Sheet",
+    "description": "A prompt for generating a four-view design sheet of a sports car, covering front, side, top, and back perspectives with photorealistic quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131708_2cl09o_HGJH1RMbAAADzZC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13384,
     "content": "Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name=\"character features\" default=\"dot eyes, blush cheeks\"}), {argument name=\"border style\" default=\"thick white sticker border\"} around subjects, {argument name=\"color palette\" default=\"gentle pastel colors\"}, soft even lighting, matte tactile art paper texture.",
     "title": "3D Paper-Cut Illustration Style",

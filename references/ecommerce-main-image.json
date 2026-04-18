@@ -1,5 +1,15 @@
 [
   {
+    "id": 13399,
+    "content": "turn this into a photorealism of a {argument name=\"car type\" default=\"clean car\"}, make all decals and stickers on the car real and meaningful, car on a {argument name=\"background\" default=\"white background\"}",
+    "title": "Photorealistic Car Transformation",
+    "description": "A prompt designed to transform an image into a photorealistic clean car with authentic decals on a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495126356_q7wva8_HGJHpKlaYAAoe_p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13390,
     "content": "In mid-air, a {argument name=\"fruit\" default=\"dragon fruit\"} splits explosively, scattering vibrant magenta pulp and tiny black seeds, with a \"{argument name=\"brand\" default=\"Minute Maid Dragon Fruit Juice\"}\" bottle blasting out from the core. Styled as hyperrealistic product photography, Sony A7s clarity, sharp HD. Background is {argument name=\"background color\" default=\"neon pink-magenta\"}.",
     "title": "Explosive Dragon Fruit Juice Photography",

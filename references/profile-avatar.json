@@ -10,6 +10,82 @@
     "needReferenceImages": false
   },
   {
+    "id": 13410,
+    "content": "{\n  \"prompt\": {\n    \"meta\": {\n      \"camera\": \"iPhone 17 Pro\",\n      \"lens\": \"35mm\",\n      \"aspect_ratio\": \"4:5\",\n      \"style\": \"ultra-realistic mirror selfie, natural iPhone HDR, slight handheld imperfection, authentic skin texture, subtle grain, true-to-life iPhone color science\"\n    },\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject\" default=\"blonde popstar-inspired woman\"}\",\n      \"face\": {\n        \"structure\": \"petite heart-shaped face, soft cheeks, defined lips, bright expressive eyes\",\n        \"skin\": \"fair warm skin tone, visible pores, natural texture, soft glow on cheekbones\",\n        \"expression\": \"confident, playful, controlled gaze with slightly parted lips\"\n      },\n      \"hair\": {\n        \"color\": \"golden blonde\",\n        \"style\": \"long loose waves, soft volume, slightly messy in a natural way\"\n      },\n      \"body\": {\n        \"type\": \"petite, feminine, naturally curvy\",\n        \"posture\": \"relaxed with a subtle hip shift\"\n      },\n      \"pose\": {\n        \"position\": \"standing angled toward the mirror, one arm raised holding the phone, shoulders relaxed, hips slightly tilted\"\n      },\n      \"outfit\": {\n        \"type\": \"{argument name=\"outfit\" default=\"silky champagne slip dress\"}\",\n        \"details\": \"body-skimming fit, delicate straps, soft drape, elegant sheen catching warm light\"\n      },\n      \"accessories\": [\n        \"dark iPhone with visible camera lenses\",\n        \"silver rings\",\n        \"thin bracelet\",\n        \"small drop earrings\",\n        \"neutral glossy nails\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"luxury hotel bedroom mirror\"}\",\n      \"details\": [\n        \"soft lamp glow in foreground\",\n        \"crisp white bedding\",\n        \"subtle bathroom reflection in background\",\n        \"textured wall and polished surfaces\"\n      ],\n      \"atmosphere\": \"late-night hotel calm, intimate but polished, expensive and effortless\"\n    },\n    \"lighting\": {\n      \"type\": \"warm indoor lamp light mixed with soft ambient room lighting\",\n      \"temperature\": \"3200K\",\n      \"effect\": \"gentle highlights on hair and dress, soft shadows across the body, natural reflective glow on skin\"\n    },\n    \"camera_framing\": {\n      \"shot_type\": \"mirror selfie\",\n      \"framing\": \"mid-thigh to head\",\n      \"focus\": \"sharp on face and upper body\",\n      \"depth_of_field\": \"realistic shallow depth of field with mild falloff in background\",\n      \"imperfections\": [\n        \"slight handheld tilt\",\n        \"minor edge softness\",\n        \"subtle grain\",\n        \"natural mirror realism\"\n      ]\n    },\n    \"mood\": {\n      \"energy\": \"magnetic, feminine, viral, effortlessly confident\",\n      \"realism\": \"feels like a real late-night hotel selfie taken in one shot, not overproduced\"\n    },\n    \"negative_prompt\": [\n      \"over-airbrushed skin\",\n      \"plastic texture\",\n      \"studio fashion lighting\",\n      \"cartoon look\",\n      \"3d render\",\n      \"anatomy errors\",\n      \"extra fingers\",\n      \"warped mirror\",\n      \"overexposed face\",\n      \"unnatural body proportio\"",
+    "title": "Luxury Hotel Mirror Selfie",
+    "description": "A complex JSON prompt for generating an ultra-realistic iPhone-style mirror selfie of a blonde woman in a silk slip dress at a luxury hotel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495133329_vugjfy_HGBlxgcaYAA2cLD.jpg",
+      "https://cms-assets.youmind.com/media/1776495133242_zr9o63_HGBlxf1WcAAKCoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13408,
+    "content": "elegant {argument name=\"ethnicity\" default=\"japanese woman\"} in her {argument name=\"age\" default=\"30s\"} who is cool and sophisitcated in a {argument name=\"style\" default=\"scifi punk\"} outfit on on white background. front view, side view, back view in a whiteoutfit with orange design lines",
+    "title": "Sci-Fi Punk Japanese Woman View",
+    "description": "A multi-view prompt for a woman in a sci-fi punk outfit, specifying a white color scheme with orange accents on a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131763_io2z3h_HGJIFtubsAAF8JV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13406,
+    "content": "{\n  \"prompt\": \"Vertical close-up selfie of attractive {argument name=\"subject\" default=\"Sadie Sink\"} with black hair playfully sticking her tongue out, wearing {argument name=\"clothing\" default=\"orange low-cut top and denim shorts jeans\"}, freckles visible, glasses, small elegant white '{argument name=\"embroidery\" default=\"Sadie\"}' embroidered on the lower border of the orange top, soft natural lighting, photorealistic, detailed skin and fabric textures, playful glamorous vibe, 8k\",\n  \"negative_prompt\": \"cropped, bad hands, blurry, low quality, different outfit, missing embroidery, closed mouth\",\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"soft natural\"\n  }\n}",
+    "title": "Sadie Sink Playful Selfie",
+    "description": "A detailed selfie prompt for generating an image of actress Sadie Sink with specific clothing, embroidery, and a playful expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131413_hcwyl2_HGIV0gta0AA4pCJ.jpg",
+      "https://cms-assets.youmind.com/media/1776495131432_d5w9k1_HGIV0fEbcAA2R-T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13401,
+    "content": "A nighttime urban portrait of a young woman with long straight red hair and light freckles, sitting on a low stone wall in a park. She is wearing small round glasses, a grey fitted camisole dress with lace trim, a slightly oversized unzipped jacket falling off her shoulders, and a white lace thigh garter. She has visible tattoos on her arms and chest. She looks directly at the camera with a slightly parted lip expression, one finger gently touching her lips. Warm streetlight glows behind her, casting a soft golden halo, with trees and foliage in the background. Flash photography effect with sharp foreground subject and darker ambient surroundings, candid street style aesthetic, highly detailed.",
+    "title": "Nighttime Urban Portrait",
+    "description": "An intimate street photography prompt of a woman in an urban park setting with warm streetlight glow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127663_cr6jen_HGHCw9DaEAAEX_s.jpg",
+      "https://cms-assets.youmind.com/media/1776495127706_1mwout_HGHCw89bwAAoOF4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13402,
+    "content": "A stylized indoor portrait of a young woman with platinum blonde hair in high twin pigtails and straight bangs, posing on a bed. She is wearing a black cropped top, short ruffled skirt, fishnet stockings with garter straps, and long black knit arm warmers. Her expression is soft and slightly pouty, with glossy lips and flushed cheeks. The background is a wall fully covered in black-and-white manga panels, creating a bold graphic aesthetic. Soft, even lighting with minimal shadows, alternative e-girl / anime-inspired fashion style, high detail, editorial photography.",
+    "title": "Anime-Inspired Manga Wall Portrait",
+    "description": "An alternative fashion portrait set against a wall of black-and-white manga panels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127956_cdizlm_HGG_hahaIAApzCW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13411,
+    "content": "{\n  \"prompt\": \"Vertical close-up selfie of attractive {argument name=\"celebrity\" default=\"Kylie Jenner\"} with black hair playfully sticking her tongue out, wearing {argument name=\"clothing\" default=\"orange low-cut top and denim shorts jeans\"}, freckles visible, glasses, small elegant white '{argument name=\"text\" default=\"Keor\"}' embroidered on the lower border of the orange top, soft natural lighting, photorealistic, detailed skin and fabric textures, playful glamorous vibe, 8k\",\n  \"negative_prompt\": \"cropped, bad hands, blurry, low quality, different outfit, missing embroidery, closed mouth\",\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"soft natural\"\n  }\n}",
+    "title": "Celebrity Selfie Selfie Generation",
+    "description": "A prompt for generating a close-up selfie of a celebrity with specific clothing and branding details using Nano Banana 2 via Hailuo AI.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495133005_965syd_HGG4OsEWcAA5LVp.jpg",
+      "https://cms-assets.youmind.com/media/1776495132976_63puuj_HGG4O2dXsAAQvY3.jpg",
+      "https://cms-assets.youmind.com/media/1776495133027_c4lgvd_HGG4OxjWEAAlIxZ.jpg",
+      "https://cms-assets.youmind.com/media/1776495133920_mujklw_HGG4O7WWIAAsi9k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13400,
+    "content": "{\"meta\": {\"camera\": \"iPhone 17 Pro (front camera)\"}, \"scene\": {\"location\": \"window\", \"time\": \"sunset\"}, \"subject\": {\"identity\": \"Emma Myers\", \"pose\": {\"position\": \"standing near window\", \"back\": \"arched naturally\", \"torso\": \"slight twist\", \"hips\": \"shifted back\", \"legs\": \"one bent\", \"feet\": \"bare on floor\"}, \"expression\": \"soft distracted look\", \"outfit\": \"oversized shirt slipping slightly off back\", \"details\": {\"nails\": \"French manicure\", \"toes\": \"French pedicure\"}}}",
+    "title": "Sunset Window Silhouette",
+    "description": "A mobile camera style prompt for a natural indoor portrait near a window at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127693_ebf7yn_HGFvsa-aMAAcVw_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13388,
     "content": "Close-up portrait of a {argument name=\"subject\" default=\"woman\"} sitting in a dark room, illuminated only by the soft blue glow of a television screen. Wearing a {argument name=\"clothing\" default=\"loose vintage knitted sweater\"} with subtle texture visible in highlights. {argument name=\"hair\" default=\"Dark hair\"} partially covering her face, eyes reflecting the light. Background completely black. Subtle digital noise and film grain, shallow depth of field, quiet late-night cinematic mood.",
     "title": "Cinematic Late-Night Portrait",

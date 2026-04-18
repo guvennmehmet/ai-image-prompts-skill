@@ -20,6 +20,59 @@
     "needReferenceImages": false
   },
   {
+    "id": 13413,
+    "content": "{\n  \"vibe_title_en\": \"The Surreal Golden Laugh Suspended in Time\",\n  \"master_prompt\": \"Tight head-and-shoulders sharp beauty portrait of {argument name=\"subject\" default=\"The Protagonist\"}. Caught completely off-guard, bursting into a surprised, genuine laugh, creating a subtle motion blur on the extreme edges. They feature an impossible, gravity-defying {argument name=\"hair style\" default=\"towering hair sculpture—a surreal, high-budget practical effect blending natural hair with spun copper wire\"}. Wearing a {argument name=\"outfit\" default=\"high-necked, Victorian-inspired avant-garde blouse adorned with heavy gold bullion and crystal embroidery\"}. Setting: A dusty chandelier maintenance catwalk in a grand theater, flanked by massive, glowing tungsten glass orbs suspended in the dark. Shot on Hasselblad H6D-100c, 100mm prime lens at f/2.8. Shallow depth of field, tack-sharp on the laughing eyes and lips. Cinematic Rembrandt lighting, warm amber tones, rich chiaroscuro shadows. Kodak Portra 800 film texture, hyper-realistic skin pores, authentic dust motes catching practical light. Blurred, mysterious figures in dark red velvet in the deep background. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Surreal Editorial Beauty Portrait\",\n    \"priorities\": \"Photorealistic surrealism, raw emotional contrast, pristine optical texture\",\n    \"device_profile\": \"High-resolution Medium Format Camera\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Tight head-and-shoulders portrait, central symmetry with vertical extension\",\n    \"layout\": \"Subject centered, massive vertical hair structure extending to top frame, glowing orbs framing the background\",\n    \"camera_angle\": \"Eye-level, straight-on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist, an androgynous avant-garde muse\",\n    \"demographics\": \"Ageless\",\n    \"face\": \"Symmetrical, sharp jawline, visible pores, eyes crinkled in genuine surprise\",\n    \"hair\": \"Impossible, gravity-defying towering sculpture of intertwined natural strands and spun copper wire\",\n    \"body\": \"Framed tightly at the shoulders, poised yet disrupted by laughter\",\n    \"expression\": \"Caught off-guard, raw, bursting into a surprised laugh\",\n    \"pose\": \"Shoulders squared, head thrown slightly back in sudden amusement, inducing subtle motion blur\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"High-necked structural blouse\",\n        \"material\": \"Silk and ribbed cotton\",\n        \"color\": \"Antique white\",\n        \"fit\": \"Tailored, restrictive fit\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Heavy structural chest panel\",\n        \"color\": \"Gold and clear crystal\",\n        \"material\": \"Metal bullion and glass\",\n        \"brand_style\": \"Avant-garde haute couture\"\n      },\n      {\n        \"item\": \"Ornate drop earrings\",\n        \"color\": \"Gold and pearl\",\n        \"material\": \"Metal and pearl\",\n        \"brand_style\": \"Victorian vintage\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Dusty chandelier\"",
+    "title": "Surreal Avant-Garde Beauty Portrait",
+    "description": "An intricate prompt for a medium format beauty portrait featuring surreal hair sculptures and Victorian-inspired couture in a theater setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495135545_p0jdvy_HGIfSV9X0AACugR.jpg",
+      "https://cms-assets.youmind.com/media/1776495135587_0ts8yl_HGIfSW3XQAEFMPD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13405,
+    "content": "Surreal Absurdist Digital Painting:\n\nA highly stylized, surreal absurdist digital painting advertisement featuring the elegant, modern typography \"{argument name=\"product name\" default=\"NEVERMIND Deep Sleep Capsules\"}\". A solitary human figure wearing {argument name=\"clothing\" default=\"flowing white linen pajamas\"} stands at the edge of an endless, perfectly flat ocean made entirely of matte black sand that realistically ripples and waves like liquid water. Low-lying atmospheric ground fog rolls across the dark shoreline. The sky above is a {argument name=\"sky color\" default=\"surreal gradient transitioning from deep midnight indigo to luminescent violet and vibrant neon rose\"}. Dominating the background, floating at an impossibly colossal scale like a celestial moon, is a giant translucent pharmaceutical capsule pill emitting a warm, ethereal amber bioluminescent glow. Deadpan, extreme wide-shot composition emphasizing vastness, isolation, and spatial paradox. High contrast chiaroscuro low-key lighting, dreamscape aesthetic, deeply metaphorical, hyper-detailed, 8K resolution, sharply cinematic masterpiece.",
+    "title": "Surreal Absurdist Digital Painting",
+    "description": "A creative prompt for an absurdist digital painting advertisement, featuring surreal landscapes, isolation themes, and a giant pharmaceutical capsule.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495129863_eyn0di_HGGHvNzbQAAW4NL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13416,
+    "content": "A highly detailed, tactile flat-lay photograph of a {argument name=\"poster subject\" default=\"neo-analog advertisement poster for \"RISO RIOT Print Studio.\"\"} The poster embodies an 'imperfect humanism' aesthetic, printed on {argument name=\"paper type\" default=\"heavy, rough-textured cream-colored recycled paper with visible fiber grain\"}, lying flat on a worn wooden studio table under soft, natural window light. The composition features a vibrant, slightly misregistered risograph print using limited colors: fluorescent pink, school bus yellow, and electric blue. The artwork consists of bold, abstract, overlapping geometric shapes and forms, showing deliberate ink bleed and slight offset misalignments where colors meet, creating a raw, hands-on feel.\n\nChunky, imperfect hand-drawn typography dominates the layout, reading \"{argument name=\"text content\" default=\"PRINT SOMETHING REAL\"}\" in thick, wobbly letterforms using a smudged black riso ink effect. The studio name \"RISO RIOT Print Studio\" is integrated into the freeform, anti-grid composition using smaller, similarly rough, stamped-style text. The overall design has a spontaneous, naïve quality, featuring visible torn paper collage elements and rough rubber stamp texture overlays. The focus is sharp on the deeply tactile, slightly grainy surface of the paper and the imperfect application of the vibrant, transparent inks.",
+    "title": "Tactile Risograph Studio Poster",
+    "description": "A detailed prompt for a flat-lay photograph of a neo-analog risograph poster with a textured paper aesthetic and bold geometric shapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495138226_bbo3yj_HGGGgtdaEAA9i0H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13398,
+    "content": "A cinematic double exposure portrait of a {argument name=\"subject\" default=\"hollywood actress\"} in profile, her hair in a overlaid with a {argument name=\"scene\" default=\"busy city street scene with tall buildings\"}, {argument name=\"colors\" default=\"warm orange and teal tones\"}, soft bokeh lights in the background, high detail, realistic lighting, vertical composition, photorealistic style.",
+    "title": "Double Exposure City Portrait",
+    "description": "A cinematic prompt creating a double exposure effect combining an actress's profile with a busy, bokeh-filled city street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495125644_x16h6l_HGGrkgXbIAABFlw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13404,
+    "content": "A highly detailed cinematic portrait of {argument name=\"subject name\" default=\"Shah Rukh Khan\"}, a handsome Indian man in his late 40s to early 50s, with sharp facial features, light stubble, and a confident subtle smile showing teeth. He has dark black medium-length hair styled in a sleek, slightly messy ponytail with a few strands falling over his forehead. He is wearing {argument name=\"accessories\" default=\"small rectangular silver-framed sunglasses\"} and a fitted black turtleneck sweater. He is standing in a three-quarter profile view, leaning casually against a large modern glass building, looking over his shoulder directly toward the viewer. His reflection is clearly visible on the glossy glass surface behind him. Soft natural daylight with cool urban reflections, moody and stylish atmosphere, sharp focus, realistic photography, 8k resolution, {argument name=\"style\" default=\"fashion portrait style\"}, cinematic lighting.",
+    "title": "Cinematic Male Celebrity Portrait",
+    "description": "A highly detailed cinematic prompt for generating a realistic fashion portrait of a specific male subject with a stylish urban background and specific lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495129597_izk85b_HGFV_TNbQAAkVqJ.jpg",
+      "https://cms-assets.youmind.com/media/1776495129571_ahawbb_HGFV-nPbwAAiOpQ.jpg",
+      "https://cms-assets.youmind.com/media/1776495129647_18ctwg_HGFV_febUAAVh41.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13377,
     "content": "A bold, experimental typographic poster featuring the large centered word '{argument name=\"text\" default=\"design\"}' in lowercase, ultra-heavy geometric sans-serif font with thick slab-like strokes and perfectly rounded edges, reminiscent of modern brutalist. The same letters are being shown blurry under the main letters and duplicated many times going down with a blur effect. {argument name=\"background colors\" default=\"Blue and purple soft gradient\"} background.",
     "title": "Experimental Typographic Poster",
