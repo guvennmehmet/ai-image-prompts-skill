@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T14:13:08.726Z",
+  "updatedAt": "2026-04-18T01:21:36.760Z",
   "totalPrompts": 12477,
   "categories": [
     {
@@ -36,7 +36,7 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 4592
+      "count": 4593
     },
     {
       "slug": "ecommerce-main-image",
