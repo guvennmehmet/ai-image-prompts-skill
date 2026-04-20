@@ -1,5 +1,35 @@
 [
   {
+    "id": 13578,
+    "content": "{argument name=\"subject one\" default=\"king salmon\"} VS. {argument name=\"subject two\" default=\"grizzly\"}",
+    "title": "King Salmon vs Grizzly Bear Battle",
+    "description": "An action-oriented prompt for Nano Banana Pro depicting a king salmon facing off against a grizzly bear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668960439_7jrcoe_HGAfaUYaIAAYk4p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13580,
+    "content": "{argument name=\"subject one\" default=\"penguins\"} VS. {argument name=\"subject two\" default=\"coconut tree\"}",
+    "title": "Penguins vs Coconut Tree Battle",
+    "description": "A whimsical prompt for generating an image of a confrontation between penguins and a coconut tree using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668963784_izji07_HGAdmDtaEAAndr7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13581,
+    "content": "{argument name=\"protagonist\" default=\"samurai\"} VS. {argument name=\"antagonist\" default=\"Oviraptors\"}",
+    "title": "Samurai vs Oviraptors",
+    "description": "A direct image generation prompt for a battle scene between a samurai and Oviraptors dinosaurs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668966542_meuhdk_HGAcwa3bMAAOSqW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13434,
     "content": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
     "title": "Nano Banana Pro Character Sheet Template",

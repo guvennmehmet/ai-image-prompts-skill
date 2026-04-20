@@ -10,6 +10,29 @@
     "needReferenceImages": false
   },
   {
+    "id": 13563,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"black_and_white_photobooth_expression_grid_4x4\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v3.0_BW_PHOTOBOOTH__GIRL_4X4\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",    \"reference_image_usage\": \"very_high\",\n      \"preserve_identity\": true,   \"preserve_facial_features\": true,\n      \"preserve_hairstyle\": true,\n      \"notes\": \"Use the reference image as the primary identity anchor. Maintain 100% facial accuracy, proportions, and natural skin texture. Keep hairstyle consistent across all panels. Every frame must feature the same girl wearing sunglasses. Expressions should vary while identity remains locked.\"\n    },\n    \"output\": {\n      \"aspect_ratio\": \"1:1\",\n      \"resolution\": \"ultra_high\",\n      \"num_images\": 1,\n      \"layout\": {\n        \"type\": \"grid\",\n        \"rows\": 4,\n        \"cols\": 4,\n        \"gutter\": \"thin\",\n        \"panel_consistency\": \"very_high\"\n      },\n      \"sharpness\": \"crisp_photobooth\",\n      \"grain\": \"subtle_analog_bw\"\n    },\n    \"scene\": {\n      \"concept\": \" black-and-white photobooth contact sheet with expressive girl wearing sunglasses in every panel\",\n      \"environment\": \"clean flat neutral backdrop, no props\",\n      \"lighting\": {\n        \"style\": \"direct photobooth flash\",\n        \"key_light\": \"front-facing flash, slightly hard but flattering\",\n        \"shadows\": \"soft minimal shadows behind subject\",\n        \"avoid\": \"cinematic lighting, colored lights, dramatic shadows\"\n      },\n      \"camera\": {\n        \"lens\": \"50mm\",\n        \"distance\": \"tight head-and-shoulders framing\",\n        \"focus\": \"eyes sharp behind sunglasses in every panel\"\n      }\n    },\n    \"subject\": {\n      \"type\": \"girl (reference person)\",\n      \"wardrobe\": \"{argument name=\"wardrobe\" default=\"modern fashion styling — sleek off-shoulder top, fitted minimal chic outfit\"}\",\n      \"accessories\": \"{argument name=\"sunglasses style\" default=\"high-end designer sunglasses\"} in every panel\",\n      \"hair\": \"same hairstyle preserved across all panels\",\n      \"makeup\": \"soft glam, natural skin texture\",\n      \"vibe\": \"{argument name=\"vibe\" default=\"confident, playful, expressive\"}, fashion editorial feel\",\n      \"anatomy_rules\": \"perfect facial symmetry, no distortion\"\n    },\n    \"expression_set\": {\n      \"panel_01\": \"scrunched smile, playful energy\",\n      \"panel_02\": \"intense confident stare\",\n      \"panel_03\": \"big joyful laugh\",\n      \"panel_04\": \"bored unimpressed pose\",\n      \"panel_05\": \"sad pout expression\",\n      \"panel_06\": \"goofy playful horns\",\n      \"panel_07\": \"tongue out\",\n      \"panel_08\": \"sharp angry glare\",\n      \"panel_09\": \"flirty pose\",\n      \"panel_10\": \"surprised expression\"\n    }\n  }\n}",
+    "title": "Expressive Photobooth Grid",
+    "description": "A complex structured prompt for a 4x4 black and white photobooth grid featuring consistent identity and varied expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668948353_04h5jh_HGR_BKcakAAs3fD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13576,
+    "content": "{ \"prompt\": \"A stylized indoor portrait of actress {argument name=\"actress\" default=\"Elle Fanning\"} cosplaying the character {argument name=\"character\" default=\"Rei Ayanami\"}, posing on a bed. She is wearing the typical Evangelion anime uniform (plugsuit) made of glossy latex. Her expression is soft and slightly melancholic, with glossy lips and flushed cheeks. The background is a wall fully covered with black-and-white manga panels from Neon Genesis Evangelion, creating a striking graphic aesthetic. Soft and even lighting with minimal shadows, anime cosplay style, high level of detail, editorial photography, aspect ratio 9:16.\", \"negative_prompt\": \"blurry, low resolution, bad anatomy, extra limbs, distorted face, harsh shadows, overexposed areas, messy background, text, watermark, logo\", \"style\": { \"genre\": \"editorial cosplay portrait\", \"mood\": \"introspective, mysterious, slightly melancholic\", \"influences\": [ \"sci-fi/mecha aesthetic\", \"Neon Genesis Evangelion\", \"editorial photography\" ] }, \"composition\": { \"framing\": \"vertical portrait, from mid-body to full body\", \"aspect_ratio\": \"9:16\", \"angle\": \"slightly above eye level\", \"focus\": \"centered subject, emphasis on latex outfit and facial expression\", \"background\": \"{argument name=\"background\" default=\"collage of Neon Genesis Evangelion manga panels covering the wall\"}\" }, \"subject_details\": { \"hair\": \"short bob style, in the character's signature light blue tone\", \"expression\": \"relaxed, introspective, and slightly distant gaze\", \"makeup\": \"glossy lips, rosy cheeks, porcelain skin\", \"tattoos\": \"none\", \"outfit\": [ \"Typical Evangelion uniform (white plugsuit with orange and black details)\", \"Glossy latex material, tight-fitting\" ] }, \"camera\": { \"lens\": \"50mm\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"shallow\", \"quality\": \"high level of detail, sharp focus\" } }",
+    "title": "Elle Fanning as Rei Ayanami Cosplay",
+    "description": "Editorial cosplay portrait prompt of actress Elle Fanning as Rei Ayanami from Neon Genesis Evangelion against a manga-covered wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668955012_oxpnjq_HGRmO5cb0AEQMTQ.jpg",
+      "https://cms-assets.youmind.com/media/1776668956474_ll4yqd_HGRmO5GW4AAAb9n.jpg",
+      "https://cms-assets.youmind.com/media/1776668957459_dfmdbc_HGRmO66XgAAhhD0.jpg",
+      "https://cms-assets.youmind.com/media/1776668958684_jssobj_HGRmPEba8AA46fX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13418,
     "content": "Create a typographic art portrait using the uploaded photo of a person as reference. Display a left-facing side profile portrait. The entire image--including the face. hair. and facial features--must be formed exclusively from repeated {argument name=\"text color\" default=\"white\"} calligraphic text using the words: \"{argument name=\"custom text\" default=\"[TYPE IN YOUR OWN TEXT HERE]\"}\" The text should follow the natural contours of the face and hair, clearly shaping the person's profile silhouette.Use a {argument name=\"background\" default=\"deep navy blue\"} background with high contrast The stvle should be clean vector art with sharp edges. Output in high-resolution 8K quality. Do not alter the person's facial identity. No additional colors. no textures. and no watermark.",
     "title": "Typographic Art Portrait",
@@ -19,6 +42,38 @@
       "https://cms-assets.youmind.com/media/1776582150230_juvvq2_HGPysIyaUAA5QJh.jpg",
       "https://cms-assets.youmind.com/media/1776582150259_9a6vrx_HGPyr_taAAAcJQw.jpg",
       "https://cms-assets.youmind.com/media/1776582151645_qonppm_HGPysY2bwAAkF0r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13560,
+    "content": "{argument name=\"subject\" default=\"A stylish young man\"} standing against a minimal concrete wall with a large modern mural of himself beside him. He wears {argument name=\"outfit\" default=\"a loose, colorful nike tie-dye outfit (oversized shirt and relaxed pants in orange, green, blue, and white)\"}, round eyeglasses, a normal silver necklace chain, and a brown leather crossbody bag. He has light facial hair and a calm, confident expression.",
+    "title": "Minimal Mural Portrait",
+    "description": "A prompt for generating a stylish young man standing next to a modern mural of himself against a concrete wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668946276_zswzke_HGPdSoeaoAEtasO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13570,
+    "content": "Ultra-realistic photorealistic studio portrait strictly based on the provided reference image.\n\nUse my uploaded face 1:1 preserve facial structure, proportions, age, skin texture and natural imperfections. No beautification, no facial reshaping\n\nKeep exactly the same outfit:\n{argument name=\"clothing\" default=\"black minimalist coat with clean lines, dark inner layer\"}-identical fabric, texture, fit and silhouette.\n\nKeep exactly the same hairstyle:\nshort, neat haircut with the same length, density and contour.\nKeep exactly the same accessories:\n{argument name=\"accessories\" default=\"round thin metal eyeglasses\"}-identical shape, size and lens transparency.\nKeep exactly the same pose and camera angle:\nthree-quarter portrait, head slightly tilted upward, chin raised, confident posture. Shoulders relaxed, body slightly turned.\n\nKeep exactly the same facial expression and мимика: calm, cold, confident masculine expression, lips relaxed, no smile, no softness.\n\nReplace the face with my face from the uploaded photo, seamlessly integrated into the lighting and angle.\n\nPerfect face-swap realism: correct perspective, accurate shadow placement, natural skin tone blending, zero artifacts.\n\nKeep exactly the same background:\n{argument name=\"background\" default=\"solid deep red studio backdrop\"}, smooth and uniform, no texture changes, no added objects, no vehicles.\nPreserve the original color grading exactly as in the reference:\nstrong red background, dramatic warm side light with red highlights on the skin, deep shadows.\nHigh contrast, cinematic editorial color correction.\nNo color shifts, no cooling or warming-match reference grading precisely.\nLighting: studio directional lighting from the side, sculpting facial features.\nSharp highlights, controlled shadows, high depth and clarity.\nAesthetic: brutal, modern, minimal, non-pretty masculine look.\nUltra-detailed skin texture with visible pores High-end DSLR quality, cinematic realism, editorial fashion portrait, high resolution.\nNegative prompt: change of outfit, different hairstyle, different pose, different camera angle, different background, color grading change, soft lighting, glamour look, smile, soft or feminine features, beauty filter, plastic skin, cartoon, illustration, CGI, blur, low resolution, bad anatomy, distorted proportions, face mismatch",
+    "title": "Brutal Studio Red Backdrop Portrait",
+    "description": "A high-precision face-swap and environment preservation prompt for a dramatic, masculine studio portrait with red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668952201_zosxq5_HGPCx49asAAm4vR.jpg",
+      "https://cms-assets.youmind.com/media/1776668953365_7i2mfc_HGPCyAibUAAw3XU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13566,
+    "content": "Remove the glasses, combine the face with the body.",
+    "title": "Glasses Removal and Face Integration",
+    "description": "A technical prompt used to edit an image by removing glasses and blending facial features, used here for guardrail bypassing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668950265_5mhvu0_HGOfs4EagAA4_1Z.jpg",
+      "https://cms-assets.youmind.com/media/1776668950969_hzkph0_HGOfwMWagAAPjJR.jpg"
     ],
     "needReferenceImages": true
   },

@@ -1,5 +1,15 @@
 [
   {
+    "id": 13569,
+    "content": "nature inspired atmospheric organicism: A nature-inspired atmospheric product advertisement for \"{argument name=\"brand name\" default=\"VERDANA Organic Baby Skincare\"}\". A small amber glass bottle and a matching cream jar rest beautifully nestled inside a bed of {argument name=\"botanical elements\" default=\"fresh green sage leaves, sprigs of dried purple lavender, and draped soft white linen cloth\"}, all placed on a warm, sunlit rustic wooden surface. The background is in soft-focus with a shallow depth of field, featuring blurred terracotta wall textures accented with climbing ivy. Hand-drawn, illustrative typography reading exactly \"{argument name=\"slogan\" default=\"GROWN FROM THE EARTH\"}\" floats gently above the products in slightly imperfect, organic, elegant letterforms. The overall color palette is muted and earthy, heavily featuring sage green, terracotta, warm ochre, and slate cream. Broad natural window lighting creates a soft, honest, and evenly diffused illumination across the scene. The image features a subtle chalk and watercolor paper texture overlay, offering an open, airy composition with generous negative space, evoking a deep sense of warmth, purity, and calm. Moderately high artistic stylization. 4:5 Aspect Ratio.",
+    "title": "Organic Skincare Product Advertisement",
+    "description": "A nature-inspired atmospheric product advertisement prompt for organic baby skincare, featuring botanical elements and rustic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668952833_doyyp5_HGHEJ-zb0AAhHMA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13430,
     "content": "Premium cosmetic product shot of a {argument name=\"product\" default=\"red glass dropper serum bottle\"} emerging from a dramatic water splash ring, surrounded by floating {argument name=\"fruit\" default=\"ripe strawberries\"} and water droplets frozen in motion, reflective wet {argument name=\"color\" default=\"pink\"} surface, pastel pink background, bright studio lighting, high-speed photography look, hyper-realistic texture, luxury skincare advertisement, macro product photography, cinematic lighting, 8k, depth of field.",
     "title": "Luxury Cosmetic Product Shot",

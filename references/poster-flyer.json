@@ -20,6 +20,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 13559,
+    "content": "A full-body studio portrait combining realistic photography with minimal vector illustration. The subject stands upright, calm and centered, against a {argument name=\"background color\" default=\"flat dark purple background\"}. The image visualizes sound as abstract form.\n\nStudio lighting is soft and even, slightly from the left, neutral color temperature. Deep focus, sharp clarity.\n\nThe subject’s face must perfectly match the attached reference image only for identity. Clothing is modern and simple, not copied from reference.\n\n{argument name=\"waveforms color\" default=\"White and neon-accent\"} vector waveforms emerge from the chest and head area, wrapping around the body in smooth curves. Small hand-drawn dots and frequency lines float outward, as if audio is radiating into space. Clean separation between photographic subject and illustrated layers. Editorial album-cover aesthetic.",
+    "title": "Abstract Audio Visualization Portrait",
+    "description": "A sophisticated studio portrait prompt that combines realistic photography with vector illustrations representing sound waves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668946076_4dja41_HGR7QEHWEAAU8tk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13571,
+    "content": "A stunning, highly realistic portrait of a {argument name=\"subject\" default=\"woman\"} based on the original model (the facial structure, hairstyle, and person must be exactly 100% identical to the reference image — no changes allowed) submerged in an ethereal underwater dreamscape infused with traditional Chinese ink painting aesthetics. A cinematic, surreal portrait of a young Asian woman suspended gracefully in crystal-clear water, her body caught in a moment of weightless elegance. Her long black hair flows and spirals around her like living calligraphy brushstrokes, intertwining with streams of black ink that bleed and bloom through the water in mesmerizing organic patterns. Ancient Chinese ink paintings come alive around her—{argument name=\"ink elements\" default=\"majestic dragons, koi fish, blooming lotus flowers, and misty mountain landscapes\"} materialize from the swirling ink, some rendered in traditional monochrome, others bursting with touches of vermillion red and imperial gold. These illustrations seem to dance and breathe, wrapping around her form like protective spirits. Her eyes are open, gazing directly at the viewer with an expression of serene power and ancient knowing—a goddess caught between worlds. Her lips are painted in classic Chinese opera red, a striking contrast against her porcelain skin. Delicate ink marks flow across her body like living tattoos—poetry fragments, phoenix feathers, and peony petals painted directly onto her skin by invisible brushes. She wears a flowing hanfu-inspired garment in sheer white silk that billows and undulates in the water like clouds, revealing glimpses of her silhouette beneath. Golden hairpins and jade ornaments drift weightlessly around her head, suspended in liquid time. Red silk ribbons spiral upward from her wrists and ankles, creating dynamic leading lines through the composition. Bioluminescent particles float around her like scattered stardust, adding points of cyan and soft pink light that illuminate her features from unexpected angles. Air bubbles rise slowly past her face, each one containing tiny reflections of the ink artwork surrounding her. The color palette blends traditional ink wash tones—deep blacks, subtle grays, and pure whites—with unexpected accents of cinnabar red, turquoise, and molten gold. The overall mood is hauntingly beautiful, mythologically powerful, and impossibly dreamlike. Photographed with underwater photography techniques, ultra-high resolution, dramatic chiaroscuro lighting from above creating god-rays through the water surface, with selective focus keeping her face and expression razor-sharp while the ink formations create painterly soft edges throughout the frame.{argument name=\"aspect ratio\" default=\"9:16\"}",
+    "title": "Underwater Chinese Ink Dreamscape Portrait",
+    "description": "A surreal, cinematic portrait of a woman submerged in water with traditional Chinese ink painting aesthetics like dragons and koi materialized from ink.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668954428_uilzzb_HGRwgH9bYAAW-4o.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13575,
+    "content": "{ \"scene\": { \"subject\": \"A woman standing in the center of a grand, dark doorway, looking back over her shoulder toward the camera.\", \"attire\": \"{argument name=\"clothing\" default=\"Yellow long-sleeved button-down shirt, dark blue skinny jeans, barefoot\"}.\", \"environment\": \"{argument name=\"environment\" default=\"Contrast between a dimly lit, ornate interior with antique gold-trimmed furniture and a bright, sunlit outdoor balcony seen through an archway\"}.\", \"composition\": \"Symmetrical framing, leading lines through the doorway, full-body shot.\" }, \"technical_settings\": { \"camera\": \"{argument name=\"camera\" default=\"Sony A7R IV, 35mm lens\"}\", \"aperture\": \"f/2.8 for sharp focus on subject with slight environmental depth\", \"lighting\": \"Chiaroscuro effect, silhouette-style interior with strong natural backlight from the archway, volumetric light hitting the subject's profile.\", \"color_palette\": \"Deep shadows, moody blacks, ochre yellow, and natural daylight highlights.\", \"details\": \"High-resolution, 8K, cinematic film grain, realistic skin textures, intricate wrought iron details above the door.\" } }",
+    "title": "Grand Doorway Chiaroscuro Portrait",
+    "description": "A cinematic composition prompt for a woman looking back through a grand doorway, featuring a strong contrast between interior shadow and exterior light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668957609_nf9nt0_HGQE4FZWwAAklIa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13567,
+    "content": "PROMPT_DATA = {\n    \"subject\": {\n        \"person\": \"{argument name=\"subject\" default=\"Young, beautiful Indian actress with a cheerful expression\"}\",\n        \"attire\": \"{argument name=\"outfit\" default=\"Traditional light-blue printed salwar kameez with orange accents\"}\",\n        \"action\": \"Walking forward, herding a group of cattle with a wooden staff\",\n        \"object\": \"Holding a large, clear glass bottle filled with fresh milk\"\n    },\n    \"environment\": {\n        \"location\": \"{argument name=\"location\" default=\"Rural Indian village setting\"}\",\n        \"architecture\": \"Mud houses with thatched or tiled roofs\",\n        \"details\": [\n            \"Stacked firewood\", \n            \"Dirt path with golden dust kicked up by hooves\", \n            \"Lush green fields in the background\"\n        ]\n    },\n    \"lighting_and_style\": {\n        \"time_of_day\": \"Golden hour / Late afternoon sun\",\n        \"mood\": \"Warm, cinematic, serene, and rustic\",\n        \"visual_quality\": \"Highly detailed, photorealistic, soft warm lighting, cinematic depth of field\"\n    },\n    \"entities\": {\n        \"cows\": \"Brown and white spotted Indian cattle with horns\",\n        \"background_figures\": \"Distant villagers and children near the houses\"\n    }\n}",
+    "title": "Rustic Rural India Portrait",
+    "description": "A comprehensive prompt describing an Indian village setting with a beautiful actress herding cattle during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668950076_6namei_HGOlsa9akAA8Amc.jpg",
+      "https://cms-assets.youmind.com/media/1776668951001_6uypdk_HGOlsbAaUAASchM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13421,
     "content": "A high-fashion editorial photoshoot of a stylish woman leaning casually against a modern geometric wall. She is wearing a {argument name=\"outfit\" default=\"bold red blazer, matching red-orange trousers, a black-and-white patterned top, and white sneakers\"}. She has a confident relaxed pose with hands in pockets, looking slightly upward. The background is a {argument name=\"background\" default=\"vibrant abstract wall with large geometric blocks in yellow, blue, red, and white\"}, creating a strong modern art aesthetic. Clean studio lighting, sharp focus, vibrant colors, fashion magazine style, ultra high resolution, cinematic composition, shallow depth of field, premium advertising look. Minimal clean floor texture, strong contrast, trendy urban fashion vibe, professional editorial photography.",
     "title": "Geometric Abstract Fashion Editorial",

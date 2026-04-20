@@ -1,5 +1,15 @@
 [
   {
+    "id": 13577,
+    "content": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\" default=\"from the founding of the piano factory to the sale of the Erz piano!\"}",
+    "title": "Piano Prodigy Manga Story",
+    "description": "A detailed prompt for Nano Banana Pro to generate a four-panel manga depicting the story of a piano prodigy named Erz and his factory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668959387_j8vufw_HGQWvJ_bMAAuRic.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13434,
     "content": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
     "title": "Nano Banana Pro Character Sheet Template",
