@@ -1,5 +1,95 @@
 [
   {
+    "id": 13569,
+    "content": "nature inspired atmospheric organicism: A nature-inspired atmospheric product advertisement for \"{argument name=\"brand name\" default=\"VERDANA Organic Baby Skincare\"}\". A small amber glass bottle and a matching cream jar rest beautifully nestled inside a bed of {argument name=\"botanical elements\" default=\"fresh green sage leaves, sprigs of dried purple lavender, and draped soft white linen cloth\"}, all placed on a warm, sunlit rustic wooden surface. The background is in soft-focus with a shallow depth of field, featuring blurred terracotta wall textures accented with climbing ivy. Hand-drawn, illustrative typography reading exactly \"{argument name=\"slogan\" default=\"GROWN FROM THE EARTH\"}\" floats gently above the products in slightly imperfect, organic, elegant letterforms. The overall color palette is muted and earthy, heavily featuring sage green, terracotta, warm ochre, and slate cream. Broad natural window lighting creates a soft, honest, and evenly diffused illumination across the scene. The image features a subtle chalk and watercolor paper texture overlay, offering an open, airy composition with generous negative space, evoking a deep sense of warmth, purity, and calm. Moderately high artistic stylization. 4:5 Aspect Ratio.",
+    "title": "Organic Skincare Product Advertisement",
+    "description": "A nature-inspired atmospheric product advertisement prompt for organic baby skincare, featuring botanical elements and rustic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668952833_doyyp5_HGHEJ-zb0AAhHMA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13430,
+    "content": "Premium cosmetic product shot of a {argument name=\"product\" default=\"red glass dropper serum bottle\"} emerging from a dramatic water splash ring, surrounded by floating {argument name=\"fruit\" default=\"ripe strawberries\"} and water droplets frozen in motion, reflective wet {argument name=\"color\" default=\"pink\"} surface, pastel pink background, bright studio lighting, high-speed photography look, hyper-realistic texture, luxury skincare advertisement, macro product photography, cinematic lighting, 8k, depth of field.",
+    "title": "Luxury Cosmetic Product Shot",
+    "description": "High-speed photography style prompt for a luxury skincare product with dynamic water splashes and fruit elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582156581_ujnp3b_HGMvVHfaEAAhsbw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13423,
+    "content": "Ultra-realistic top-down product photography of a neatly folded V-neck t-shirt placed on a light wooden surface. The t-shirt is pastel teal/washed aqua color with a soft fabric texture and subtle faded shading. On the front print: a group of 8 highly detailed, stylized cartoon-realistic cats arranged closely together, facing forward. Each cat has exaggerated, expressive facial features — big glossy eyes, wide pupils, quirky crossed eyes, and playful goofy expressions. Several cats have their tongues sticking out in different directions, creating a humorous and chaotic vibe. Cat details: Mixed fur colors: ginger/orange tabby, cream, beige, light brown, and grey tones Soft, fluffy fur with hyper-detailed strands Rounded faces, small noses, and slightly chubby cheeks Variety of expressions: surprised, confused, silly, excited One or two cats looking slightly cross-eyed High emotional exaggeration, almost Pixar-style but more detailed Composition: Cats tightly grouped in a triangular cluster filling the chest print area Bottom row slightly cropped by shirt fold for realism Balanced spacing with layered depth (front and back rows) Lighting: Soft diffused studio lighting Gentle shadows under the folds and around the print Even illumination, no harsh contrast Style: Hyper-realistic + stylized 3D illustration blend High resolution, crisp details, professional product mockup Clean background, minimalistic aesthetic Camera: Top-down flat lay shot Slight perspective depth but mostly symmetrical Quality tags: 8K, ultra-detailed, sharp focus, photorealistic fabric texture, professional e-commerce product shot.",
+    "title": "Cartoon Cat Group T-Shirt Mockup",
+    "description": "A professional product photography prompt for a teal t-shirt featuring a cluster of expressive cartoon cats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582153538_vsodvv_HGKny8SbsAAd40N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13399,
+    "content": "turn this into a photorealism of a {argument name=\"car type\" default=\"clean car\"}, make all decals and stickers on the car real and meaningful, car on a {argument name=\"background\" default=\"white background\"}",
+    "title": "Photorealistic Car Transformation",
+    "description": "A prompt designed to transform an image into a photorealistic clean car with authentic decals on a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495126356_q7wva8_HGJHpKlaYAAoe_p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13390,
+    "content": "In mid-air, a {argument name=\"fruit\" default=\"dragon fruit\"} splits explosively, scattering vibrant magenta pulp and tiny black seeds, with a \"{argument name=\"brand\" default=\"Minute Maid Dragon Fruit Juice\"}\" bottle blasting out from the core. Styled as hyperrealistic product photography, Sony A7s clarity, sharp HD. Background is {argument name=\"background color\" default=\"neon pink-magenta\"}.",
+    "title": "Explosive Dragon Fruit Juice Photography",
+    "description": "A product photography prompt for an explosive dragon fruit juice scene, designed for high clarity and specific color aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409691017_11m437_HGCJ3GMaoAAjo-w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13369,
+    "content": "\"{argument name=\"subject\" default=\"Chronograph\"} with {argument name=\"strap\" default=\"leather strap\"}. Studio macro, overhead spotlight, escapement close-up. {argument name=\"background\" default=\"Dark matte background\"}. Shallow depth of field. Photorealistic.\"",
+    "title": "Luxury Chronograph Macro Design",
+    "description": "A high-end macro photography prompt for a luxury watch focusing on movement details and material textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13351,
+    "content": "A {argument name=\\\"bottle color\\\" default=\\\"bright yellow-orange\\\"} bottle with a white pump stands on a matte podium, surrounded by thick creamy foam and {argument name=\\\"particles\\\" default=\\\"citrus zest particles\\\"}. The background is a gradient of sunny yellow with fresh bubble details. The label highlights organic citrus extracts and energizing freshness. {argument name=\\\"accents\\\" default=\\\"Lemon and orange slices\\\"} accentuate the vibrant appeal.",
+    "title": "Citrus Product Photography",
+    "description": "A vibrant product photography prompt for a skincare bottle featuring citrus elements, creamy foam, and sunny lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129403711_vljrt7_HFg0BlKbQAI8AdE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13360,
+    "content": "{argument name=\"product\" default=\"Ceramic mug\"}, side lit, {argument name=\"atmosphere\" default=\"steam rising\"}, {argument name=\"surface\" default=\"dark linen surface\"}, editorial macro, no text, photorealistic",
+    "title": "Editorial Macro Mug Design",
+    "description": "A clean, photorealistic product design prompt for a ceramic mug with macro photography details and rising steam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129410980_8ax8e0_HFgkTG-XcAA3SxH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13343,
+    "content": "A vibrant premium skincare product advertisement featuring a glossy pink pump bottle placed at the center inside a round pastel pink bowl filled with rich white foam bubbles. Surrounding the bottle are fresh juicy watermelon slices arranged symmetrically, with visible texture and seeds. The background is a clean split-color pastel gradient soft pink on one side and mint green on the other creating a fresh summer aesthetic. \n\nTransparent floating soap bubbles fill the air, reflecting light with subtle rainbow highlights. Soft studio lighting with high-key brightness, smooth shadows, and glossy reflections on the bottle surface. Ultra-realistic textures, detailed foam, fresh fruit moisture, commercial advertising style, cinematic composition, sharp focus, 8k resolution, depth of field, clean minimal setup, vibrant color grading.",
+    "title": "Skincare product advertisement with watermelon and bubbles",
+    "description": "A detailed prompt for generating a vibrant, ultra-realistic skincare product advertisement featuring a pink pump bottle, watermelon slices, and floating soap bubbles against a split pastel gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776096297756_qyb2nv_HFd3japa8AAyeGh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13335,
     "content": "Ultra-realistic 8K overhead product photograph in precise knolling composition, straight top-down 90-degree view of the object from the provided reference image completely taken apart into {argument name=\"number of components\" default=\"8 to 12\"} essential components, each piece arranged with exact spacing in a disciplined grid or balanced radial layout on a minimalist matte gray or natural wood tabletop, flawless alignment, zero overlap, no unrelated props, soft diffused multi-light setup with gentle controlled shadows, neutral true-to-life color, edge-to-edge sharpness, highly authentic material rendering including brushed metal, molded plastic, rubberized grips, exposed circuit boards, screws and small hardware, every component outlined with a thin white rectangular frame and paired with a concise English sans-serif label placed adjacent to the part without obscuring it, annotations crisp, readable, understated, technical editorial aesthetic, no watermark, no logo, no clutter",
     "title": "Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts",

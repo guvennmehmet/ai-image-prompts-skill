@@ -1,5 +1,60 @@
 [
   {
+    "id": 13414,
+    "content": "A surreal, ethereal landscape at night featuring a serene body of water reflecting a large, luminous full moon in the center of a misty, soft-toned sky. On the left, a {argument name=\"plant\" default=\"delicate tree with glowing pink and cyan blossoms\"} stands on a rocky islet. On the right, an {argument name=\"building\" default=\"ornate, multi-tiered traditional Japanese pagoda\"} glows with vibrant pink and teal neon light, perched atop a rocky formation. A graceful, arched bridge connects the two islets, also glowing with a soft pink light. The entire scene is bathed in a {argument name=\"style\" default=\"dreamy, vaporwave-inspired color palette of soft pinks, cyans, and hazy grays\"}, with a gentle, magical atmosphere, high-detail 3D render, cinematic lighting, and a calm, tranquil aesthetic.",
+    "title": "Surreal Vaporwave Night Landscape",
+    "description": "A surreal night landscape prompt featuring a Japanese pagoda, glowing trees, and a full moon in a vaporwave color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495135615_grnwcw_HGG-DD6XwAAeyLo.jpg",
+      "https://cms-assets.youmind.com/media/1776495135641_47rudu_HGG-DsCWAAA7-tb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13384,
+    "content": "Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name=\"character features\" default=\"dot eyes, blush cheeks\"}), {argument name=\"border style\" default=\"thick white sticker border\"} around subjects, {argument name=\"color palette\" default=\"gentle pastel colors\"}, soft even lighting, matte tactile art paper texture.",
+    "title": "3D Paper-Cut Illustration Style",
+    "description": "This prompt transforms photos into charming 3D paper-cut illustrations using the Nano Banana model. It features a tactile paper texture, soft pastel colors, and a distinctive sticker-style border, perfect for creating stylized avatars or creative ID photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776237760395_6swed3_HF4CSdqasAQMxSJ.jpg",
+      "https://cms-assets.youmind.com/media/1776237760646_n0as4x_HF4CSeFasAcEerx.jpg",
+      "https://cms-assets.youmind.com/media/1776237760672_g3fcfb_HF4CSdtasAE68ly.jpg",
+      "https://cms-assets.youmind.com/media/1776237761611_8citrz_HF4CSd7bwAAHq6L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13383,
+    "content": "{argument name=\"style\" default=\"line art illustration style\"},\nclean black outline, no color fill,\n{argument name=\"line weight\" default=\"thin and consistent\"} line weight,\nwhite background,\nminimalist, highly refined,\nvector-like precision, high resolution",
+    "title": "Line Art Illustration Style",
+    "description": "A professional-grade prompt for creating clean, minimalist line art with vector-like precision.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776237760378_zucc1q_HF1Yd3AasAAEASu.jpg",
+      "https://cms-assets.youmind.com/media/1776237760354_ofwawy_HF1Ye6GbgAAZs6d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13372,
+    "content": "3d squishy kawaii letters from {argument name=\"letters\" default=\"A to Z\"}, {argument name=\"theme\" default=\"candyland\"} theme, glossy pastel colors, soft rounded shapes like marshmallows and gummies, each letter made of different sweets such as lollipops, jelly beans, cotton candy, and chocolate, arranged in alphabetical order on a {argument name=\"background\" default=\"plain blank white background\"}, soft studio lighting, high-resolution, ultra-cute and whimsical style",
+    "title": "3D Squishy Candy Alphabet",
+    "description": "A whimsical prompt for creating cute, candy-themed 3D letters from A to Z with soft textures and pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137526525_pcxhx1_HFusUUNW8AA8eKX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13377,
+    "content": "A bold, experimental typographic poster featuring the large centered word '{argument name=\"text\" default=\"design\"}' in lowercase, ultra-heavy geometric sans-serif font with thick slab-like strokes and perfectly rounded edges, reminiscent of modern brutalist. The same letters are being shown blurry under the main letters and duplicated many times going down with a blur effect. {argument name=\"background colors\" default=\"Blue and purple soft gradient\"} background.",
+    "title": "Experimental Typographic Poster",
+    "description": "A graphic design prompt for a brutalist typographic poster featuring blurred geometric text and gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530321_zpd5sb_HFuTOJobUAAEAu8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13172,
     "content": "Create a premium smartphone wallpaper in vertical 9:16 format, Japanese minimal editorial aesthetic, quiet and refined, inspired by modern notebook-grid design and clean infographic illustration. Background: warm off-white paper texture with a very subtle light gray square grid across the whole canvas, soft natural paper feel, elegant and minimal, bright but not stark white. Composition: very sparse layout with large breathing room for a phone wallpaper, asymmetric balance, main illustration placed slightly below center, top and upper-middle area kept relatively open and calm, include only {argument name=\"subject\" default=\"one young woman\"} in a warm, friendly composition, she should be clearly integrated with the central machine and actively operating it, overall look should feel sophisticated, mature, and uncluttered. Illustration: a single minimalist isometric line-art machine / creative device / abstract workflow object, drawn with thin dark gray to black outlines, soft cream and pale gray fills, tiny accent details in muted {argument name=\"accent color\" default=\"sage green\"}, small geometric blocks or paper-like modules flowing through the device, include only one young woman placed naturally around the central object, interacting closely and affectionately, she should feel friendly, relaxed, and connected, show exactly one person only, no adults other than her, she should be clearly using and operating the machine, for example, her hand gently pressing or adjusting a control panel or button while receiving paper-like modules coming from the machine, her hands and posture should visibly connect to the machine so the interaction feels intentional and functional, the machine and the woman should feel like one unified scene rather than separate elements, the illustration should feel intelligent, stylish, and poetic rather than technical, high-end Japanese design taste, simple, neat, and tasteful. Typography: include only one very short English phrase \"{argument name=\"text\" default=\"WEEL\"}\" set in bold modern sans-serif typography, clean black text, medium size, not oversized, placed with strong alignment and generous spacing, the text should feel like part of the design, not like a poster headline. Color palette: off-white, soft gray, black, muted sage green only, low-saturation, elegant contrast, avoid loud neon colors. Style direction: minimal, premium, calm, smart, editorial, Japanese taste, beautiful negative space, clean geometry, subtle stationery mood, slightly futuristic but warm, suitable as a stylish wallpaper for adults. Output quality: ultra clean composition, high clarity, refine",
     "title": "Premium Minimalist Japanese Smartphone Wallpaper",

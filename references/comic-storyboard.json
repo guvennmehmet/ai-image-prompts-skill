@@ -1,5 +1,119 @@
 [
   {
+    "id": 13577,
+    "content": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\" default=\"from the founding of the piano factory to the sale of the Erz piano!\"}",
+    "title": "Piano Prodigy Manga Story",
+    "description": "A detailed prompt for Nano Banana Pro to generate a four-panel manga depicting the story of a piano prodigy named Erz and his factory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668959387_j8vufw_HGQWvJ_bMAAuRic.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13434,
+    "content": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
+    "title": "Nano Banana Pro Character Sheet Template",
+    "description": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582159842_nquk61_HGNU2FdbMAAFXSo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13429,
+    "content": "A detailed 3D Pixar-style digital illustration of a {argument name=\"character\" default=\"cool young boy with voluminous, wavy white hair and dark sunglasses\"}. He is sitting on a small wooden chair in a relaxed, cross-legged pose against a stark black background. He is wearing a simple {argument name=\"outfit\" default=\"light gray t-shirt, dark teal or green trousers, and chunky white sneakers\"}. His right hand holds a lit cigarette, and his left hand holds a {argument name=\"prop\" default=\"white Starbucks coffee cup\"} with the full green mermaid logo facing forward. The lighting is soft and stylized, casting clean highlights on his hair and clothes. The perspective is centered on the character, with ample negative space above and around him.",
+    "title": "Pixar Style Cool Boy Illustration",
+    "description": "A 3D digital illustration prompt in the style of Pixar, featuring a character with specific accessories and a minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582156498_m4tdpc_HGJ1kR4bYAA5WVu.jpg",
+      "https://cms-assets.youmind.com/media/1776582156528_7u3ds9_HGJ1kTZbMAAmzfS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13408,
+    "content": "elegant {argument name=\"ethnicity\" default=\"japanese woman\"} in her {argument name=\"age\" default=\"30s\"} who is cool and sophisitcated in a {argument name=\"style\" default=\"scifi punk\"} outfit on on white background. front view, side view, back view in a whiteoutfit with orange design lines",
+    "title": "Sci-Fi Punk Japanese Woman View",
+    "description": "A multi-view prompt for a woman in a sci-fi punk outfit, specifying a white color scheme with orange accents on a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131763_io2z3h_HGJIFtubsAAF8JV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13389,
+    "content": "Cinematic motion shot inside a {argument name=\"location\" default=\"war tent\"} during a {argument name=\"weather\" default=\"sandstorm\"}. The older samurai is turning his body away from the Shogun, mid-motion, slightly blurred. His movement feels reactive, not controlled. In the background, another enemy guard is approaching from the front. The Shogun is now partially out of frame, no longer the focus. Dust and light beams fill the scene. Dynamic composition, motion blur, cinematic realism.",
+    "title": "Samurai War Tent Cinematic Shot",
+    "description": "A cinematic motion-focused prompt for a scene inside a samurai war tent during a sandstorm, designed for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409690960_eo99n7_HGBARLhXIAAZr-r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13376,
+    "content": "A standing male figure, photographed from the waist up, whose entire right arm and shoulder is slowly unraveling into {argument name=\"thread colors\" default=\"thousands of red and black threads\"} like a sweater being pulled apart the threads float and drift upward into darkness above. His face is {argument name=\"expression\" default=\"stoic\"}, looking down at his dissolving hand with quiet acceptance. Background is a {argument name=\"background\" default=\"deep matte black\"}. Left side of body is perfectly normal, photorealistic skin. The contrast between the real and the unraveling is the entire story. Studio lighting, single soft key light from the left. Thread textures ultra-detailed, each strand individually visible. On one of the longer drifting threads near the bottom, visible only on close inspection. Vertical 9:13 format.",
+    "title": "Unraveling Figure Effect Comparison",
+    "description": "A surreal prompt for Nano Banana Pro and ChatGPT 1.5 that creates a photorealistic person whose arm is dissolving into thousands of colorful threads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137528977_nncr9t_HFsleOiXsAAUazT.jpg",
+      "https://cms-assets.youmind.com/media/1776137529045_i3et91_HFslec-aoAANN1e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13378,
+    "content": "An enormous canvas — taller than a building — stands in the middle of a {argument name=\"environment\" default=\"barren cracked desert\"} at golden hour. The painting on it is almost complete: a {argument name=\"painted scene\" default=\"hyperrealistic landscape of a lush green forest\"}. But at the edges of the painted forest, the paint is actively peeling away and the trees are crawling off the canvas into the real desert — painted trees becoming three-dimensional, roots cracking into the dry earth, leaves casting real shadows. A {argument name=\"observer\" default=\"tiny human figure\"} stands at the base of the canvas looking up, dwarfed by its scale, unsure whether to step into the painted world or pull the trees back. The boundary between painted and real is the most detailed part — half flat brushstroke, half living texture. On the wooden frame of the canvas, Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "The Painting That Refused To Be Finished",
+    "description": "A creative prompt for a surreal scene where a giant painted forest on a desert canvas begins to turn into a 3D living environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530258_cl6gg0_HFrplk_aQAADwv5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13353,
+    "content": "A hyper-realistic side profile of a {argument name=\"subject\" default=\"man\"}, half-human half-cyborg. Left side of the face is deconstructed to show complex {argument name=\"armor color\" default=\"red\"} armor plates, gears, and wires. Sharp, melancholic gaze. Style: detailed digital painting mixed with {argument name=\"background style\" default=\"white background architectural sketches\"}.\n\nHigh-contrast lighting, 8k resolution, cinematic. ar 4:5",
+    "title": "Hyper-realistic Cyborg Side Profile",
+    "description": "A high-detail prompt for generating a half-human, half-cyborg portrait with a mix of digital painting and architectural sketch styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129403908_torhvy_HFiRcmHXUAArQzG.jpg",
+      "https://cms-assets.youmind.com/media/1776129404402_z21llt_HFiRcvXWgAA0VxN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13338,
+    "content": "3×3 storyboard grid, nine panels, same subject and outfit, consistent teal studio background, soft diffused lighting, clean editorial lifestyle photography\nyoung East Asian woman, natural makeup, black hair tied back, wearing white fitted top, blue/cream color-block cardigan with red strap, blue jeans, sneakers, pastel blue over-ear wireless headphones\npanel sequence (left→right, top→bottom): 1 standing adjusting headphones, front view\n2 close-up portrait touching earcup\n3 side profile sitting on tall stool\n4 lying on stomach with cassette tapes + retro player\n5 extreme close-up headphones + face detail\n6 tilted head smiling portrait\n7 low-angle crouch reaching headphones toward camera\n8 forced perspective product shot, headphones close to lens\n9 lying on back relaxed pose\nstyle: minimal, pastel tones, soft shadows, sharp focus, commercial product photography, consistent framing, balanced grid layout, mix of wide/medium/close shots",
+    "title": "3x3 Storyboard Grid of a Young East Asian Woman",
+    "description": "A highly detailed prompt for generating a 3x3 storyboard grid featuring a young East Asian woman in consistent clothing and setting, specifying nine different poses and compositions for commercial product photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776096294741_qdh5lw_HFeqZZMbQAABJh9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13341,
+    "content": "Cinematic diptych composition of a teenage boy and girl in Japanese school uniforms on a rooftop. Top frame: close-up portrait of the girl with short bob hair, soft natural smile, looking at camera, subtle camera focus frame overlay. Bottom frame: close-up of the boy holding a DSLR camera, looking through the lens, capturing the moment. Soft natural daylight, clear sky, calm atmosphere. Minimalist composition, strong negative space, clean framing. Slice-of-life storytelling, nostalgic mood",
+    "title": "Cinematic diptych of teenagers on a rooftop",
+    "description": "A prompt for generating a cinematic diptych composition featuring a teenage boy and girl in Japanese school uniforms on a rooftop, focusing on close-up portraits and a nostalgic, slice-of-life mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776096296395_upbt9g_HFec-cBa4AAFVwk.jpg",
+      "https://cms-assets.youmind.com/media/1776096296242_ae27xz_HFec-fgbIAA-ZoO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13348,
+    "content": "AI image generation 4-panel manga\n \nTitle\nThe Vanishing Magic Ball\n\nCarp and Camp\n\nI wonder if the names are okay...\n\nNishimura-san...\n\nIt's just a personal hobby...",
+    "title": "AI-generated 4-panel manga: The Vanishing Magic Ball",
+    "description": "A title for an AI-generated 4-panel manga created using Nano Banana Pro, titled 'The Vanishing Magic Ball,' featuring Carp and Camp.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776096306532_79pim1_HFdltCdbAAEkFYQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13276,
     "content": "Create one page of a manga featuring these two people. White background with black lines.\nManga theme: {argument name=\"manga theme\" default=\"An older sister who absolutely cannot remember something important, and her younger sister who cannot guess what it is\"}\nThe manga panels progress from the top right to the bottom left.",
     "title": "Manga page prompt for Nano Banana Pro",

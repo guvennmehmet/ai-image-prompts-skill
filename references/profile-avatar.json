@@ -10,6 +10,277 @@
     "needReferenceImages": false
   },
   {
+    "id": 13563,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"black_and_white_photobooth_expression_grid_4x4\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v3.0_BW_PHOTOBOOTH__GIRL_4X4\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",    \"reference_image_usage\": \"very_high\",\n      \"preserve_identity\": true,   \"preserve_facial_features\": true,\n      \"preserve_hairstyle\": true,\n      \"notes\": \"Use the reference image as the primary identity anchor. Maintain 100% facial accuracy, proportions, and natural skin texture. Keep hairstyle consistent across all panels. Every frame must feature the same girl wearing sunglasses. Expressions should vary while identity remains locked.\"\n    },\n    \"output\": {\n      \"aspect_ratio\": \"1:1\",\n      \"resolution\": \"ultra_high\",\n      \"num_images\": 1,\n      \"layout\": {\n        \"type\": \"grid\",\n        \"rows\": 4,\n        \"cols\": 4,\n        \"gutter\": \"thin\",\n        \"panel_consistency\": \"very_high\"\n      },\n      \"sharpness\": \"crisp_photobooth\",\n      \"grain\": \"subtle_analog_bw\"\n    },\n    \"scene\": {\n      \"concept\": \" black-and-white photobooth contact sheet with expressive girl wearing sunglasses in every panel\",\n      \"environment\": \"clean flat neutral backdrop, no props\",\n      \"lighting\": {\n        \"style\": \"direct photobooth flash\",\n        \"key_light\": \"front-facing flash, slightly hard but flattering\",\n        \"shadows\": \"soft minimal shadows behind subject\",\n        \"avoid\": \"cinematic lighting, colored lights, dramatic shadows\"\n      },\n      \"camera\": {\n        \"lens\": \"50mm\",\n        \"distance\": \"tight head-and-shoulders framing\",\n        \"focus\": \"eyes sharp behind sunglasses in every panel\"\n      }\n    },\n    \"subject\": {\n      \"type\": \"girl (reference person)\",\n      \"wardrobe\": \"{argument name=\"wardrobe\" default=\"modern fashion styling — sleek off-shoulder top, fitted minimal chic outfit\"}\",\n      \"accessories\": \"{argument name=\"sunglasses style\" default=\"high-end designer sunglasses\"} in every panel\",\n      \"hair\": \"same hairstyle preserved across all panels\",\n      \"makeup\": \"soft glam, natural skin texture\",\n      \"vibe\": \"{argument name=\"vibe\" default=\"confident, playful, expressive\"}, fashion editorial feel\",\n      \"anatomy_rules\": \"perfect facial symmetry, no distortion\"\n    },\n    \"expression_set\": {\n      \"panel_01\": \"scrunched smile, playful energy\",\n      \"panel_02\": \"intense confident stare\",\n      \"panel_03\": \"big joyful laugh\",\n      \"panel_04\": \"bored unimpressed pose\",\n      \"panel_05\": \"sad pout expression\",\n      \"panel_06\": \"goofy playful horns\",\n      \"panel_07\": \"tongue out\",\n      \"panel_08\": \"sharp angry glare\",\n      \"panel_09\": \"flirty pose\",\n      \"panel_10\": \"surprised expression\"\n    }\n  }\n}",
+    "title": "Expressive Photobooth Grid",
+    "description": "A complex structured prompt for a 4x4 black and white photobooth grid featuring consistent identity and varied expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668948353_04h5jh_HGR_BKcakAAs3fD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13576,
+    "content": "{ \"prompt\": \"A stylized indoor portrait of actress {argument name=\"actress\" default=\"Elle Fanning\"} cosplaying the character {argument name=\"character\" default=\"Rei Ayanami\"}, posing on a bed. She is wearing the typical Evangelion anime uniform (plugsuit) made of glossy latex. Her expression is soft and slightly melancholic, with glossy lips and flushed cheeks. The background is a wall fully covered with black-and-white manga panels from Neon Genesis Evangelion, creating a striking graphic aesthetic. Soft and even lighting with minimal shadows, anime cosplay style, high level of detail, editorial photography, aspect ratio 9:16.\", \"negative_prompt\": \"blurry, low resolution, bad anatomy, extra limbs, distorted face, harsh shadows, overexposed areas, messy background, text, watermark, logo\", \"style\": { \"genre\": \"editorial cosplay portrait\", \"mood\": \"introspective, mysterious, slightly melancholic\", \"influences\": [ \"sci-fi/mecha aesthetic\", \"Neon Genesis Evangelion\", \"editorial photography\" ] }, \"composition\": { \"framing\": \"vertical portrait, from mid-body to full body\", \"aspect_ratio\": \"9:16\", \"angle\": \"slightly above eye level\", \"focus\": \"centered subject, emphasis on latex outfit and facial expression\", \"background\": \"{argument name=\"background\" default=\"collage of Neon Genesis Evangelion manga panels covering the wall\"}\" }, \"subject_details\": { \"hair\": \"short bob style, in the character's signature light blue tone\", \"expression\": \"relaxed, introspective, and slightly distant gaze\", \"makeup\": \"glossy lips, rosy cheeks, porcelain skin\", \"tattoos\": \"none\", \"outfit\": [ \"Typical Evangelion uniform (white plugsuit with orange and black details)\", \"Glossy latex material, tight-fitting\" ] }, \"camera\": { \"lens\": \"50mm\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"shallow\", \"quality\": \"high level of detail, sharp focus\" } }",
+    "title": "Elle Fanning as Rei Ayanami Cosplay",
+    "description": "Editorial cosplay portrait prompt of actress Elle Fanning as Rei Ayanami from Neon Genesis Evangelion against a manga-covered wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668955012_oxpnjq_HGRmO5cb0AEQMTQ.jpg",
+      "https://cms-assets.youmind.com/media/1776668956474_ll4yqd_HGRmO5GW4AAAb9n.jpg",
+      "https://cms-assets.youmind.com/media/1776668957459_dfmdbc_HGRmO66XgAAhhD0.jpg",
+      "https://cms-assets.youmind.com/media/1776668958684_jssobj_HGRmPEba8AA46fX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13418,
+    "content": "Create a typographic art portrait using the uploaded photo of a person as reference. Display a left-facing side profile portrait. The entire image--including the face. hair. and facial features--must be formed exclusively from repeated {argument name=\"text color\" default=\"white\"} calligraphic text using the words: \"{argument name=\"custom text\" default=\"[TYPE IN YOUR OWN TEXT HERE]\"}\" The text should follow the natural contours of the face and hair, clearly shaping the person's profile silhouette.Use a {argument name=\"background\" default=\"deep navy blue\"} background with high contrast The stvle should be clean vector art with sharp edges. Output in high-resolution 8K quality. Do not alter the person's facial identity. No additional colors. no textures. and no watermark.",
+    "title": "Typographic Art Portrait",
+    "description": "A prompt for creating a vector art profile portrait composed entirely of repeated calligraphic text based on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582150426_bckev5_HGPysMnaMAAepNk.jpg",
+      "https://cms-assets.youmind.com/media/1776582150230_juvvq2_HGPysIyaUAA5QJh.jpg",
+      "https://cms-assets.youmind.com/media/1776582150259_9a6vrx_HGPyr_taAAAcJQw.jpg",
+      "https://cms-assets.youmind.com/media/1776582151645_qonppm_HGPysY2bwAAkF0r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13560,
+    "content": "{argument name=\"subject\" default=\"A stylish young man\"} standing against a minimal concrete wall with a large modern mural of himself beside him. He wears {argument name=\"outfit\" default=\"a loose, colorful nike tie-dye outfit (oversized shirt and relaxed pants in orange, green, blue, and white)\"}, round eyeglasses, a normal silver necklace chain, and a brown leather crossbody bag. He has light facial hair and a calm, confident expression.",
+    "title": "Minimal Mural Portrait",
+    "description": "A prompt for generating a stylish young man standing next to a modern mural of himself against a concrete wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668946276_zswzke_HGPdSoeaoAEtasO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13570,
+    "content": "Ultra-realistic photorealistic studio portrait strictly based on the provided reference image.\n\nUse my uploaded face 1:1 preserve facial structure, proportions, age, skin texture and natural imperfections. No beautification, no facial reshaping\n\nKeep exactly the same outfit:\n{argument name=\"clothing\" default=\"black minimalist coat with clean lines, dark inner layer\"}-identical fabric, texture, fit and silhouette.\n\nKeep exactly the same hairstyle:\nshort, neat haircut with the same length, density and contour.\nKeep exactly the same accessories:\n{argument name=\"accessories\" default=\"round thin metal eyeglasses\"}-identical shape, size and lens transparency.\nKeep exactly the same pose and camera angle:\nthree-quarter portrait, head slightly tilted upward, chin raised, confident posture. Shoulders relaxed, body slightly turned.\n\nKeep exactly the same facial expression and мимика: calm, cold, confident masculine expression, lips relaxed, no smile, no softness.\n\nReplace the face with my face from the uploaded photo, seamlessly integrated into the lighting and angle.\n\nPerfect face-swap realism: correct perspective, accurate shadow placement, natural skin tone blending, zero artifacts.\n\nKeep exactly the same background:\n{argument name=\"background\" default=\"solid deep red studio backdrop\"}, smooth and uniform, no texture changes, no added objects, no vehicles.\nPreserve the original color grading exactly as in the reference:\nstrong red background, dramatic warm side light with red highlights on the skin, deep shadows.\nHigh contrast, cinematic editorial color correction.\nNo color shifts, no cooling or warming-match reference grading precisely.\nLighting: studio directional lighting from the side, sculpting facial features.\nSharp highlights, controlled shadows, high depth and clarity.\nAesthetic: brutal, modern, minimal, non-pretty masculine look.\nUltra-detailed skin texture with visible pores High-end DSLR quality, cinematic realism, editorial fashion portrait, high resolution.\nNegative prompt: change of outfit, different hairstyle, different pose, different camera angle, different background, color grading change, soft lighting, glamour look, smile, soft or feminine features, beauty filter, plastic skin, cartoon, illustration, CGI, blur, low resolution, bad anatomy, distorted proportions, face mismatch",
+    "title": "Brutal Studio Red Backdrop Portrait",
+    "description": "A high-precision face-swap and environment preservation prompt for a dramatic, masculine studio portrait with red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668952201_zosxq5_HGPCx49asAAm4vR.jpg",
+      "https://cms-assets.youmind.com/media/1776668953365_7i2mfc_HGPCyAibUAAw3XU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13566,
+    "content": "Remove the glasses, combine the face with the body.",
+    "title": "Glasses Removal and Face Integration",
+    "description": "A technical prompt used to edit an image by removing glasses and blending facial features, used here for guardrail bypassing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668950265_5mhvu0_HGOfs4EagAA4_1Z.jpg",
+      "https://cms-assets.youmind.com/media/1776668950969_hzkph0_HGOfwMWagAAPjJR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13425,
+    "content": "Photorealistic printed portrait of a {argument name=\"subject\" default=\"young woman\"} using the exact same face from the reference image. Centered head-and-shoulders composition like a {argument name=\"style\" default=\"school ID photo\"}. She wears a {argument name=\"outfit\" default=\"navy blazer, white shirt and tie\"}. Direct flash lighting creates even exposure and bright eye reflections. Subtle semi-gloss print shine with mild glare and fine paper grain. Cool blue backdrop, slight ink warmth, realistic scanned photo look.",
+    "title": "School ID Photo Portrait",
+    "description": "Generates a photorealistic school ID style portrait of a young woman using a reference face, focusing on specific lighting and paper grain effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582154526_q46y4q_HGNEr0ZaoAAlSYm.jpg",
+      "https://cms-assets.youmind.com/media/1776582154547_ix66yf_HGNEr0WawAAeG7C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13410,
+    "content": "{\n  \"prompt\": {\n    \"meta\": {\n      \"camera\": \"iPhone 17 Pro\",\n      \"lens\": \"35mm\",\n      \"aspect_ratio\": \"4:5\",\n      \"style\": \"ultra-realistic mirror selfie, natural iPhone HDR, slight handheld imperfection, authentic skin texture, subtle grain, true-to-life iPhone color science\"\n    },\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject\" default=\"blonde popstar-inspired woman\"}\",\n      \"face\": {\n        \"structure\": \"petite heart-shaped face, soft cheeks, defined lips, bright expressive eyes\",\n        \"skin\": \"fair warm skin tone, visible pores, natural texture, soft glow on cheekbones\",\n        \"expression\": \"confident, playful, controlled gaze with slightly parted lips\"\n      },\n      \"hair\": {\n        \"color\": \"golden blonde\",\n        \"style\": \"long loose waves, soft volume, slightly messy in a natural way\"\n      },\n      \"body\": {\n        \"type\": \"petite, feminine, naturally curvy\",\n        \"posture\": \"relaxed with a subtle hip shift\"\n      },\n      \"pose\": {\n        \"position\": \"standing angled toward the mirror, one arm raised holding the phone, shoulders relaxed, hips slightly tilted\"\n      },\n      \"outfit\": {\n        \"type\": \"{argument name=\"outfit\" default=\"silky champagne slip dress\"}\",\n        \"details\": \"body-skimming fit, delicate straps, soft drape, elegant sheen catching warm light\"\n      },\n      \"accessories\": [\n        \"dark iPhone with visible camera lenses\",\n        \"silver rings\",\n        \"thin bracelet\",\n        \"small drop earrings\",\n        \"neutral glossy nails\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"luxury hotel bedroom mirror\"}\",\n      \"details\": [\n        \"soft lamp glow in foreground\",\n        \"crisp white bedding\",\n        \"subtle bathroom reflection in background\",\n        \"textured wall and polished surfaces\"\n      ],\n      \"atmosphere\": \"late-night hotel calm, intimate but polished, expensive and effortless\"\n    },\n    \"lighting\": {\n      \"type\": \"warm indoor lamp light mixed with soft ambient room lighting\",\n      \"temperature\": \"3200K\",\n      \"effect\": \"gentle highlights on hair and dress, soft shadows across the body, natural reflective glow on skin\"\n    },\n    \"camera_framing\": {\n      \"shot_type\": \"mirror selfie\",\n      \"framing\": \"mid-thigh to head\",\n      \"focus\": \"sharp on face and upper body\",\n      \"depth_of_field\": \"realistic shallow depth of field with mild falloff in background\",\n      \"imperfections\": [\n        \"slight handheld tilt\",\n        \"minor edge softness\",\n        \"subtle grain\",\n        \"natural mirror realism\"\n      ]\n    },\n    \"mood\": {\n      \"energy\": \"magnetic, feminine, viral, effortlessly confident\",\n      \"realism\": \"feels like a real late-night hotel selfie taken in one shot, not overproduced\"\n    },\n    \"negative_prompt\": [\n      \"over-airbrushed skin\",\n      \"plastic texture\",\n      \"studio fashion lighting\",\n      \"cartoon look\",\n      \"3d render\",\n      \"anatomy errors\",\n      \"extra fingers\",\n      \"warped mirror\",\n      \"overexposed face\",\n      \"unnatural body proportio\"",
+    "title": "Luxury Hotel Mirror Selfie",
+    "description": "A complex JSON prompt for generating an ultra-realistic iPhone-style mirror selfie of a blonde woman in a silk slip dress at a luxury hotel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495133329_vugjfy_HGBlxgcaYAA2cLD.jpg",
+      "https://cms-assets.youmind.com/media/1776495133242_zr9o63_HGBlxf1WcAAKCoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13408,
+    "content": "elegant {argument name=\"ethnicity\" default=\"japanese woman\"} in her {argument name=\"age\" default=\"30s\"} who is cool and sophisitcated in a {argument name=\"style\" default=\"scifi punk\"} outfit on on white background. front view, side view, back view in a whiteoutfit with orange design lines",
+    "title": "Sci-Fi Punk Japanese Woman View",
+    "description": "A multi-view prompt for a woman in a sci-fi punk outfit, specifying a white color scheme with orange accents on a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131763_io2z3h_HGJIFtubsAAF8JV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13406,
+    "content": "{\n  \"prompt\": \"Vertical close-up selfie of attractive {argument name=\"subject\" default=\"Sadie Sink\"} with black hair playfully sticking her tongue out, wearing {argument name=\"clothing\" default=\"orange low-cut top and denim shorts jeans\"}, freckles visible, glasses, small elegant white '{argument name=\"embroidery\" default=\"Sadie\"}' embroidered on the lower border of the orange top, soft natural lighting, photorealistic, detailed skin and fabric textures, playful glamorous vibe, 8k\",\n  \"negative_prompt\": \"cropped, bad hands, blurry, low quality, different outfit, missing embroidery, closed mouth\",\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"soft natural\"\n  }\n}",
+    "title": "Sadie Sink Playful Selfie",
+    "description": "A detailed selfie prompt for generating an image of actress Sadie Sink with specific clothing, embroidery, and a playful expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495131413_hcwyl2_HGIV0gta0AA4pCJ.jpg",
+      "https://cms-assets.youmind.com/media/1776495131432_d5w9k1_HGIV0fEbcAA2R-T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13401,
+    "content": "A nighttime urban portrait of a young woman with long straight red hair and light freckles, sitting on a low stone wall in a park. She is wearing small round glasses, a grey fitted camisole dress with lace trim, a slightly oversized unzipped jacket falling off her shoulders, and a white lace thigh garter. She has visible tattoos on her arms and chest. She looks directly at the camera with a slightly parted lip expression, one finger gently touching her lips. Warm streetlight glows behind her, casting a soft golden halo, with trees and foliage in the background. Flash photography effect with sharp foreground subject and darker ambient surroundings, candid street style aesthetic, highly detailed.",
+    "title": "Nighttime Urban Portrait",
+    "description": "An intimate street photography prompt of a woman in an urban park setting with warm streetlight glow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127663_cr6jen_HGHCw9DaEAAEX_s.jpg",
+      "https://cms-assets.youmind.com/media/1776495127706_1mwout_HGHCw89bwAAoOF4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13402,
+    "content": "A stylized indoor portrait of a young woman with platinum blonde hair in high twin pigtails and straight bangs, posing on a bed. She is wearing a black cropped top, short ruffled skirt, fishnet stockings with garter straps, and long black knit arm warmers. Her expression is soft and slightly pouty, with glossy lips and flushed cheeks. The background is a wall fully covered in black-and-white manga panels, creating a bold graphic aesthetic. Soft, even lighting with minimal shadows, alternative e-girl / anime-inspired fashion style, high detail, editorial photography.",
+    "title": "Anime-Inspired Manga Wall Portrait",
+    "description": "An alternative fashion portrait set against a wall of black-and-white manga panels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127956_cdizlm_HGG_hahaIAApzCW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13411,
+    "content": "{\n  \"prompt\": \"Vertical close-up selfie of attractive {argument name=\"celebrity\" default=\"Kylie Jenner\"} with black hair playfully sticking her tongue out, wearing {argument name=\"clothing\" default=\"orange low-cut top and denim shorts jeans\"}, freckles visible, glasses, small elegant white '{argument name=\"text\" default=\"Keor\"}' embroidered on the lower border of the orange top, soft natural lighting, photorealistic, detailed skin and fabric textures, playful glamorous vibe, 8k\",\n  \"negative_prompt\": \"cropped, bad hands, blurry, low quality, different outfit, missing embroidery, closed mouth\",\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"soft natural\"\n  }\n}",
+    "title": "Celebrity Selfie Selfie Generation",
+    "description": "A prompt for generating a close-up selfie of a celebrity with specific clothing and branding details using Nano Banana 2 via Hailuo AI.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495133005_965syd_HGG4OsEWcAA5LVp.jpg",
+      "https://cms-assets.youmind.com/media/1776495132976_63puuj_HGG4O2dXsAAQvY3.jpg",
+      "https://cms-assets.youmind.com/media/1776495133027_c4lgvd_HGG4OxjWEAAlIxZ.jpg",
+      "https://cms-assets.youmind.com/media/1776495133920_mujklw_HGG4O7WWIAAsi9k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13400,
+    "content": "{\"meta\": {\"camera\": \"iPhone 17 Pro (front camera)\"}, \"scene\": {\"location\": \"window\", \"time\": \"sunset\"}, \"subject\": {\"identity\": \"Emma Myers\", \"pose\": {\"position\": \"standing near window\", \"back\": \"arched naturally\", \"torso\": \"slight twist\", \"hips\": \"shifted back\", \"legs\": \"one bent\", \"feet\": \"bare on floor\"}, \"expression\": \"soft distracted look\", \"outfit\": \"oversized shirt slipping slightly off back\", \"details\": {\"nails\": \"French manicure\", \"toes\": \"French pedicure\"}}}",
+    "title": "Sunset Window Silhouette",
+    "description": "A mobile camera style prompt for a natural indoor portrait near a window at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495127693_ebf7yn_HGFvsa-aMAAcVw_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13388,
+    "content": "Close-up portrait of a {argument name=\"subject\" default=\"woman\"} sitting in a dark room, illuminated only by the soft blue glow of a television screen. Wearing a {argument name=\"clothing\" default=\"loose vintage knitted sweater\"} with subtle texture visible in highlights. {argument name=\"hair\" default=\"Dark hair\"} partially covering her face, eyes reflecting the light. Background completely black. Subtle digital noise and film grain, shallow depth of field, quiet late-night cinematic mood.",
+    "title": "Cinematic Late-Night Portrait",
+    "description": "A prompt for a quiet, cinematic portrait of a woman in a dark room lit by a television screen, featuring film grain and a shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409688199_c3hl4e_HGCh2lTaEAAaVa6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13392,
+    "content": "Surgically sculpted facial shadows, intense cheekbone highlights, fashion portrait of a {argument name=\"subject\" default=\"female model\"}, absolute restriction of light spill, razor-sharp shadow edges on the jawline, {argument name=\"background\" default=\"pitch-black background\"}, {argument name=\"lighting effect\" default=\"5-degree grid lighting effect\"}.",
+    "title": "High-Contrast Fashion Studio Portrait",
+    "description": "A focused fashion photography prompt designed for Nano Banana Pro. It specializes in high-contrast lighting, sharp facial shadows, and a clean, pitch-black background to achieve a professional studio look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409693287_le1nmi_HGArQnTasAAUVmz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13394,
+    "content": "Edit this young woman's photo into a high-quality editorial. A mirror selfie of a woman with {argument name=\"hair style\" default=\"Layered Wolf Cut or shoulder-length Hush Cut\"} that looks textured & a little messy, wispy bangs, makeup; Defined natural eyebrows. Soft, rosy-peachy blush prominently visible on the apples of the cheeks and bridge of the nose, giving a healthy glow. Clear, glossy pink finish on the lips. Natural looking, minimal base. Light mascara or tight-lining to define the eyes, wearing a {argument name=\"top\" default=\"dark grey oversized t-shirt with a complex graphic of a human silhouette\"} and dark trousers. She holds a black phone in a dark patterned case with her right hand. The background is a {argument name=\"background\" default=\"plain grey wall with a partial view of a grey couch\"}. The lighting is natural. The camera is a smartphone camera.Ultra HD resolution, high dynamic range, 2:3 aspect ratio. Do not alter face.",
+    "title": "Editorial Mirror Selfie Edit",
+    "description": "A prompt designed to edit an existing photo into a high-quality editorial mirror selfie with specific makeup and outfit details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409693894_ha17u2_HGBubXkb0AAZlWL.jpg",
+      "https://cms-assets.youmind.com/media/1776409693944_893aqb_HGBubZOa4AAv6gv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13384,
+    "content": "Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name=\"character features\" default=\"dot eyes, blush cheeks\"}), {argument name=\"border style\" default=\"thick white sticker border\"} around subjects, {argument name=\"color palette\" default=\"gentle pastel colors\"}, soft even lighting, matte tactile art paper texture.",
+    "title": "3D Paper-Cut Illustration Style",
+    "description": "This prompt transforms photos into charming 3D paper-cut illustrations using the Nano Banana model. It features a tactile paper texture, soft pastel colors, and a distinctive sticker-style border, perfect for creating stylized avatars or creative ID photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776237760395_6swed3_HF4CSdqasAQMxSJ.jpg",
+      "https://cms-assets.youmind.com/media/1776237760646_n0as4x_HF4CSeFasAcEerx.jpg",
+      "https://cms-assets.youmind.com/media/1776237760672_g3fcfb_HF4CSdtasAE68ly.jpg",
+      "https://cms-assets.youmind.com/media/1776237761611_8citrz_HF4CSd7bwAAHq6L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13365,
+    "content": "A formal studio portrait of a {argument name=\"subjects\" default=\"young Southeast Asian couple\"} wearing traditional Javanese-inspired attire. The man stands on the left, tall and composed, wearing a {argument name=\"male attire\" default=\"black high-collar beskap jacket with gold buttons, a decorative gold brooch, and a batik sarong with intricate brown patterns\"}. His hands are gently clasped in front of him. The woman sits gracefully on the right, wearing a {argument name=\"female attire\" default=\"black velvet kebaya-style top with a gold brooch, paired with a matching batik skirt\"}. She has elegant traditional hair styling adorned with gold floral hairpins. Her posture is poised, hands resting softly on her lap. Both subjects have calm, neutral expressions and are looking slightly toward the camera. The lighting is soft and studio-controlled, with gentle shadows and a dark neutral background. A subtle curtain drape appears on one side, and a light-colored bench is partially visible. Highly detailed, photorealistic, sharp focus, 85mm lens, shallow depth of field, cinematic lighting, ultra high resolution.",
+    "title": "Traditional Javanese Couple Studio Portrait",
+    "description": "A photorealistic prompt for a formal studio portrait of a young Southeast Asian couple wearing traditional Javanese-inspired black and gold attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137522282_sr6c9c_HFuUV37aMAAs_VK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13370,
+    "content": "{\n \"meta\": { \n\"aspect_ratio\": \"4:5\", \n\"quality\": \"ultra_photorealistic\", \n\"resolution\": \"4k\", \n\"camera\": \"iPhone 15 Pro front camera\", \n\"lens\": \"24mm wide\",\n \"style\": \"raw iPhone selfie realism, backseat candid, natural daylight, no studio polish, sharp social-media look\"\n },\n\"character_lock\": { \n\"face_identity\": [ \n\"same girl as reference image\", \n\"same face, same identity, same overall appearance\", \n\"NO identity drift\",\n \"NO face change\", \n\"NO face swap errors\"\n ], \n\"body_lock\": [ \n\"same body as reference image\",\n \"same upper-body proportions as reference image\", \"same torso proportions as reference image\",\n \"same adult head size as reference image\", \n\"realistic head-to-body ratio\",\n \"no oversized head\",\n \"no anatomy distortion\"\n ], \n\"hair\": [\n \"{argument name=\"hair style\" default=\"long soft brown hair with warm caramel highlights\"}\", \"slightly tousled\",\n \"smooth face-framing layers\"\n ] \n},\n\"scene\": {\n \"location\": \"car backseat during daytime\", \"environment\": [ \n\"black leather backseat\",\n \"car door and window visible\", \n\"road motion blur outside window\",\n \"casual passenger-seat candid feel\"\n ], \n\"atmosphere\": \"cute, casual, flirty, everyday passenger selfie\"\n },\n\"lighting\": {\n \"type\": \"natural daylight through car windows\", \"key_light\": \"soft daylight falling across face, chest, and lap\", \n\"fill_light\": \"ambient car interior light bounce\", \"effect\": \"clean skin detail, natural contrast, sharp focus without blur\", \n\"avoid\": [ \n\"studio lighting\",\n \"flash\", \n\"blurry background\",\n \"heavy editing\"\n ]\n },\n\"camera_perspective\": { \n\"pov\": \"we are her phone\",\n \"angle\": \"slightly high arm-extended selfie angle\", \"distance\": \"close-medium selfie framing\",\n \"framing\": \"head to upper thigh\",\n \"phone_visibility\": \"not visible\"\n },\n\"subject\": { \n\"gender\": \"female\", \n\"age\": \"21+ adult\", \n\"expression\": { \n\"eyes\": \"soft sultry gaze toward camera\", \n\"mouth\": \"slightly parted lips\", \n\"emotion\": \"cute, relaxed, confident\"\n }, \n\"pose\": {\n \"position\": \"leaning back in the car seat\", \n\"torso\": \"angled slightly toward camera\", \n\"legs\": \"extended naturally across the seat\",\n \"arm\": \"one arm extended holding phone for selfie, other arm relaxed by side\" \n}, \n\"outfit\": {\n \"top\": { \n\"type\": \"{argument name=\"top\" default=\"white graphic tank top\"}\",\n \"fit\": \"tight fitted top with low neckline, layered casual look\"\n },\n \"outerwear\": {\n \"type\": \"soft cream cardigan\",\n \"fit\": \"loose open-front knit\"\n },\n \"bottom\": { \n\"type\": \"{argument name=\"bottom\" default=\"dark denim shorts with leopard-print trim details\"}\", \n\"fit\": \"short casual fit\"\n },\n \"accessories\": [ \n\"wired earphones\",\n \"delicate silver necklace\" \n] \n} \n},\n\"image_quality\": {\n \"focus\": \"sharp on face, outfit, seat texture, and car interior details\", \n\"grain\": \"minimal natural iPhone grain\",\n \"sharpness\": \"clear and crisp but not overprocessed\",\n \"realism\": \"looks like a real iPhone selfie posted online\"\n },\n\"photography_rules\": { \n\"iphone_only_look\": true,\n \"organic_instagram_post\": true, \"no_blurry_background\": true, \"natural_daylight_realism\": true\n}\n}",
+    "title": "Realistic Car Backseat Selfie",
+    "description": "A very detailed JSON prompt for generating a realistic, candid iPhone selfie of a woman sitting in the backseat of a car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137524315_y7yi43_HFuMcjKWoAAOqqv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13381,
+    "content": "Close-up studio portrait of the subject from the uploaded reference image, preserving the exact facial structure, hairstyle, skin tone, and identity from the original photo. The subject is styled in a {argument name=\"outfit\" default=\"black turtleneck with a dark blazer\"}, with no eyewear, maintaining the same pose and direction of gaze as the reference image. Cinematic dual-color lighting setup: {argument name=\"lighting colors\" default=\"cool teal, cyan, and subtle purple neon key light\"} from one side, warm amber-orange fill light from the opposite side, and a subtle orange rim light outlining the shoulders, jawline, and hair, creating strong separation from the background, sharp highlights, smooth skin rendering, and deep controlled shadows. {argument name=\"background\" default=\"Dark navy to black gradient\"} background. Futuristic tech-style editorial portrait with premium studio photography aesthetics, high contrast, rich saturated colors, shallow depth of field, razor-sharp focus on facial details, dramatic cinematic mood, ultra-detailed, high resolution, 8k quality. Aspect ratio: 4:5.",
+    "title": "Cinematic Dual-Color Studio Portrait",
+    "description": "A highly professional portrait prompt for Nano Banana Pro that replicates facial structure from a reference image with cinematic teal and amber lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137532149_99dtby_HFtXcKpbwAEHZZq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13373,
+    "content": "A hyper-realistic 3D caricature of a person emerging out of a smartphone screen, based on the uploaded face image. The character has an exaggerated large head and small body, with highly detailed facial features, expressive eyes, and a cheerful smile. They are stepping out of the phone as if breaking the screen boundary, creating a dimensional effect. The person is wearing {argument name=\"attire\" default=\"smart-casual attire (button-up shirt, trousers, ID badge)\"}, holding a {argument name=\"object\" default=\"sleek laptop\"} in one hand and waving with the other. The smartphone is held in a human hand in the foreground, with realistic lighting and depth of field. Background is {argument name=\"background style\" default=\"minimal and softly blurred with subtle tech-themed text or abstract shapes\"}. Lighting is soft, studio-quality with sharp focus on the face and smooth shadows. Ultra-detailed skin texture, clean reflections on glasses (if applicable), and a polished, modern digital art style. Style tags: 3D caricature, hyper-realistic, cinematic lighting, shallow depth of field, ultra-detailed, vibrant, soft shadows, octane render, unreal engine, 8k",
+    "title": "3D Caricature from Uploaded Face",
+    "description": "A prompt for generating a hyper-realistic 3D caricature based on an uploaded portrait, featuring a person stepping out of a smartphone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137526874_mz5jo8_HFrgn9kbgAAoYmD.jpg",
+      "https://cms-assets.youmind.com/media/1776137526794_bk7tkl_HFrgnysbkAAKZAs.jpg",
+      "https://cms-assets.youmind.com/media/1776137526876_0zsawr_HFrgnzhaQAAyrRO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13361,
+    "content": "Use 100% face above uploaded photo photorealistic portrait, bearded man in his {argument name=\"age\" default=\"late 28s or early 30s\"} sitting casually on the cold ground in front of a sleek {argument name=\"car\" default=\"silver Porsche 911 GT3\"} with large black rear wing and widebody kit, he is leaning back slightly against the car, wearing {argument name=\"outfit\" default=\"black Fear of God Essentials hoodie\"}, black loose pants, white Nike socks, white sneakers,dark sunglasses,with black hair,black beard, relaxed confident vibe, urban industrial background with dark gray metal building facade, overcast daylight, cold weather atmosphere, high detail, sharp focus, cinematic lighting, shot on iPhone 16 Pro or professional camera, natural colors, 8k",
+    "title": "Urban Porsche 911 GT3 Portrait",
+    "description": "A photorealistic portrait prompt for Nano Banana featuring a bearded man in modern streetwear posing in front of a silver Porsche 911 GT3 in an industrial setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129411337_ol01yq_HFiE0uVW8AEld_g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13357,
+    "content": "Cinematic golden hour portrait. {argument name=\"subject\" default=\"Young woman standing on a hillside at magic hour\"}, facing camera with city skyline glowing amber and purple behind her. {argument name=\"outfit\" default=\"Flowing champagne silk midi dress\"} moving in natural breeze. Hair loose with wind movement. She's looking directly into camera — eyes soft and emotional, subtle overwhelmed smile. Sun is just below horizon behind her — warm orange-purple sky. Her face catches the last warm light perfectly. Shot on Sony Venice, 85mm anamorphic.\n\nCamera: 85mm anamorphic, slight low angle, golden hour backlight\nLighting: Magic hour natural backlight, warm orange on face, purple sky\nStyle: Cinematic emotional portrait, film grain, teal-orange color grade\nAspect ratio: 9:16\nAvoid: harsh direct sun, overexposed sky, stiff pose, commercial model energy",
+    "title": "Cinematic Golden Hour Portrait",
+    "description": "An emotional cinematic portrait prompt set during magic hour on a hillside, emphasizing wind movement, realistic lighting, and specific camera lens effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129408934_kfxu2n_HFiTDTmbUAA6unx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13362,
+    "content": "Hyper-realistic cinematic portrait of a {argument name=\"subject\" default=\"rugged man with intense, glowing sapphire blue eyes\"}, drenched in heavy rainfall. His face is weathered and covered in grit and water droplets, featuring a thick, unkempt beard and wet, matted hair clinging to his forehead. {argument name=\"lighting\" default=\"Dual-tone lighting: one side of his face is illuminated by a warm, flickering orange glow, while the other side is cast in cool, dark shadows\"}. Extreme close-up, 8k resolution, shot on {argument name=\"lens\" default=\"35mm lens\"}, moody atmosphere, hyper-detailed skin texture, dramatic chiaroscuro effect.",
+    "title": "Rugged Cinematic Rain Portrait",
+    "description": "A hyper-detailed cinematic portrait prompt of a man in heavy rainfall, featuring dramatic dual-tone fire and shadow lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129410908_8gep82_HFhLVombQAQY1X_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13324,
     "content": "Create a Portrait Master Object: Two passport-sized photo prints held side-by-side by a person's thumb and index finger.\n**Passport Photo Background:** Use a solid blue background (the standard official passport photo color for Indonesian marriage books for certain even/odd birth years).\n**Clothing:** Both subjects in the photo wear formal and neat white collared shirts.\n**Male Subject (Left Photo):** Make his face and hair 100% similar to the given reference.\nHe poses as if talking into a white paper cup, with a cheerful laughing expression.\n**Female Subject (Right Photo):** Make her face and hair 100% similar to the given reference.\nShe poses as if holding a white paper cup to her ear, listening. Her expression is funny with a wide smile and a slightly stuck-out tongue.\n**Interactive Prop:** There is a white string coming out from under the male's paper cup and connecting to the female's paper cup. Because the two photos are placed next to each other, this prop creates the illusion of a \"string phone\" connecting the two photos.",
     "title": "Portrait Master Object: String Phone Passport Photos",

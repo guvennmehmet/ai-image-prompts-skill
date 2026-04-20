@@ -20,6 +20,172 @@
     "needReferenceImages": false
   },
   {
+    "id": 13559,
+    "content": "A full-body studio portrait combining realistic photography with minimal vector illustration. The subject stands upright, calm and centered, against a {argument name=\"background color\" default=\"flat dark purple background\"}. The image visualizes sound as abstract form.\n\nStudio lighting is soft and even, slightly from the left, neutral color temperature. Deep focus, sharp clarity.\n\nThe subject’s face must perfectly match the attached reference image only for identity. Clothing is modern and simple, not copied from reference.\n\n{argument name=\"waveforms color\" default=\"White and neon-accent\"} vector waveforms emerge from the chest and head area, wrapping around the body in smooth curves. Small hand-drawn dots and frequency lines float outward, as if audio is radiating into space. Clean separation between photographic subject and illustrated layers. Editorial album-cover aesthetic.",
+    "title": "Abstract Audio Visualization Portrait",
+    "description": "A sophisticated studio portrait prompt that combines realistic photography with vector illustrations representing sound waves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668946076_4dja41_HGR7QEHWEAAU8tk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13571,
+    "content": "A stunning, highly realistic portrait of a {argument name=\"subject\" default=\"woman\"} based on the original model (the facial structure, hairstyle, and person must be exactly 100% identical to the reference image — no changes allowed) submerged in an ethereal underwater dreamscape infused with traditional Chinese ink painting aesthetics. A cinematic, surreal portrait of a young Asian woman suspended gracefully in crystal-clear water, her body caught in a moment of weightless elegance. Her long black hair flows and spirals around her like living calligraphy brushstrokes, intertwining with streams of black ink that bleed and bloom through the water in mesmerizing organic patterns. Ancient Chinese ink paintings come alive around her—{argument name=\"ink elements\" default=\"majestic dragons, koi fish, blooming lotus flowers, and misty mountain landscapes\"} materialize from the swirling ink, some rendered in traditional monochrome, others bursting with touches of vermillion red and imperial gold. These illustrations seem to dance and breathe, wrapping around her form like protective spirits. Her eyes are open, gazing directly at the viewer with an expression of serene power and ancient knowing—a goddess caught between worlds. Her lips are painted in classic Chinese opera red, a striking contrast against her porcelain skin. Delicate ink marks flow across her body like living tattoos—poetry fragments, phoenix feathers, and peony petals painted directly onto her skin by invisible brushes. She wears a flowing hanfu-inspired garment in sheer white silk that billows and undulates in the water like clouds, revealing glimpses of her silhouette beneath. Golden hairpins and jade ornaments drift weightlessly around her head, suspended in liquid time. Red silk ribbons spiral upward from her wrists and ankles, creating dynamic leading lines through the composition. Bioluminescent particles float around her like scattered stardust, adding points of cyan and soft pink light that illuminate her features from unexpected angles. Air bubbles rise slowly past her face, each one containing tiny reflections of the ink artwork surrounding her. The color palette blends traditional ink wash tones—deep blacks, subtle grays, and pure whites—with unexpected accents of cinnabar red, turquoise, and molten gold. The overall mood is hauntingly beautiful, mythologically powerful, and impossibly dreamlike. Photographed with underwater photography techniques, ultra-high resolution, dramatic chiaroscuro lighting from above creating god-rays through the water surface, with selective focus keeping her face and expression razor-sharp while the ink formations create painterly soft edges throughout the frame.{argument name=\"aspect ratio\" default=\"9:16\"}",
+    "title": "Underwater Chinese Ink Dreamscape Portrait",
+    "description": "A surreal, cinematic portrait of a woman submerged in water with traditional Chinese ink painting aesthetics like dragons and koi materialized from ink.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668954428_uilzzb_HGRwgH9bYAAW-4o.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13575,
+    "content": "{ \"scene\": { \"subject\": \"A woman standing in the center of a grand, dark doorway, looking back over her shoulder toward the camera.\", \"attire\": \"{argument name=\"clothing\" default=\"Yellow long-sleeved button-down shirt, dark blue skinny jeans, barefoot\"}.\", \"environment\": \"{argument name=\"environment\" default=\"Contrast between a dimly lit, ornate interior with antique gold-trimmed furniture and a bright, sunlit outdoor balcony seen through an archway\"}.\", \"composition\": \"Symmetrical framing, leading lines through the doorway, full-body shot.\" }, \"technical_settings\": { \"camera\": \"{argument name=\"camera\" default=\"Sony A7R IV, 35mm lens\"}\", \"aperture\": \"f/2.8 for sharp focus on subject with slight environmental depth\", \"lighting\": \"Chiaroscuro effect, silhouette-style interior with strong natural backlight from the archway, volumetric light hitting the subject's profile.\", \"color_palette\": \"Deep shadows, moody blacks, ochre yellow, and natural daylight highlights.\", \"details\": \"High-resolution, 8K, cinematic film grain, realistic skin textures, intricate wrought iron details above the door.\" } }",
+    "title": "Grand Doorway Chiaroscuro Portrait",
+    "description": "A cinematic composition prompt for a woman looking back through a grand doorway, featuring a strong contrast between interior shadow and exterior light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668957609_nf9nt0_HGQE4FZWwAAklIa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13567,
+    "content": "PROMPT_DATA = {\n    \"subject\": {\n        \"person\": \"{argument name=\"subject\" default=\"Young, beautiful Indian actress with a cheerful expression\"}\",\n        \"attire\": \"{argument name=\"outfit\" default=\"Traditional light-blue printed salwar kameez with orange accents\"}\",\n        \"action\": \"Walking forward, herding a group of cattle with a wooden staff\",\n        \"object\": \"Holding a large, clear glass bottle filled with fresh milk\"\n    },\n    \"environment\": {\n        \"location\": \"{argument name=\"location\" default=\"Rural Indian village setting\"}\",\n        \"architecture\": \"Mud houses with thatched or tiled roofs\",\n        \"details\": [\n            \"Stacked firewood\", \n            \"Dirt path with golden dust kicked up by hooves\", \n            \"Lush green fields in the background\"\n        ]\n    },\n    \"lighting_and_style\": {\n        \"time_of_day\": \"Golden hour / Late afternoon sun\",\n        \"mood\": \"Warm, cinematic, serene, and rustic\",\n        \"visual_quality\": \"Highly detailed, photorealistic, soft warm lighting, cinematic depth of field\"\n    },\n    \"entities\": {\n        \"cows\": \"Brown and white spotted Indian cattle with horns\",\n        \"background_figures\": \"Distant villagers and children near the houses\"\n    }\n}",
+    "title": "Rustic Rural India Portrait",
+    "description": "A comprehensive prompt describing an Indian village setting with a beautiful actress herding cattle during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668950076_6namei_HGOlsa9akAA8Amc.jpg",
+      "https://cms-assets.youmind.com/media/1776668951001_6uypdk_HGOlsbAaUAASchM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13421,
+    "content": "A high-fashion editorial photoshoot of a stylish woman leaning casually against a modern geometric wall. She is wearing a {argument name=\"outfit\" default=\"bold red blazer, matching red-orange trousers, a black-and-white patterned top, and white sneakers\"}. She has a confident relaxed pose with hands in pockets, looking slightly upward. The background is a {argument name=\"background\" default=\"vibrant abstract wall with large geometric blocks in yellow, blue, red, and white\"}, creating a strong modern art aesthetic. Clean studio lighting, sharp focus, vibrant colors, fashion magazine style, ultra high resolution, cinematic composition, shallow depth of field, premium advertising look. Minimal clean floor texture, strong contrast, trendy urban fashion vibe, professional editorial photography.",
+    "title": "Geometric Abstract Fashion Editorial",
+    "description": "A high-fashion photoshoot prompt featuring a bold urban outfit against a colorful geometric wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582152977_mmguso_HGMmlsObIAAEIHg.jpg",
+      "https://cms-assets.youmind.com/media/1776582153131_w3zqtn_HGMmnaCboAAZQd5.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13431,
+    "content": "ultra realistic cinematic luxury fashion portrait recreating the exact composition, lighting and atmosphere of the reference image while using the attached face photo as the identity of the man, powerful stylish man sitting confidently in a {argument name=\"furniture\" default=\"large glossy black leather throne chair\"} with a relaxed dominant posture, legs apart and arms resting on the chair armrests, looking directly forward with a calm confident expression, natural realistic facial proportions and skin texture from the attached face image, wearing narrow dark sunglasses and a {argument name=\"headwear\" default=\"metallic crown\"} placed on the head, outfit must match the reference style exactly. {argument name=\"outerwear\" default=\"large black fur coat\"} creating a dramatic luxury aesthetic with dark tailored trousers, multiple silver rings on the fingers and subtle visible hand tattoos, behind the man on the wall is a large sculptural metallic crown artwork creating a layered visual crown effect behind the head, dark cinematic studio environment with cool toned moody lighting and light haze creating depth, dramatic directional lighting highlighting the fur texture, metal crown reflections and facial structure, luxury hip hop royalty fashion editorial style, ultra photorealistic, extremely detailed textures on fur, leather chair, metal crown and jewelry, cinematic color grading with deep shadows and cool tones, high dynamic range, 85mm portrait photography lens look, shallow depth of field focusing on the subject, 8k ultra detailed realism",
+    "title": "Luxury Fashion Throne Portrait",
+    "description": "An ultra-realistic cinematic prompt for a man sitting on a leather throne, focusing on luxury aesthetic and specific accessory details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582157603_w4wc2u_HGJ5zPXbQAABgOA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13413,
+    "content": "{\n  \"vibe_title_en\": \"The Surreal Golden Laugh Suspended in Time\",\n  \"master_prompt\": \"Tight head-and-shoulders sharp beauty portrait of {argument name=\"subject\" default=\"The Protagonist\"}. Caught completely off-guard, bursting into a surprised, genuine laugh, creating a subtle motion blur on the extreme edges. They feature an impossible, gravity-defying {argument name=\"hair style\" default=\"towering hair sculpture—a surreal, high-budget practical effect blending natural hair with spun copper wire\"}. Wearing a {argument name=\"outfit\" default=\"high-necked, Victorian-inspired avant-garde blouse adorned with heavy gold bullion and crystal embroidery\"}. Setting: A dusty chandelier maintenance catwalk in a grand theater, flanked by massive, glowing tungsten glass orbs suspended in the dark. Shot on Hasselblad H6D-100c, 100mm prime lens at f/2.8. Shallow depth of field, tack-sharp on the laughing eyes and lips. Cinematic Rembrandt lighting, warm amber tones, rich chiaroscuro shadows. Kodak Portra 800 film texture, hyper-realistic skin pores, authentic dust motes catching practical light. Blurred, mysterious figures in dark red velvet in the deep background. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Surreal Editorial Beauty Portrait\",\n    \"priorities\": \"Photorealistic surrealism, raw emotional contrast, pristine optical texture\",\n    \"device_profile\": \"High-resolution Medium Format Camera\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Tight head-and-shoulders portrait, central symmetry with vertical extension\",\n    \"layout\": \"Subject centered, massive vertical hair structure extending to top frame, glowing orbs framing the background\",\n    \"camera_angle\": \"Eye-level, straight-on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist, an androgynous avant-garde muse\",\n    \"demographics\": \"Ageless\",\n    \"face\": \"Symmetrical, sharp jawline, visible pores, eyes crinkled in genuine surprise\",\n    \"hair\": \"Impossible, gravity-defying towering sculpture of intertwined natural strands and spun copper wire\",\n    \"body\": \"Framed tightly at the shoulders, poised yet disrupted by laughter\",\n    \"expression\": \"Caught off-guard, raw, bursting into a surprised laugh\",\n    \"pose\": \"Shoulders squared, head thrown slightly back in sudden amusement, inducing subtle motion blur\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"High-necked structural blouse\",\n        \"material\": \"Silk and ribbed cotton\",\n        \"color\": \"Antique white\",\n        \"fit\": \"Tailored, restrictive fit\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Heavy structural chest panel\",\n        \"color\": \"Gold and clear crystal\",\n        \"material\": \"Metal bullion and glass\",\n        \"brand_style\": \"Avant-garde haute couture\"\n      },\n      {\n        \"item\": \"Ornate drop earrings\",\n        \"color\": \"Gold and pearl\",\n        \"material\": \"Metal and pearl\",\n        \"brand_style\": \"Victorian vintage\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Dusty chandelier\"",
+    "title": "Surreal Avant-Garde Beauty Portrait",
+    "description": "An intricate prompt for a medium format beauty portrait featuring surreal hair sculptures and Victorian-inspired couture in a theater setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495135545_p0jdvy_HGIfSV9X0AACugR.jpg",
+      "https://cms-assets.youmind.com/media/1776495135587_0ts8yl_HGIfSW3XQAEFMPD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13405,
+    "content": "Surreal Absurdist Digital Painting:\n\nA highly stylized, surreal absurdist digital painting advertisement featuring the elegant, modern typography \"{argument name=\"product name\" default=\"NEVERMIND Deep Sleep Capsules\"}\". A solitary human figure wearing {argument name=\"clothing\" default=\"flowing white linen pajamas\"} stands at the edge of an endless, perfectly flat ocean made entirely of matte black sand that realistically ripples and waves like liquid water. Low-lying atmospheric ground fog rolls across the dark shoreline. The sky above is a {argument name=\"sky color\" default=\"surreal gradient transitioning from deep midnight indigo to luminescent violet and vibrant neon rose\"}. Dominating the background, floating at an impossibly colossal scale like a celestial moon, is a giant translucent pharmaceutical capsule pill emitting a warm, ethereal amber bioluminescent glow. Deadpan, extreme wide-shot composition emphasizing vastness, isolation, and spatial paradox. High contrast chiaroscuro low-key lighting, dreamscape aesthetic, deeply metaphorical, hyper-detailed, 8K resolution, sharply cinematic masterpiece.",
+    "title": "Surreal Absurdist Digital Painting",
+    "description": "A creative prompt for an absurdist digital painting advertisement, featuring surreal landscapes, isolation themes, and a giant pharmaceutical capsule.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495129863_eyn0di_HGGHvNzbQAAW4NL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13416,
+    "content": "A highly detailed, tactile flat-lay photograph of a {argument name=\"poster subject\" default=\"neo-analog advertisement poster for \"RISO RIOT Print Studio.\"\"} The poster embodies an 'imperfect humanism' aesthetic, printed on {argument name=\"paper type\" default=\"heavy, rough-textured cream-colored recycled paper with visible fiber grain\"}, lying flat on a worn wooden studio table under soft, natural window light. The composition features a vibrant, slightly misregistered risograph print using limited colors: fluorescent pink, school bus yellow, and electric blue. The artwork consists of bold, abstract, overlapping geometric shapes and forms, showing deliberate ink bleed and slight offset misalignments where colors meet, creating a raw, hands-on feel.\n\nChunky, imperfect hand-drawn typography dominates the layout, reading \"{argument name=\"text content\" default=\"PRINT SOMETHING REAL\"}\" in thick, wobbly letterforms using a smudged black riso ink effect. The studio name \"RISO RIOT Print Studio\" is integrated into the freeform, anti-grid composition using smaller, similarly rough, stamped-style text. The overall design has a spontaneous, naïve quality, featuring visible torn paper collage elements and rough rubber stamp texture overlays. The focus is sharp on the deeply tactile, slightly grainy surface of the paper and the imperfect application of the vibrant, transparent inks.",
+    "title": "Tactile Risograph Studio Poster",
+    "description": "A detailed prompt for a flat-lay photograph of a neo-analog risograph poster with a textured paper aesthetic and bold geometric shapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495138226_bbo3yj_HGGGgtdaEAA9i0H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13398,
+    "content": "A cinematic double exposure portrait of a {argument name=\"subject\" default=\"hollywood actress\"} in profile, her hair in a overlaid with a {argument name=\"scene\" default=\"busy city street scene with tall buildings\"}, {argument name=\"colors\" default=\"warm orange and teal tones\"}, soft bokeh lights in the background, high detail, realistic lighting, vertical composition, photorealistic style.",
+    "title": "Double Exposure City Portrait",
+    "description": "A cinematic prompt creating a double exposure effect combining an actress's profile with a busy, bokeh-filled city street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495125644_x16h6l_HGGrkgXbIAABFlw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13404,
+    "content": "A highly detailed cinematic portrait of {argument name=\"subject name\" default=\"Shah Rukh Khan\"}, a handsome Indian man in his late 40s to early 50s, with sharp facial features, light stubble, and a confident subtle smile showing teeth. He has dark black medium-length hair styled in a sleek, slightly messy ponytail with a few strands falling over his forehead. He is wearing {argument name=\"accessories\" default=\"small rectangular silver-framed sunglasses\"} and a fitted black turtleneck sweater. He is standing in a three-quarter profile view, leaning casually against a large modern glass building, looking over his shoulder directly toward the viewer. His reflection is clearly visible on the glossy glass surface behind him. Soft natural daylight with cool urban reflections, moody and stylish atmosphere, sharp focus, realistic photography, 8k resolution, {argument name=\"style\" default=\"fashion portrait style\"}, cinematic lighting.",
+    "title": "Cinematic Male Celebrity Portrait",
+    "description": "A highly detailed cinematic prompt for generating a realistic fashion portrait of a specific male subject with a stylish urban background and specific lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495129597_izk85b_HGFV_TNbQAAkVqJ.jpg",
+      "https://cms-assets.youmind.com/media/1776495129571_ahawbb_HGFV-nPbwAAiOpQ.jpg",
+      "https://cms-assets.youmind.com/media/1776495129647_18ctwg_HGFV_febUAAVh41.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13377,
+    "content": "A bold, experimental typographic poster featuring the large centered word '{argument name=\"text\" default=\"design\"}' in lowercase, ultra-heavy geometric sans-serif font with thick slab-like strokes and perfectly rounded edges, reminiscent of modern brutalist. The same letters are being shown blurry under the main letters and duplicated many times going down with a blur effect. {argument name=\"background colors\" default=\"Blue and purple soft gradient\"} background.",
+    "title": "Experimental Typographic Poster",
+    "description": "A graphic design prompt for a brutalist typographic poster featuring blurred geometric text and gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530321_zpd5sb_HFuTOJobUAAEAu8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13376,
+    "content": "A standing male figure, photographed from the waist up, whose entire right arm and shoulder is slowly unraveling into {argument name=\"thread colors\" default=\"thousands of red and black threads\"} like a sweater being pulled apart the threads float and drift upward into darkness above. His face is {argument name=\"expression\" default=\"stoic\"}, looking down at his dissolving hand with quiet acceptance. Background is a {argument name=\"background\" default=\"deep matte black\"}. Left side of body is perfectly normal, photorealistic skin. The contrast between the real and the unraveling is the entire story. Studio lighting, single soft key light from the left. Thread textures ultra-detailed, each strand individually visible. On one of the longer drifting threads near the bottom, visible only on close inspection. Vertical 9:13 format.",
+    "title": "Unraveling Figure Effect Comparison",
+    "description": "A surreal prompt for Nano Banana Pro and ChatGPT 1.5 that creates a photorealistic person whose arm is dissolving into thousands of colorful threads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137528977_nncr9t_HFsleOiXsAAUazT.jpg",
+      "https://cms-assets.youmind.com/media/1776137529045_i3et91_HFslec-aoAANN1e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13378,
+    "content": "An enormous canvas — taller than a building — stands in the middle of a {argument name=\"environment\" default=\"barren cracked desert\"} at golden hour. The painting on it is almost complete: a {argument name=\"painted scene\" default=\"hyperrealistic landscape of a lush green forest\"}. But at the edges of the painted forest, the paint is actively peeling away and the trees are crawling off the canvas into the real desert — painted trees becoming three-dimensional, roots cracking into the dry earth, leaves casting real shadows. A {argument name=\"observer\" default=\"tiny human figure\"} stands at the base of the canvas looking up, dwarfed by its scale, unsure whether to step into the painted world or pull the trees back. The boundary between painted and real is the most detailed part — half flat brushstroke, half living texture. On the wooden frame of the canvas, Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "The Painting That Refused To Be Finished",
+    "description": "A creative prompt for a surreal scene where a giant painted forest on a desert canvas begins to turn into a 3D living environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137530258_cl6gg0_HFrplk_aQAADwv5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13358,
+    "content": "A high-contrast double exposure photograph. The primary silhouette is the {argument name=\"silhouette subject\" default=\"back of a man standing still\"}, facing away from the camera. Inside his silhouette, a secondary scene is revealed: {argument name=\"internal scene\" default=\"a narrow, war-torn city street at sunset\"}. The street is lined with crumbling, hollowed-out concrete apartment buildings and scattered rubble. A smaller, lone figure walks down the center of the cracked road toward a bright, glowing sun on the horizon. The {argument name=\"color palette\" default=\"color palette is dominated by warm ambers, burnt oranges, and deep shadows\"}, creating a somber yet hopeful atmosphere. Hyper-realistic textures, cinematic lighting, 8k resolution.",
+    "title": "Double Exposure Somber City Silhouette",
+    "description": "A somber double exposure photography prompt featuring a man's silhouette containing a war-torn city street at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129409064_ayp2s3_HFjJ2gKXIAIUI3L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13359,
+    "content": "A surreal portrait of a {argument name=\"subject\" default=\"young man with closed eyes\"}, centered composition, calm expression, dark hair slightly messy. The {argument name=\"left side effect\" default=\"left side of his face and body dissolves into splashing water with droplets frozen mid-air\"}, while the {argument name=\"right side effect\" default=\"right side transforms into vivid flames with glowing embers and fire particles\"}. Strong contrast between cool tones (water side) and warm tones (fire side). Dramatic lighting, cinematic style, hyper-realistic details, high resolution, soft neutral background, symmetrical composition, conceptual art representing duality (fire vs water, chaos vs calm). Ultra-detailed skin texture, sharp focus, 8K, professional poster design.",
+    "title": "Conceptual Fire and Water Portrait",
+    "description": "A surreal conceptual prompt representing duality, showing a man whose body dissolves into water on one side and transforms into fire on the other.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776129409153_8sryf1_HFiEoPOWIAEBw9Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13325,
     "content": "A vibrant, colorful K-drama promotional poster featuring four young Korean actors in a cheerful, energetic group pose against a bright white and light blue gradient background with a clear blue sky at the top.\nIn the foreground, a young woman with long dark hair, wearing a white turtleneck top under a white sleeveless dress with red floral patterns, is smiling widely with her mouth open and pointing directly at the camera with her right index finger.\nBehind her and to the left, a woman with long reddish-brown hair in a purple blazer is smiling and pointing upward with her right index finger.\nIn the center back, a man with dark hair wearing a dark blue jacket over an orange shirt is smiling with his right fist raised in the air.\nOn the right, a man with short dark hair in a light blue knit sweater is smiling brightly and making a thumbs-up gesture with his right hand.\nThe overall composition is bright, fun, and youthful with clean studio lighting, high resolution, and a promotional poster style typical of Korean television dramas.",
     "title": "Vibrant K-drama Promotional Poster",
