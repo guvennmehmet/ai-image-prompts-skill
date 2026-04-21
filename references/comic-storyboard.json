@@ -1,5 +1,47 @@
 [
   {
+    "id": 14115,
+    "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
+    "title": "Japanese Anime Character Sheet Prompt",
+    "description": "A detailed layout prompt for creating character setting materials featuring two anime-style girls with facial expression variations and SD characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755032872_vd5hkh_HGYMM4Ya4AAKbGp.jpg",
+      "https://cms-assets.youmind.com/media/1776755033234_0dgbub_HGYMM4VacAARXAP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14118,
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Detailed Character Sheet Design",
+    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14117,
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Three-View Character Sheet",
+    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14106,
+    "content": "{\n  \"prompt_analysis\": {\n    \"subject\": \"{argument name=\"character\" default=\"A young boy with brown hair and an expressive smile, wearing a blue hoodie, literally 'breaking through' the pages of a large, ancient-looking sketchbook.\"}\",\n    \"action\": \"The boy is emerging from the center of the book, causing paper fragments to fly into the air, creating a dynamic sense of motion and magical realism.\",\n    \"setting\": \"{argument name=\"environment\" default=\"A cozy, sunlit artist's studio or attic room filled with creative materials, including sketches of dragons and castles, paintbrushes, markers, and wooden shelves.\"}\",\n    \"visual_style\": {\n      \"lighting\": \"Warm, cinematic golden-hour light streaming through a window, highlighting the texture of the torn paper and the wooden desk.\",\n      \"composition\": \"Wide-angle shot with a shallow depth of field, focusing on the boy's joyful expression and the intricate illustrations on the book's pages.\",\n      \"color_palette\": \"{argument name=\"colors\" default=\"Earth tones, warm woods, and parchment creams contrasted with the vibrant blue of the boy's hoodie.\"}\"\n    },\n    \"key_elements\": [\n      \"Oversized open book with the titles 'Legends Unveiled' and 'Chronicles of Wonder'\",\n      \"Exploding paper scraps and torn edges\",\n      \"Hand-drawn illustrations of fantasy landscapes and creatures\",\n      \"Art supplies like paint palettes, markers, and sketches pinned to the wall\"\n    ],\n    \"thematic_concept\": \"The power of imagination, stories coming to life, and the boundless creativity of childhood.\"\n  }\n}",
+    "title": "Imagination Coming to Life",
+    "description": "A structured prompt for a magical realism scene of a boy emerging from a sketchbook in a studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755029646_3966ct_HGVzM8AbkAAwVHw.jpg",
+      "https://cms-assets.youmind.com/media/1776755030158_7tzwac_HGVzM_qXsAAenbB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13577,
     "content": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\" default=\"from the founding of the piano factory to the sale of the Erz piano!\"}",
     "title": "Piano Prodigy Manga Story",
