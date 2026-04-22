@@ -1,5 +1,108 @@
 [
   {
+    "id": 14096,
+    "content": "(Female Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized pixel‑hero, blending crisp retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, playful, high‑energy arcade attitude. Skin should appear pixel‑rendered with chunky shading blocks, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle: pixel‑punk spikes, retro 16‑bit waves, chunky pixel curls, neon‑lit arcade bob, stylized pixel‑hero sweep, or glossy pixel‑rendered long hair. Outfit: 16‑bit fighter jacket, pixel‑armor suit, neon arcade hoodie, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade gear. Accessories: pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and vibrant pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people. (Male Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded male user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized male pixel‑hero, blending chunky retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, confident, high‑energy arcade‑hero attitude. Skin should appear pixel‑rendered with blocky shading, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle (male variations): pixel‑punk spikes, retro 16‑bit action‑hero sweep, short textured pixel crop, stylized arcade quiff, chunky pixel curls, or neon‑lit warrior hair. Outfit (male variations): 16‑bit fighter jacket, pixel‑armor chestplate, neon arcade varsity jacket, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade hoodie. Accessories (male variations): pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and bold male pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people.",
+    "title": "16-Bit Arcade Character Generator",
+    "description": "A specialized prompt to convert user photos into retro 16-bit arcade pixel art heroes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755026451_u9c3le_HGYhdRJbsAE60bz.jpg",
+      "https://cms-assets.youmind.com/media/1776755026477_70o0un_HGYhdRbbYAAm5b4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14115,
+    "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
+    "title": "Japanese Anime Character Sheet Prompt",
+    "description": "A detailed layout prompt for creating character setting materials featuring two anime-style girls with facial expression variations and SD characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755032872_vd5hkh_HGYMM4Ya4AAKbGp.jpg",
+      "https://cms-assets.youmind.com/media/1776755033234_0dgbub_HGYMM4VacAARXAP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14118,
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Detailed Character Sheet Design",
+    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14117,
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Three-View Character Sheet",
+    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14103,
+    "content": "{\n  \"prompt\": \"A cinematic, dual-panel composition featuring a {argument name=\"subject\" default=\"young woman with a vibrant green bob and black highlights\"}, styled in cyberpunk-inspired techwear. She is wearing a {argument name=\"jacket\" default=\"metallic silver puffer jacket with glowing cyan neon trim\"}, a holographic translucent backpack with LED accents, and black tactical cargo pants. On her feet are high-top boots with glowing LED soles, splashing through rain puddles on a wet, reflective street. The setting is a {argument name=\"location\" default=\"narrow, bustling alleyway in a futuristic Tokyo-style district at night\"}, filled with glowing neon signs, Japanese kanji, and warm street lanterns. The lighting is a high-contrast mix of cool cyan, electric green, and warm orange, with a shallow depth of field creating a soft bokeh effect in the background.\",\n  \"style_attributes\": {\n    \"aesthetic\": \"Cyberpunk / Techwear / Street Photography\",\n    \"lighting\": \"Neon-lit, high contrast, wet reflections\",\n    \"color_palette\": [\"Electric Green\", \"Cyan\", \"Metallic Silver\", \"Deep Black\", \"Neon Orange\"],\n    \"composition\": \"Full-body action shot, side profile, splashing water, urban depth\"\n  },\n  \"technical_specs\": {\n    \"resolution\": \"4K\",\n    \"camera_feel\": \"35mm lens, f/1.8, realistic textures, cinematic film grain\"\n  }\n}",
+    "title": "Cyberpunk Techwear Street Shot",
+    "description": "A complex cyberpunk prompt featuring a character in neon-lit techwear on a rainy Tokyo-inspired street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755029073_25ymqw_HGXCd8LWgAEdbdf.jpg",
+      "https://cms-assets.youmind.com/media/1776755029052_art8uj_HGXCem_XEAAiWY4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14111,
+    "content": "A high-detail 3D digital art piece of a {argument name=\"character\" default=\"fluffy, realistic Pikachu\"} bursting out of a {argument name=\"object\" default=\"shattered canvas on a wooden easel\"}. The canvas frame is black with glowing yellow neon cracks. Golden paint and shards of glass explode outward. To the right, a {argument name=\"subject\" default=\"young woman with dark hair in a ponytail, wearing a yellow and black lightning-patterned athletic outfit\"}, holds a paintbrush, appearing to have just painted the scene into life. The background is a moody, dark art studio with soft bokeh. Sharp focus, vibrant yellow and black color palette, cinematic lighting, 8k resolution, hyper-realistic textures.",
+    "title": "Pikachu Bursting Canvas Art",
+    "description": "A creative 3D art prompt featuring a realistic Pikachu bursting out of a glowing neon canvas in a dark art studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755031976_tuvuvm_HGW3bB-b0AADeal.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14095,
+    "content": "A high-resolution, cinematic full-body portrait of a stylish young man standing confidently in a misty, ethereal environment. He is wearing a white button-up shirt under a black knitted sweater vest, paired with oversized baggy dark grey denim jeans and a black textured baseball cap tilted down to partially shadow his face. He holds a {argument name=\"weapon\" default=\"sleek black katana\"} with a {argument name=\"glow color\" default=\"glowing purple aura\"} emanating from the blade. Surrounding him is a massive, swirling vortex of dark, shadowy energy and ink-like smoke forming a circular frame against a bright, hazy white background. The lighting is moody and dramatic, emphasizing the sharp contrast between the dark energy and the foggy atmosphere, captured in a professional digital art style with a 4k finish, 100% my face same, I need this prompt picture, zoom in {argument name=\"aspect ratio\" default=\"4:5\"} man one hand in pocket,",
+    "title": "Vortex Katana Warrior",
+    "description": "A high-resolution prompt for a stylish character holding a glowing katana within a dark energy vortex.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755025965_ng6xsj_HGWi7hgagAElUp8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14107,
+    "content": "A high-resolution, sharp-edged {argument name=\"style\" default=\"pixel art illustration\"} based on the provided image. A stylish young man with {argument name=\"hair style\" default=\"dark, messy hair\"} is sitting in a {argument name=\"furniture\" default=\"modern tan armchair\"}, wearing dark sunglasses, a grey graphic t-shirt, and wide-leg blue jeans. He is leaning back casually, adjusting his sunglasses with one hand. The background features a white brick wall with three framed sketches hanging on it. In the bottom right corner of the third picture frame, . Maintain the same color palette and cell-shaded aesthetic as the original, ensuring all lines are crisp and the resolution is enhanced.",
+    "title": "Pixel Art Portrait of a Stylish Man",
+    "description": "A prompt for converting an existing image into a sharp-edged pixel art illustration featuring a man in a modern armchair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755030338_hocx21_HGV1-XsbQAEw_RM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14113,
+    "content": "low resolution grid,\nlimited color palette,\n8-bit aesthetic,\nclean pixel edges",
+    "title": "Retro 8-Bit Game Aesthetic Prompt",
+    "description": "A style prompt for nano-banana-pro designed to generate images with a retro pixel art aesthetic, focusing on low resolution and limited color palettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755032614_z2m5ul_HGUWgqsaIAAzu61.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14112,
+    "content": "A high-resolution image of a {argument name=\"subject\" default=\"young man with a bold, confident expression\"} sitting on a {argument name=\"furniture\" default=\"green bench\"} in a {argument name=\"setting\" default=\"futuristic green-lit room\"}. He is wearing a black sweatshirt with 'Ozair Ai' written on it in white text, green cargo pants with white and black details, white socks with a logo, and green sneakers. He is leaning back slightly with one arm on the back of the bench, posing with confidence. The background features glowing green geometric lines and digital interfaces.",
+    "title": "Futuristic Studio Portrait",
+    "description": "A prompt for a confident young man in a branded sweatshirt sitting in a green-lit futuristic room with digital interfaces.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755032247_2qh94g_HGUTu05a4AAN1bc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13578,
     "content": "{argument name=\"subject one\" default=\"king salmon\"} VS. {argument name=\"subject two\" default=\"grizzly\"}",
     "title": "King Salmon vs Grizzly Bear Battle",

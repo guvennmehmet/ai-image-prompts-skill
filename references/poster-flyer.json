@@ -20,6 +20,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 14104,
+    "content": "A high-fashion editorial photoshoot of a {argument name=\"subject\" default=\"stylish woman leaning casually against a modern geometric wall\"}. She is wearing a {argument name=\"outfit\" default=\"bold red blazer, matching red-orange trousers, a black-and-white patterned top, and white sneakers\"}. She has a confident relaxed pose with hands in pockets, looking slightly upward. The background is a vibrant abstract wall with large geometric blocks in {argument name=\"colors\" default=\"yellow, blue, red, and white\"}, creating a strong modern art aesthetic. Clean studio lighting, sharp focus, vibrant colors, fashion magazine style, ultra high resolution, cinematic composition, shallow depth of field, premium advertising look. Minimal clean floor texture, strong contrast, trendy urban fashion vibe, professional editorial photography.",
+    "title": "High-Fashion Editorial Shoot",
+    "description": "A comprehensive prompt for a high-fashion photoshoot featuring a stylish woman against a geometric abstract background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755029540_35kt3m_HGWHRrbbkAAFsM3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14106,
+    "content": "{\n  \"prompt_analysis\": {\n    \"subject\": \"{argument name=\"character\" default=\"A young boy with brown hair and an expressive smile, wearing a blue hoodie, literally 'breaking through' the pages of a large, ancient-looking sketchbook.\"}\",\n    \"action\": \"The boy is emerging from the center of the book, causing paper fragments to fly into the air, creating a dynamic sense of motion and magical realism.\",\n    \"setting\": \"{argument name=\"environment\" default=\"A cozy, sunlit artist's studio or attic room filled with creative materials, including sketches of dragons and castles, paintbrushes, markers, and wooden shelves.\"}\",\n    \"visual_style\": {\n      \"lighting\": \"Warm, cinematic golden-hour light streaming through a window, highlighting the texture of the torn paper and the wooden desk.\",\n      \"composition\": \"Wide-angle shot with a shallow depth of field, focusing on the boy's joyful expression and the intricate illustrations on the book's pages.\",\n      \"color_palette\": \"{argument name=\"colors\" default=\"Earth tones, warm woods, and parchment creams contrasted with the vibrant blue of the boy's hoodie.\"}\"\n    },\n    \"key_elements\": [\n      \"Oversized open book with the titles 'Legends Unveiled' and 'Chronicles of Wonder'\",\n      \"Exploding paper scraps and torn edges\",\n      \"Hand-drawn illustrations of fantasy landscapes and creatures\",\n      \"Art supplies like paint palettes, markers, and sketches pinned to the wall\"\n    ],\n    \"thematic_concept\": \"The power of imagination, stories coming to life, and the boundless creativity of childhood.\"\n  }\n}",
+    "title": "Imagination Coming to Life",
+    "description": "A structured prompt for a magical realism scene of a boy emerging from a sketchbook in a studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776755029646_3966ct_HGVzM8AbkAAwVHw.jpg",
+      "https://cms-assets.youmind.com/media/1776755030158_7tzwac_HGVzM_qXsAAenbB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13559,
     "content": "A full-body studio portrait combining realistic photography with minimal vector illustration. The subject stands upright, calm and centered, against a {argument name=\"background color\" default=\"flat dark purple background\"}. The image visualizes sound as abstract form.\n\nStudio lighting is soft and even, slightly from the left, neutral color temperature. Deep focus, sharp clarity.\n\nThe subject’s face must perfectly match the attached reference image only for identity. Clothing is modern and simple, not copied from reference.\n\n{argument name=\"waveforms color\" default=\"White and neon-accent\"} vector waveforms emerge from the chest and head area, wrapping around the body in smooth curves. Small hand-drawn dots and frequency lines float outward, as if audio is radiating into space. Clean separation between photographic subject and illustrated layers. Editorial album-cover aesthetic.",
     "title": "Abstract Audio Visualization Portrait",
