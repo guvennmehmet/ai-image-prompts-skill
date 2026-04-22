@@ -1,5 +1,76 @@
 [
   {
+    "id": 14294,
+    "content": "By being {argument name=\"emotional state\" default=\"drowned in my own tears\"}.",
+    "title": "Melancholic artistic concept",
+    "description": "An emotional and artistic prompt for Nano Banana depicting a figure overwhelmed by their own tears.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841961911_gt7lu6_HGfZXHCa8AAavaP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14297,
+    "content": "{argument name=\"type of date\" default=\"General store shopping\"} date. {argument name=\"situation\" default=\"A man talking passionately about his interests is funny\"}.",
+    "title": "Shopping date scenario prompt",
+    "description": "A narrative prompt for generating a scene of a couple on a date visiting a general store.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963033_3s4xmf_HGdqzIwboAAxc40.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14288,
+    "content": "A cinematic wildlife scene of a {argument name=\"subject\" default=\"professional photographer\"} kneeling in an open savanna during golden hour, capturing a shot with a large telephoto camera lens. Beside him sits a {argument name=\"animal\" default=\"young cheetah cub\"}, calmly observing the surroundings. The environment features dry grasslands stretching into the distance with soft trees blurred in the background. Warm sunlight creates a golden glow, casting long soft shadows and highlighting textures in the grass, fur, and clothing. The composition feels natural and documentary-style, with {argument name=\"focus effect\" default=\"shallow depth of field and soft bokeh\"}. Ultra-realistic detail, 85mm–200mm lens look, f/2.8, National Geographic style, cinematic color grading, 8K resolution.",
+    "title": "Wildlife Photographer with Cheetah Cub",
+    "description": "A National Geographic style prompt for a cinematic wildlife scene featuring a photographer and a cheetah cub.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841959567_4zor1z_HGcKfbUaQAAfxeB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14296,
+    "content": "{argument name=\"character\" default=\"Hitman\"} comes to {argument name=\"location\" default=\"Akihabara\"}",
+    "title": "Character in location prompt",
+    "description": "A prompt for placing a specific character into a modern urban setting, specifically Akihabara.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841962537_0c5f0s_HGZ5OEfasAAxUcZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14280,
+    "content": "A blonde woman dressed as a golden fairy standing in front of an elegant, illuminated classical building at night. She wears a shimmering gold dress made of feather-like textures and delicate translucent wings that sparkle under the lights. A golden leaf headpiece rests across her forehead. She poses with one arm raised to her hair, looking over her shoulder toward the camera with a confident, enchanting expression. The background features grand architecture with arches and warm glowing lights, slightly blurred for depth of field. Cinematic lighting, highly detailed, magical and ethereal atmosphere. style: photorealistic, cinematic, fantasy, lighting: warm night lighting with soft glow and highlights, camera angle: three-quarter rear angle, camera focus: sharp on subject, blurred background, camera lens: 85mm portrait lens, resolution: high, details: sparkling wings, textured feather dress, glowing skin highlights, detailed architecture, mood: magical, elegant, enchanting",
+    "title": "Golden Fairy Night Portrait",
+    "description": "A magical fantasy prompt for Nano Banana Pro featuring a golden fairy in front of an illuminated classical building at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841955239_w2cxhs_HGa3LQjaIAA_iFh.jpg",
+      "https://cms-assets.youmind.com/media/1776841955933_dpgwdr_HGa3LQjbQAA4nna.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14298,
+    "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+    "title": "Futuristic store visualization",
+    "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14292,
+    "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+    "title": "Old Japanese Haunted House",
+    "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14115,
     "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
     "title": "Japanese Anime Character Sheet Prompt",
@@ -12,21 +83,21 @@
   },
   {
     "id": 14118,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
-    "title": "Detailed Character Sheet Design",
-    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
+    "title": "Photorealistic Character Design Sheet",
+    "description": "A prompt for generating a three-view character sheet with specific wardrobe details including metal shin guards and a long coat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+      "https://cms-assets.youmind.com/media/1776841964557_295vha_HGXHi12awAAPRk-.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 14117,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
-    "title": "Basic Three-View Character Sheet",
-    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "content": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Character Sheet Template",
+    "description": "A simple character sheet prompt for photorealistic character visualization against a white background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+      "https://cms-assets.youmind.com/media/1776841965078_nx2j8l_HGXHs8vaQAAgN7a.jpg"
     ],
     "needReferenceImages": false
   },

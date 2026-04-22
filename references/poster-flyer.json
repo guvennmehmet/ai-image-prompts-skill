@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 14293,
+    "content": "Create a vertical poster collage design. The bg consists of four stacked horizontal rounded rectangles. Inside these panels are {argument name=\"colors\" default=\"skyblue and white\"} cinematic shots of a {argument name=\"subject\" default=\"woman\"} in various poses. Superimposed in the foreground on the left side is a full-color, high-quality cutout of the same woman wearing an unbuttoned skyblue sacket, striking a cool pose. The foreground figure has white sticker-style outline. At the top left, bold “ {argument name=\"text\" default=\"NEWER GIVE UP\"} “",
+    "title": "Vertical Poster Collage Design",
+    "description": "A prompt for creating a creative vertical poster collage featuring a woman in various cinematic poses with sticker-style outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960870_xwoxq9_HGc4gKqbYAAeOwX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14104,
     "content": "A high-fashion editorial photoshoot of a {argument name=\"subject\" default=\"stylish woman leaning casually against a modern geometric wall\"}. She is wearing a {argument name=\"outfit\" default=\"bold red blazer, matching red-orange trousers, a black-and-white patterned top, and white sneakers\"}. She has a confident relaxed pose with hands in pockets, looking slightly upward. The background is a vibrant abstract wall with large geometric blocks in {argument name=\"colors\" default=\"yellow, blue, red, and white\"}, creating a strong modern art aesthetic. Clean studio lighting, sharp focus, vibrant colors, fashion magazine style, ultra high resolution, cinematic composition, shallow depth of field, premium advertising look. Minimal clean floor texture, strong contrast, trendy urban fashion vibe, professional editorial photography.",
     "title": "High-Fashion Editorial Shoot",

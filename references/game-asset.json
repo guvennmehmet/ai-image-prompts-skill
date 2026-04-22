@@ -1,5 +1,25 @@
 [
   {
+    "id": 14298,
+    "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+    "title": "Futuristic store visualization",
+    "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14292,
+    "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+    "title": "Old Japanese Haunted House",
+    "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14096,
     "content": "(Female Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized pixel‑hero, blending crisp retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, playful, high‑energy arcade attitude. Skin should appear pixel‑rendered with chunky shading blocks, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle: pixel‑punk spikes, retro 16‑bit waves, chunky pixel curls, neon‑lit arcade bob, stylized pixel‑hero sweep, or glossy pixel‑rendered long hair. Outfit: 16‑bit fighter jacket, pixel‑armor suit, neon arcade hoodie, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade gear. Accessories: pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and vibrant pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people. (Male Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded male user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized male pixel‑hero, blending chunky retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, confident, high‑energy arcade‑hero attitude. Skin should appear pixel‑rendered with blocky shading, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle (male variations): pixel‑punk spikes, retro 16‑bit action‑hero sweep, short textured pixel crop, stylized arcade quiff, chunky pixel curls, or neon‑lit warrior hair. Outfit (male variations): 16‑bit fighter jacket, pixel‑armor chestplate, neon arcade varsity jacket, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade hoodie. Accessories (male variations): pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and bold male pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people.",
     "title": "16-Bit Arcade Character Generator",
@@ -23,21 +43,21 @@
   },
   {
     "id": 14118,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
-    "title": "Detailed Character Sheet Design",
-    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
+    "title": "Photorealistic Character Design Sheet",
+    "description": "A prompt for generating a three-view character sheet with specific wardrobe details including metal shin guards and a long coat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+      "https://cms-assets.youmind.com/media/1776841964557_295vha_HGXHi12awAAPRk-.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 14117,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
-    "title": "Basic Three-View Character Sheet",
-    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "content": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Character Sheet Template",
+    "description": "A simple character sheet prompt for photorealistic character visualization against a white background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+      "https://cms-assets.youmind.com/media/1776841965078_nx2j8l_HGXHs8vaQAAgN7a.jpg"
     ],
     "needReferenceImages": false
   },

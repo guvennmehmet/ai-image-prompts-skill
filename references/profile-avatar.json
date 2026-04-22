@@ -10,6 +10,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 14286,
+    "content": "A young woman with long dark wavy hair falling over her shoulders, wearing a {argument name=\"outfit\" default=\"white oversized hoodie\"} with a relaxed dropped-shoulder fit and soft ribbed fabric texture. She playfully leans forward, arms resting on the handle of a {argument name=\"prop\" default=\"black wire shopping cart\"} in the {argument name=\"setting\" default=\"dimly lit aisle of a convenience store\"}. Sweet, direct expression with a playful kiss-grimace pose, one hand loosely holding a smartphone at her side.",
+    "title": "Playful Convenience Store Portrait",
+    "description": "A relaxed and playful portrait of a woman in a convenience store setting, focusing on soft textures and direct gaze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841958373_xm55pj_HGbaOoMbcAAdlWQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14283,
+    "content": "{\n  \"prompt\": \"A young woman resembling {argument name=\"character\" default=\"Billie Eilish\"} with fair skin kneels on a fluffy white rug in a relaxed bedroom setting, tying her hair back casually. She wears a slightly oversized {argument name=\"top\" default=\"lime green ribbed tank-style top\"} and black athletic shorts. Her expression is calm and self-assured, looking toward the camera. The room features an unmade bed, scattered items, a One Piece poster, and a glowing neon 'Love' sign on the wall. Natural daylight fills the room with soft contrast. Photorealistic, casual lifestyle vibe, 8k\",\n  \"parameters\": { \"aspect_ratio\": \"{argument name=\"aspect ratio\" default=\"4:5\"}\" }\n}",
+    "title": "Relaxed Bedroom Lifestyle Portrait",
+    "description": "An image generation prompt for Nano Banana Pro featuring a relaxed casual scene with a young woman in a detailed bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841957075_op206d_HGbS1Xpb0AAnvh6.jpg",
+      "https://cms-assets.youmind.com/media/1776841957066_7wt3qk_HGbS1ZTbAAAh1OC.jpg",
+      "https://cms-assets.youmind.com/media/1776841957286_vz8ch8_HGbS1iUaEAAyHdy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14291,
+    "content": "{\n  \"style\": \"{argument name=\"art style\" default=\"Impasto Oil Painting / Abstract Expressionism\"}\",\n  \"subject\": \"{argument name=\"subject\" default=\"Male portrait with curly hair\"}\",\n  \"texture_details\": {\n    \"brushwork\": \"Heavy, thick, visible strokes\",\n    \"finish\": \"Glossy, wet-paint look\",\n    \"dimensionality\": \"3D paint depth\"\n  },\n  \"color_scheme\": [\n    \"Vibrant Cerulean\",\n    \"Cadmium Orange\",\n    \"Deep Crimson\",\n    \"{argument name=\"background color\" default=\"Titanium White\"} background\"\n  ],\n  \"composition\": \"Frontal portrait blending into abstract swirls\",\n  \"lighting\": \"Studio lighting reflecting off paint textures\"\n}",
+    "title": "Abstract Impasto Portrait Prompt",
+    "description": "A structured JSON-based prompt designed for generating highly textured oil paintings with deep paint depth and studio lighting, specifically tailored for male portraits with abstract elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960857_mztigp_HGabH1fbYAA5nDy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14116,
     "content": "{ \"action\": \"photorealistic mirror selfie\", \"subject\": { \"person\": \"{argument name=\"hair style\" default=\"A smiling young woman with voluminous, wavy brunette hair\"}\", \"outfit\": \"{argument name=\"clothing\" default=\"Cream-colored long-sleeve ribbed knit sweater, high-waisted light-wash straight-leg denim jeans\"}\", \"accessories\": \"Layered gold necklaces, holding a modern smartphone in a light grey case\", \"pose\": \"Standing barefoot on a wooden floor, tilted head, natural candid expression\" }, \"setting\": { \"location\": \"{argument name=\"setting\" default=\"Cozy, sunlit bedroom seen through a large ornate gold-framed floor mirror\"}\", \"background_elements\": [ \"Mid-century modern wooden nightstand with a small potted succulent and books\", \"Neat bed with grey linens and a patterned throw blanket\", \"Warm ambient lighting from a bedside lamp and delicate string lights\", \"Clothing rack with colorful garments and minimalist framed wall art\" ] }, \"technical_specs\": { \"lighting\": \"Soft natural daylight mixed with warm indoor lamp glow\", \"composition\": \"Full-body vertical shot, reflection-based depth of field\", \"aesthetic\": \"Clean, lifestyle-oriented, warm domestic atmosphere\", \"quality\": \"8K resolution, sharp details on fabric texture and mirror reflections\" } }",
     "title": "Photorealistic Mirror Selfie Portrait",
@@ -18,6 +50,39 @@
       "https://cms-assets.youmind.com/media/1776755033648_8hd46u_HGaJNxLbgAALrKu.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 14295,
+    "content": "geometric low-poly 3D art style made of triangles,\nclean vector-like lines,\nsoft pastel color palette,\nmodern minimalist wallpaper aesthetic,\nhigh resolution,\nsoft lighting,\nsmooth shading,\n{argument name=\"character description\" default=\"cute and charming character\"},\ncentered composition",
+    "title": "Low-Poly Geometric Character Art",
+    "description": "A stylized prompt for creating minimalist low-poly 3D characters using geometric triangles and soft pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841962246_8azhgm_HGZgK-JbgAAFRl2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14284,
+    "content": "Ultra-realistic high-fashion mirror selfie of the SAME uploaded person, using the uploaded face as the only identity reference - preserve exact facial features, skin tone, and proportions with no change or beautification. The subject stands in a luxury interior with {argument name=\"interior details\" default=\"off-white paneled doors\"}, wearing {argument name=\"clothing\" default=\"a tailored black suit, white shirt, and dark patterned tie\"}, taking a natural mirror selfie with one hand holding a smartphone at chest level, body slightly angled, serious expression, neatly styled hair, soft warm indoor lighting, realistic skin texture, subtle shadows, sharp focus, clean premium editorial look, with {argument name=\"accessory\" default=\"minimal luxury tinted sunglasses\"}; do not stylize or alter the face.",
+    "title": "High-Fashion Mirror Selfie Identity Reference",
+    "description": "A specialized prompt for Nano Banana Pro designed to preserve facial identity while placing the subject in a luxury mirror selfie context.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841957288_5vw06y_HGZVWf0a4AA8Nnd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14299,
+    "content": "An extreme close-up of the upper body, {argument name=\"angle\" default=\"from a high angle close to a male perspective\"}. The woman's face and body are clearly and largely visible. *Optional: {argument name=\"expression\" default=\"an expression of looking down slightly in embarrassment\"}",
+    "title": "Close-Up Perspective Portrait Prompt",
+    "description": "A prompt for Nano Banana Pro that creates an intimate high-angle close-up of a person, simulating a boyfriend's perspective. It works best when a reference photo is uploaded first.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963390_a2swmm_HGY_qVCa8AAIuzP.jpg",
+      "https://cms-assets.youmind.com/media/1776841963220_xk23ug_HGY_qU_bYAAeKPq.jpg",
+      "https://cms-assets.youmind.com/media/1776841963237_fqbz1m_HGY_qU_aYAAI_ir.jpg",
+      "https://cms-assets.youmind.com/media/1776841963938_fm4j99_HGY_qVGaQAAA9H1.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 14096,
