@@ -10,6 +10,101 @@
     "needReferenceImages": false
   },
   {
+    "id": 15489,
+    "content": "{\n  \"subject\": \"Young woman with {argument name=\"hair color\" default=\"long straight red hair\"}, pale skin, light freckles, and a neutral expression. She is taking a mirror selfie with a silver smartphone held in her right hand, while seated on a light beige soft ottoman.\",\n  \"clothing\": \"{argument name=\"outfit style\" default=\"White novelty loungewear set\"}. The top is a white ribbed crop top featuring a cartoon character face with large black eyes, red cheeks, and an open smiling mouth. She is wearing matching white fitted shorts and a plush white novelty hat with a similar cartoon face, soft 3D ears, and long strings ending in fluffy white pom-poms.\",\n  \"environment\": \"Bright, modern indoor living space reflected in a large white-framed standing mirror. The background features a window with sheer beige curtains, a green potted plant in a wicker basket, a light-wood TV stand with a flat-screen television, and light-colored tiled flooring.\",\n  \"lighting\": \"Soft, diffused natural daylight streaming from the window, creating an even, airy, and bright atmosphere with gentle shadows.\",\n  \"style\": \"Candid realism, raw lifestyle photography, mirror selfie perspective, smartphone camera aesthetic, highly detailed, photorealistic, sharp focus on the reflection.\"\n}",
+    "title": "Novelty Loungewear Mirror Selfie",
+    "description": "A highly detailed prompt for a realistic mirror selfie of a young woman wearing character-themed novelty loungewear in a modern home setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099780342_1io8f0_HGt3R3gaoAALXWS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15485,
+    "content": "{\n  \"scene\": {\n    \"setting\": \"{argument name=\"setting\" default=\"cozy modern indoor bedroom/living space with strong daylight influence\"}\",\n    \"background\": \"soft neutral-toned room with white drawer cabinet, minimal decor, indoor plant, wooden floor, and bright window area suggesting sunny day outside\",\n    \"lighting\": \"bright natural sunlight streaming through window, warm sun rays hitting subject and furniture, realistic highlights and soft directional shadows, balanced exposure with slight golden tone for sunny atmosphere\"\n  },\n  \"subject\": {\n    \"type\": \"female\",\n    \"pose\": \"seated in a rounded cushioned chair, one leg crossed over the other, torso upright, one arm raised naturally near head as if adjusting hair, other hand resting on thigh\",\n    \"expression\": \"{argument name=\"expression\" default=\"playful kissy face expression with lips slightly puckered\"}, relaxed eyes matching reference expression exactly\",\n    \"face\": \"Use uploaded reference image, keep identity exact, ensure facial features align naturally with body proportions and lighting direction, realistic skin texture and sunlight highlights\",\n    \"hair\": \"Use uploaded reference image, keep identity exact, long straight hair naturally falling with soft shine and slight light reflections\",\n    \"eyes\": \"Use uploaded reference image, keep identity exact, relaxed gaze with natural reflections from sunlight\",\n    \"skin\": \"natural smooth skin tone with realistic sunlight highlights, subtle imperfections, warm glow from sun exposure, soft shadow transitions\",\n    \"body\": \"natural proportions maintained with realistic posture\"\n  },\n  \"clothing\": {\n    \"outfit\": \"{argument name=\"outfit\" default=\"form-fitting lime green high-fashion swimsuit\"} with smooth fabric, minimal seams, slightly reflective under sunlight with realistic stretch and folds\",\n    \"footwear\": \"barefoot with relaxed natural feet positioning\",\n    \"accessories\": \"subtle minimal jewelry, pink-toned nail polish\"\n  },\n  \"environment_details\": {\n    \"props\": \"rounded fabric chair, white drawer cabinet, decor items, indoor plant\",\n    \"textures\": \"fabric chair texture, wood floor grain, skin highlights, realistic fabric stretch and light interaction\"\n  },\n  \"camera\": {\n    \"angle\": \"slightly low upward angle\",\n    \"framing\": \"mid to full body framing with subject centered\",\n    \"focus\": \"sharp focus on subject with slight natural background softness\",\n    \"lens\": \"portrait lens with natural perspective and slight depth\"\n  },\n  \"style\": {\n    \"realism\": \"ultra realistic lifestyle photography\",\n    \"color_tone\": \"bright warm tones with sunny day glow and pink emphasis\",\n    \"effects\": \"natural lighting only, no heavy filters\",\n    \"details\": \"high detail textures, realistic lighting consistency, seamless face-body integration, polished modern aesthetic\"\n  }\n}",
+    "title": "Sunlit Lifestyle Bedroom Portrait",
+    "description": "A highly detailed lifestyle prompt for a warm, sunlit indoor scene featuring a realistic portrait with specific environmental and lighting parameters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099778460_1erx8c_HGsWVMiakAAN8KG.jpg",
+      "https://cms-assets.youmind.com/media/1777099778595_5hizdm_HGsWV7_aUAAKL0O.jpg",
+      "https://cms-assets.youmind.com/media/1777099778749_g6cvv6_HGsWWoWa0AARJzP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15482,
+    "content": "Ultra-realistic iPhone 17 Pro night photo of a {argument name=\"subject\" default=\"young East Asian woman with long straight black hair\"}, slightly tousled, falling over her shoulders. She has clean natural makeup with soft glow skin, defined lashes, and glossy neutral lips. She is wearing a {argument name=\"outfit\" default=\"sleek black mini dress\"} made of soft stretch fabric that hugs her body naturally, paired with minimal gold jewelry and strappy heels.\\n\\nShe is standing on a {argument name=\"location\" default=\"dimly lit city balcony\"} at night, one hip slightly pushed out, one arm resting casually on the railing while the other holds a drink loosely. Her posture is relaxed but confident. Her head is slightly tilted and she looks directly into the camera with a calm, slightly teasing expression.\\n\\nBackground shows blurred city lights (bokeh), distant buildings, and subtle reflections on glass. \\n\\nShot on iPhone 17 Pro, 48mm lens simulation, nighttime lighting (~3200K mixed with city lights), natural HDR, slight handheld shake, realistic depth separation with soft background blur. Flash subtly enhances highlights on skin and fabric while keeping natural shadows.\\n\\nStyle: candid nightlife aesthetic, raw realism, slight grain, no beauty filters, authentic mobile photography look.",
+    "title": "Candid iPhone Night Portrait",
+    "description": "A prompt designed to replicate the aesthetic of an iPhone 17 Pro night photo, featuring a woman on a city balcony with realistic mobile photography characteristics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099777132_1f2lj4_HGrkw0vacAAs1cG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15500,
+    "content": "Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic modern bathroom mirror portrait with the exact same pose, body proportions, camera angle, and facial expression as the provided image. Match the pose precisely: leaning forward with both arms extended and resting on the sink counter, upper body angled toward the mirror, hips slightly pushed back, shoulders relaxed, head tilted slightly downward, eyes looking upward with an intense soft gaze, lips closed with a neutral subtle expression, calm confident energy. Keep the exact framing from upper thighs to head and the same perspective as a candid mirror shot.\n\nThe subject is a {argument name=\"subject description\" default=\"beautiful young woman with a slim curvy figure\"}, same body size and proportions as the reference, toned waist, natural curves, realistic anatomy, and elegant posture. Long straight dark brown hair parted in the center, falling naturally over the shoulders and chest, with soft shine, realistic strands, and natural volume. Smooth glowing skin with visible pores, soft natural blush, defined eyebrows, subtle eye makeup, lifelike facial details, and realistic complexion.\n\nShe is wearing a {argument name=\"outfit\" default=\"fitted black low-cut sleeveless crop top\"} with smooth stretch fabric and realistic folds, paired with high-waisted black-and-white horizontal striped shorts, body-hugging fit, detailed fabric texture. Small delicate tattoo visible on the forearm. Maintain exact wardrobe styling and proportions.\n\nBackground is a {argument name=\"background\" default=\"luxury minimalist bathroom with dark charcoal stone tiled walls, matte black fixtures, modern white sink counter\"}, mirror reflection composition, clean contemporary interior design, moody elegant atmosphere. Keep the environment realistic and uncluttered.\n\nLighting should be soft warm indoor ambient light with subtle highlights on the skin and hair, realistic shadows, balanced contrast, and rich neutral tones. Include highly detailed skin texture, realistic hair strands, cinematic depth, DSLR-quality sharpness, mirror photography style, true-to-life colors, 8k resolution, ultra photorealistic, hyper realistic quality.",
+    "title": "Minimalist Bathroom Mirror Portrait",
+    "description": "A realistic portrait prompt focused on a specific pose and wardrobe in a luxury minimalist bathroom, using an uploaded image for exact facial identity and anatomy reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099786844_tglwk0_HGrjF6DaEAAL-a4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15484,
+    "content": "A stylish, confident man in a {argument name=\"outfit\" default=\"tailored black suit and black tie\"}, wearing {argument name=\"accessories\" default=\"reflective red-orange aviator sunglasses\"}, posing in a sharp side profile. He has a clean fade haircut and light stubble. The background is a dark matte black with a bold horizontal red neon light strip glowing behind him, creating a high-contrast, modern aesthetic. {argument name=\"lighting\" default=\"Dramatic studio lighting with strong rim light and soft key light\"} highlighting facial structure. Ultra-sharp focus, shallow depth of field, glossy reflections on the sunglasses. Cinematic color grading with deep blacks and vibrant reds, luxury fashion editorial style, 85mm lens, f/1.8, 8K, hyper-realistic.",
+    "title": "Cinematic Man in Tailored Suit",
+    "description": "A luxury fashion editorial style prompt for a man in a black suit with dramatic red neon lighting and rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099778404_2ggrxa_HGrdWSba8AE7-KI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15493,
+    "content": "highly detailed {argument name=\"art style\" default=\"claymation-style\"} portrait of the person in the reference image. The subject should appear as a handcrafted clay figure with visible fingerprints, soft edges, and slight imperfections typical of stop-motion animation. Use a stylized, expressive face while preserving key facial features and likeness. Apply {argument name=\"lighting\" default=\"warm, studio-style lighting\"} with soft shadows. Background should be minimal and slightly textured, resembling a clay set. Render in high resolution with a {argument name=\"aesthetic\" default=\"cinematic, whimsical\"} aesthetic inspired by classic stop-motion films",
+    "title": "Claymation Style Portrait",
+    "description": "A prompt for generating highly detailed claymation-style portraits that resemble stop-motion animation figures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099781734_a7qzht_HGrPeaXaoAAAC4-.jpg",
+      "https://cms-assets.youmind.com/media/1777099783255_ehrd3o_HGrPeowb0AEbQy_.jpg",
+      "https://cms-assets.youmind.com/media/1777099783067_p7ppb4_HGrPe1daIAEalLy.jpg",
+      "https://cms-assets.youmind.com/media/1777099783734_ol0wdy_HGrPfEYaYAAkT6r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15480,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image. Ultra 8k HD, sharp facial details, realistic skin texture, visible pores, porcelain and dewy skin, douyin / Korean glass-skin makeup, glossy lips, soft aegyosal, baby pink blush on cheeks and nose, grey contact lenses. Shot on mobile camera / iPhone, ISO 100, natural mobile lens look, no background blur, no bokeh, blacks and shadows slightly lifted or flattened, realistic exposure.\n\nScene: bright outdoor summer portrait with blue sky, soft flower shadows across the face, large pink magnolia flowers near the head, sparkling sheer fabric around the shoulders, crisp sunlight, realistic highlights and natural skin texture.\n\nPose: realistic spontaneous human pose, not stiff, not center-facing, close-up angle from slightly below, eyes gently closed, face turned toward sunlight, one shoulder angled forward, serene graceful expression.\n\nHair: ash brown sleek low bun hidden under sheer sparkling fabric, soft face-framing strands, polished elegant finish.\n\nOutfit: shimmering translucent white scarf with subtle crystal details draped tastefully around the shoulders, statement floral earrings, soft luxury summer goddess aesthetic, elegant and refined.\n\n--ar 2:3",
+    "title": "Photorealistic Glass-Skin Portrait",
+    "description": "Focuses on achieving high-end beauty photography aesthetics with 'glass skin' makeup and Magnolia floral elements in a summer setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099776277_lc3d8a_HGqnKKnakAAmIjp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15488,
+    "content": "A mirror selfie of {argument name=\"celebrity\" default=\"Jisoo from Blackpink\"}, a young woman with fair skin, elegant features, and long dark hair, wearing a vibrant {argument name=\"outfit theme\" default=\"Sylveon-themed\"} ensemble made of glossy pink, white, and blue latex. The outfit consists of a cropped latex tank top and matching high-waisted latex shorts, featuring Sylveon’s signature ribbon and bow motifs. She is also wearing a plush Sylveon hat with long dangling pom-poms while sitting on a neutral-toned ottoman in a bright, modern room with minimalist decor, indoor plants, and a television in the background. The lighting is soft and natural, emphasizing the bold colors of the latex outfit and the clean, contemporary aesthetic of the setting.",
+    "title": "Blackpink Jisoo Sylveon Outfit Mirror Selfie",
+    "description": "A specific prompt for a mirror selfie of Blackpink's Jisoo wearing a Sylveon-themed latex outfit in a modern room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099780104_gx97sn_HGqWw7PbQAA24xQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15487,
+    "content": "A cinematic, ultra-realistic portrait of {argument name=\"subject\" default=\"a young man wearing a loose black hoodie\"}, seated indoors at night. He has slightly messy dark hair, a full beard, and a calm yet introspective expression. The subject is centered in frame, looking either directly into the camera or slightly off to the side in a candid moment. He is wearing over-ear headphones, adding a subtle modern, urban mood.\n\nLighting is soft, moody, and low-key, with a {argument name=\"color palette\" default=\"cool-toned color palette (blue-grey hues)\"}. Gentle, diffused light falls across his face, highlighting natural skin texture with visible pores while maintaining a clean, cinematic look. Shadows are soft but present, creating depth and contrast without harsh edges.\n\nThe background is heavily blurred with a strong bokeh effect—suggesting an indoor environment with distant lights (possibly a café, studio, or night-lit interior). The depth of field is very shallow, mimicking an 85mm lens at f/1.8, with creamy, circular bokeh highlights scattered behind him.\n\nForeground includes slight blur elements (like passing shapes or objects) to create depth layering and a voyeuristic, cinematic framing. Composition feels natural and slightly editorial, as if captured during a quiet moment.\n\nColor grading is cool and desaturated with subtle teal-blue tones, giving a modern, atmospheric aesthetic. Skin tones remain natural but slightly muted to match the overall mood.\n\nStyle: hyper-realistic, cinematic photography, shallow depth of field, DSLR quality, soft grain, high dynamic range, professional portrait lighting, Instagram editorial style.\n\nCamera details: 85mm lens look, f/1.8 aperture, sharp focus on eyes, background falloff, natural lens compression.\n\nAspect ratio: {argument name=\"aspect ratio\" default=\"vertical (4:5 or 9:16)\"}, optimized for social media.\nGenerate image using uploaded image as reference",
+    "title": "Cinematic Moody Portrait",
+    "description": "An atmospheric, ultra-realistic portrait prompt featuring a young man with a beard and headphones in a low-key, indoor night setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099779821_y45nu8_HGpJ0j1a0AAFL7o.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 15119,
     "content": "A young woman with fair skin, freckles across her face and shoulders, and striking blue eyes is kneeling on a thick, fluffy white rug in a {argument name=\"setting\" default=\"messy bedroom\"}. She has long, vibrant blonde hair that she is actively gathering with both hands to tie into a high ponytail; her right hand holds the base of the ponytail near the crown of her head while her left hand pulls the length of her hair through. She is wearing a {argument name=\"top\" default=\"fitted white ribbed tank top\"} and {argument name=\"bottoms\" default=\"pink gym shorts bottoms\"}. Her expression is direct and slightly serious as she looks straight at the camera from a high angle. The bedroom background features an unmade bed with rumpled light-colored sheets and pillows, scattered clothes on the floor and bed, a white nightstand with a modern lamp, a stack of books, a big poster of one piece, a little neon written 'XSydneyFan' on wall, and a window with sheer curtains letting in natural daylight. The overall scene has a casual, lived-in atmosphere with soft natural lighting. 2:3ar don't change face",
     "title": "Casual Bedroom Portrait",

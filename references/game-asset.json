@@ -1,5 +1,39 @@
 [
   {
+    "id": 15486,
+    "content": "Convert this portrait into a hyper-realistic crochet doll. Recreate {argument name=\"subject\" default=\"the subject\"} entirely using yarn and knitted textures while keeping the exact same pose, composition, framing, and expression.\n\nSkin should be made of tightly stitched yarn loops with clearly visible knit patterns and natural stitching direction. Add depth and slight imperfections like real handmade crochet. Freckles must be recreated using darker thread stitches.\n\nHair should be made from thick yarn strands, slightly wavy, with a handcrafted look and visible fiber texture. Eyebrows and eyelashes should be finely stitched with thread. Eyes should remain semi-realistic with a glass-like appearance but embedded naturally into the yarn face.\n\nLips should be stitched with red thread, slightly raised and textured.\n\nConvert clothing into knitted wool fabric with clear yarn detail. Convert {argument name=\"decorative elements\" default=\"flowers\"} into fully crocheted elements with layered yarn petals and stitched leaves.\n\nUse soft studio lighting, shallow depth of field, and macro-level detail. Emphasize handcrafted realism with visible yarn fibers and texture. Avoid smooth or plastic skin.\n\nextreme detail, macro lens, 8k, handcrafted crochet realism, visible yarn fibers, no smooth surfaces",
+    "title": "Hyper-Realistic Crochet Doll Transformation",
+    "description": "A detailed transformation prompt designed to turn a portrait into a handcrafted crochet doll, emphasizing yarn textures and knitting patterns while maintaining original pose and expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099778896_c21dd2_HGr6f5iaoAA3W9h.jpg",
+      "https://cms-assets.youmind.com/media/1777099779128_oh57p8_HGr6f7bbAAAQ-X0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15493,
+    "content": "highly detailed {argument name=\"art style\" default=\"claymation-style\"} portrait of the person in the reference image. The subject should appear as a handcrafted clay figure with visible fingerprints, soft edges, and slight imperfections typical of stop-motion animation. Use a stylized, expressive face while preserving key facial features and likeness. Apply {argument name=\"lighting\" default=\"warm, studio-style lighting\"} with soft shadows. Background should be minimal and slightly textured, resembling a clay set. Render in high resolution with a {argument name=\"aesthetic\" default=\"cinematic, whimsical\"} aesthetic inspired by classic stop-motion films",
+    "title": "Claymation Style Portrait",
+    "description": "A prompt for generating highly detailed claymation-style portraits that resemble stop-motion animation figures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099781734_a7qzht_HGrPeaXaoAAAC4-.jpg",
+      "https://cms-assets.youmind.com/media/1777099783255_ehrd3o_HGrPeowb0AEbQy_.jpg",
+      "https://cms-assets.youmind.com/media/1777099783067_p7ppb4_HGrPe1daIAEalLy.jpg",
+      "https://cms-assets.youmind.com/media/1777099783734_ol0wdy_HGrPfEYaYAAkT6r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15494,
+    "content": "Ultra-realistic portrait of a {argument name=\"subject\" default=\"rugged man\"} with sharp facial features, messy hair, and a thick beard, intense eyes with a cold expression, slightly bruised face with subtle dirt and scratches, wearing a {argument name=\"clothing\" default=\"dark worn-out jacket and textured clothing\"}, cinematic lighting with deep shadows, moody atmosphere, dramatic contrast, 35mm lens, shallow depth of field, background {argument name=\"environment\" default=\"blurred urban alley\"}, high detail skin texture, masculine energy, raw and gritty aesthetic, 4K, ultra detailed",
+    "title": "Rugged Urban Portrait",
+    "description": "A prompt for a gritty, ultra-realistic portrait of a man in an urban alley with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099783917_e03g6w_HGqLu8vasAAYD9d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14298,
     "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
     "title": "Futuristic store visualization",
