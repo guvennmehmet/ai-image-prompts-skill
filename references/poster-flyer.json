@@ -20,6 +20,225 @@
     "needReferenceImages": false
   },
   {
+    "id": 16166,
+    "content": "A creative prompt for visualizing a garment in a state of slow-motion unraveling with technical labeling and dramatic lighting, using placeholders for the garment type, component labels, and name.",
+    "title": "Garment Deconstruction Freeze Frame",
+    "description": "A creative prompt for visualizing a garment in a state of slow-motion unraveling with technical labeling and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445795_ipunhw_HG2h7GeakAAbcfJ.jpg",
+      "https://cms-assets.youmind.com/media/1777274445851_hbqghq_HG2iFw5boAAGfFv.jpg",
+      "https://cms-assets.youmind.com/media/1777274445794_hfii9f_HG2irIPa4AAyvH9.jpg",
+      "https://cms-assets.youmind.com/media/1777274446537_6diq4w_HG2i7QiaIAAL6sM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16188,
+    "content": "Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name=\"character outfit\" default=\"plush penguin onesie\"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name=\"vehicle\" default=\"vintage teal and chrome cruiser motorcycle\"} parked on a {argument name=\"setting\" default=\"winding coastal highway\"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.",
+    "title": "Chibi Penguin on a Motorcycle",
+    "description": "A playful 3D-style prompt for a chibi character in a penguin onesie sitting on a vintage cruiser motorcycle at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274454077_isepyb_HG1HjTcbcAIOc0k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16186,
+    "content": "Ultra-realistic cinematic poster of a young man (use uploaded face), styled as a futuristic streetwear athlete, promoting exclusive {argument name=\"brand\" default=\"Nike\"} “{argument name=\"shoe theme\" default=\"Dragon of the Year\"}” sneakers. Subject standing confidently in a powerful low-angle shot, intense gaze, sharp jawline, slightly messy textured hair.\n\nOutfit: black techwear hoodie, layered with a sleek bomber jacket, dark cargo pants, subtle metallic accessories. Shoes are the main focus, glowing Nike Dragon of the Year sneakers with dragon-scale texture, subtle ember glow, and fiery accents.\n\nEnvironment: {argument name=\"environment\" default=\"dark urban alley mixed with mythical elements\"}, floating red-orange embers, faint dragon silhouette made of smoke and fire swirling behind him. Wet ground reflecting neon lights.\n\nLighting: dramatic cinematic lighting, strong rim light in red and gold, soft shadows, volumetric fog, high contrast.\n\nEffects: slow floating ash particles, light streaks, subtle fire sparks around shoes, heat distortion near ground.\n\nTypography: bold futuristic Nike-style font, minimal and clean layout.\nMain text: “DRAGON OF THE YEAR”\nSubtext: “UNLEASH THE FIRE”\nSmall Nike swoosh integrated subtly.\n\nColor palette: black, deep red, burnt orange, gold highlights.\n\nStyle: hyper-detailed, 8K, ultra sharp, fashion editorial meets fantasy, premium brand campaign aesthetic, highly realistic skin texture.",
+    "title": "Nike Dragon of the Year Campaign",
+    "description": "A high-end cinematic brand campaign prompt for futuristic streetwear sneakers with a mythical dragon theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274453572_7otqh7_HG0eEgYagAABMeB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16197,
+    "content": "A surreal, ultra-detailed athletic campaign image featuring a powerful young female athlete mid-air above {argument name=\"landscape\" default=\"vast desert dunes at sunset\"}. Her body is arched in a graceful yet explosive leap, as if defying gravity. She wears a {argument name=\"top\" default=\"sand-toned Nike sports bra\"} with minimal branding and lightweight flowing training pants that ripple like fabric caught in windstorms. Her sneakers are rugged yet futuristic Nike trail runners with dust-reactive glowing amber accents. A massive wave of golden sand and wind energy rises behind her, forming abstract spirals and particle trails that follow her motion. The sky is dramatic with deep orange, crimson, and violet gradients fading into twilight. Lighting is cinematic and warm, highlighting muscle definition and fabric movement. Large floating text reads “{argument name=\"slogan\" default=\"Rise Above\"}” in carved stone-metal typography, partially dissolved into sand particles. {argument name=\"brand\" default=\"Nike Swoosh\"} appears etched into a rock formation in the distance.",
+    "title": "Surreal desert athletic campaign",
+    "description": "A high-concept athletic campaign prompt featuring a female athlete leaping over desert dunes with wind energy effects and stone-metal typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274456914_aryjkn_HG0LXnaXsAADxei.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16169,
+    "content": "A commercial-style prompt for a luxury sports ad featuring a football player in the desert with a mountain goat, with options to customize the brand, player number, and animal.",
+    "title": "Cinematic Luxury Sports Ad",
+    "description": "A commercial-style prompt for a luxury sports ad featuring a football player in the desert with a mountain goat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274447480_lno4sa_HGzThVKXkAAhtAi.jpg",
+      "https://cms-assets.youmind.com/media/1777274447486_8zq09r_HGzThz4aIAAcmZX.jpg",
+      "https://cms-assets.youmind.com/media/1777274447498_vizsrr_HGzTiBKbEAAr1AL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16179,
+    "content": "Bold street-art inspired portrait of a {argument name=\"subject\" default=\"young man with sharp facial features and short dark hair\"}, 3/4 angle (slightly turned toward the camera), looking toward the camera with his head slightly tilted upward, confident yet thoughtful expression, wearing a {argument name=\"clothing\" default=\"hoodie\"} and minimal accessories, clean upper-body framing with no environment distractions, surrounded by dynamic graffiti elements, spray paint textures, scribbles, arrows and motion lines, layered stencil technique with paint drips and rough edges, color palette of {argument name=\"colors\" default=\"black, off-white, burnt orange and subtle blue accents\"}, strong contrast and urban energy, realistic face preserved under stylized overlays, gritty poster design with raw texture and depth, ultra-detailed face, sharp focus, high-resolution, no photorealism, illustration style only",
+    "title": "Street-Art Inspired Urban Portrait",
+    "description": "A stylized illustration prompt for a young man's portrait featuring graffiti, spray paint textures, and a gritty poster design aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274451181_hghr2c_HGy9Ap9aAAAVue8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15834,
+    "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
+    "title": "Neo-noir psychological thriller movie poster",
+    "description": "A structured prompt for a cinematic neo-noir thriller poster featuring a fearful subject in a wet city alley.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187085215_zwz37j_HGwnmkSbkAArV32.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15824,
+    "content": "{\n  \"prompt_details\": {\n    \"subject\": \"Colossal frozen ice sculpture of the man from image_0.png, emerging from an {argument name=\"environment\" default=\"Arctic glacier\"}.\",\n    \"key_features\": \"Detailed facial features, curly hair, beard, and thick glasses, all sculpted in ice with intricate frost textures.\",\n    \"double_exposure_elements\": [\n      \"Within the sculpture's body (blazer and turtleneck), a basecamp scene is visible.\",\n      \"Basecamp includes research tents and parked snowmobiles on an ice plain.\"\n    ],\n    \"added_elements\": [\n      \"Tiny explorers in {argument name=\"clothing color\" default=\"bright orange\"} high-altitude winter suits are climbing and rappelling the sculpture.\",\n      \"One explorer is climbing on his forehead; others are on his jacket collar.\"\n    ],\n    \"environment\": \"Vast glacier field, icy mountain peaks in the background, falling snow particles.\",\n    \"lighting\": \"Dramatic soft {argument name=\"light color\" default=\"golden\"} sunlight from a distant sunset/sunrise, backlit volumetric lighting through the ice.\",\n    \"color_grading\": \"Cold blues, whites, and frosted tones, contrasted with the orange suits and soft gold sunlight.\",\n    \"style\": \"Ultra-realistic cinematic artwork, poster design composition, surreal fantasy atmosphere, high contrast.\",\n    \"resolution\": \"8K, hyper-detailed textures, sharp focus, shallow depth of field.\"\n  }\n}",
+    "title": "Arctic Glacier Ice Sculpture Prompt",
+    "description": "A creative prompt for a colossal ice sculpture emerging from an Arctic glacier, utilizing double exposure to show a basecamp inside the figure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187080751_454np4_HGwj5tRaYAARSxM.jpg",
+      "https://cms-assets.youmind.com/media/1777187080142_dscbcm_HGwj5vNboAAmGMN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15851,
+    "content": "Cinematic {argument name=\"product\" default=\"luxury watch\"} advertisement, oversized timepiece floating mid-air like architecture, model reaching toward it like a monument, giant word \"{argument name=\"text\" default=\"TIME\"}\" behind in bold gold typography, {argument name=\"background\" default=\"deep black studio background\"}, reflective marble floor, luxury watch campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1",
+    "title": "Cinematic Luxury Watch Advertisement Prompt",
+    "description": "A prompt for high-end editorial advertising featuring a floating luxury watch and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187091956_cgguvf_HGwMtCPWsAAD7Bv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15830,
+    "content": "{\n  \"image_description\": \"A high-end fashion magazine cover titled '{argument name=\"title\" default=\"GLOW\"}' in bold, white serif typography at the top. The featured cover star is a young woman with wavy blonde hair, a radiant smile, wearing a cream sweater, an olive green trench coat, and a floral silk neck scarf. The setting is a blurred, sun-drenched European street ({argument name=\"location style\" default=\"Parisian style\"}) with classic architecture and café awnings in the background.\",\n  \"style\": \"Editorial fashion photography, commercial gloss finish, soft {argument name=\"lighting\" default=\"golden hour\"} lighting.\",\n  \"composition\": {\n    \"framing\": \"Vertical 9:16 aspect ratio, medium shot.\",\n    \"layout\": \"The subject is centered with text overlays flanking both sides. Text includes headlines like 'The Style Issue', 'Spring Fling', and 'Street Style: Paris to Milan' in clean, white sans-serif fonts.\",\n    \"color_palette\": \"Earth tones, olive green, cream, and warm sunlight gold.\"\n  },\n  \"technical_specs\": \"Shot on 85mm lens, f/1.8 for deep background bokeh, high-resolution skin textures, realistic hair strands, professional color grading.\"\n}",
+    "title": "Glow Fashion Magazine Cover Prompt",
+    "description": "A detailed prompt for creating an editorial fashion magazine cover with specific typography, a Parisian street setting, and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187083839_naii2k_HGwFjjnW4AACowW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15490,
+    "content": "A striking pop-art graffiti portrait of {argument name=\"subject\" default=\"an American white man with sharp jawline and defined facial features, approximately 20 years old\"}, standing confidently with both hands in pockets, wearing a fitted black three-piece suit with a dark tie. The subject is rendered in a semi-realistic painterly style against {argument name=\"background style\" default=\"an explosive background of hot pink, neon yellow, electric orange, and cyan graffiti brushstrokes layered like street art\"}. Large bold luxury monogram symbols and abstract floral patterns are scattered across the background in dark green and black, half-hidden behind paint splashes. The overall composition feels like a high-fashion street art canvas — raw energy meets elite luxury. Paint drips run down the lower half. The figure stands centered, slightly desaturated compared to the vivid chaotic background, creating strong visual contrast. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Pop-Art Graffiti Portrait",
+    "description": "A striking prompt for a semi-realistic pop-art graffiti portrait of a young man in a three-piece suit against a chaotic, luxury-themed street art background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099780827_jrhwm4_HGr-RzrXgAAWpEp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15497,
+    "content": "{\n  \"vibe_title_en\": \"The Symmetrical Storm\",\n  \"master_prompt\": \"A hyper-realistic, cinematic wide shot capturing {argument name=\"subject role\" default=\"The Protagonist\"} strictly centered within a monumental, flooded Travertine Stone Hall. The environment is oppressively symmetrical, with towering beige stone pillars reflecting perfectly in two inches of still water on the floor. The subject is frozen in a violent, expressive spin, channeling the energy of a coastal storm. They wear voluminous, {argument name=\"fabric material\" default=\"sheer indigo silk\"} that billows outward in a chaotic yet balanced radial explosion. In a subtle surreal twist, the edges of the fabric morph seamlessly into suspended liquid droplets that hang in the air, defying gravity. The lighting is soft, diffuse, and cool, mimicking the overcast mood of a winter beach. Captured on a Hasselblad H6D-100c with a 24mm wide-angle lens to emphasize the geometric grandeur. The texture is tactile and analog, focusing on the porosity of the wet stone and the weave of the silk, rendered with the grain structure of {argument name=\"film type\" default=\"Kodak Portra 400 film\"}. No neon, no digital gloss.\",\n  \"meta\": {\n    \"intent\": \"Editorial Fashion\",\n    \"priorities\": \"Symmetry, Kinetic Motion, Texture\",\n    \"device_profile\": \"High-End Desktop Display\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Grand Symmetrical Centering\",\n    \"layout\": \"Central Subject with Wide Geometry\",\n    \"camera_angle\": \"Eye Level\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Kinetic Muse\",\n    \"demographics\": \"Universal/Ambiguous\",\n    \"face\": \"Serene, focused, contrasting the chaos of the body\",\n    \"hair\": \"Swept back by motion, dynamic\",\n    \"body\": \"Mid-motion, arched or spinning, athletic tension\",\n    \"expression\": \"Calm intensity, eye contact with lens\",\n    \"pose\": \"Frozen mid-spin with limbs extended to occupy space\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Voluminous Gown\",\n        \"material\": \"Sheer Silk Chiffon\",\n        \"color\": \"Indigo Blue and Sea Foam White\",\n        \"fit\": \"Oversized and Flowing\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"None\",\n        \"color\": \"N/A\",\n        \"material\": \"N/A\",\n        \"brand_style\": \"Minimalist\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Monumental Travertine Stone Hall (Flooded)\",\n    \"surfaces\": \"Wet stone, still water, polished concrete\",\n    \"depth\": \"Deep symmetrical background with infinite pillars\",\n    \"atmosphere\": \"Cool, humid, overcast, silent\",\n    \"lens_interaction\": \"Sharp center, slight vignetting\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft Overhead Diffused Skylight\",\n    \"fill\": \"Ambient reflection from water\",\n    \"rim\": \"Subtle cool edge light\",\n    \"shadows\": \"Soft, elongated, symmetrical\",\n    \"color_temperature\": \"5600K (Daylight Balanced)\",\n    \"sensor_flare\": \"None\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Wide Angle Prime\",\n    \"focal_length\": \"24mm\",\n    \"aperture\": \"f/8\",\n    \"focus\": \"Deep\"}",
+    "title": "Cinematic Symmetrical Motion Portrait",
+    "description": "A high-concept prompt for a hyper-realistic cinematic shot featuring kinetic motion in a grand, symmetrical travertine hall with surreal liquid physics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099784745_fk3uh0_HGr5HjSXwAAYGLi.jpg",
+      "https://cms-assets.youmind.com/media/1777099785104_cfdfjh_HGr5HITWUAAI7PL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15498,
+    "content": "{\n  \"vibe_title_en\": \"Blue Twilight Metamorphosis\",\n  \"master_prompt\": \"A hyper-realistic, surreal cinematic shot of {argument name=\"subject\" default=\"The Protagonist\"} captured in a strict profile silhouette against the expansive, fogged glass wall of a dilapidated coastal observatory during the deep Blue Hour. The narrative energy captures 'The Aftermath Calm'; the subject is leaning heavily against the cold glass, shoulders dropped in exhaustion. In a display of photographic surrealism, the subject's trailing silhouette and hair do not cast a normal shadow but instead physically fracture into a dynamic, motion-blurred swarm of hyper-detailed azure birds. The birds are not cartoons but appear as high-budget practical effects with tangible feather textures catching the dim light. The scene is bathed in cool twilight tones, with a single warm rim light highlighting the subject's nose, lips, and the edges of the transforming feathers. Shot on a Hasselblad X2D with a 80mm f/1.9 lens to render the transition from human skin to avian texture with microscopic fidelity, overlaid with the grain structure of {argument name=\"film stock\" default=\"Cinestill 800T film\"}.\",\n  \"meta\": {\n    \"intent\": \"Editorial Surrealism\",\n    \"priorities\": \"Texture, Silhouette, Mood\",\n    \"device_profile\": \"Cinema-Grade Monitor\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Profile Silhouette against negative space\",\n    \"layout\": \"Rule of Thirds with surreal expansion\",\n    \"camera_angle\": \"Eye-level, strictly side-on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Adult, ethereal presence\",\n    \"face\": \"Neutral expression, eyes closed or gazing into distance\",\n    \"hair\": \"Flowing, morphing into avian shapes\",\n    \"body\": \"Relaxed, leaning heavily against surface\",\n    \"expression\": \"Exhausted relief, introspective\",\n    \"pose\": \"Leaning profile, weight distributed on the glass\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"{argument name=\"clothing item\" default=\"Structured Overcoat\"}\",\n        \"material\": \"Wool blend\",\n        \"color\": \"Deep Midnight Blue\",\n        \"fit\": \"Oversized, blending into shadows\"\n      }\n    ],\n    \"accessories\": []\n  },\n  \"environment\": {\n    \"setting\": \"Abandoned Coastal Observatory\",\n    \"surfaces\": \"Condensation-covered glass, rusted metal frames\",\n    \"depth\": \"Shallow depth of field inside, infinite horizon outside\",\n    \"atmosphere\": \"Misty, cold, silent, melancholic\",\n    \"lens_interaction\": \"Slight halation from the glass reflection\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft moonlight (cool)\",\n    \"fill\": \"Negative fill (creating silhouette)\",\n    \"rim\": \"Sharp, cold rim light defining the profile\",\n    \"shadows\": \"Deep, rich blacks morphing into blue textures\",\n    \"color_temperature\": \"7500K (Twilight/Blue Hour)\",\n    \"sensor_flare\": \"Subtle anamorphic streak\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Prime Portrait Lens\",\n    }",
+    "title": "Surreal Blue Hour Avian Metamorphosis",
+    "description": "A surreal cinematic prompt featuring a profile silhouette at a coastal observatory where hair and shadows transform into a swarm of hyper-detailed azure birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099785259_u7onoi_HGq0XjUW4AAwQHk.jpg",
+      "https://cms-assets.youmind.com/media/1777099785759_08exs9_HGq0YGRXcAEnLyC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15143,
+    "content": "A wide, cinematic photorealistic night image. In the scene, a {argument name=\"subject\" default=\"young Asian woman with shoulder-length straight hair\"} and a serene demeanor is walking barefoot in profile across mirror-like shallow water. She is wearing an {argument name=\"outfit\" default=\"elegant, flowing silver-grey sequined gown with spaghetti straps and a high slit\"}, which billows subtly as she walks. Her head is slightly lowered.\nIf a reference photo is provided, please closely match her facial features, hairstyle, skin tone, overall body proportions, and her unique aura; meanwhile, her clothing and accessories can be naturally adjusted to fit the scene.\nThe water surface features a perfect mirror reflection, but directly beneath her feet, her own reflection is completely replaced by a magnificent and highly detailed spirit-tiger. This spirit-tiger is composed of intricate white-silver lines and emits a soft blue glow. The spirit-tiger appears in a reverse reflection, clearly sniffing a luminous white-gold rose bud (whose light is as pure as moonlight) that exists exclusively within the reflection. A long trail of delicate, glowing rose buds and petals drifts down from the woman's hand, forming an elegant arc that floats up and around her as she walks, ultimately extending down to the glowing rose beneath the spirit-tiger's nose. Faint glowing sparkles shimmer around her bare feet.\nThe minimalist horizon features distant dark islands. The sky is a deep indigo, dotted with subtle stars, a clear Milky Way, and a massive, glowing full moon. The image features subtle, cool-toned cinematic lighting from the moon and night sky, alongside the internal glow radiating from the spirit-tiger and the rose. Elegant silver-white calligraphy text at the bottom center reads: '{argument name=\"text\" default=\"In me the tiger sniffs the rose.\"}' High dynamic range (HDR) night reflections, extreme detail, 8K resolution, surrealism style.",
+    "title": "Spirit-Tiger Water Walk",
+    "description": "A surreal and cinematic prompt for Nano Banana 2 featuring a woman walking on water with a spirit-tiger in her reflection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014240706_9ga70k_HGmf6D7bIAAJlx8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15128,
+    "content": "A 2x2 grid of {argument name=\"subject\" default=\"superheroes\"} in mid-flight created from arranged {argument name=\"material\" default=\"raw bread dough and flour\"}\nStructure: [Panel: HEROIC LANDING; kneaded muscle definition, flour dust cape, olive oil sheen, yeast rise puffiness, sesame seed utility belt, egg wash highlight]\nStyle: {argument name=\"art style\" default=\"Marvel comics meets The Great British Bake Off\"}, warm golden hour lighting, wooden table top, unbaked potential.",
+    "title": "Bread Dough Superheroes",
+    "description": "A creative prompt for generating unbaked raw bread dough shaped into superheroes, blending comic book style with culinary aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014235033_mrkhjd_HGYwXmhbMAAFCDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15135,
+    "content": "A cinematic, close-up action shot of a determined {argument name=\"rider gender\" default=\"female\"} motocross rider racing a dusty {argument name=\"bike color\" default=\"black\"} dirt bike through a {argument name=\"landscape\" default=\"rugged desert landscape\"}. She is leaning forward with intense focus, hair windswept, wearing a sleek black athletic shirt, tactical cargo pants, and professional orange-accented motocross boots. Environment & Atmosphere: Setting: A rocky, uneven desert trail at golden hour. Dynamic Effects: Massive clouds of dust and gravel are kicked up by the rear tire, creating a sense of high speed and motion. Background: Jagged mountain silhouettes under a vibrant sunset sky filled with warm orange and soft blue hues. Style & Technical Specs: Lighting: Dramatic backlighting from the setting sun, creating a rim-light effect on the rider and highlighting the texture of the floating dust. Composition: Low-angle shot to emphasize the power of the bike and the scale of the terrain; shallow depth of field with the background mountains softly blurred. Aesthetic: High-contrast, gritty realism, hyper-detailed textures on the dirt, metal, and clothing. Professional photography style.",
+    "title": "Desert Motocross Action Shot",
+    "description": "A cinematic action shot of a determined female motocross rider racing through a rugged desert landscape at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014237357_do9yem_HGlEBMbXgAAMr2a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14705,
+    "content": "Prompt for Pic 1:\n\"A canvas print of a surreal artwork featuring a {argument name=\"main figure\" default=\"figure with a cassette-player head and a light blue hoodie\"}, standing against a {argument name=\"background color\" default=\"gold-colored background\"} with red gerbera flowers and a butterfly. Below the artwork, the text '{argument name=\"footer text\" default=\"MECHANICAL BLISS - EDITION 01\"}' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"\n\nPrompt For Pic 2:\n\"A canvas print of a surreal artwork featuring a masked figure with a white plumeria flower crown and a katana, clad in a detailed teal-blue cloak against a rich, textured crimson background. The artwork has a vintage feel with visible canvas texture and subtle gold accents. Below the figure, the text 'SAMURAI BLOSSOM - EDITION 01' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"",
+    "title": "Surreal Canvas Art Edition Prompts",
+    "description": "Prompts for generating surreal canvas art with specific characters, text labels, and vintage textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636889_swt7ya_HGgjLnuakAIxC0i.jpg",
+      "https://cms-assets.youmind.com/media/1776927636832_q9dx2e_HGgjLvEaIAAsefl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14704,
+    "content": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "title": "Cinematic Desert Horse Rider",
+    "description": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636435_mjs2b8_HGgGOIMWkAIJFrs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14706,
+    "content": "{\n  \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\",\n  \"layout\": \"Diagonal 4-panel split-screen\",\n  \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"],\n  \"panels\": [\n    {\n      \"position\": \"top_left\",\n      \"subject\": \"Woman with sword\",\n      \"outfit\": \"Black leather jacket\",\n      \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\",\n      \"vibe\": \"Heroic action\"\n    },\n    {\n      \"position\": \"top_right\",\n      \"subject\": \"Man in navy coat\",\n      \"outfit\": \"Professional winter attire\",\n      \"color_palette\": \"Electric blue\",\n      \"vibe\": \"Sophisticated urban\"\n    },\n    {\n      \"position\": \"bottom_left\",\n      \"subject\": \"Fashionable woman\",\n      \"outfit\": \"Orange tailored jumpsuit\",\n      \"color_palette\": \"Golden amber\",\n      \"vibe\": \"Elegant glamour\"\n    },\n    {\n      \"position\": \"bottom_right\",\n      \"subject\": \"Man in biker jacket\",\n      \"outfit\": \"Black leather motorcycle jacket\",\n      \"color_palette\": \"Deep crimson red\",\n      \"vibe\": \"Intense brooding\"\n    }\n  ],\n  \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\"\n}",
+    "title": "Cinematic Action Collage Split-Screen",
+    "description": "A detailed JSON-structured prompt for creating a dynamic four-panel action collage with specific character outfits and cinematic lighting styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637250_xul55d_HGfgKuwWsAAG2Vo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14711,
+    "content": "vintage monochrome illustration, black and white only, high contrast shadows, retro print style, subtle paper texture, grain effect, old poster aesthetic",
+    "title": "Vintage Monochrome Illustration Prompt",
+    "description": "An artistic prompt for Nano Banana Pro to create retro-style, high-contrast monochrome posters with paper textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927639959_r9s8xh_HGelIZTagAA3g-c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14293,
+    "content": "Create a vertical poster collage design. The bg consists of four stacked horizontal rounded rectangles. Inside these panels are {argument name=\"colors\" default=\"skyblue and white\"} cinematic shots of a {argument name=\"subject\" default=\"woman\"} in various poses. Superimposed in the foreground on the left side is a full-color, high-quality cutout of the same woman wearing an unbuttoned skyblue sacket, striking a cool pose. The foreground figure has white sticker-style outline. At the top left, bold “ {argument name=\"text\" default=\"NEWER GIVE UP\"} “",
+    "title": "Vertical Poster Collage Design",
+    "description": "A prompt for creating a creative vertical poster collage featuring a woman in various cinematic poses with sticker-style outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960870_xwoxq9_HGc4gKqbYAAeOwX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14104,
     "content": "A high-fashion editorial photoshoot of a {argument name=\"subject\" default=\"stylish woman leaning casually against a modern geometric wall\"}. She is wearing a {argument name=\"outfit\" default=\"bold red blazer, matching red-orange trousers, a black-and-white patterned top, and white sneakers\"}. She has a confident relaxed pose with hands in pockets, looking slightly upward. The background is a vibrant abstract wall with large geometric blocks in {argument name=\"colors\" default=\"yellow, blue, red, and white\"}, creating a strong modern art aesthetic. Clean studio lighting, sharp focus, vibrant colors, fashion magazine style, ultra high resolution, cinematic composition, shallow depth of field, premium advertising look. Minimal clean floor texture, strong contrast, trendy urban fashion vibe, professional editorial photography.",
     "title": "High-Fashion Editorial Shoot",

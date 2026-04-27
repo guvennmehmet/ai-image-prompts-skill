@@ -1,5 +1,90 @@
 [
   {
+    "id": 16188,
+    "content": "Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name=\"character outfit\" default=\"plush penguin onesie\"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name=\"vehicle\" default=\"vintage teal and chrome cruiser motorcycle\"} parked on a {argument name=\"setting\" default=\"winding coastal highway\"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.",
+    "title": "Chibi Penguin on a Motorcycle",
+    "description": "A playful 3D-style prompt for a chibi character in a penguin onesie sitting on a vintage cruiser motorcycle at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274454077_isepyb_HG1HjTcbcAIOc0k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15828,
+    "content": "Transform the entire image into an authentic screenshot captured directly from a {argument name=\"console era\" default=\"late-1990s PlayStation 1 (PS1)\"} video game running on original hardware. Re-render every single element of the scene — every object, character, surface, background, lighting, and detail — as {argument name=\"geometry style\" default=\"low-polygon 3D models\"} with clearly visible triangular facets, flat angular geometry, and no smoothing or subdivision whatsoever. Use extremely low-resolution textures (256×256 pixels or smaller) that are blurry, pixelated, and heavily compressed, with obvious tiling seams, mipmapping artifacts, and poor UV mapping.\nApply classic PS1 affine texture mapping across all surfaces so textures visibly stretch, warp, wobble, and distort unnaturally with any change in perspective or camera angle (especially noticeable on floors, walls, and curved objects). Remove all anti-aliasing entirely — every edge must be sharply jagged and aliased with prominent stair-stepping. Use only basic flat shading or simple Gouraud vertex shading with no dynamic lights, no real-time shadows, no specular highlights, and no advanced effects. Simulate the PS1’s 16-bit color depth and 5-5-5 RGB limitations by introducing visible checkerboard or ordered dithering patterns in all color gradients, skies, shadows, and semi-transparent areas to prevent banding.\nInclude typical PS1 graphical quirks: subtle vertex snapping/jitter/wobbling on moving or angled geometry, minor polygon pop-in or Z-fighting where appropriate, and a limited draw distance that may softly fade into a low-detail fog. The overall resolution should feel like a raw {argument name=\"resolution\" default=\"320×240\"} or 640×480 PS1 framebuffer output, giving the whole image a slightly soft yet crunchy retro pixel look when viewed at modern sizes. Preserve the original scene composition and camera angle exactly, but convert everything into this pure PS1 3D style as if the photo itself were modeled and rendered inside an actual PS1 game. No text overlays, no HUD elements, no subtitles, no menu graphics, no scanlines, no CRT curvature, and no modern post-processing of any kind — just a clean, direct screenshot from the console’s video output.",
+    "title": "PS1 Retro Gaming Style Prompt",
+    "description": "A comprehensive prompt designed to transform an image into a low-poly PlayStation 1 era video game screenshot, featuring authentic technical artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg",
+      "https://cms-assets.youmind.com/media/1777187082900_3tsbn1_HGxfyZ0WIAAavwQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15856,
+    "content": "{argument name=\"theme\" default=\"Magical Fantasy World (Land of Witches)\"}",
+    "title": "Magical fantasy world illustration",
+    "description": "A prompt for generating a magical fantasy world scene specifically set in a land of witches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187095890_22dito_HGt2yYibIAANFy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15486,
+    "content": "Convert this portrait into a hyper-realistic crochet doll. Recreate {argument name=\"subject\" default=\"the subject\"} entirely using yarn and knitted textures while keeping the exact same pose, composition, framing, and expression.\n\nSkin should be made of tightly stitched yarn loops with clearly visible knit patterns and natural stitching direction. Add depth and slight imperfections like real handmade crochet. Freckles must be recreated using darker thread stitches.\n\nHair should be made from thick yarn strands, slightly wavy, with a handcrafted look and visible fiber texture. Eyebrows and eyelashes should be finely stitched with thread. Eyes should remain semi-realistic with a glass-like appearance but embedded naturally into the yarn face.\n\nLips should be stitched with red thread, slightly raised and textured.\n\nConvert clothing into knitted wool fabric with clear yarn detail. Convert {argument name=\"decorative elements\" default=\"flowers\"} into fully crocheted elements with layered yarn petals and stitched leaves.\n\nUse soft studio lighting, shallow depth of field, and macro-level detail. Emphasize handcrafted realism with visible yarn fibers and texture. Avoid smooth or plastic skin.\n\nextreme detail, macro lens, 8k, handcrafted crochet realism, visible yarn fibers, no smooth surfaces",
+    "title": "Hyper-Realistic Crochet Doll Transformation",
+    "description": "A detailed transformation prompt designed to turn a portrait into a handcrafted crochet doll, emphasizing yarn textures and knitting patterns while maintaining original pose and expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099778896_c21dd2_HGr6f5iaoAA3W9h.jpg",
+      "https://cms-assets.youmind.com/media/1777099779128_oh57p8_HGr6f7bbAAAQ-X0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15493,
+    "content": "highly detailed {argument name=\"art style\" default=\"claymation-style\"} portrait of the person in the reference image. The subject should appear as a handcrafted clay figure with visible fingerprints, soft edges, and slight imperfections typical of stop-motion animation. Use a stylized, expressive face while preserving key facial features and likeness. Apply {argument name=\"lighting\" default=\"warm, studio-style lighting\"} with soft shadows. Background should be minimal and slightly textured, resembling a clay set. Render in high resolution with a {argument name=\"aesthetic\" default=\"cinematic, whimsical\"} aesthetic inspired by classic stop-motion films",
+    "title": "Claymation Style Portrait",
+    "description": "A prompt for generating highly detailed claymation-style portraits that resemble stop-motion animation figures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099781734_a7qzht_HGrPeaXaoAAAC4-.jpg",
+      "https://cms-assets.youmind.com/media/1777099783255_ehrd3o_HGrPeowb0AEbQy_.jpg",
+      "https://cms-assets.youmind.com/media/1777099783067_p7ppb4_HGrPe1daIAEalLy.jpg",
+      "https://cms-assets.youmind.com/media/1777099783734_ol0wdy_HGrPfEYaYAAkT6r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15494,
+    "content": "Ultra-realistic portrait of a {argument name=\"subject\" default=\"rugged man\"} with sharp facial features, messy hair, and a thick beard, intense eyes with a cold expression, slightly bruised face with subtle dirt and scratches, wearing a {argument name=\"clothing\" default=\"dark worn-out jacket and textured clothing\"}, cinematic lighting with deep shadows, moody atmosphere, dramatic contrast, 35mm lens, shallow depth of field, background {argument name=\"environment\" default=\"blurred urban alley\"}, high detail skin texture, masculine energy, raw and gritty aesthetic, 4K, ultra detailed",
+    "title": "Rugged Urban Portrait",
+    "description": "A prompt for a gritty, ultra-realistic portrait of a man in an urban alley with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099783917_e03g6w_HGqLu8vasAAYD9d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14298,
+    "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+    "title": "Futuristic store visualization",
+    "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14292,
+    "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+    "title": "Old Japanese Haunted House",
+    "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14096,
     "content": "(Female Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized pixel‑hero, blending crisp retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, playful, high‑energy arcade attitude. Skin should appear pixel‑rendered with chunky shading blocks, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle: pixel‑punk spikes, retro 16‑bit waves, chunky pixel curls, neon‑lit arcade bob, stylized pixel‑hero sweep, or glossy pixel‑rendered long hair. Outfit: 16‑bit fighter jacket, pixel‑armor suit, neon arcade hoodie, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade gear. Accessories: pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and vibrant pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people. (Male Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded male user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized male pixel‑hero, blending chunky retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, confident, high‑energy arcade‑hero attitude. Skin should appear pixel‑rendered with blocky shading, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle (male variations): pixel‑punk spikes, retro 16‑bit action‑hero sweep, short textured pixel crop, stylized arcade quiff, chunky pixel curls, or neon‑lit warrior hair. Outfit (male variations): 16‑bit fighter jacket, pixel‑armor chestplate, neon arcade varsity jacket, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade hoodie. Accessories (male variations): pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and bold male pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people.",
     "title": "16-Bit Arcade Character Generator",
@@ -23,21 +108,21 @@
   },
   {
     "id": 14118,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
-    "title": "Detailed Character Sheet Design",
-    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
+    "title": "Photorealistic Character Design Sheet",
+    "description": "A prompt for generating a three-view character sheet with specific wardrobe details including metal shin guards and a long coat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+      "https://cms-assets.youmind.com/media/1776841964557_295vha_HGXHi12awAAPRk-.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 14117,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
-    "title": "Basic Three-View Character Sheet",
-    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "content": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Character Sheet Template",
+    "description": "A simple character sheet prompt for photorealistic character visualization against a white background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+      "https://cms-assets.youmind.com/media/1776841965078_nx2j8l_HGXHs8vaQAAgN7a.jpg"
     ],
     "needReferenceImages": false
   },

@@ -1,5 +1,237 @@
 [
   {
+    "id": 16164,
+    "content": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art, allowing for customization of the subject, art style, and artist signature.",
+    "title": "Progressive Golf Swing Artistic Sketch",
+    "description": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445787_l1t0ih_HG2V44pbAAAp-tR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15832,
+    "content": "A silhouetted figure in {argument name=\"pose\" default=\"dynamic pose\"} against {argument name=\"background\" default=\"cliffs and starry space\"} in {argument name=\"style\" default=\"retro futurism anime style\"}.",
+    "title": "Retro Anime Silhouette Prompt",
+    "description": "A concise prompt for a retro futurism anime style image of a silhouetted figure against space and cliffs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187084275_v7vll0_HGwoadqagAApoEc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15834,
+    "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
+    "title": "Neo-noir psychological thriller movie poster",
+    "description": "A structured prompt for a cinematic neo-noir thriller poster featuring a fearful subject in a wet city alley.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187085215_zwz37j_HGwnmkSbkAArV32.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15836,
+    "content": "A close-up, eye-level shot features a {argument name=\"animal\" default=\"greylag goose\"} wearing a {argument name=\"accessory\" default=\"charming floral sun bonnet\"} and a simple country dress, standing in lush, dew-kissed green grass. The goose is positioned in the center-left of the frame, facing left with its head turned slightly towards the viewer, its intelligent eyes catching soft, natural daylight. Its grey and white plumage is finely detailed, with a distinctive striped pattern on its neck and wings, individual feathers subtly ruffled by a gentle breeze. The goose has a vivid orange beak and sturdy orange legs, with a small patch of orange-tinted feathers visible on its underside, all rendered in a {argument name=\"style\" default=\"crisp, painterly, storybook illustration style\"} with a shallow depth of field and a softly blurred background.",
+    "title": "Whimsygoth Goose Illustration",
+    "description": "A storybook illustration prompt for a greylag goose wearing a floral bonnet and country dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187086086_5v5zvb_HGsxsv4aQAARo_V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15854,
+    "content": "Please create an image based on {argument name=\"content\" default=\"how I have treated you so far\"}",
+    "title": "Relationship history visualization",
+    "description": "A conceptual prompt for Nano Banana that asks the model to visualize the history of the user's interactions and treatment of the AI, testing the model's ability to interpret abstract history and text rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187094474_4xv0a9_HGuiSv6asAA8wo_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15856,
+    "content": "{argument name=\"theme\" default=\"Magical Fantasy World (Land of Witches)\"}",
+    "title": "Magical fantasy world illustration",
+    "description": "A prompt for generating a magical fantasy world scene specifically set in a land of witches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187095890_22dito_HGt2yYibIAANFy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15479,
+    "content": "A cinematic film roll sequence capturing fragments of the character’s exact likeness life as {argument name=\"scene context\" default=\"extreme scene's fearless stunt actor\"}. Each frame reveals a different moment, or phase, evolving naturally without rigid narrative structure.  Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity from the reference. Do not humanize. Do not alter anatomy. Identity must remain perfectly consistent across all frames. Do not modify facial structure. Do not add a mouth or nose if the uploaded character does not have them.  The film strip flows through the composition with subtle perspective depth, frames partially cropped, slightly misaligned, or overlapping to avoid perfect symmetry. Some frames feel sharp and present, others fade into blur or grain, creating temporal depth.  Lighting varies per frame but remains cinematic and directional, forming a cohesive emotional rhythm rather than uniform exposure. Introduce natural film imperfections: grain, light leaks, slight motion blur, exposure shifts, and analog texture.  Color grade is controlled and intentional, supporting the emotional tone of the chosen life theme without oversaturation.  The scene must feel like a discovered memory archive rather than a clean layout. No flat composition, no centered symmetry, no full-frame sharpness.  ar 16:9",
+    "title": "Cinematic Film Roll Archive",
+    "description": "A prompt for generating a cinematic film strip sequence of a character's life with consistent identity and analog film texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099775804_tc9sbr_HGr20XcWQAARZbF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15498,
+    "content": "{\n  \"vibe_title_en\": \"Blue Twilight Metamorphosis\",\n  \"master_prompt\": \"A hyper-realistic, surreal cinematic shot of {argument name=\"subject\" default=\"The Protagonist\"} captured in a strict profile silhouette against the expansive, fogged glass wall of a dilapidated coastal observatory during the deep Blue Hour. The narrative energy captures 'The Aftermath Calm'; the subject is leaning heavily against the cold glass, shoulders dropped in exhaustion. In a display of photographic surrealism, the subject's trailing silhouette and hair do not cast a normal shadow but instead physically fracture into a dynamic, motion-blurred swarm of hyper-detailed azure birds. The birds are not cartoons but appear as high-budget practical effects with tangible feather textures catching the dim light. The scene is bathed in cool twilight tones, with a single warm rim light highlighting the subject's nose, lips, and the edges of the transforming feathers. Shot on a Hasselblad X2D with a 80mm f/1.9 lens to render the transition from human skin to avian texture with microscopic fidelity, overlaid with the grain structure of {argument name=\"film stock\" default=\"Cinestill 800T film\"}.\",\n  \"meta\": {\n    \"intent\": \"Editorial Surrealism\",\n    \"priorities\": \"Texture, Silhouette, Mood\",\n    \"device_profile\": \"Cinema-Grade Monitor\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Profile Silhouette against negative space\",\n    \"layout\": \"Rule of Thirds with surreal expansion\",\n    \"camera_angle\": \"Eye-level, strictly side-on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Adult, ethereal presence\",\n    \"face\": \"Neutral expression, eyes closed or gazing into distance\",\n    \"hair\": \"Flowing, morphing into avian shapes\",\n    \"body\": \"Relaxed, leaning heavily against surface\",\n    \"expression\": \"Exhausted relief, introspective\",\n    \"pose\": \"Leaning profile, weight distributed on the glass\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"{argument name=\"clothing item\" default=\"Structured Overcoat\"}\",\n        \"material\": \"Wool blend\",\n        \"color\": \"Deep Midnight Blue\",\n        \"fit\": \"Oversized, blending into shadows\"\n      }\n    ],\n    \"accessories\": []\n  },\n  \"environment\": {\n    \"setting\": \"Abandoned Coastal Observatory\",\n    \"surfaces\": \"Condensation-covered glass, rusted metal frames\",\n    \"depth\": \"Shallow depth of field inside, infinite horizon outside\",\n    \"atmosphere\": \"Misty, cold, silent, melancholic\",\n    \"lens_interaction\": \"Slight halation from the glass reflection\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft moonlight (cool)\",\n    \"fill\": \"Negative fill (creating silhouette)\",\n    \"rim\": \"Sharp, cold rim light defining the profile\",\n    \"shadows\": \"Deep, rich blacks morphing into blue textures\",\n    \"color_temperature\": \"7500K (Twilight/Blue Hour)\",\n    \"sensor_flare\": \"Subtle anamorphic streak\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Prime Portrait Lens\",\n    }",
+    "title": "Surreal Blue Hour Avian Metamorphosis",
+    "description": "A surreal cinematic prompt featuring a profile silhouette at a coastal observatory where hair and shadows transform into a swarm of hyper-detailed azure birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099785259_u7onoi_HGq0XjUW4AAwQHk.jpg",
+      "https://cms-assets.youmind.com/media/1777099785759_08exs9_HGq0YGRXcAEnLyC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15494,
+    "content": "Ultra-realistic portrait of a {argument name=\"subject\" default=\"rugged man\"} with sharp facial features, messy hair, and a thick beard, intense eyes with a cold expression, slightly bruised face with subtle dirt and scratches, wearing a {argument name=\"clothing\" default=\"dark worn-out jacket and textured clothing\"}, cinematic lighting with deep shadows, moody atmosphere, dramatic contrast, 35mm lens, shallow depth of field, background {argument name=\"environment\" default=\"blurred urban alley\"}, high detail skin texture, masculine energy, raw and gritty aesthetic, 4K, ultra detailed",
+    "title": "Rugged Urban Portrait",
+    "description": "A prompt for a gritty, ultra-realistic portrait of a man in an urban alley with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099783917_e03g6w_HGqLu8vasAAYD9d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15481,
+    "content": "On a {argument name=\"location\" default=\"French seaside\"}, {argument name=\"protesters\" default=\"helmet-wearing fish\"} form a union and start protesting 🐟\nA big F.H. fish leads while confused fishermen—and even a cop—watch in shock \nWith turtles joining in, onlookers laugh: This is better than a soap opera!",
+    "title": "Protesting Fish on a French Seaside",
+    "description": "A whimsical and creative prompt featuring helmet-wearing fish organizing a protest on a beach, creating a humorous scene for onlookers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099776777_zucc9x_HGpuxDgbYAAv8_o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15496,
+    "content": "{\n  \"character_details\": {\n    \"name\": \"{argument name=\"character name\" default=\"Wareen\"}\",\n    \"gender\": \"Female\",\n    \"age_range\": \"Early 20s\",\n    \"hair\": {\n      \"style\": \"Short bob cut with straight bangs\",\n      \"color\": \"{argument name=\"hair color\" default=\"Vibrant purple\"}\",\n      \"texture\": \"Smooth and straight\"\n    },\n    \"facial_features\": {\n      \"eyes\": \"Hazel, almond-shaped\",\n      \"skin\": \"Fair with subtle freckles on the nose and cheeks\",\n      \"expression\": \"Calm and contemplative\"\n    },\n    \"attire\": {\n      \"top\": \"Oversized brown corduroy button-down shirt\",\n      \"bottom\": \"High-waisted dark brown pleated trousers\",\n      \"accessories\": [\"Simple silver rings on fingers\"]\n    }\n  },\n  \"scene_details\": {\n    \"location\": \"{argument name=\"location\" default=\"Cozy indoor cafe or library near a large window\"}\",\n    \"action\": \"Sitting on a wooden window seat, holding a beige ceramic cup to her lips, taking a sip\",\n    \"background\": {\n      \"indoor\": \"Dark wood bookshelves filled with books, round wooden table with 'The Secret History' book on it\",\n      \"outdoor\": \"Softly blurred European-style brick buildings and street view through the window\"\n    },\n    \"lighting\": \"Natural soft daylight from the window, warm indoor ambiance\",\n    \"camera_angle\": \"Medium shot, eye-level, cinematic composition\"\n  },\n  \"technical_style\": {\n    \"image_quality\": \"High-resolution, photorealistic, 8k\",\n    \"aesthetic\": \"Dark academia, warm earth tones, soft shadows\"\n  }\n}",
+    "title": "Dark Academia Library Portrait",
+    "description": "A detailed character-focused prompt for a 'dark academia' aesthetic, featuring a specific subject in a cozy indoor library setting with soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777099785063_7hf3uj_HGooW03aAAAvfti.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15143,
+    "content": "A wide, cinematic photorealistic night image. In the scene, a {argument name=\"subject\" default=\"young Asian woman with shoulder-length straight hair\"} and a serene demeanor is walking barefoot in profile across mirror-like shallow water. She is wearing an {argument name=\"outfit\" default=\"elegant, flowing silver-grey sequined gown with spaghetti straps and a high slit\"}, which billows subtly as she walks. Her head is slightly lowered.\nIf a reference photo is provided, please closely match her facial features, hairstyle, skin tone, overall body proportions, and her unique aura; meanwhile, her clothing and accessories can be naturally adjusted to fit the scene.\nThe water surface features a perfect mirror reflection, but directly beneath her feet, her own reflection is completely replaced by a magnificent and highly detailed spirit-tiger. This spirit-tiger is composed of intricate white-silver lines and emits a soft blue glow. The spirit-tiger appears in a reverse reflection, clearly sniffing a luminous white-gold rose bud (whose light is as pure as moonlight) that exists exclusively within the reflection. A long trail of delicate, glowing rose buds and petals drifts down from the woman's hand, forming an elegant arc that floats up and around her as she walks, ultimately extending down to the glowing rose beneath the spirit-tiger's nose. Faint glowing sparkles shimmer around her bare feet.\nThe minimalist horizon features distant dark islands. The sky is a deep indigo, dotted with subtle stars, a clear Milky Way, and a massive, glowing full moon. The image features subtle, cool-toned cinematic lighting from the moon and night sky, alongside the internal glow radiating from the spirit-tiger and the rose. Elegant silver-white calligraphy text at the bottom center reads: '{argument name=\"text\" default=\"In me the tiger sniffs the rose.\"}' High dynamic range (HDR) night reflections, extreme detail, 8K resolution, surrealism style.",
+    "title": "Spirit-Tiger Water Walk",
+    "description": "A surreal and cinematic prompt for Nano Banana 2 featuring a woman walking on water with a spirit-tiger in her reflection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014240706_9ga70k_HGmf6D7bIAAJlx8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15128,
+    "content": "A 2x2 grid of {argument name=\"subject\" default=\"superheroes\"} in mid-flight created from arranged {argument name=\"material\" default=\"raw bread dough and flour\"}\nStructure: [Panel: HEROIC LANDING; kneaded muscle definition, flour dust cape, olive oil sheen, yeast rise puffiness, sesame seed utility belt, egg wash highlight]\nStyle: {argument name=\"art style\" default=\"Marvel comics meets The Great British Bake Off\"}, warm golden hour lighting, wooden table top, unbaked potential.",
+    "title": "Bread Dough Superheroes",
+    "description": "A creative prompt for generating unbaked raw bread dough shaped into superheroes, blending comic book style with culinary aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014235033_mrkhjd_HGYwXmhbMAAFCDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14706,
+    "content": "{\n  \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\",\n  \"layout\": \"Diagonal 4-panel split-screen\",\n  \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"],\n  \"panels\": [\n    {\n      \"position\": \"top_left\",\n      \"subject\": \"Woman with sword\",\n      \"outfit\": \"Black leather jacket\",\n      \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\",\n      \"vibe\": \"Heroic action\"\n    },\n    {\n      \"position\": \"top_right\",\n      \"subject\": \"Man in navy coat\",\n      \"outfit\": \"Professional winter attire\",\n      \"color_palette\": \"Electric blue\",\n      \"vibe\": \"Sophisticated urban\"\n    },\n    {\n      \"position\": \"bottom_left\",\n      \"subject\": \"Fashionable woman\",\n      \"outfit\": \"Orange tailored jumpsuit\",\n      \"color_palette\": \"Golden amber\",\n      \"vibe\": \"Elegant glamour\"\n    },\n    {\n      \"position\": \"bottom_right\",\n      \"subject\": \"Man in biker jacket\",\n      \"outfit\": \"Black leather motorcycle jacket\",\n      \"color_palette\": \"Deep crimson red\",\n      \"vibe\": \"Intense brooding\"\n    }\n  ],\n  \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\"\n}",
+    "title": "Cinematic Action Collage Split-Screen",
+    "description": "A detailed JSON-structured prompt for creating a dynamic four-panel action collage with specific character outfits and cinematic lighting styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637250_xul55d_HGfgKuwWsAAG2Vo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14703,
+    "content": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "title": "Anime Couple Vector Illustration",
+    "description": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636141_sxiy23_HGfarjca8AAGYmx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14294,
+    "content": "By being {argument name=\"emotional state\" default=\"drowned in my own tears\"}.",
+    "title": "Melancholic artistic concept",
+    "description": "An emotional and artistic prompt for Nano Banana depicting a figure overwhelmed by their own tears.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841961911_gt7lu6_HGfZXHCa8AAavaP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14707,
+    "content": "{argument name=\"subject\" default=\"Man with wings\"}, {argument name=\"action\" default=\"chasing light within\"}",
+    "title": "Chasing Inner Light",
+    "description": "A poetic prompt for generating a silhouette of a man with wings in a dramatic, light-filled scene, highlighting the model's ability to handle symbolic and cinematic concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637836_oau2a9_HGeubT6bUAA3TyF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14297,
+    "content": "{argument name=\"type of date\" default=\"General store shopping\"} date. {argument name=\"situation\" default=\"A man talking passionately about his interests is funny\"}.",
+    "title": "Shopping date scenario prompt",
+    "description": "A narrative prompt for generating a scene of a couple on a date visiting a general store.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963033_3s4xmf_HGdqzIwboAAxc40.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14288,
+    "content": "A cinematic wildlife scene of a {argument name=\"subject\" default=\"professional photographer\"} kneeling in an open savanna during golden hour, capturing a shot with a large telephoto camera lens. Beside him sits a {argument name=\"animal\" default=\"young cheetah cub\"}, calmly observing the surroundings. The environment features dry grasslands stretching into the distance with soft trees blurred in the background. Warm sunlight creates a golden glow, casting long soft shadows and highlighting textures in the grass, fur, and clothing. The composition feels natural and documentary-style, with {argument name=\"focus effect\" default=\"shallow depth of field and soft bokeh\"}. Ultra-realistic detail, 85mm–200mm lens look, f/2.8, National Geographic style, cinematic color grading, 8K resolution.",
+    "title": "Wildlife Photographer with Cheetah Cub",
+    "description": "A National Geographic style prompt for a cinematic wildlife scene featuring a photographer and a cheetah cub.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841959567_4zor1z_HGcKfbUaQAAfxeB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14296,
+    "content": "{argument name=\"character\" default=\"Hitman\"} comes to {argument name=\"location\" default=\"Akihabara\"}",
+    "title": "Character in location prompt",
+    "description": "A prompt for placing a specific character into a modern urban setting, specifically Akihabara.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841962537_0c5f0s_HGZ5OEfasAAxUcZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14280,
+    "content": "A blonde woman dressed as a golden fairy standing in front of an elegant, illuminated classical building at night. She wears a shimmering gold dress made of feather-like textures and delicate translucent wings that sparkle under the lights. A golden leaf headpiece rests across her forehead. She poses with one arm raised to her hair, looking over her shoulder toward the camera with a confident, enchanting expression. The background features grand architecture with arches and warm glowing lights, slightly blurred for depth of field. Cinematic lighting, highly detailed, magical and ethereal atmosphere. style: photorealistic, cinematic, fantasy, lighting: warm night lighting with soft glow and highlights, camera angle: three-quarter rear angle, camera focus: sharp on subject, blurred background, camera lens: 85mm portrait lens, resolution: high, details: sparkling wings, textured feather dress, glowing skin highlights, detailed architecture, mood: magical, elegant, enchanting",
+    "title": "Golden Fairy Night Portrait",
+    "description": "A magical fantasy prompt for Nano Banana Pro featuring a golden fairy in front of an illuminated classical building at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841955239_w2cxhs_HGa3LQjaIAA_iFh.jpg",
+      "https://cms-assets.youmind.com/media/1776841955933_dpgwdr_HGa3LQjbQAA4nna.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14298,
+    "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+    "title": "Futuristic store visualization",
+    "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14292,
+    "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+    "title": "Old Japanese Haunted House",
+    "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14115,
     "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
     "title": "Japanese Anime Character Sheet Prompt",
@@ -12,21 +244,21 @@
   },
   {
     "id": 14118,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, {argument name=\"background\" default=\"white background\"}",
-    "title": "Detailed Character Sheet Design",
-    "description": "A character sheet prompt designed for photorealistic three-view renders, featuring specific outfit components like metal shin guards and a long open coat.",
+    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
+    "title": "Photorealistic Character Design Sheet",
+    "description": "A prompt for generating a three-view character sheet with specific wardrobe details including metal shin guards and a long coat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034326_vbpc9o_HGXHi12awAAPRk-.jpg"
+      "https://cms-assets.youmind.com/media/1776841964557_295vha_HGXHi12awAAPRk-.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 14117,
-    "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"background\" default=\"white background\"}",
-    "title": "Basic Three-View Character Sheet",
-    "description": "Generates a photorealistic character sheet with three-view framing on a clean background.",
+    "content": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+    "title": "Basic Character Sheet Template",
+    "description": "A simple character sheet prompt for photorealistic character visualization against a white background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776755034302_qsnaco_HGXHs8vaQAAgN7a.jpg"
+      "https://cms-assets.youmind.com/media/1776841965078_nx2j8l_HGXHs8vaQAAgN7a.jpg"
     ],
     "needReferenceImages": false
   },
