@@ -56,6 +56,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 16164,
+    "content": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art, allowing for customization of the subject, art style, and artist signature.",
+    "title": "Progressive Golf Swing Artistic Sketch",
+    "description": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445787_l1t0ih_HG2V44pbAAAp-tR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16195,
+    "content": "create a product design, {argument name=\"object\" default=\"mazda rx7 fc3s\"}, exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality",
+    "title": "Exploded View Product Diagram Prompt",
+    "description": "A technical prompt designed to create detailed exploded view diagrams for industrial design or consumer electronics, showcasing internal structures on a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274456944_qeb5n3_HG1pAxxaAAAUTq8.jpg",
+      "https://cms-assets.youmind.com/media/1777274456929_jv98s7_HG1pJ93aQAARDza.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16170,
+    "content": "A prompt for a wide horizontal frame composed of five distinct vertical panels, each featuring a different character with specific styling, including customizable background colors and foreground elements.",
+    "title": "Multi-Panel Cinematic Studio Shot",
+    "description": "A prompt for a wide horizontal frame composed of five distinct vertical panels, each featuring a different character with specific styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274447847_6n82rj_HG1GnvVa8AAUsXg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16185,
+    "content": "{\n  \"scene\": \"a young woman taking a selfie while walking on a quiet urban street\",\n  \"composition\": {\n    \"camera_angle\": \"handheld selfie, slightly above eye level\",\n    \"lens\": \"wide-angle smartphone lens\",\n    \"framing\": \"upper body centered, extended arm visible\"\n  },\n  \"subject\": {\n    \"appearance\": \"woman with {argument name=\"hair style\" default=\"long wavy deep black hair\"}, fair skin, wearing sunglasses\",\n    \"expression\": \"smiling\",\n    \"outfit\": {\n      \"top\": \"{argument name=\"outfit\" default=\"black sleeveless top\"}\",\n      \"bottom\": \"black jeans\",\n      \"shoes\": \"white sneakers\",\n      \"accessories\": [\n        \"brown textured crossbody bag\",\n        \"coffee cup\"\n      ]\n    }\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\"location\" default=\"narrow street with brick and modern buildings\"}\",\n    \"details\": [\n      \"parked cars\",\n      \"overhead wires\",\n      \"clean asphalt road\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"natural daylight\",\n    \"condition\": \"bright sunny day\"\n  },\n  \"style\": {\n    \"aesthetic\": \"casual lifestyle selfie\",\n    \"color\": \"natural tones\"\n  },\n  \"overlays\": {\n    \"style\": \"hand-drawn white doodles and annotations\",\n    \"elements\": [\n      \"arrows pointing to hair, coffee cup, shoes, bag\",\n      \"text labels like 'deep black hair', 'coffee cup', 'textured crossbody', 'shoes well complexion'\"\n    ]\n  }\n}",
+    "title": "Street Style Selfie with Doodles",
+    "description": "A detailed structured prompt for a casual urban selfie featuring a woman with deep black hair, complete with hand-drawn white doodle annotations and labels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274453096_4myp1a_HG0jRJHbkAAgLpB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15826,
     "content": "Professional high-end medical aesthetic before/after comparison blueprint, left panel \"{argument name=\"left label\" default=\"Pre-Procedure Analysis\"}\" with natural unedited face showing realistic imperfections (subtle asymmetry, softer jawline, mild under-eye shadows, natural skin texture). Red precise arrows and {argument name=\"language label\" default=\"Chinese labels\"} pointing to improvements. Right panel \"{argument name=\"right label\" default=\"Post-Procedure Result\"}\" showing same person with noticeably refined nose bridge, sharper jawline, brighter under-eyes, smoother yet natural skin, more defined contours. Clean clinical white/gray background, identical angle/lighting/expression, realistic photography style, professional clinic aesthetic, strong but believable transformation.",
     "title": "Medical Aesthetic Analysis Comparison Prompt",

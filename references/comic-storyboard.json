@@ -1,5 +1,15 @@
 [
   {
+    "id": 16164,
+    "content": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art, allowing for customization of the subject, art style, and artist signature.",
+    "title": "Progressive Golf Swing Artistic Sketch",
+    "description": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445787_l1t0ih_HG2V44pbAAAp-tR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15832,
     "content": "A silhouetted figure in {argument name=\"pose\" default=\"dynamic pose\"} against {argument name=\"background\" default=\"cliffs and starry space\"} in {argument name=\"style\" default=\"retro futurism anime style\"}.",
     "title": "Retro Anime Silhouette Prompt",

@@ -10,6 +10,118 @@
     "needReferenceImages": false
   },
   {
+    "id": 16181,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young woman with short messy bob hair, soft freckles\"}, smiling shyly with her hand partially covering her mouth, wearing an {argument name=\"clothing\" default=\"oversized warm-toned orange jacket\"} over a casual t-shirt, {argument name=\"lighting\" default=\"golden hour sunlight backlighting her hair\"}, glowing rim light, shallow depth of field, dreamy bokeh city lights in background, urban street setting, soft warm color grading, natural skin texture, candid emotion, 85mm lens, f/1.8, ultra-realistic, film photography style",
+    "title": "Cinematic Urban Sunset Portrait",
+    "description": "A cinematic portrait prompt of a young woman with a messy bob in an urban setting during golden hour, emphasizing natural skin texture and candid emotion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274451726_55edh9_HG5EHGyaoAArbrS.jpg",
+      "https://cms-assets.youmind.com/media/1777274451389_izr914_HG5EHGzaYAAmLsI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16183,
+    "content": "Create image: A hyper-photorealistic shot of an adult woman, use the same subject in the attached image for facial features, ultra-realistic face, visible pores, rosy dewy skin, {argument name=\"makeup style\" default=\"Douyin/Korean glass-skin makeup\"}, pink lip gloss, aegyosal, baby pink blush, grey contact lenses.\n\nExpression / Pose: relaxed lounging pose, one arm raised, holding drink casually, gaze soft and distant, natural candid energy.\n\nCamera: {argument name=\"camera type\" default=\"old CCD digital camera, direct flash mixed with sunlight\"}, grainy, slightly washed colors.\n\nMakeup: glass skin glow, glossy lips, subtle blush.\n\nHair: long black hair with inward-upward curls, soft shine.\n\nOutfit: {argument name=\"outfit\" default=\"white fitted tank top, black shorts, casual summer look\"}.\n\nBackground: inside car, sunlight casting strong highlights, street visible outside.\n\nComposition: diagonal seat framing, subject off-center, natural light streaks.\n\nNegative prompt: stiff pose, unrealistic body, plastic skin, blur.",
+    "title": "Hyper-Photorealistic Douyin Makeup Portrait",
+    "description": "A hyper-photorealistic prompt for an adult woman with glass-skin makeup and long black hair, using a CCD camera style and direct flash.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274452469_zaw9c2_HG3mHv4acAANdWg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16168,
+    "content": "A prompt for generating an elegant, classical Renaissance-style silverpoint drawing of a young woman with fine linework, with options to change the subject and artist inspiration.",
+    "title": "Renaissance Silverpoint Drawing",
+    "description": "A prompt for generating an elegant, classical Renaissance-style silverpoint drawing of a young woman with fine linework.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274446951_3y6uhb_HG3H9sobsAA-LUG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16165,
+    "content": "A stylish young woman walking down a charming European street, holding a coffee cup in one hand and taking a selfie with a smartphone in the other, wearing a light green sleeveless crop top and high-waisted white pants, small white handbag on her shoulder, soft natural sunlight, warm tones, shallow depth of field, aesthetic travel vibe, smiling expression, sunglasses on head, urban lifestyle photography, candid moment, with playful white hand-drawn doodles and text like “sunny day!”, “latte time”, arrows, stars, and swirls around her, cinematic, high detail, Instagram aesthetic. A fashionable woman taking a selfie while walking on a quiet modern street, wearing round sunglasses, green crop top, and loose white trousers, holding a takeaway coffee cup, confident smile, soft glowing skin, bright daylight, minimal urban background with buildings and power lines, slightly wide-angle perspective, influencer-style composition, casual luxury vibe, with white sketch-style doodles highlighting elements like coffee cup, bag, shoes, and annotations such as “handdrawn bag”, “shoes well complexion”, arrows and scribbles, clean aesthetic, high resolution, lifestyle photography.",
+    "title": "European Street Selfie with Doodles",
+    "description": "A prompt for a stylish lifestyle photo of a woman in Europe, enhanced with playful hand-drawn doodles and Instagram aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445895_xieoc3_HG2OGcDaoAA3YGp.jpg",
+      "https://cms-assets.youmind.com/media/1777274444487_zd5va5_HG2OGcFbUAAs9nC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16184,
+    "content": "Ultra-realistic hyper-detailed close-up cinematic portrait of a {argument name=\"subject\" default=\"young man\"}, raw emotional expression, warm café ambient lighting, 4:5 vertical ratio. Extreme close-up framing focused on only one eye partially visible through {argument name=\"hair detail\" default=\"messy wet hair strands falling naturally across the face\"}. The composition captures a mysterious, intimate, and emotionally intense mood.\n\nThe young man has thick dark messy hair, soft textured strands falling over his forehead and across one eye, sharp eyebrow details, deep brown eye with strong reflection and natural catchlight, long eyelashes softly illuminated by warm golden café light. His skin is warm-toned with realistic pores, subtle texture, soft beard growth, and a naturally trimmed beard and mustache. Only part of the face is visible—one eye, partial nose bridge, cheek, and beard line—while the rest of the face is softly blurred and artistically cut off by framing.\n\nThe visible eye is the main focus, sharp and deeply expressive, creating a soulful and cinematic storytelling effect. The background is softly blurred with warm amber bokeh and intimate indoor café atmosphere. Shallow depth of field, soft lens blur, creamy focus falloff, DSLR portrait photography, moody shadows, warm highlights, cinematic contrast, premium editorial portrait style.\n\nNatural skin texture, ultra HD quality, hyper realistic facial details, dramatic close framing, luxury portrait photography aesthetic, artistic fashion portrait, emotional intensity, realistic hair texture, soft facial shadows, premium magazine-style composition, masterpiece quality, photorealistic, highly detailed, studio-grade cinematic portrait.\n\nMaintain exact facial structure and identity from uploaded reference image, 100% accurate face preservation, exact facial proportions, same person appearance, no distortion, no artificial facial changes, use {argument name=\"reference usage\" default=\"uploaded photo as precise face and hair reference only\"}.\nGenerate image using uploaded image as reference",
+    "title": "Moody Cinematic Close-up Male Portrait",
+    "description": "An emotionally intense close-up cinematic portrait prompt of a young man in a café setting, using a reference image for identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274452603_8kwfs2_HG0RR1Ja8AA0DJ-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16192,
+    "content": "A high-quality, mixed-media portrait of a modern and stylish individual. Surrounding the photorealistic main subject will be a {argument name=\"companion\" default=\"cute, 3D-style 'Chibi' version of themselves\"}-featuring the exact same outfit and facial features as the main subject. This Chibi figure should stand to the right of the main subject, mirroring their pose exactly. Overlay the entire image with {argument name=\"artistic effects\" default=\"vibrant, hand-drawn 'doodle' effects and designs\"}: white and yellow outlines tracing the main subject, playful scribbles, stars, hearts, sparkles, electric sparks, and floating white, black, red, yellow and blue hearts, star's. The overall aesthetic should seamlessly blend hyper-realistic photography with colorful, flat-style cartoon illustrations-while ensuring that the main subject's facial features and physical proportions remain unaltered.",
+    "title": "Mixed-media Chibi portrait",
+    "description": "A creative mixed-media prompt blending realistic photography with a 3D-style Chibi version of the subject and hand-drawn doodle effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274455903_q4xip5_HG0D6quaYAArw66.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16173,
+    "content": "Create image: A hyper-photorealistic shot of the {argument name=\"subject\" default=\"same subject sitting in the backseat of a car taking a mirror selfie\"}.\nExpression / Pose: Calm neutral expression, looking at phone screen through sunglasses.\nCamera: ccd camera aesthetic\nMakeup: Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush on cheeks and nose, grey contact lenses.\nHair: Long {argument name=\"hair color\" default=\"light brown\"} hair with a white headband, inward upward curl at ends.\nOutfit: {argument name=\"outfit\" default=\"White ribbed tank top, thin necklace, slim bracelet, small black sunglasses, earphones\"}.\nBackground: Car interior, seat and window blur, daylight outside scenery.\nComposition: Close-up upper body mirror selfie, phone covering part of face, soft flash highlights.\nNegative prompt: cartoon, ai, heavily edited, over-smoothed skin, blur, bokeh, low quality, deformed anatomy",
+    "title": "Backseat Mirror Selfie",
+    "description": "A prompt for a hyper-realistic car mirror selfie with a CCD camera aesthetic and specific Korean glass-skin makeup style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274449081_vvjam6_HGz_yRjagAExpd4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16171,
+    "content": "A comprehensive prompt for creating a realistic urban portrait with a 2000s digicam aesthetic, including details for makeup, hair, and camera settings.",
+    "title": "Digicam Aesthetic Urban Portrait",
+    "description": "A comprehensive prompt for creating a realistic urban portrait with a 2000s digicam aesthetic, including details for makeup, hair, and camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274448096_apnlzv_HGz0rw6aoAAi3Rs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16178,
+    "content": "A cheerful {argument name=\"hair color\" default=\"brunette\"} woman in a {argument name=\"dress style\" default=\"soft pink off-shoulder floral midi dress\"} is crouching in a vibrant {argument name=\"flower field type\" default=\"tulip field\"}. She gently holds a single red tulip while a wicker basket beside her overflows with yellow, orange, and red blooms. The scene is set under a bright blue sky with light, wispy clouds. Shot from a low angle with rich, saturated colors and a shallow depth of field, blurred magenta tulips frame the foreground, creating a warm, candid lifestyle portrait in vertical format.",
+    "title": "Brunette Woman in Tulip Field Portrait",
+    "description": "A detailed lifestyle portrait prompt of a cheerful woman in a floral dress crouching in a tulip field, utilizing a low-angle shot and shallow depth of field for a candid, warm feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274450579_xt56mm_HGzAxIXasAAeTf1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16179,
+    "content": "Bold street-art inspired portrait of a {argument name=\"subject\" default=\"young man with sharp facial features and short dark hair\"}, 3/4 angle (slightly turned toward the camera), looking toward the camera with his head slightly tilted upward, confident yet thoughtful expression, wearing a {argument name=\"clothing\" default=\"hoodie\"} and minimal accessories, clean upper-body framing with no environment distractions, surrounded by dynamic graffiti elements, spray paint textures, scribbles, arrows and motion lines, layered stencil technique with paint drips and rough edges, color palette of {argument name=\"colors\" default=\"black, off-white, burnt orange and subtle blue accents\"}, strong contrast and urban energy, realistic face preserved under stylized overlays, gritty poster design with raw texture and depth, ultra-detailed face, sharp focus, high-resolution, no photorealism, illustration style only",
+    "title": "Street-Art Inspired Urban Portrait",
+    "description": "A stylized illustration prompt for a young man's portrait featuring graffiti, spray paint textures, and a gritty poster design aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274451181_hghr2c_HGy9Ap9aAAAVue8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16175,
+    "content": "Photorealistic candid indoor portrait of a young woman\nwith {argument name=\"hair color\" default=\"light brown\"} hair and pearl earrings holding a {argument name=\"animal\" default=\"large fluffy dog\"} in her arms*\" The woman has her eyes open and\nmouth slightly open in a relaxed, shitly smiling. content\nexpression. The dogs, with white and gray tabby\nmarkings, is positioned prominently in theforeground, looking toward the camera with its\ntongueslightly out in a playful or grooming moment. Soft\nindoor lighting with a pendant lamp visible in the\nbackground. Ultra-sharp details on the woman's skin:\nthe dog's fur texture, and natural expressions, cozy and\nheartwarming pet lifestyle photography style.",
+    "title": "Candid Indoor Portrait with Pet",
+    "description": "A cozy, heartwarming prompt for a photorealistic portrait of a young woman holding a large fluffy dog in an indoor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274449632_04s24f_HGyv3dUbAAAM9yJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15843,
     "content": "A cinematic, ultra-realistic close-up portrait of a young woman with {argument name=\"hair\" default=\"wet, tousled dark hair\"} and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing {argument name=\"text color\" default=\"cyan\"} handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, {argument name=\"aesthetic\" default=\"cyber-poetry\"} aesthetic. Dark, moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.",
     "title": "Cyber-Poetry Face Projection",

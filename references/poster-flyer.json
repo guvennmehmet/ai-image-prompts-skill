@@ -20,6 +20,71 @@
     "needReferenceImages": false
   },
   {
+    "id": 16166,
+    "content": "A creative prompt for visualizing a garment in a state of slow-motion unraveling with technical labeling and dramatic lighting, using placeholders for the garment type, component labels, and name.",
+    "title": "Garment Deconstruction Freeze Frame",
+    "description": "A creative prompt for visualizing a garment in a state of slow-motion unraveling with technical labeling and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274445795_ipunhw_HG2h7GeakAAbcfJ.jpg",
+      "https://cms-assets.youmind.com/media/1777274445851_hbqghq_HG2iFw5boAAGfFv.jpg",
+      "https://cms-assets.youmind.com/media/1777274445794_hfii9f_HG2irIPa4AAyvH9.jpg",
+      "https://cms-assets.youmind.com/media/1777274446537_6diq4w_HG2i7QiaIAAL6sM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16188,
+    "content": "Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name=\"character outfit\" default=\"plush penguin onesie\"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name=\"vehicle\" default=\"vintage teal and chrome cruiser motorcycle\"} parked on a {argument name=\"setting\" default=\"winding coastal highway\"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.",
+    "title": "Chibi Penguin on a Motorcycle",
+    "description": "A playful 3D-style prompt for a chibi character in a penguin onesie sitting on a vintage cruiser motorcycle at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274454077_isepyb_HG1HjTcbcAIOc0k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16186,
+    "content": "Ultra-realistic cinematic poster of a young man (use uploaded face), styled as a futuristic streetwear athlete, promoting exclusive {argument name=\"brand\" default=\"Nike\"} “{argument name=\"shoe theme\" default=\"Dragon of the Year\"}” sneakers. Subject standing confidently in a powerful low-angle shot, intense gaze, sharp jawline, slightly messy textured hair.\n\nOutfit: black techwear hoodie, layered with a sleek bomber jacket, dark cargo pants, subtle metallic accessories. Shoes are the main focus, glowing Nike Dragon of the Year sneakers with dragon-scale texture, subtle ember glow, and fiery accents.\n\nEnvironment: {argument name=\"environment\" default=\"dark urban alley mixed with mythical elements\"}, floating red-orange embers, faint dragon silhouette made of smoke and fire swirling behind him. Wet ground reflecting neon lights.\n\nLighting: dramatic cinematic lighting, strong rim light in red and gold, soft shadows, volumetric fog, high contrast.\n\nEffects: slow floating ash particles, light streaks, subtle fire sparks around shoes, heat distortion near ground.\n\nTypography: bold futuristic Nike-style font, minimal and clean layout.\nMain text: “DRAGON OF THE YEAR”\nSubtext: “UNLEASH THE FIRE”\nSmall Nike swoosh integrated subtly.\n\nColor palette: black, deep red, burnt orange, gold highlights.\n\nStyle: hyper-detailed, 8K, ultra sharp, fashion editorial meets fantasy, premium brand campaign aesthetic, highly realistic skin texture.",
+    "title": "Nike Dragon of the Year Campaign",
+    "description": "A high-end cinematic brand campaign prompt for futuristic streetwear sneakers with a mythical dragon theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274453572_7otqh7_HG0eEgYagAABMeB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16197,
+    "content": "A surreal, ultra-detailed athletic campaign image featuring a powerful young female athlete mid-air above {argument name=\"landscape\" default=\"vast desert dunes at sunset\"}. Her body is arched in a graceful yet explosive leap, as if defying gravity. She wears a {argument name=\"top\" default=\"sand-toned Nike sports bra\"} with minimal branding and lightweight flowing training pants that ripple like fabric caught in windstorms. Her sneakers are rugged yet futuristic Nike trail runners with dust-reactive glowing amber accents. A massive wave of golden sand and wind energy rises behind her, forming abstract spirals and particle trails that follow her motion. The sky is dramatic with deep orange, crimson, and violet gradients fading into twilight. Lighting is cinematic and warm, highlighting muscle definition and fabric movement. Large floating text reads “{argument name=\"slogan\" default=\"Rise Above\"}” in carved stone-metal typography, partially dissolved into sand particles. {argument name=\"brand\" default=\"Nike Swoosh\"} appears etched into a rock formation in the distance.",
+    "title": "Surreal desert athletic campaign",
+    "description": "A high-concept athletic campaign prompt featuring a female athlete leaping over desert dunes with wind energy effects and stone-metal typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274456914_aryjkn_HG0LXnaXsAADxei.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16169,
+    "content": "A commercial-style prompt for a luxury sports ad featuring a football player in the desert with a mountain goat, with options to customize the brand, player number, and animal.",
+    "title": "Cinematic Luxury Sports Ad",
+    "description": "A commercial-style prompt for a luxury sports ad featuring a football player in the desert with a mountain goat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274447480_lno4sa_HGzThVKXkAAhtAi.jpg",
+      "https://cms-assets.youmind.com/media/1777274447486_8zq09r_HGzThz4aIAAcmZX.jpg",
+      "https://cms-assets.youmind.com/media/1777274447498_vizsrr_HGzTiBKbEAAr1AL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16179,
+    "content": "Bold street-art inspired portrait of a {argument name=\"subject\" default=\"young man with sharp facial features and short dark hair\"}, 3/4 angle (slightly turned toward the camera), looking toward the camera with his head slightly tilted upward, confident yet thoughtful expression, wearing a {argument name=\"clothing\" default=\"hoodie\"} and minimal accessories, clean upper-body framing with no environment distractions, surrounded by dynamic graffiti elements, spray paint textures, scribbles, arrows and motion lines, layered stencil technique with paint drips and rough edges, color palette of {argument name=\"colors\" default=\"black, off-white, burnt orange and subtle blue accents\"}, strong contrast and urban energy, realistic face preserved under stylized overlays, gritty poster design with raw texture and depth, ultra-detailed face, sharp focus, high-resolution, no photorealism, illustration style only",
+    "title": "Street-Art Inspired Urban Portrait",
+    "description": "A stylized illustration prompt for a young man's portrait featuring graffiti, spray paint textures, and a gritty poster design aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777274451181_hghr2c_HGy9Ap9aAAAVue8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15834,
     "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
     "title": "Neo-noir psychological thriller movie poster",
